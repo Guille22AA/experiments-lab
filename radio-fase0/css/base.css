@@ -1,0 +1,315 @@
+/* Estructura fija. Todo lo "estético" sale de variables que redefine themes.css
+   (según el mood) y main.js (según la portada: --accent / --accent-ink). */
+
+:root {
+  --bg: #d9dbd3;
+  --ink: #1b1f1c;
+  --muted: color-mix(in oklab, var(--ink) 62%, var(--bg));
+  --line: color-mix(in oklab, var(--ink) 16%, transparent);
+  --panel: color-mix(in oklab, var(--bg) 92%, var(--ink));
+  --accent: #2f4bd8;
+  --accent-ink: #ffffff;
+  --wash: 32%;
+
+  --font-display: "Instrument Serif", Georgia, serif;
+  --font-body: "Instrument Sans", system-ui, sans-serif;
+  --display-weight: 400;
+  --display-style: normal;
+  --display-case: none;
+  --display-tracking: -0.015em;
+  --display-leading: 0.95;
+  --display-size: clamp(2.6rem, 5.8vw, 6rem);
+
+  --radius: 3px;
+  --cover-filter: none;
+  --cover-tilt: 0deg;
+  --cover-shadow: 0 1.5rem 3rem -1.5rem color-mix(in oklab, var(--ink) 55%, transparent);
+  --poster-tilt: -1.4deg;
+  --grain: 0;
+  --pulse: 1.6s;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  color: var(--ink);
+  background:
+    radial-gradient(85vmax 65vmax at 10% -5%, color-mix(in oklab, var(--accent) var(--wash), transparent), transparent 72%) no-repeat,
+    var(--bg);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5;
+  transition: background-color 0.9s ease, color 0.9s ease;
+}
+
+img { max-width: 100%; display: block; }
+a { color: inherit; text-decoration-color: color-mix(in oklab, var(--accent) 70%, var(--ink)); text-underline-offset: 0.18em; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+
+/* Textura (solo algunos moods la activan) */
+.grain {
+  position: fixed; inset: 0; pointer-events: none; z-index: 5;
+  opacity: var(--grain);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .55 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  mix-blend-mode: multiply;
+}
+
+/* ── Barra superior ─────────────────────────────── */
+
+.bar {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  padding: 1rem clamp(1rem, 3vw, 2.5rem);
+  border-bottom: 1px solid var(--line);
+}
+.bar p { margin: 0; }
+.station-name { font-family: var(--font-display); font-weight: var(--display-weight); font-style: var(--display-style); text-transform: var(--display-case); font-size: 1.35rem; line-height: 1; }
+.onair { display: inline-flex; align-items: center; gap: 0.5rem; font-weight: 600; font-size: 0.9rem; }
+.onair .dot { width: 0.65rem; height: 0.65rem; border-radius: 50%; background: var(--muted); }
+.onair[data-state="on"] .dot { background: var(--accent); box-shadow: 0 0 0 0 var(--accent); animation: pulse var(--pulse) ease-out infinite; }
+.slot { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.9rem; }
+.clock { color: var(--ink); font-weight: 600; }
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 color-mix(in oklab, var(--accent) 70%, transparent); }
+  100% { box-shadow: 0 0 0 0.7rem transparent; }
+}
+
+/* ── Rejilla ─────────────────────────────────────── */
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
+  /* Izquierda: la canción y, debajo, artista + cartel. Derecha: el boletín, que ocupa
+     exactamente el alto de la izquierda y hace scroll por dentro (nunca estira la página). */
+  grid-template-areas: "now boletin" "info boletin";
+  grid-template-rows: auto auto;
+  gap: clamp(1.75rem, 3.5vw, 3.5rem) clamp(2.5rem, 6vw, 8rem);
+  padding: clamp(1.25rem, 3.5vw, 3rem) clamp(1rem, 3vw, 2.5rem) 2.5rem;
+  max-width: 2400px;
+  margin-inline: auto;
+}
+
+.now { grid-area: now; display: grid; grid-template-columns: minmax(180px, 42%) minmax(0, 1fr); gap: clamp(1.25rem, 3vw, 2.75rem); align-items: center; }
+.info { grid-area: info; }
+.boletin { grid-area: boletin; }
+
+/* ── Sonando ahora ───────────────────────────────── */
+
+.cover { margin: 0; position: relative; }
+.cover img {
+  width: 100%; height: auto; aspect-ratio: 1; object-fit: cover;
+  background: var(--panel);
+  border-radius: var(--radius);
+  filter: var(--cover-filter);
+  transform: rotate(var(--cover-tilt));
+  box-shadow: var(--cover-shadow);
+  transition: filter 0.9s, transform 0.9s, border-radius 0.9s;
+}
+
+.track p { margin: 0; }
+.playlist-name { color: var(--muted); font-size: 0.95rem; margin-bottom: 0.6rem !important; }
+.title {
+  margin: 0 0 0.9rem;
+  font-family: var(--font-display);
+  font-size: var(--display-size);
+  font-weight: var(--display-weight);
+  font-style: var(--display-style);
+  text-transform: var(--display-case);
+  letter-spacing: var(--display-tracking);
+  line-height: var(--display-leading);
+  text-wrap: balance;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+.artist { font-size: clamp(1.15rem, 1.7vw, 1.55rem); font-weight: 600; }
+.album { color: var(--muted); margin-top: 0.2rem !important; }
+
+.up-next { color: var(--muted); font-size: 0.9rem; margin: 0 0 1.1rem !important; }
+.progress { margin: 1.5rem 0 0.6rem; height: 4px; background: var(--line); border-radius: 999px; overflow: hidden; }
+.progress-fill { height: 100%; background: var(--accent); transform-origin: left; transform: scaleX(0); }
+
+.controls { display: flex; align-items: center; gap: 1.25rem; flex-wrap: wrap; }
+.volume-label { display: inline-flex; align-items: center; gap: 0.6rem; color: var(--muted); font-size: 0.9rem; }
+.volume { accent-color: var(--accent); width: 8rem; }
+.volume-hint { margin-top: 0.9rem !important; padding: 0.55rem 0.9rem; border-left: 3px solid var(--accent); background: color-mix(in oklab, var(--accent) 14%, transparent); border-radius: 0 var(--radius) var(--radius) 0; font-size: 0.9rem; max-width: 30rem; }
+.volume-hint[hidden] { display: none; }
+
+.btn {
+  font: 600 0.95rem/1 var(--font-body);
+  padding: 0.8rem 1.3rem;
+  border: 0;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: var(--accent-ink);
+  cursor: pointer;
+}
+.btn:disabled { opacity: 0.6; cursor: progress; }
+.btn:focus-visible { outline-color: var(--ink); }
+
+/* ── Contexto ────────────────────────────────────── */
+
+.info { display: grid; grid-template-columns: minmax(0, 1fr) minmax(200px, 17rem); gap: clamp(1.5rem, 3vw, 3rem); align-items: start; border-top: 1px solid var(--line); padding-top: 1.5rem; }
+.ctx h2 { font-family: var(--font-display); font-weight: var(--display-weight); font-style: var(--display-style); text-transform: var(--display-case); font-size: 1.4rem; line-height: 1.1; margin: 0 0 0.6rem; }
+.ctx-text { margin: 0 0 0.6rem; max-width: 62ch; line-height: 1.62; }
+.ctx-text.is-empty { color: var(--muted); }
+.ctx-src { font-size: 0.85rem; color: var(--muted); }
+
+/* ── Lateral ─────────────────────────────────────── */
+
+
+.cartel { position: relative; padding: 0.9rem 0.6rem 0; }
+.cartel img {
+  width: 100%; height: auto;
+  transform: rotate(var(--poster-tilt));
+  box-shadow: 0 1rem 2rem -1rem color-mix(in oklab, var(--ink) 60%, transparent);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.cartel-link { display: block; cursor: zoom-in; }
+.cartel-link:hover img, .cartel-link:focus-visible img {
+  transform: rotate(var(--poster-tilt)) scale(1.06);
+  box-shadow: 0 1.4rem 2.4rem -1rem color-mix(in oklab, var(--ink) 70%, transparent);
+}
+@media (prefers-reduced-motion: reduce) { .cartel img { transition: none; } }
+/* Cinta adhesiva */
+.cartel::before, .cartel::after {
+  content: ""; position: absolute; top: 0.2rem; width: 4.5rem; height: 1.4rem; z-index: 1;
+  background: color-mix(in oklab, var(--bg) 55%, #fff 45%); opacity: 0.8;
+}
+.cartel::before { left: 12%; transform: rotate(-8deg); }
+.cartel::after { right: 12%; transform: rotate(6deg); }
+.cartel-empty { display: none; margin: 0; padding: 2.5rem 1.25rem; text-align: center; color: var(--muted); border: 2px dashed var(--line); border-radius: var(--radius); }
+.cartel.is-empty .cartel-link { display: none; }
+.cartel.is-empty .cartel-empty { display: block; }
+.cartel.is-empty::before, .cartel.is-empty::after { display: none; }
+
+.boletin {
+  background: var(--panel); border-radius: var(--radius);
+  padding: 1.25rem 0 0.5rem;
+  display: flex; flex-direction: column;
+  height: 0; min-height: 100%; /* truco de rejilla: ocupa la fila entera sin empujarla */
+}
+.boletin header { margin-bottom: 0.75rem; padding-inline: 1.25rem; }
+.boletin h2 { font-family: var(--font-display); font-weight: var(--display-weight); font-style: var(--display-style); text-transform: var(--display-case); font-size: 1.6rem; line-height: 1; margin: 0 0 0.3rem; }
+.edition { margin: 0; color: var(--muted); font-size: 0.88rem; }
+
+/* España y Mundo van en paralelo, cada una con su propio scroll: abrir una noticia no mueve la página. */
+.boletin-body { flex: 1; min-height: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: minmax(0, 1fr); gap: 0 1.75rem; padding: 0.25rem 1.25rem 1rem; }
+.news-section { min-height: 0; overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin; padding-right: 0.5rem; }
+
+.highlight { border-left: 3px solid var(--accent); padding-left: 0.85rem; margin-bottom: 1.35rem; }
+.highlight h4 { font-size: 1.12rem; font-weight: 700; line-height: 1.25; letter-spacing: -0.01em; margin: 0 0 0.4rem; text-wrap: balance; }
+.highlight a, .latest a { text-decoration: none; }
+.highlight a:hover, .latest a:hover { text-decoration: underline; }
+.summary { margin: 0 0 0.35rem; font-size: 0.88rem; line-height: 1.45; color: color-mix(in oklab, var(--ink) 80%, var(--bg)); display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; }
+.highlight.is-open .summary { display: block; -webkit-line-clamp: unset; }
+.highlight-foot { display: flex; align-items: baseline; justify-content: space-between; gap: 0.75rem; flex-wrap: wrap; }
+.read-more { background: none; border: 0; padding: 0; font: 600 0.8rem/1.2 var(--font-body); color: var(--ink); text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 0.2em; cursor: pointer; }
+.meta { margin: 0; color: var(--muted); font-size: 0.78rem; }
+.latest-title { font-size: 0.95rem; margin: 1.4rem 0 0.5rem; }
+.section-title { font-size: 0.8rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; margin: 0 0 0.9rem; padding: 0.15rem 0 0.4rem; border-bottom: 2px solid var(--accent); position: sticky; top: 0; z-index: 1; background: var(--panel); }
+.latest { list-style: none; margin: 0; padding: 0; font-size: 0.9rem; }
+.latest li { padding: 0.5rem 0; border-top: 1px solid var(--line); line-height: 1.35; }
+
+/* ── Convocatorias (carteles con celo) ────────── */
+
+.tablon { max-width: 2400px; margin: 0 auto; padding: 0 clamp(1rem, 3vw, 2.5rem) 5rem; }
+.tablon[hidden] { display: none; }
+.tablon-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: 2.25rem 2rem; padding-top: 0.5rem; }
+.poster { position: relative; margin: 0; padding-top: 0.9rem; }
+.poster img { width: 100%; height: auto; box-shadow: 0 1rem 2rem -1rem color-mix(in oklab, var(--ink) 60%, transparent); transform: rotate(-1.2deg); }
+.poster:nth-child(even) img { transform: rotate(1.4deg); }
+.poster:nth-child(3n) img { transform: rotate(-0.4deg); }
+.poster::before {
+  content: ""; position: absolute; top: 0.2rem; left: 50%; width: 4rem; height: 1.3rem; z-index: 1;
+  background: color-mix(in oklab, var(--bg) 55%, #fff 45%); opacity: 0.8; transform: translateX(-50%) rotate(-4deg);
+}
+.poster:nth-child(even)::before { transform: translateX(-50%) rotate(5deg); }
+.poster figcaption { margin-top: 0.7rem; font-size: 0.85rem; line-height: 1.35; color: var(--muted); }
+.poster figcaption strong { color: var(--ink); text-transform: capitalize; }
+
+/* ── Parrilla semanal ─────────────────────────── */
+
+.parrilla { max-width: 2400px; margin: 0 auto; padding: 0 clamp(1rem, 3vw, 2.5rem) 5rem; }
+.parrilla-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 1.5rem; margin-bottom: 1.25rem; }
+.parrilla-head h2 { font-family: var(--font-display); font-weight: var(--display-weight); font-style: var(--display-style); text-transform: var(--display-case); letter-spacing: var(--display-tracking); font-size: clamp(2rem, 4vw, 3.25rem); line-height: 1; margin: 0; }
+.parrilla-head p { margin: 0; color: var(--muted); font-size: 0.9rem; max-width: 40ch; }
+.parrilla-scroll { overflow-x: auto; overscroll-behavior-x: contain; }
+.parrilla-grid {
+  --row: 15px;
+  display: grid;
+  grid-template-columns: 3.25rem repeat(7, minmax(8.5rem, 1fr));
+  grid-template-rows: auto repeat(48, var(--row));
+  column-gap: 4px;
+  row-gap: 0;
+  min-width: 64rem;
+}
+.p-hour { font-size: 0.75rem; color: var(--muted); font-variant-numeric: tabular-nums; transform: translateY(-0.45em); border-top: 1px solid var(--line); padding-top: 0.4em; }
+.p-day { margin: 0 0 0.5rem; font-size: 0.95rem; font-weight: 600; padding-bottom: 0.4rem; border-bottom: 2px solid transparent; }
+.p-day.is-today { border-bottom-color: var(--accent); }
+
+.p-slot {
+  --sw: #8a8f88;
+  display: flex; flex-direction: column; gap: 0.1rem; overflow: hidden;
+  margin-bottom: 2px;
+  padding: 0.3rem 0.5rem;
+  background: color-mix(in oklab, var(--sw) 20%, var(--bg));
+  border-left: 3px solid var(--sw);
+  border-radius: min(var(--radius), 6px);
+  font-size: 0.8rem; line-height: 1.2;
+}
+.p-name { font-weight: 600; overflow-wrap: anywhere; }
+.p-time, .p-mood { color: var(--muted); font-size: 0.72rem; font-variant-numeric: tabular-nums; }
+.p-mood { margin-top: auto; }
+.p-slot.is-short { flex-direction: row; align-items: center; padding-block: 0.1rem; }
+.p-slot.is-short .p-time { display: none; }
+.p-slot.is-now { background: var(--accent); color: var(--accent-ink); border-left-color: var(--ink); }
+.p-slot.is-now .p-time, .p-slot.is-now .p-mood { color: inherit; opacity: 0.8; }
+
+.m-neutral { --sw: #8a8f88; }
+.m-fiesta { --sw: #f2b800; }
+.m-melancolia { --sw: #5f7fa3; }
+.m-rabia { --sw: #d11a1a; }
+.m-calma { --sw: #5b9a6a; }
+.m-electronica { --sw: #1cc4e6; }
+.m-rap { --sw: #a8741a; }
+.m-sensual { --sw: #d9406f; }
+.m-bar { --sw: #b9772a; }
+.m-retro { --sw: #9b5de5; }
+
+/* ── Sintonizar ──────────────────────────────────── */
+
+.tuner { position: fixed; inset: 0; z-index: 10; display: grid; place-items: center; padding: 1.5rem; background: color-mix(in oklab, var(--bg) 88%, transparent); backdrop-filter: blur(10px); }
+.tuner[hidden] { display: none; }
+.tuner-card { max-width: 30rem; text-align: center; }
+.tuner-station { font-family: var(--font-display); font-weight: var(--display-weight); font-style: var(--display-style); text-transform: var(--display-case); font-size: clamp(3rem, 10vw, 6rem); line-height: 0.95; margin: 0 0 1rem; letter-spacing: var(--display-tracking); }
+.tuner-msg { margin: 0 0 1.5rem; }
+.tuner-logout { display: block; margin: 1.25rem auto 0; background: none; border: 0; color: var(--muted); text-decoration: underline; cursor: pointer; font: inherit; font-size: 0.85rem; }
+.tuner-logout[hidden] { display: none; }
+
+/* ── Responsive ──────────────────────────────────── */
+
+@media (max-width: 960px) {
+  .layout { grid-template-columns: minmax(0, 1fr); grid-template-areas: "now" "info" "boletin"; }
+  .boletin { height: auto; min-height: 0; }
+  .boletin-body { grid-template-rows: none; }
+  .news-section { max-height: 32rem; }
+}
+@media (max-width: 700px) {
+  .boletin-body { grid-template-columns: minmax(0, 1fr); gap: 1.75rem; }
+}
+@media (max-width: 640px) {
+  .now { grid-template-columns: minmax(0, 1fr); }
+  .cover { max-width: 22rem; }
+  .info { grid-template-columns: minmax(0, 1fr); }
+  .cartel { max-width: 20rem; }
+  .slot-label { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

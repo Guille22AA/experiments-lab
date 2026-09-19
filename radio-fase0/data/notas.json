@@ -1,0 +1,5 @@
+{
+  "artistas": {
+    "Nombre exacto del artista": "Texto propio sobre el artista. Tiene prioridad sobre Wikipedia."
+  }
+}

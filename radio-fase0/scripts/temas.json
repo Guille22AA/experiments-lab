@@ -1,0 +1,22 @@
+{
+  "_ayuda": "Una noticia entra en el boletín solo si su titular o resumen contiene alguna palabra de 'incluir' (al menos DOS distintas; coincide por comienzo de palabra, sin tildes ni mayúsculas) y ninguna de 'excluir'. Las de 'excluir' ganan siempre.",
+  "incluir": [
+    "gobierno", "president", "ministr", "parlament", "congreso", "senado", "elecci", "voto", "votac", "partido", "coalicion", "oposicion",
+    "pp ", "psoe", "vox", "sumar", "podemos", "junts", "erc", "feijoo", "sanchez", "ayuso", "marlaska", "robles", "albares",
+    "decreto", "reforma", "presupuest", "impuesto", "fiscal", "deficit", "deuda", "inflacion", "aranc", "tipos de interes",
+    "economi", "pib", "banco central", "bce", "fed ", "bolsa", "petroleo", "crudo", "gas ", "energi", "electric", "hidrogeno", "pension", "vivienda", "alquiler", "hipoteca",
+    "juez", "jueza", "tribunal", "audiencia", "supremo", "fiscal", "fiscalia", "juicio", "condena", "sentencia", "corrupcion", "imputad", "investigad", "procesa",
+    "guerra", "conflicto", "ataque", "bombardeo", "misil", "dron", "ejercito", "militar", "otan", "onu", "union europea", "bruselas", "comision europea", "sancion", "diplomat", "embajad", "cumbre", "tregua", "alto el fuego", "negociacion",
+    "ucrania", "rusia", "putin", "gaza", "israel", "palestin", "iran", "yemen", "huti", "siria", "libano", "china", "xi jinping", "taiwan", "corea", "india", "trump", "biden", "eeuu", "estados unidos", "casa blanca", "venezuela", "cuba", "argentina", "mexico", "africa", "sahel", "marruecos", "argelia", "arabia saudi", "turquia", "groenlandia", "dinamarca",
+    "migrant", "inmigra", "refugiad", "asilo", "ceuta", "melilla", "cayuco",
+    "sanidad", "hospital", "listas de espera", "pandemia", "epidemia", "vacuna",
+    "clima", "cambio climatico", "incendio forestal", "sequia", "inundacion", "dana", "terremoto",
+    "protesta", "huelga", "manifestacion", "sindicato", "libertad de prensa", "violencia machista", "feminicidio", "terroris", "espionaje", "ciberataque", "inteligencia artificial"
+  ],
+  "excluir": [
+    "futbol", "laliga", "liga de campeones", "champions", "real madrid", "barcelona fc", "barca", "atletico", "mundial de", "motogp", "formula 1", "f1", "baloncesto", "nba", "tenis", "ciclismo", "tour de", "golf", "olimpic", "gol ", "fichaje", "sprint", "carrera de",
+    "famos", "celebrit", "actriz", "cantante", "concierto", "festival", "pelicula", "estreno", "netflix", "television", "reality", "gran hermano", "eurovision", "oscar", "premios",
+    "horoscopo", "loteria", "quiniela", "tiempo hoy", "prevision del tiempo", "receta", "viral", "tiktok", "instagram", "youtube", "influencer", "mascota", "perro", "gato",
+    "museo", "desaloja", "alarma de incendio", "curiosidad", "sabias que", "truco", "moda", "belleza", "gastronomia"
+  ]
+}

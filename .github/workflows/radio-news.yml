@@ -1,0 +1,35 @@
+name: Radio - Boletín de noticias
+
+on:
+  schedule:
+    # 06:00, 12:00 y 18:00 UTC = 08:00, 14:00 y 20:00 en Madrid en horario de verano
+    # (07:00, 13:00 y 19:00 en invierno).
+    - cron: "0 6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  bulletin:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: radio-fase0
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - run: node scripts/fetch-news.mjs
+      - name: Publicar boletín
+        run: |
+          git config user.name "radio-bot"
+          git config user.email "radio-bot@users.noreply.github.com"
+          git add radio-fase0/data/news.json
+          git diff --staged --quiet || (git commit -m "Boletín $(date -u +%Y-%m-%dT%H:%MZ)" && git pull --rebase && git push)

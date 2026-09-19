@@ -1,0 +1,208 @@
+/* Un bloque por mood. Solo variables: la maqueta es siempre la misma.
+   El acento lo pisa la portada de cada canción (theme.js). */
+
+/* Neutral: papel gris frío, serif clásica. Es el tono por defecto. */
+:root[data-mood="neutral"] {
+  --bg: #d9dbd3;
+  --ink: #1b1f1c;
+  --accent: #2f4bd8;
+}
+
+/* Fiesta: amarillo chillón, grotesca gorda, todo redondo e inclinado. */
+:root[data-mood="fiesta"] {
+  --bg: #ffe14d;
+  --ink: #2b0f3a;
+  --accent: #ff2e88;
+  --wash: 55%;
+  --font-display: "Bricolage Grotesque", system-ui, sans-serif;
+  --font-body: "Bricolage Grotesque", system-ui, sans-serif;
+  --display-weight: 800;
+  --display-tracking: -0.035em;
+  --display-leading: 0.88;
+  --display-size: clamp(2.8rem, 6.5vw, 6.75rem);
+  --radius: 28px;
+  --cover-tilt: -3deg;
+  --cover-shadow: 0.9rem 0.9rem 0 var(--ink);
+  --poster-tilt: 2.5deg;
+  --pulse: 0.8s;
+}
+
+/* Melancolía: azul pizarra de noche lluviosa, serif itálica, portada apagada. */
+:root[data-mood="melancolia"] {
+  --bg: #1d242b;
+  --ink: #cfd6dd;
+  --accent: #8aa4bf;
+  --wash: 22%;
+  --panel: color-mix(in oklab, var(--bg) 88%, #ffffff);
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-body: "Newsreader", Georgia, serif;
+  --display-weight: 500;
+  --display-style: italic;
+  --display-tracking: -0.01em;
+  --display-leading: 1;
+  --display-size: clamp(2.8rem, 6vw, 6.25rem);
+  --radius: 2px;
+  --cover-filter: saturate(0.55) contrast(1.05);
+  --cover-shadow: 0 2rem 4rem -1rem rgb(0 0 0 / 0.6);
+  --grain: 0.28;
+  --pulse: 3s;
+  color-scheme: dark;
+}
+:root[data-mood="melancolia"] .grain { mix-blend-mode: screen; filter: invert(1); }
+
+/* Rabia: fotocopia. Blanco sucio, negro puro, condensada en mayúsculas, portada en b/n. */
+:root[data-mood="rabia"] {
+  --bg: #efeee8;
+  --ink: #000000;
+  --accent: #e10600;
+  --wash: 0%;
+  --panel: #ffffff;
+  --font-display: "Anton", Impact, sans-serif;
+  --font-body: "Courier Prime", "Courier New", monospace;
+  --display-weight: 400;
+  --display-case: uppercase;
+  --display-tracking: 0.005em;
+  --display-leading: 0.9;
+  --display-size: clamp(3rem, 7vw, 7.5rem);
+  --radius: 0;
+  --cover-filter: grayscale(1) contrast(1.7) brightness(1.05);
+  --cover-tilt: 1.5deg;
+  --cover-shadow: none;
+  --poster-tilt: -3deg;
+  --grain: 0.45;
+  --pulse: 0.6s;
+}
+:root[data-mood="rabia"] .boletin { border: 2px solid var(--ink); }
+:root[data-mood="rabia"] .highlight { border-left-width: 6px; }
+
+/* Calma: salvia, serif blanda, esquinas suaves. */
+:root[data-mood="calma"] {
+  --bg: #d5e1d0;
+  --ink: #22322a;
+  --accent: #5b8c6a;
+  --wash: 38%;
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Figtree", system-ui, sans-serif;
+  --display-weight: 400;
+  --display-tracking: -0.02em;
+  --display-leading: 1;
+  --radius: 18px;
+  --cover-shadow: 0 1.75rem 3rem -1.5rem color-mix(in oklab, var(--ink) 40%, transparent);
+  --poster-tilt: -0.8deg;
+  --pulse: 2.6s;
+}
+
+/* Electrónica: azul noche, display ancha, cuerpo mono, líneas de monitor sobre la portada. */
+:root[data-mood="electronica"] {
+  --bg: #0c1224;
+  --ink: #e4eaff;
+  --accent: #36e0ff;
+  --wash: 40%;
+  --panel: color-mix(in oklab, var(--bg) 85%, #ffffff);
+  --font-display: "Unbounded", system-ui, sans-serif;
+  --font-body: "IBM Plex Mono", ui-monospace, monospace;
+  --display-weight: 800;
+  --display-tracking: -0.03em;
+  --display-leading: 0.95;
+  --display-size: clamp(2.3rem, 5vw, 5.25rem);
+  --radius: 0;
+  --cover-shadow: 0 0 4rem -0.5rem color-mix(in oklab, var(--accent) 70%, transparent);
+  --poster-tilt: 0deg;
+  --pulse: 0.5s;
+  color-scheme: dark;
+}
+:root[data-mood="electronica"] .cover::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none;
+  background: repeating-linear-gradient(to bottom, rgb(0 0 0 / 0.22) 0 1px, transparent 1px 3px);
+}
+
+/* Rap: hormigón, condensada negra gigante. */
+:root[data-mood="rap"] {
+  --bg: #2a2927;
+  --ink: #f1ede4;
+  --accent: #f5b400;
+  --wash: 26%;
+  --panel: color-mix(in oklab, var(--bg) 88%, #ffffff);
+  --font-display: "Big Shoulders Display", Impact, sans-serif;
+  --font-body: "Archivo", system-ui, sans-serif;
+  --display-weight: 900;
+  --display-case: uppercase;
+  --display-tracking: 0;
+  --display-leading: 0.85;
+  --display-size: clamp(3rem, 6.5vw, 7rem);
+  --radius: 0;
+  --cover-shadow: 0 1.5rem 3rem -1rem rgb(0 0 0 / 0.7);
+  --grain: 0.2;
+  --pulse: 1s;
+  color-scheme: dark;
+}
+:root[data-mood="rap"] .grain { mix-blend-mode: screen; filter: invert(1); }
+
+/* Sensual: vino tinto, didona itálica, portada ovalada. Romance y cama deshecha. */
+:root[data-mood="sensual"] {
+  --bg: #3b0f1d;
+  --ink: #f6dcd6;
+  --accent: #ff5d8f;
+  --wash: 42%;
+  --panel: color-mix(in oklab, var(--bg) 86%, #ffffff);
+  --font-display: "Bodoni Moda", Didot, Georgia, serif;
+  --font-body: "Libre Franklin", system-ui, sans-serif;
+  --display-weight: 500;
+  --display-style: italic;
+  --display-tracking: -0.02em;
+  --display-leading: 0.95;
+  --display-size: clamp(2.8rem, 6vw, 6.25rem);
+  --radius: 999px;
+  --cover-filter: saturate(1.1) contrast(1.05);
+  --cover-shadow: 0 2rem 5rem -1rem color-mix(in oklab, var(--accent) 45%, transparent);
+  --poster-tilt: 1.2deg;
+  --grain: 0.12;
+  --pulse: 2.2s;
+  color-scheme: dark;
+}
+:root[data-mood="sensual"] .grain { mix-blend-mode: screen; filter: invert(1); }
+:root[data-mood="sensual"] .cover img { border-radius: 50% / 50%; }
+:root[data-mood="sensual"] .btn, :root[data-mood="sensual"] .boletin { border-radius: 1.25rem; }
+
+/* Bar: tabaco y ámbar, rótulo art déco, portada en sepia. Jazz, bolero, whisky. */
+:root[data-mood="bar"] {
+  --bg: #1f160e;
+  --ink: #efdcb9;
+  --accent: #d4953f;
+  --wash: 30%;
+  --panel: color-mix(in oklab, var(--bg) 88%, #ffffff);
+  --font-display: "Limelight", Georgia, serif;
+  --font-body: "Crimson Pro", Georgia, serif;
+  --display-weight: 400;
+  --display-tracking: 0.01em;
+  --display-leading: 1;
+  --display-size: clamp(2.5rem, 5.4vw, 5.5rem);
+  --radius: 2px;
+  --cover-filter: sepia(0.4) saturate(0.85) contrast(1.05);
+  --cover-shadow: 0 0 0 1px var(--accent), 0 2rem 4rem -1rem rgb(0 0 0 / 0.7);
+  --poster-tilt: -1deg;
+  --grain: 0.3;
+  --pulse: 2.8s;
+  color-scheme: dark;
+}
+:root[data-mood="bar"] .grain { mix-blend-mode: screen; filter: invert(1); }
+:root[data-mood="bar"] .ctx-text { font-size: 1.08rem; }
+
+/* Retro: melocotón de city pop, rótulo redondo, sombra de color desplazada. */
+:root[data-mood="retro"] {
+  --bg: #ffd8c2;
+  --ink: #261149;
+  --accent: #00a3c4;
+  --wash: 45%;
+  --panel: color-mix(in oklab, var(--bg) 80%, #ffffff);
+  --font-display: "Righteous", system-ui, sans-serif;
+  --font-body: "Rubik", system-ui, sans-serif;
+  --display-weight: 400;
+  --display-tracking: -0.01em;
+  --display-leading: 0.95;
+  --display-size: clamp(2.6rem, 5.8vw, 6rem);
+  --radius: 12px;
+  --cover-shadow: 0.75rem 0.75rem 0 var(--accent), 1.5rem 1.5rem 0 #ff4f8b;
+  --poster-tilt: 1.5deg;
+  --pulse: 1s;
+}

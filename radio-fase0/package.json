@@ -1,0 +1,15 @@
+{
+  "name": "radio-fase0",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Phase 0 of a small independent online radio: Spotify-synced player, adaptive theming, auto news bulletin and a poster board.",
+  "scripts": {
+    "news": "node scripts/fetch-news.mjs",
+    "carteles": "node scripts/fetch-carteles.mjs",
+    "serve": "npx --yes serve -l 5500 ."
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

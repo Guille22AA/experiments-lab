@@ -1,0 +1,19 @@
+[
+  { "name": "elDiario.es", "url": "https://www.eldiario.es/rss/" },
+  { "name": "Público", "url": "https://news.google.com/rss/search?q=site:publico.es&hl=es&gl=ES&ceid=ES:es" },
+  { "name": "El Salto", "url": "https://www.elsaltodiario.com/general/feed" },
+  { "name": "RTVE", "url": "https://api2.rtve.es/rss/temas_noticias.xml" },
+  { "name": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" },
+  { "name": "20minutos", "url": "https://www.20minutos.es/rss/" },
+  { "name": "Europa Press", "url": "https://www.europapress.es/rss/rss.aspx" },
+  { "name": "Diario Socialista", "url": "https://diariosocialista.net/feed" },
+  { "name": "CGT", "url": "https://cgt.es/feed/" },
+  { "name": "UGT", "url": "https://www.ugt.es/rss.xml" },
+
+  { "name": "BBC Mundo", "section": "mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml" },
+  { "name": "El País Internacional", "section": "mundo", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada" },
+  { "name": "DW", "section": "mundo", "url": "https://rss.dw.com/xml/rss-sp-all" },
+  { "name": "France 24", "section": "mundo", "url": "https://www.france24.com/es/rss" },
+  { "name": "20minutos Internacional", "section": "mundo", "url": "https://www.20minutos.es/rss/internacional/" },
+  { "name": "elDiario.es Internacional", "section": "mundo", "url": "https://www.eldiario.es/rss/internacional/" }
+]
