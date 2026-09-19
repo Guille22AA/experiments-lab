@@ -146,3 +146,22 @@ export async function startTablon(root) {
   }));
   root.hidden = false;
 }
+
+// ── Libro del día ───────────────────────────────────────────
+// data/libro.json lo genera scripts/fetch-libro.mjs una vez al día a partir de una carpeta pública de Drive.
+
+export async function startLibro(root) {
+  let libro;
+  try {
+    const r = await fetch(`data/libro.json?t=${Date.now()}`);
+    if (!r.ok) return;
+    libro = await r.json();
+  } catch { return; }
+  if (!/^[\w-]{10,}$/.test(libro?.id || "")) return; // el id va dentro de una URL: solo caracteres de id de Drive
+
+  root.querySelector(".libro-autor").textContent = libro.autor || "";
+  root.querySelector(".libro-titulo").textContent = libro.titulo;
+  root.querySelector(".libro-descarga").href = `https://drive.google.com/uc?export=download&id=${libro.id}`;
+  root.querySelector(".libro-preview").src = `https://drive.google.com/file/d/${libro.id}/preview`;
+  root.hidden = false;
+}

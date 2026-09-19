@@ -8,6 +8,7 @@ Phase 0 of a small, independent online radio. A static website that behaves like
 - **Adaptive look, fixed layout.** Each program has a *mood* (party, melancholy, noise, calm, electronic, rap, sensual, bar, retro or neutral) that swaps typefaces, background, texture and shape. Each song's cover art then tints the accent color.
 - **Automatic news bulletin.** A GitHub Action pulls RSS feeds three times a day, only serious topics (politics, economy, justice, conflicts…; tunable in `scripts/temas.json`), split into sections (España, and Mundo · Geopolítica; each feed sets its `section` in `scripts/feeds.json`). Stories covered by several outlets become the day's highlights and stay pinned until midnight, re-ranked as coverage grows.
 - **Convocatorias board.** Once a day a script reads the public Telegram channels of UGT, CCOO and CJS (`scripts/carteles-fuentes.json`), picks the posts that announce a demonstration, talk or event with a future date, and pins their posters under the schedule. Past ones disappear on their own. Posters from Instagram or X can be added by hand in `data/carteles.json`.
+- **Book of the day.** Once a day a script picks a random PDF from a public Google Drive folder (philosophy, sociology, geopolitics…). The site shows Drive's own preview and a download button; the files stay in Drive.
 - **Poster board.** A slot for posters (protests, gigs, assemblies…) with optional start/end dates.
 
 Everything runs on free tiers: GitHub Pages for hosting, GitHub Actions for the bulletin, Spotify's Web Playback SDK for audio.
@@ -32,7 +33,7 @@ Moving past these limits (a real public stream) means leaving Spotify for your o
      - `https://<your-user>.github.io/<repo>/` for GitHub Pages
 2. **Edit `js/config.js`:** paste the Client ID, list your playlists under `programs` (the ID is the part after `/playlist/` in a share link) and lay out the week under `schedule` as `["HH:MM", "programKey"]` pairs. Each slot runs until the next one; slots start on the hour or half hour.
 3. **Run locally:** `npm run serve`, then open `http://127.0.0.1:5500/`.
-4. **Publish:** push to GitHub. The project lives in the `radio-fase0/` subfolder of the `experiments-lab` repo, so Pages must deploy that folder (a Pages workflow that uploads `radio-fase0/`); if it moves to its own repo, use *Settings → Pages → Deploy from branch (main, root)*.
+4. **Publish (optional):** the radio is meant to be run locally with `npm run serve`. To put it on the web, publish the `radio-fase0/` folder with a GitHub Pages workflow and register the public URL as a Redirect URI in the Spotify dashboard.
 5. **Enable the bulletin:** *Actions* tab → enable workflows → run *Radio - Boletín de noticias* once by hand. After that it runs at 08:00, 14:00 and 20:00 Madrid time (one hour earlier in winter, since cron runs in UTC).
 
 ## Customising
@@ -70,6 +71,7 @@ js/context.js         artist blurbs
 js/panels.js          bulletin and poster rendering
 scripts/fetch-news.mjs  RSS → data/news.json
 scripts/fetch-carteles.mjs  Telegram → data/carteles-auto.json (daily)
+scripts/fetch-libro.mjs  Drive folder → data/libro.json (daily)
 ../.github/workflows/radio-news.yml  runs the bulletin 3×/day (lives at the repo root, GitHub only reads workflows there)
 ```
 

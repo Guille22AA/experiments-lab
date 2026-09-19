@@ -1,0 +1,34 @@
+name: Radio - Libro del día
+
+on:
+  schedule:
+    # 04:45 UTC = 06:45 en Madrid en verano (05:45 en invierno)
+    - cron: "45 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: libro
+  cancel-in-progress: false
+
+jobs:
+  libro:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: radio-fase0
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/fetch-libro.mjs
+      - name: Publicar libro
+        working-directory: .
+        run: |
+          git config user.name "radio-bot"
+          git config user.email "radio-bot@users.noreply.github.com"
+          git add radio-fase0/data/libro.json
+          git diff --staged --quiet || (git commit -m "Libro del día $(date -u +%Y-%m-%d)" && git pull --rebase && git push)

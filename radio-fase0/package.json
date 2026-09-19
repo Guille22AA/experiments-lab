@@ -7,7 +7,9 @@
   "scripts": {
     "news": "node scripts/fetch-news.mjs",
     "carteles": "node scripts/fetch-carteles.mjs",
-    "serve": "npx --yes serve -l 5500 ."
+    "libro": "node scripts/fetch-libro.mjs",
+    "actualizar": "git pull --ff-only || echo No se pudo actualizar desde GitHub; se usan los datos que ya tienes.",
+    "serve": "npm run actualizar && npx --yes serve -l 5500 ."
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

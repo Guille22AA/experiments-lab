@@ -232,6 +232,17 @@ a:hover { text-decoration-thickness: 2px; }
 .poster figcaption { margin-top: 0.7rem; font-size: 0.85rem; line-height: 1.35; color: var(--muted); }
 .poster figcaption strong { color: var(--ink); text-transform: capitalize; }
 
+/* ── Libro del día ────────────────────────────── */
+
+.libro { max-width: 2400px; margin: 0 auto; padding: 0 clamp(1rem, 3vw, 2.5rem) 5rem; }
+.libro[hidden] { display: none; }
+.libro-body { display: grid; grid-template-columns: minmax(14rem, 24rem) minmax(0, 1fr); gap: clamp(1.5rem, 4vw, 4rem); align-items: start; }
+.libro-autor { margin: 0 0 0.4rem; color: var(--muted); font-size: 0.95rem; }
+.libro-titulo { margin: 0 0 1.5rem; font-family: var(--font-display); font-weight: var(--display-weight); font-style: var(--display-style); font-size: clamp(1.6rem, 2.6vw, 2.4rem); line-height: 1.1; text-wrap: balance; }
+.libro-descarga { display: inline-block; text-decoration: none; }
+.libro-nota { margin: 1rem 0 0; color: var(--muted); font-size: 0.82rem; line-height: 1.4; max-width: 34ch; }
+.libro-preview { width: 100%; height: min(80vh, 46rem); border: 0; border-radius: var(--radius); background: var(--panel); box-shadow: 0 1rem 2rem -1rem color-mix(in oklab, var(--ink) 60%, transparent); }
+
 /* ── Parrilla semanal ─────────────────────────── */
 
 .parrilla { max-width: 2400px; margin: 0 auto; padding: 0 clamp(1rem, 3vw, 2.5rem) 5rem; }
@@ -300,6 +311,8 @@ a:hover { text-decoration-thickness: 2px; }
   .news-section { max-height: 32rem; }
 }
 @media (max-width: 700px) {
+  .libro-body { grid-template-columns: minmax(0, 1fr); }
+  .libro-preview { height: 32rem; }
   .boletin-body { grid-template-columns: minmax(0, 1fr); gap: 1.75rem; }
 }
 @media (max-width: 640px) {

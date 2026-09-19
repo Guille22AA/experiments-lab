@@ -89,6 +89,22 @@
     <div class="tablon-grid"></div>
   </section>
 
+  <section class="libro" aria-labelledby="libro-title" hidden>
+    <header class="parrilla-head">
+      <h2 id="libro-title">Libro del día</h2>
+      <p>Un PDF de filosofía, sociología, historia o geopolítica. Cambia cada día.</p>
+    </header>
+    <div class="libro-body">
+      <div class="libro-info">
+        <p class="libro-autor"></p>
+        <h3 class="libro-titulo"></h3>
+        <a class="btn libro-descarga" target="_blank" rel="noopener noreferrer">Descargar PDF</a>
+        <p class="libro-nota">La descarga la sirve Google Drive. Los archivos muy grandes pueden pedirte confirmar antes de bajarlos.</p>
+      </div>
+      <iframe class="libro-preview" title="Vista previa del libro del día" loading="lazy" referrerpolicy="no-referrer" sandbox="allow-scripts allow-same-origin"></iframe>
+    </div>
+  </section>
+
   <script type="module">
     import { CONFIG } from "./js/config.js";
     document.querySelector(".tuner-station").textContent = CONFIG.stationName;

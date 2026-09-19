@@ -3,7 +3,7 @@ import * as spotify from "./spotify.js";
 import { currentBlock, tuneIn, clockText } from "./radio.js";
 import { detectMood, applyMood, applyCover } from "./theme.js";
 import { getContext } from "./context.js";
-import { startNews, startCarteles, startTablon } from "./panels.js";
+import { startNews, startCarteles, startTablon, startLibro } from "./panels.js";
 import { startParrilla } from "./parrilla.js";
 
 const $ = (s) => document.querySelector(s);
@@ -50,6 +50,7 @@ applyMood("neutral");
 startNews($(".boletin"));
 startCarteles($(".cartel"));
 startTablon($(".tablon"));
+startLibro($(".libro"));
 startParrilla($(".parrilla"), (now, next) => {
   ui.slot.textContent = now.name;
   ui.upNext.textContent = `A las ${next.from}: ${next.name}`;
