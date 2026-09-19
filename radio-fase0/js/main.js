@@ -134,25 +134,62 @@ function friendlyError(e) {
 
 // ── Directo ─────────────────────────────────────────────────
 
+// Pone en pantalla el programa de la franja (nombre y ambiente).
+async function showBlock(b, list) {
+  ui.playlist.textContent = b.genres ? `${b.name}, ${b.genres.charAt(0).toLowerCase()}${b.genres.slice(1)}` : b.name;
+  applyMood(await detectMood(b, list, spotify.getArtistGenres));
+}
+
+async function loadBlock(b) {
+  if (!b.playlist) throw new Error(`La franja de las ${b.from} no tiene playlist. Revisa js/config.js.`);
+  const list = await spotify.getPlaylist(b.playlist);
+  if (!list.tracks.length) throw new Error(`El programa «${b.name}» no tiene canciones reproducibles.`);
+  return list;
+}
+
+// Sintoniza lo que suena ahora mismo según el reloj (al entrar o al volver al directo).
 async function goLive() {
   block = currentBlock();
-  if (!block.playlist) throw new Error(`La franja de las ${block.from} no tiene playlist. Revisa js/config.js.`);
-  playlist = await spotify.getPlaylist(block.playlist);
-  if (!playlist.tracks.length) throw new Error(`El programa «${block.name}» no tiene canciones reproducibles.`);
-
-  ui.playlist.textContent = block.genres ? `${block.name}, ${block.genres.charAt(0).toLowerCase()}${block.genres.slice(1)}` : block.name;
-  applyMood(await detectMood(block, playlist, spotify.getArtistGenres));
+  playlist = await loadBlock(block);
+  await showBlock(block, playlist);
 
   const { queue, offset } = tuneIn(playlist, block);
   await spotify.playAt(deviceId, queue.map((t) => t.uri), offset);
   live = true;
 }
 
-async function checkBlock() {
-  if (!live) return;
-  if (currentBlock().key !== block?.key) {
-    try { await goLive(); } catch (e) { console.warn("Cambio de franja fallido:", e); }
+// Cambio de franja sin cortar: la canción que suena acaba y la siguiente ya es del programa nuevo.
+const LEAD_MS = 600; // margen para que la petición a Spotify llegue justo cuando acaba la canción
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const remainingMs = () => (progress.paused ? 0 : Math.max(0, progress.dur - (progress.pos + performance.now() - progress.at)));
+let changing = false;
+
+async function changeBlockGently() {
+  changing = true;
+  try {
+    let next = currentBlock();
+    let nextPlaylist = await loadBlock(next); // se descarga ya, mientras acaba la canción
+
+    while (live && remainingMs() > LEAD_MS) await sleep(Math.min(1000, remainingMs() - LEAD_MS));
+    if (!live || currentBlock().key === block?.key) return; // pausa o vuelta al directo mientras tanto
+
+    if (currentBlock().key !== next.key) { next = currentBlock(); nextPlaylist = await loadBlock(next); }
+    const { queue, offset } = tuneIn(nextPlaylist, next);
+    // Si por reloj tocaría a mitad de una canción, se empieza por la siguiente entera.
+    const list = offset > 5000 ? queue.slice(1) : queue;
+    block = next;
+    playlist = nextPlaylist;
+    await spotify.playAt(deviceId, list.map((t) => t.uri), 0);
+    await showBlock(block, playlist);
+  } catch (e) {
+    console.warn("Cambio de franja fallido:", e);
+  } finally {
+    changing = false;
   }
+}
+
+function checkBlock() {
+  if (live && !changing && currentBlock().key !== block?.key) changeBlockGently();
 }
 
 ui.toggle.addEventListener("click", async () => {
