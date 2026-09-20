@@ -14,7 +14,8 @@ const ui = {
   slot: $(".slot-label"),
   clock: $(".clock"),
   cover: $(".cover img"),
-  playlist: $(".playlist-name"),
+  playlist: $(".playlist-text"),
+  playlistLink: $(".playlist-link"),
   title: $(".title"),
   artist: $(".artist"),
   album: $(".album"),
@@ -136,8 +137,11 @@ function friendlyError(e) {
 
 // Pone en pantalla el programa de la franja (nombre y ambiente).
 async function showBlock(b, list) {
+  ui.playlistLink.href = `https://open.spotify.com/playlist/${encodeURIComponent(b.playlist)}`;
+  ui.playlistLink.hidden = !b.playlist;
   ui.playlist.textContent = b.genres ? `${b.name}, ${b.genres.charAt(0).toLowerCase()}${b.genres.slice(1)}` : b.name;
   applyMood(await detectMood(b, list, spotify.getArtistGenres));
+  fitTitle(); // el ambiente puede cambiar la tipografía
 }
 
 async function loadBlock(b) {
@@ -228,6 +232,27 @@ function onPlayerState(state) {
   renderTrack(t);
 }
 
+// Encoge el título hasta que la palabra más larga quepa entera (sin partirla a mitad).
+function fitTitle() {
+  const el = ui.title;
+  el.classList.remove("is-tight");
+  el.style.fontSize = "";
+  const max = parseFloat(getComputedStyle(el).fontSize);
+  const min = Math.max(22, max * 0.4);
+  let size = max;
+  for (let i = 0; i < 30 && el.scrollWidth > el.clientWidth + 1 && size > min; i++) {
+    size = Math.max(min, size * 0.94);
+    el.style.fontSize = `${size}px`;
+  }
+  if (el.scrollWidth > el.clientWidth + 1) el.classList.add("is-tight");
+}
+let lastTitleWidth = 0;
+new ResizeObserver(([entry]) => {
+  const w = Math.round(entry.contentRect.width);
+  if (w !== lastTitleWidth) { lastTitleWidth = w; fitTitle(); }
+}).observe(ui.title.parentElement);
+document.fonts?.addEventListener?.("loadingdone", fitTitle);
+
 function renderTrack(sdkTrack) {
   // Preferimos nuestros datos (tienen ids de artista y año); si no, los del SDK.
   const known = playlist?.tracks.find((t) => t.uri === sdkTrack.uri || t.id === sdkTrack.id || t.id === sdkTrack.linked_from?.id);
@@ -242,6 +267,7 @@ function renderTrack(sdkTrack) {
   };
 
   ui.title.textContent = track.name;
+  fitTitle();
   ui.artist.textContent = track.artists.map((a) => a.name).join(", ");
   ui.album.textContent = [track.album, track.year].filter(Boolean).join(", ");
   ui.cover.src = track.image || "";
@@ -255,7 +281,7 @@ function renderTrack(sdkTrack) {
   const requested = track.uri;
   getContext(track).then(({ artist }) => {
     if (lastTrackKey !== requested && lastTrackKey !== sdkTrack.uri) return;
-    setCtx(ui.artistText, ui.artistSrc, artist, `Todavía no hay nada escrito sobre ${primary}. Puedes añadirlo tú en data/notas.json.`);
+    setCtx(ui.artistText, ui.artistSrc, artist, `Todavía no hay nada escrito sobre ${primary}.`);
   });
 }
 

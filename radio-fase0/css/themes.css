@@ -8,12 +8,14 @@
   --accent: #2f4bd8;
 }
 
-/* Fiesta: amarillo chillón, grotesca gorda, todo redondo e inclinado. */
+/* Fiesta: noche de club, morado profundo con neón fresa, grotesca gorda e inclinada. */
 :root[data-mood="fiesta"] {
-  --bg: #ffe14d;
-  --ink: #2b0f3a;
-  --accent: #ff2e88;
-  --wash: 55%;
+  --bg: #1f0f2e;
+  --ink: #fdf1e0;
+  --accent: #ff3d6e;
+  --accent-ink: #1f0f2e;
+  --wash: 46%;
+  --panel: color-mix(in oklab, var(--bg) 85%, #ffffff);
   --font-display: "Bricolage Grotesque", system-ui, sans-serif;
   --font-body: "Bricolage Grotesque", system-ui, sans-serif;
   --display-weight: 800;
@@ -22,9 +24,10 @@
   --display-size: clamp(2.8rem, 6.5vw, 6.75rem);
   --radius: 28px;
   --cover-tilt: -3deg;
-  --cover-shadow: 0.9rem 0.9rem 0 var(--ink);
+  --cover-shadow: 0.9rem 0.9rem 0 var(--accent);
   --poster-tilt: 2.5deg;
   --pulse: 0.8s;
+  color-scheme: dark;
 }
 
 /* Melancolía: azul pizarra de noche lluviosa, serif itálica, portada apagada. */

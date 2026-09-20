@@ -25,10 +25,10 @@ export const CONFIG = {
   // Moods: neutral | fiesta | melancolia | rabia | calma | electronica | rap | sensual | bar | retro
   programs: {
     miau: { name: "Reggaetón lento", genres: "Reggaetón y trap romántico", id: "0WzJfH2WjkesABkmYAqljV", mood: "sensual" }, // miau.raw
-    perdi: { name: "Madrid de noche", genres: "Trap español nocturno", id: "4Wd4OoqEUmtI80bYaaGmCW", mood: "melancolia" }, // me perdí en madrid
+    perdi: { name: "Under night", genres: "Trap español nocturno", id: "4Wd4OoqEUmtI80bYaaGmCW", mood: "melancolia" }, // me perdí en madrid
     sunnyd: { name: "Hip hop al sol", genres: "Hip hop americano", id: "06Rt5YfMAtPYAfFlLXmI0Q", mood: "fiesta" }, // sunnyD
     eurobeat: { name: "Eurobeat", genres: "Eurobeat de los 90", id: "5yJxMqbu9gsBs30NMdbrJ9", mood: "retro" }, // eurobeat
-    unloveable: { name: "Corazones rotos", genres: "Trap y hip hop americano", id: "6Bj8CL09mOSGjmOIRmqn3h", mood: "melancolia" }, // certified unloveable boy
+    unloveable: { name: "Pluggnb", genres: "Trap y hip hop americano", id: "6Bj8CL09mOSGjmOIRmqn3h", mood: "melancolia" }, // certified unloveable boy
     cloudrap: { name: "Cloud rap", genres: "Cloud rap en español e inglés", id: "37GhPJZ0NORxzrkCa07EPT", mood: "calma" }, // cloud rap
     tonny: { name: "Ola fría", genres: "Synthpop, new wave y post-punk", id: "57Pc2sngZ3CNQjhgOeWZvl", mood: "melancolia" }, // tonny
     hochill: { name: "Under chill", genres: "Trap underground español", id: "3qNBEdUqNZEH3c4tiX5Wic", mood: "calma" }, // ho chill mint
@@ -45,7 +45,7 @@ export const CONFIG = {
     cowboy: { name: "Rock", genres: "Rock melancólico en inglés", id: "1z83iUcAU88wClD2YMTpSf", mood: "melancolia" }, // see you space cowboy
     toyota: { name: "Ambient", genres: "Electrónica ambient", id: "5UljySkthC3fsKtsDzO2Bz", mood: "calma" }, // toyotaCats
     cave: { name: "Ruido", genres: "Noise y experimental", id: "7Eu2Hp99FuePVsl9OH3A1j", mood: "rabia" }, // head in a cave
-    jrock: { name: "Openings de anime", genres: "Rock japonés de anime", id: "2P9agXsWmU8qKp6DgKav5N", mood: "retro" }, // jrock anime
+    jrock: { name: "Jrock anime", genres: "Rock japonés de anime", id: "2P9agXsWmU8qKp6DgKav5N", mood: "retro" }, // jrock anime
     citypop: { name: "City pop", genres: "City pop en japonés e inglés", id: "5lhWAEpARgLoU2Pp0uYuKq", mood: "retro" }, // city pop
     venus: { name: "Pop español clásico", genres: "Pop español de siempre", id: "0TJ0wvrbQSqOGI3wASuEtX", mood: "retro" }, // barco a venus
     snow: { name: "Electroclash", genres: "Synthpop y electroclash", id: "6Gffa1lmESHlKnAKre1uri", mood: "electronica" }, // 🪬❄️
