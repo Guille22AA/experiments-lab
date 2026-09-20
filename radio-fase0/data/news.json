@@ -1,106 +1,72 @@
 {
-  "date": "2026-09-19",
-  "updatedAt": "2026-09-19T14:31:00.209Z",
-  "edition": "mediodía",
+  "date": "2026-09-20",
+  "updatedAt": "2026-09-20T16:44:44.295Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "La Audiencia Nacional admite el recurso contra los alojamientos del puerto de Ceuta presentado por un sindicato policial",
-          "link": "https://www.eldiario.es/politica/audiencia-nacional-admite-recurso-alojamientos-puerto-ceuta-presentado-sindicato-policial_1_13523033.html",
-          "source": "elDiario.es",
-          "summary": "El tribunal pide al Ministerio de Transportes la remisión del expediente administrativo \"en un plazo improrrogable de veinte días\" La Audiencia Nacional permite al Gobierno abrir el campamento para acoger migrantes en el Puerto de Ceuta La Audiencia Nacional ha admitido a trámite el recurso contencioso-administrativo interpuesto por el Sindicato Unificado de Policía (SUP) contra la resolución del Ministerio de Transportes que autorizó la instalación del dispositivo de acogida de migrantes en el puerto de Ceuta, según ha informado la organización sindical en un comunicado este sábado. El…",
+          "title": "Pedro Sánchez ve \"muy grave\" que el Supremo suspenda la 'ley de nietos' y carga contra PP y Vox: \"No lo voy a perdonar\"",
+          "link": "https://www.20minutos.es/nacional/pedro-sanchez-muy-grave-supremo-suspende-ley-nietos-contra-pp-vox-no-voy-perdonar_7039004_0.html",
+          "source": "20minutos",
+          "summary": "Sánchez ha considerado que la decisión del Supremo \"socava nuestra democracia\" y que \"la derecha nunca planteó un problema hasta ahora\".",
           "sources": [
-            "elDiario.es",
             "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-09-19T13:42:52.754Z"
-        },
-        {
-          "title": "El PP cita de nuevo en el Senado a Marlaska, Robles y Albares",
-          "link": "https://www.eldiario.es/politica/pp-cita-nuevo-senado-marlaska-robles-albares_1_13522799.html",
-          "source": "elDiario.es",
-          "summary": "Los ministros del Interior, Defensa y Exteriores no acudieron en agosto a la cita de los populares en la Cámara Alta, donde el partido de Feijóo tiene mayoría, aunque sí comparecieron para dar explicaciones sobre Ceuta en el Congreso de los Diputados Lo que decía Vivas el día antes de la crisis de Ceuta sobre la devolución de todos los migrantes: “Sencillamente no se puede hacer” El PP ha anunciado este sábado que ha registrado en el Senado peticiones de comparecencia en sus respectivas comisiones de los ministros de Interior, Defensa y Exteriores, que se ausentaron en agosto de las que…",
-          "sources": [
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-09-19T13:42:52.754Z"
-        },
-        {
-          "title": "La jueza procesa a 'El Trompas' por el feminicidio de Claudia Tacoronte",
-          "link": "https://www.eldiario.es/canariasahora/sociedad/jueza-procesa-trompas-feminicidio-claudia-tacoronte_1_13522662.html",
-          "source": "elDiario.es",
-          "summary": "La magistrada mexicana Alma Patricia Sala ha resuelto que el imputado \"incurrió en las causales de lesiones infamantes y exposición en lugar público\", ordenó prisión preventiva al detenido y concedió cuatro meses de plazo para el cierre de la investigación complementaria El asesinato de Claudia Tacoronte evidencia el problema de México con los feminicidios pese a ser referente en las leyes para combatirlos La Fiscalía del estado mexicano de Morelos (centro) informó este viernes de que una jueza ha procesado a Francisco Javier, apodado El Trompas, identificado como probable responsable del…",
-          "sources": [
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-09-19T13:42:52.754Z"
-        },
-        {
-          "title": "Los migrantes que se quedaron sin plaza en el Puerto de Ceuta: “Ha ganado la ley del más fuerte”",
-          "link": "https://elpais.com/espana/2026-09-19/los-migrantes-que-se-quedaron-sin-plaza-en-el-puerto-de-ceuta-ha-ganado-la-ley-del-mas-fuerte.html",
-          "source": "El País",
-          "summary": "Entre tiros al aire y caos, la operación de realojo terminó este viernes con miles de inmigrantes de vuelta a las playas",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-19T13:42:52.754Z"
+          "firstSeen": "2026-09-20T16:44:44.295Z"
         }
       ],
       "items": [
         {
-          "title": "El PP dice a Sánchez que el \"único traslado\" en Ceuta debe ser el del \"100% de los invasores\" a su país",
-          "link": "https://www.20minutos.es/nacional/pp-dice-sanchez-unico-traslado-ceuta-debe-ser-invasores-pais_7038854_0.html",
-          "source": "20minutos",
-          "published": "2026-09-19T14:14:26.000Z"
+          "title": "El Gobierno refuerza la Guardia Civil en Melilla ante los llamamientos a nuevas entradas masivas",
+          "link": "https://www.europapress.es/ceuta-y-melilla/noticia-gobierno-refuerza-guardia-civil-melilla-llamamientos-nuevas-entradas-masivas-20260920173105.html",
+          "source": "Europa Press",
+          "published": "2026-09-20T15:31:05.000Z"
         },
         {
-          "title": "El PSOE arrecia el choque contra el PP por Ceuta: llama \"mal virus\" a Feijóo y acusa a Vivas de \"abandonar\" a los ceutíes",
-          "link": "https://www.20minutos.es/nacional/psoe-intensifica-choque-contra-pp-por-ceuta-llama-mal-virus-feijoo-acusa-vivas-abandonar-los-ceuties_7038840_0.html",
-          "source": "20minutos",
-          "published": "2026-09-19T13:00:44.000Z"
-        },
-        {
-          "title": "Mónica García carga contra el Gobierno de Ayuso por \"mentir\" sobre las listas de espera y \"hostigar\" al denunciante del hospital de Madrid",
-          "link": "https://www.eldiario.es/madrid/monica-garcia-carga-gobierno-ayuso-mentir-listas-espera-hostigar-denunciante-hospital-madrid_1_13523151.html",
+          "title": "Varios centenares de ceutíes marchan hacia la frontera para exigir su protección: \"Marruecos, canalla, esto es de los caballas\"",
+          "link": "https://www.eldiario.es/politica/centenares-ceuties-marchan-frontera-exigir-proteccion-marruecos-canalla-caballas_1_13524481.html",
           "source": "elDiario.es",
-          "published": "2026-09-19T13:00:05.000Z"
+          "published": "2026-09-20T15:04:07.000Z"
         },
         {
-          "title": "La guerra contra Irán ha costado ya 38.000 millones de dólares a EEUU",
-          "link": "https://diariosocialista.net/2026/09/19/la-guerra-contra-iran-ha-costado-ya-38-000-millones-de-dolares-a-eeuu/",
-          "source": "Diario Socialista",
-          "published": "2026-09-19T11:37:23.000Z"
+          "title": "Sánchez promete a Ceuta \"todos los recursos\" para salir adelante y acusa a PP y Vox de deslealtad: \"Cuanto peor, mejor, piensan\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-promete-ceuta-todos-recursos-salir-adelante-acusa-pp-vox-deselaltad-cuanto-peor-mejor-piensan_7038996_0.html",
+          "source": "20minutos",
+          "published": "2026-09-20T12:59:52.000Z"
         },
         {
-          "title": "Las ejecuciones hipotecarias suben un 27,5% y marcan su máximo en nueve años",
-          "link": "https://diariosocialista.net/2026/09/19/las-ejecuciones-hipotecarias-suben-un-27-5-y-marcan-su-maximo-en-nueve-anos/",
-          "source": "Diario Socialista",
-          "published": "2026-09-19T11:37:14.000Z"
+          "title": "Feijóo promete cerrar España a migrantes que no vengan a trabajar y retirar la nacionalidad si cometen delitos graves",
+          "link": "https://www.20minutos.es/nacional/feijoo-promete-cerrar-espana-cal-canto-migrantes-no-vengan-trabajar-retirar-nacionalidad-cometen-delitos-graves_7038991_0.html",
+          "source": "20minutos",
+          "published": "2026-09-20T12:39:36.000Z"
         },
         {
-          "title": "Torró critica la actitud de Feijóo en la crisis de Ceuta: \"Si no quiere colaborar, al menos, no lo haga todo más difícil\"",
-          "link": "https://www.eldiario.es/comunitat-valenciana/torro-lamenta-actitud-feijoo-crisis-ceuta-si-no-quiere-colaborar-no-haga-dificil_1_13523007.html",
-          "source": "elDiario.es",
-          "published": "2026-09-19T11:25:57.000Z"
-        },
-        {
-          "title": "La justicia examinará la legalidad del uso del Puerto de Ceuta para la acogida de migrantes",
-          "link": "https://elpais.com/espana/2026-09-19/la-justica-examinara-la-legalidad-del-uso-del-puerto-de-ceuta-para-la-acogida-de-migrantes.html",
+          "title": "Pedro Sánchez, en la fiesta del PSC: “Cada nueva crisis, una nueva deslealtad de PP y Vox”",
+          "link": "https://elpais.com/espana/catalunya/2026-09-20/pedro-sanchez-en-la-fiesta-del-psc-cada-nueva-crisis-una-nueva-deslealtad-de-pp-y-vox.html",
           "source": "El País",
-          "published": "2026-09-19T10:41:14.000Z"
+          "published": "2026-09-20T12:34:39.000Z"
         },
         {
-          "title": "Dinamarca defiende el acuerdo con EEUU sobre Groenlandia: \"La situación de seguridad en el Ártico ha cambiado\"",
-          "link": "https://www.20minutos.es/internacional/dinamarca-defiende-acuerdo-eeuu-groenlandia-situacion-seguridad-cambiado_7038806_0.html",
-          "source": "20minutos",
-          "published": "2026-09-19T10:32:22.000Z"
+          "title": "El rechazo a la ampliación del aeropuerto de El Prat sale a la calle en Barcelona: \"Es negacionismo climático\"",
+          "link": "https://www.eldiario.es/catalunya/rechazo-ampliacion-aeropuerto-prat-sale-calle-barcelona-negacionismo-climatico_1_13524329.html",
+          "source": "elDiario.es",
+          "published": "2026-09-20T12:32:24.000Z"
+        },
+        {
+          "title": "Feijóo culpa a la \"escalada permanente de impuestos\" del incremento de la inflación provocado por la guerra de Irán",
+          "link": "https://www.eldiario.es/politica/feijoo-culpa-escalada-permanente-impuestos-incremento-inflacion-provocada-guerra-iran_1_13524060.html",
+          "source": "elDiario.es",
+          "published": "2026-09-20T12:08:20.000Z"
+        },
+        {
+          "title": "Sánchez promete que Ceuta \"volverá a la normalidad\" y acusa a PP y Vox de no querer resolver la crisis",
+          "link": "https://www.eldiario.es/catalunya/sanchez-promete-ceuta-volvera-normalidad-acusa-pp-vox-no-resolver-crisis_1_13524200.html",
+          "source": "elDiario.es",
+          "published": "2026-09-20T12:00:13.000Z"
         }
       ]
     },
@@ -109,79 +75,67 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Trump anuncia un acuerdo con Dinamarca para asumir el “control permanente de la seguridad” de Groenlandia",
-          "link": "https://elpais.com/internacional/2026-09-18/trump-anuncia-un-acuerdo-militar-historico-con-dinamarca-sobre-groenlandia.html",
+          "title": "Ucrania lanza su mayor ataque sobre Moscú en el último día de elecciones rusas",
+          "link": "https://elpais.com/internacional/2026-09-20/ucrania-lanza-uno-de-sus-mayores-ataques-sobre-moscu-en-el-ultimo-dia-de-elecciones-rusas.html",
           "source": "El País Internacional",
-          "summary": "La primera ministra danesa, Mette Frederiksen, confirma el compromiso, pero habla de “seguridad compartida en el Ártico”. El pacto entre las tres partes incluye el veto a países enemigos, según la versión del presidente estadounidense",
+          "summary": "“Rusia debe poner fin a su brutal guerra y optar por la paz”, afirma Zelenski en un mensaje en el que admite la ofensiva que causa, al menos, tres muertos",
           "sources": [
             "El País Internacional",
+            "France 24",
             "BBC Mundo",
-            "France 24",
-            "elDiario.es Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-09-19T13:42:52.754Z"
-        },
-        {
-          "title": "Informe desde Washington: Trump prohíbe acceso a CNN, MSNOW y Politico a la Casa Blanca",
-          "link": "https://www.france24.com/es/video/20260919-informe-desde-washington-trump-proh%C3%ADbe-acceso-a-cnn-msnow-y-politico-a-la-casa-blanca",
-          "source": "France 24",
-          "summary": "Donald Trump, presidente de Estados Unidos, informó a través de su red social Truth Social sobre la decisión de prohibir el acceso de corresponsales de los medios CNN, MSNOW y Politico a la Casa Blanca, a los que catalogó de propagar noticias falsas. Justificó la medida asegurando que \"otros medios de noticias falsas\" podrían seguir el mismo camino. Desde Washington, nos amplía la información nuestro corresponsal Cristóbal Vásquez.",
-          "sources": [
-            "France 24",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-09-19T13:42:52.754Z"
+          "firstSeen": "2026-09-20T16:44:44.295Z"
         }
       ],
       "items": [
         {
-          "title": "El mundo vuelve a los préstamos caros por la guerra en Irán, los aranceles y el auge de la IA",
-          "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260919-el-mundo-vuelve-a-los-pr%C3%A9stamos-caros-por-la-guerra-en-ir%C3%A1n-los-aranceles-y-el-auge-de-la-ia",
-          "source": "France 24",
-          "published": "2026-09-19T14:21:57.000Z"
-        },
-        {
-          "title": "Cuba enfrenta su octavo apagón nacional en 2026 en plena crisis energética",
-          "link": "https://www.france24.com/es/video/20260919-cuba-enfrenta-su-octavo-apag%C3%B3n-nacional-en-2026-en-plena-crisis-energ%C3%A9tica",
-          "source": "France 24",
-          "published": "2026-09-19T14:04:02.000Z"
-        },
-        {
-          "title": "Estados Unidos: protestas contra amenaza de demolición del Centro Kennedy en Washington",
-          "link": "https://www.france24.com/es/video/20260919-estados-unidos-protestas-contra-amenaza-de-demolici%C3%B3n-del-centro-kennedy-en-washington",
-          "source": "France 24",
-          "published": "2026-09-19T14:01:13.000Z"
-        },
-        {
-          "title": "Once muertos en una explosión en puesto militar en Siria",
-          "link": "https://www.dw.com/es/once-muertos-en-una-explosión-en-puesto-militar-en-siria/a-79339028?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-19T13:42:00.000Z"
-        },
-        {
-          "title": "En directo: Arabia Saudita emitió alertas aéreas en todo el país, en medio de la escalada en Yemen",
-          "link": "https://www.france24.com/es/medio-oriente/20260919-en-directo-arabia-saudita-emiti%C3%B3-alertas-a%C3%A9reas-en-todo-el-pa%C3%ADs-en-medio-de-la-escalada-en-yemen",
-          "source": "France 24",
-          "published": "2026-09-19T13:37:23.000Z"
-        },
-        {
-          "title": "Cancelaciones en el Aeropuerto de Riad tras un posible ataque",
-          "link": "https://www.dw.com/es/cancelaciones-en-el-aeropuerto-de-riad-tras-un-posible-ataque/a-79338781?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-19T12:45:00.000Z"
-        },
-        {
-          "title": "Un informe erróneo generado con IA puso a un buque chino en la mira de EEUU: \"Estuvo a punto de empezar una guerra\"",
-          "link": "https://www.20minutos.es/internacional/informe-erroneo-generado-inteligencia-artificial-buque-chino-punto-mira-eeuu_7038785_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-19T11:55:10.000Z"
-        },
-        {
-          "title": "La OTAN acoge con “satisfacción” el acuerdo de EE UU y Dinamarca sobre Groenlandia",
-          "link": "https://elpais.com/internacional/2026-09-19/la-otan-acoge-con-satisfaccion-el-acuerdo-de-ee-uu-y-dinamarca-sobre-groenlandia.html",
+          "title": "La extrema derecha se dispara en las elecciones regionales alemanas y profundiza la crisis en la CDU del canciller Merz",
+          "link": "https://elpais.com/internacional/2026-09-20/la-extrema-derecha-se-dispara-en-las-elecciones-regionales-alemanas-y-profundiza-la-crisis-de-la-cdu-del-canciller-merz.html",
           "source": "El País Internacional",
-          "published": "2026-09-19T11:54:57.000Z"
+          "published": "2026-09-20T16:44:01.000Z"
+        },
+        {
+          "title": "La extrema derecha gana unas nuevas elecciones regionales en Alemania y el partido de Merz obtiene su peor resultado de la historia, según los sondeos",
+          "link": "https://www.eldiario.es/internacional/extrema-derecha-gana-nuevas-elecciones-regionales-alemania-partido-merz-obtiene-peor-resultado-historia-sondeos_1_13524492.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-20T16:04:25.000Z"
+        },
+        {
+          "title": "Trump anuncia que el gigantesco arco del triunfo de Washington será un complejo militar con drones y francotiradores",
+          "link": "https://elpais.com/us/actualidad/2026-09-20/trump-anuncia-que-el-gigantesco-arco-del-triunfo-de-washington-sera-un-complejo-militar-con-drones-y-francotiradores.html",
+          "source": "El País Internacional",
+          "published": "2026-09-20T15:20:55.000Z"
+        },
+        {
+          "title": "Rusia reporta mil ciberataques contra infraestructura electoral",
+          "link": "https://www.dw.com/es/rusia-reporta-mil-ciberataques-contra-infraestructura-electoral/a-79346523?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-20T15:03:00.000Z"
+        },
+        {
+          "title": "Macron destaca que el acuerdo con EEUU sobre Groenlandia \"reafirma la soberanía danesa\"",
+          "link": "https://www.20minutos.es/internacional/macron-destaca-que-acuerdo-con-eeuu-sobre-groenlandia-reafirma-soberania-danesa_7039009_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-20T14:49:58.000Z"
+        },
+        {
+          "title": "En directo: Israel ordena bloqueos y \"extensas\" redadas en Cisjordania tras un mortal tiroteo",
+          "link": "https://www.france24.com/es/medio-oriente/20260920-en-directo-ir%C3%A1n-asegura-tener-informaci%C3%B3n-sobre-planes-de-ee-uu-para-retomar-sus-ataques",
+          "source": "France 24",
+          "published": "2026-09-20T14:43:14.000Z"
+        },
+        {
+          "title": "Entre danza y electrónica, México y Francia celebran 200 años de relaciones diplomáticas",
+          "link": "https://www.france24.com/es/video/20260920-entre-danza-y-electr%C3%B3nica-m%C3%A9xico-y-francia-celebran-200-a%C3%B1os-de-relaciones-diplom%C3%A1ticas",
+          "source": "France 24",
+          "published": "2026-09-20T13:59:07.000Z"
+        },
+        {
+          "title": "Elecciones regionales en Alemania: un desafío para Friedrich Merz",
+          "link": "https://www.france24.com/es/video/20260920-elecciones-en-berl%C3%ADn-y-magdeburgo-un-desaf%C3%ADo-para-friedrich-merz-y-el-gobierno-alem%C3%A1n",
+          "source": "France 24",
+          "published": "2026-09-20T13:55:26.000Z"
         }
       ]
     }
