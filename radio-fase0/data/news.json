@@ -1,72 +1,121 @@
 {
-  "date": "2026-09-20",
-  "updatedAt": "2026-09-20T19:58:02.205Z",
-  "edition": "tarde",
+  "date": "2026-09-21",
+  "updatedAt": "2026-09-21T11:25:13.032Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Pedro Sánchez ve \"muy grave\" que el Supremo suspenda la 'ley de nietos' y carga contra PP y Vox: \"No lo voy a perdonar\"",
-          "link": "https://www.20minutos.es/nacional/pedro-sanchez-muy-grave-supremo-suspende-ley-nietos-contra-pp-vox-no-voy-perdonar_7039004_0.html",
+          "title": "El juez Peinado abre juicio con jurado a Begoña Gómez por delitos de tráfico de influencias y malversación",
+          "link": "https://elpais.com/espana/2026-09-21/el-juez-peinado-abre-juicio-oral-a-begona-gomez-por-delitos-de-trafico-de-influencias-y-malversacion.html",
+          "source": "El País",
+          "summary": "El magistrado envía al banquillo a la esposa del presidente del Gobierno tras rehacer el final de su instrucción por las correcciones de la Audiencia de Madrid",
+          "sources": [
+            "El País",
+            "20minutos",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-21T11:25:13.032Z"
+        },
+        {
+          "title": "El juez cita a las hijas de Zapatero como imputadas el 30 de noviembre y pide una nueva tasación de las joyas",
+          "link": "https://www.20minutos.es/nacional/juez-cita-las-hijas-zapatero-como-investigadas-30-noviembre-pide-una-nueva-tasacion-las-joyas_7039337_0.html",
           "source": "20minutos",
-          "summary": "Sánchez ha considerado que la decisión del Supremo \"socava nuestra democracia\" y que \"la derecha nunca planteó un problema hasta ahora\".",
+          "summary": "Cita como testigos al exdirector de Participadas de la SEPI, José Ángel Partearroyo y al exdirector financiero de Plus Ultra, Félix Martín.",
           "sources": [
             "20minutos",
-            "Europa Press"
+            "Europa Press",
+            "elDiario.es",
+            "El País"
           ],
-          "firstSeen": "2026-09-20T16:44:44.295Z"
+          "firstSeen": "2026-09-21T11:25:13.032Z"
+        },
+        {
+          "title": "La AN amplía la investigación a mandos israelíes por el abordaje a la flotilla e incluye delitos de tortura y lesiones",
+          "link": "https://www.europapress.es/nacional/noticia-an-amplia-investigacion-mandos-israelies-abordaje-flotilla-incluye-delitos-tortura-lesiones-20260921123200.html",
+          "source": "Europa Press",
+          "summary": "El juez de la Audiencia Nacional (AN) Francisco de Jorge ha ampliado la investigación a mandos israelíes como presuntos responsables de un delito de detención ilegal durante el abordaje a la Flotilla Global Sumud el 1 de octubre del pasado año, cuando se dirigía a Gaza con ayuda humanitaria, y ha incluido los presuntos delitos de torturas, daños y lesiones que pudieran haber ocurrido contra quienes iban en las embarcaciones de pabellón español.",
+          "sources": [
+            "Europa Press",
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-21T11:25:13.032Z"
+        },
+        {
+          "title": "Sánchez arrancará en octubre las negociaciones para \"el nuevo contrato social\" de la era de la IA",
+          "link": "https://www.eldiario.es/tecnologia/sanchez-arrancara-octubre-negociaciones-nuevo-contrato-social-ia_1_13525061.html",
+          "source": "elDiario.es",
+          "summary": "El Ejecutivo convocará a patronal, sindicatos y partidos para fijar límites a las grandes tecnológicas, proteger el empleo e impulsar la integración de esta tecnología en el tejido productivo, para lo que lanzará un bono especial para pymes y autónomos ¿'Frenar' la IA? Por qué el resto del mundo desconfía del plan de Silicon Valley El Gobierno abrirá el próximo mes de octubre una mesa de negociación multilateral para “articular un nuevo contrato social” para la era de la inteligencia artificial (IA). El presidente Pedro Sánchez ha anunciado que convocará a los agentes sociales (sindicatos y…",
+          "sources": [
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-09-21T11:25:13.032Z"
+        },
+        {
+          "title": "El partido de Putin gana las elecciones legislativas rusas",
+          "link": "https://diariosocialista.net/2026/09/21/el-partido-de-putin-gana-las-elecciones-legislativas-rusas/",
+          "source": "Diario Socialista",
+          "summary": "La fuerza oficialista Rusia Unida se encamina a retener la mayoría absoluta en el Parlamento ruso tras registrar entre el 57,7% y el 57,9% de los votos, según los recuentos preliminares presentados por la Comisión Electoral Central.",
+          "sources": [
+            "Diario Socialista",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-21T11:25:13.032Z"
         }
       ],
       "items": [
         {
-          "title": "El partido de Putin gana con claridad las elecciones al Parlamento ruso, según los primeros resultados oficiales",
-          "link": "https://www.europapress.es/internacional/noticia-partido-putin-gana-claridad-elecciones-parlamento-ruso-primeros-resultados-oficiales-20260920212950.html",
-          "source": "Europa Press",
-          "published": "2026-09-20T19:29:50.000Z"
-        },
-        {
-          "title": "Decenas de ceutíes destrozan el coche del activista de La Flotilla Rafael Borrego en el puerto de Ceuta: \"Nos iban a matar\"",
-          "link": "https://www.eldiario.es/desalambre/cargas-policiales-puerto-ceuta-agresion-decenas-personas-miembros-ong_1_13524691.html",
-          "source": "elDiario.es",
-          "published": "2026-09-20T19:28:08.000Z"
-        },
-        {
-          "title": "Rusia denuncia el mayor ataque ucraniano de la guerra durante el último día de votación de las legislativas",
-          "link": "https://www.europapress.es/internacional/noticia-rusia-denuncia-mayor-ataque-ucraniano-guerra-ultimo-dia-votacion-legislativas-20260920210849.html",
-          "source": "Europa Press",
-          "published": "2026-09-20T19:08:49.000Z"
-        },
-        {
-          "title": "Putin finiquita unas elecciones plagadas de irregularidades y abre un nuevo capítulo de la guerra",
-          "link": "https://elpais.com/internacional/2026-09-20/putin-finiquita-una-elecciones-plagadas-de-irregularidades-y-abre-un-nuevo-capitulo-de-la-guerra.html",
+          "title": "Crisis en Ceuta y actualidad política, directo | Vivas considera “inaceptable” la gestión de la crisis en Ceuta por parte del Gobierno",
+          "link": "https://elpais.com/espana/2026-09-21/crisis-en-ceuta-y-actualidad-politica-directo.html",
           "source": "El País",
-          "published": "2026-09-20T18:59:59.000Z"
+          "published": "2026-09-21T11:22:28.000Z"
         },
         {
-          "title": "Miles de personas claman contra el proyecto de ampliar el aeropuerto de Ibiza: \"¡AENA, a la trena!\"",
-          "link": "https://www.eldiario.es/illes-balears/sociedad/miles-personas-claman-proyecto-ampliar-aeropuerto-ibiza-aena-trena_1_13524644.html",
+          "title": "La victoria de Die Linke en Berlín abre la puerta a la expropiación de vivienda de manos de fondos privados",
+          "link": "https://www.elsaltodiario.com/alemania/berlin-gira-izquierda-afd-gana-mecklemburgo-pomerania-cdu-se-descalabra?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-09-21T11:02:00.000Z"
+        },
+        {
+          "title": "La tensa reunión en la que el PP negó a la oposición la documentación del ático: “Esto ha sido así durante 40 años sin discusión”",
+          "link": "https://elpais.com/espana/madrid/2026-09-21/la-tensa-reunion-en-la-que-el-pp-nego-a-la-oposicion-la-documentacion-del-atico-esto-ha-sido-asi-durante-40-anos-sin-discusion.html",
+          "source": "El País",
+          "published": "2026-09-21T10:48:35.000Z"
+        },
+        {
+          "title": "La CDU de Merz celebra una reunión de crisis tras los últimos reveses electorales en Alemania",
+          "link": "https://www.europapress.es/internacional/noticia-cdu-merz-celebra-reunion-crisis-ultimos-reveses-electorales-alemania-20260921124214.html",
+          "source": "Europa Press",
+          "published": "2026-09-21T10:42:14.000Z"
+        },
+        {
+          "title": "Las 9 preguntas de las víctimas de la dana a Mazón: \"¿Qué pasa cuando el piloto de un avión desaparece en pleno vuelo?\"",
+          "link": "https://www.eldiario.es/comunitat-valenciana/politica/9-preguntas-victimas-dana-mazon-pasa-piloto-avion-desaparece-pleno-vuelo_1_13525496.html",
           "source": "elDiario.es",
-          "published": "2026-09-20T18:35:44.000Z"
+          "published": "2026-09-21T10:39:18.000Z"
         },
         {
-          "title": "Merz, contra las cuerdas: la ultraderecha gana otro Estado y los poscomunistas se hacen con Berlín",
-          "link": "https://www.20minutos.es/internacional/merz-elecciones-alemania-ultraderecha-estado-poscomunistas-berlin_7039041_0.html",
+          "title": "Mazón evita contestar en el Congreso sobre la DANA al entender que los tribunales han \"descartado\" su responsabilidad",
+          "link": "https://www.20minutos.es/comunidad-valenciana/mazon-evita-contestar-congreso-sobre-dana-entender-que-los-tribunales-han-descartado-su-responsabilidad_7039279_0.html",
           "source": "20minutos",
-          "published": "2026-09-20T16:52:43.000Z"
+          "published": "2026-09-21T10:12:26.000Z"
         },
         {
-          "title": "La Embajada de España en Rabat despliega una campaña para desalentar una convocatoria de entrada masiva para el día 23",
-          "link": "https://www.20minutos.es/nacional/embajada-espana-rabat-despliega-una-campana-redes-para-desalentar-una-convocatoria-entrada-masiva-para-dia-23_7039028_0.html",
+          "title": "Abascal dice estar \"preocupado\" por otra entrada masiva a Ceuta y pide \"poner\" a los inmigrantes \"del otro lado\" de la frontera",
+          "link": "https://www.20minutos.es/nacional/abascal-dice-estar-preocupado-por-otra-entrada-masiva-ceuta-pide-poner-los-inmigrantes-otro-lado-frontera_7039195_0.html",
           "source": "20minutos",
-          "published": "2026-09-20T16:13:59.000Z"
+          "published": "2026-09-21T09:49:49.000Z"
         },
         {
-          "title": "La extrema derecha gana unas nuevas elecciones regionales en Alemania y el partido de Merz obtiene su peor resultado de la historia, según las proyecciones",
-          "link": "https://www.eldiario.es/internacional/extrema-derecha-gana-nuevas-elecciones-regionales-alemania-partido-merz-obtiene-peor-resultado-historia-sondeos_1_13524492.html",
-          "source": "elDiario.es",
-          "published": "2026-09-20T16:04:25.000Z"
+          "title": "Mazón asegura al Congreso que la Justicia ya le ha eximido de responsabilidad y rechaza confrontar con diputados",
+          "link": "https://www.europapress.es/nacional/noticia-mazon-asegura-congreso-justicia-ya-le-eximido-responsabilidad-rechaza-confrontar-diputados-20260921113514.html",
+          "source": "Europa Press",
+          "published": "2026-09-21T09:35:14.000Z"
         }
       ]
     },
@@ -75,78 +124,78 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Ucrania lanza su mayor ataque sobre Moscú en el último día de elecciones rusas",
-          "link": "https://elpais.com/internacional/2026-09-20/ucrania-lanza-uno-de-sus-mayores-ataques-sobre-moscu-en-el-ultimo-dia-de-elecciones-rusas.html",
-          "source": "El País Internacional",
-          "summary": "“Rusia debe poner fin a su brutal guerra y optar por la paz”, afirma Zelenski en un mensaje en el que admite la ofensiva que causa, al menos, tres muertos",
+          "title": "El partido de Putin logra un récord de escaños en Rusia",
+          "link": "https://www.dw.com/es/el-partido-de-putin-logra-un-récord-de-escaños-en-rusia/a-79354199?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "El partido gobernante en el Kremlin, Rusia Unida, logró además la elección de todos los gobernadores regionales que presentó. Para la Unión Europea, las elecciones rusas evidenciaron el creciente autoritarismo en el país",
           "sources": [
-            "El País Internacional",
+            "DW",
             "France 24",
-            "BBC Mundo",
-            "20minutos Internacional"
+            "20minutos Internacional",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-09-20T16:44:44.295Z"
+          "firstSeen": "2026-09-21T11:25:13.032Z"
         },
         {
-          "title": "Drones y francotiradores: Trump anuncia un \"complejo militar\" en el arco del triunfo de Washington",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260920-drones-y-francotiradores-trump-anuncia-un-complejo-militar-en-el-arco-del-triunfo-de-washington",
-          "source": "France 24",
-          "summary": "El presidente estadounidense, Donald Trump, reveló que el arco del triunfo que planea construir en Washington D.C. servirá como un \"complejo militar de primera categoría\", con capacidad para albergar drones y francotiradores, así como para almacenar municiones. La transformación del monumento se decidió \"a petición expresa de las Fuerzas Armadas\" y por motivos de seguridad nacional, agregó el republicano, que persigue una controvertida reforma del paisaje urbano de la capital estadounidense.",
+          "title": "Un agente del ICE dispara y hiere a un inmigrante venezolano en Texas",
+          "link": "https://elpais.com/us/2026-09-20/un-agente-del-ice-dispara-y-hiere-a-un-hombre-en-texas-tras-marcarle-el-alto-a-su-vehiculo.html",
+          "source": "El País Internacional",
+          "summary": "La víctima se encuentra grave pero estable tras recibir un disparo en el torso y está en custodia de la agencia, confirmó el gobierno federal",
           "sources": [
-            "France 24",
-            "El País Internacional"
+            "El País Internacional",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-09-20T19:58:02.205Z"
+          "firstSeen": "2026-09-21T11:25:13.032Z"
         }
       ],
       "items": [
         {
-          "title": "Putin gana las primeras elecciones en Rusia desde el comienzo de la guerra con el 57,3% de los votos",
-          "link": "https://www.20minutos.es/internacional/putin-gana-primeras-elecciones-rusia-comienzo-guerra-ucrania_7039062_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-20T19:14:23.000Z"
+          "title": "\"Para mí, eran como mis hijos\": el duelo de una profesora que perdió a más de 200 alumnos en el doble terremoto de Venezuela",
+          "link": "https://www.bbc.com/mundo/articles/cxr501n9z45qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-09-21T11:19:42.000Z"
         },
         {
-          "title": "La extrema derecha se dispara en las elecciones regionales alemanas y agrava la crisis de la CDU",
+          "title": "Al menos 28 muertos en ataques aéreos de Pakistán en Afganistán",
+          "link": "https://elpais.com/internacional/2026-09-21/decenas-de-muertos-en-ataques-aereos-de-pakistan-en-afganistan.html",
+          "source": "El País Internacional",
+          "published": "2026-09-21T11:16:18.000Z"
+        },
+        {
+          "title": "El presidente de Irán viajará a la Asamblea General de la ONU en Nueva York",
+          "link": "https://elpais.com/internacional/2026-09-21/el-presidente-de-iran-viajara-a-la-asamblea-general-de-la-onu-en-nueva-york.html",
+          "source": "El País Internacional",
+          "published": "2026-09-21T10:03:35.000Z"
+        },
+        {
+          "title": "Las tensiones entre México y Estados Unidos por la “narcopolítica” entran en campaña",
+          "link": "https://elpais.com/mexico/2026-09-21/las-tensiones-entre-mexico-y-estados-unidos-por-la-narcopolitica-entran-en-campana.html",
+          "source": "El País Internacional",
+          "published": "2026-09-21T09:30:00.000Z"
+        },
+        {
+          "title": "El feminicidio y las votantes logran espacio en la campaña presidencial más masculina del siglo en Brasil",
+          "link": "https://elpais.com/america/2026-09-21/el-feminicidio-y-las-votantes-logran-espacio-en-la-campana-presidencial-mas-masculina-del-siglo-en-brasil.html",
+          "source": "El País Internacional",
+          "published": "2026-09-21T09:30:00.000Z"
+        },
+        {
+          "title": "Pekín confirma la visita del presidente chino a Estados Unidos",
+          "link": "https://www.dw.com/es/pekín-confirma-la-visita-del-presidente-chino-a-estados-unidos/a-79351440?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-21T08:37:00.000Z"
+        },
+        {
+          "title": "Canadá propone que Londres se sume a la alianza con la UE",
+          "link": "https://www.dw.com/es/canadá-propone-que-londres-se-sume-a-la-alianza-con-la-ue/a-79350611?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-21T08:12:00.000Z"
+        },
+        {
+          "title": "La extrema derecha se dispara en las elecciones regionales alemanas y agrava la crisis del partido de Merz",
           "link": "https://elpais.com/internacional/2026-09-20/la-extrema-derecha-se-dispara-en-las-elecciones-regionales-alemanas-y-profundiza-la-crisis-de-la-cdu-del-canciller-merz.html",
           "source": "El País Internacional",
-          "published": "2026-09-20T19:11:01.000Z"
-        },
-        {
-          "title": "Israel lanza redadas masivas en Cisjordania tras asesinato de colono en Neve Tzuf",
-          "link": "https://www.france24.com/es/video/20260920-israel-lanza-redadas-masivas-en-cisjordania-tras-asesinato-de-colono-en-neve-tzuf",
-          "source": "France 24",
-          "published": "2026-09-20T19:00:04.000Z"
-        },
-        {
-          "title": "Italia: Meloni anuncia proyecto para limitar número de extranjeros en las aulas y prohibir la burka",
-          "link": "https://www.france24.com/es/europa/20260920-italia-meloni-anuncia-proyecto-para-limitar-n%C3%BAmero-de-extranjeros-en-las-aulas-y-prohibir-la-burka",
-          "source": "France 24",
-          "published": "2026-09-20T18:57:31.000Z"
-        },
-        {
-          "title": "En San Pedro y Miquelón, Macron y Carney defienden la soberanía y la cooperación entre Francia y Canadá",
-          "link": "https://www.france24.com/es/francia/20260920-en-san-pedro-y-miquel%C3%B3n-macron-y-carney-defienden-la-soberan%C3%ADa-y-la-cooperaci%C3%B3n-entre-francia-y-canad%C3%A1",
-          "source": "France 24",
-          "published": "2026-09-20T18:49:03.000Z"
-        },
-        {
-          "title": "Elecciones en Alemania: se confirma avance electoral de AfD",
-          "link": "https://www.dw.com/es/elecciones-en-alemania-se-confirma-avance-electoral-de-afd/live-79341327?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-20T18:48:00.000Z"
-        },
-        {
-          "title": "Ucrania lanza masivo ataque de drones contra Rusia en plenos comicios parlamentarios",
-          "link": "https://www.france24.com/es/video/20260920-ucrania-lanza-masivo-ataque-de-drones-contra-rusia-en-plenos-comicios-parlamentarios",
-          "source": "France 24",
-          "published": "2026-09-20T18:15:00.000Z"
-        },
-        {
-          "title": "El partido de Putin arrasa en unas elecciones legislativas con el resultado escrito",
-          "link": "https://www.eldiario.es/internacional/partido-putin-arrasa-elecciones-legislativas-resultado-escrito_1_13524592.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-20T18:11:34.000Z"
+          "published": "2026-09-21T06:51:43.000Z"
         }
       ]
     }
