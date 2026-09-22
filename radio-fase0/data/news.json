@@ -1,121 +1,95 @@
 {
-  "date": "2026-09-21",
-  "updatedAt": "2026-09-21T21:23:45.695Z",
-  "edition": "tarde",
+  "date": "2026-09-22",
+  "updatedAt": "2026-09-22T10:34:09.473Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El juez Peinado abre juicio con jurado a Begoña Gómez por delitos de tráfico de influencias y malversación",
-          "link": "https://elpais.com/espana/2026-09-21/el-juez-peinado-abre-juicio-oral-a-begona-gomez-por-delitos-de-trafico-de-influencias-y-malversacion.html",
+          "title": "Crisis en Ceuta y actualidad política, directo | El Congreso retira definitivamente la acreditación como redactor a Vito Quiles",
+          "link": "https://elpais.com/espana/2026-09-22/crisis-en-ceuta-y-actualidad-politica-directo.html",
           "source": "El País",
-          "summary": "El magistrado envía al banquillo a la esposa del presidente del Gobierno tras rehacer el final de su instrucción por las correcciones de la Audiencia de Madrid",
+          "summary": "Albares se reunirá en Nueva York con su homólogo marroquí para abordar el retorno de los inmigrantes que siguen en Ceuta | Marlaska asegura que a partir de este martes se acelerarán las filiaciones de menores",
           "sources": [
             "El País",
             "20minutos",
-            "Europa Press",
             "elDiario.es"
           ],
-          "firstSeen": "2026-09-21T11:25:13.032Z"
+          "firstSeen": "2026-09-22T10:34:09.473Z"
         },
         {
-          "title": "El juez cita a las hijas de Zapatero como imputadas el 30 de noviembre y pide una nueva tasación de las joyas",
-          "link": "https://www.20minutos.es/nacional/juez-cita-las-hijas-zapatero-como-investigadas-30-noviembre-pide-una-nueva-tasacion-las-joyas_7039337_0.html",
+          "title": "El TSJA confirma que la delincuencia se ha incrementado un 60% en Ceuta desde agosto con respecto al año pasado",
+          "link": "https://www.20minutos.es/ceuta/tsja-confirma-que-delincuencia-se-ha-incrementado-un-60-ceuta-desde-agosto-con-respecto-ano-pasado_7039724_0.html",
           "source": "20minutos",
-          "summary": "Cita como testigos al exdirector de Participadas de la SEPI, José Ángel Partearroyo y al exdirector financiero de Plus Ultra, Félix Martín.",
+          "summary": "Así lo ha confirmado el presidente del TSJA, Lorenzo del Río, quien ha señalado que el principal \"problema\" de Ceuta es \"humanitario, social y político\".",
           "sources": [
             "20minutos",
-            "Europa Press",
-            "elDiario.es",
-            "El País"
+            "Europa Press"
           ],
-          "firstSeen": "2026-09-21T11:25:13.032Z"
+          "firstSeen": "2026-09-22T10:34:09.473Z"
         },
         {
-          "title": "La AN amplía la investigación a mandos israelíes por el abordaje a la flotilla e incluye delitos de tortura y lesiones",
-          "link": "https://www.europapress.es/nacional/noticia-an-amplia-investigacion-mandos-israelies-abordaje-flotilla-incluye-delitos-tortura-lesiones-20260921123200.html",
-          "source": "Europa Press",
-          "summary": "El juez de la Audiencia Nacional (AN) Francisco de Jorge ha ampliado la investigación a mandos israelíes como presuntos responsables de un delito de detención ilegal durante el abordaje a la Flotilla Global Sumud el 1 de octubre del pasado año, cuando se dirigía a Gaza con ayuda humanitaria, y ha incluido los presuntos delitos de torturas, daños y lesiones que pudieran haber ocurrido contra quienes iban en las embarcaciones de pabellón español.",
+          "title": "La Audiencia de Tarragona deja en manos del Supremo decidir si el ‘caso Montoro’ se queda en Cataluña o se traslada a Madrid",
+          "link": "https://elpais.com/espana/2026-09-22/la-audiencia-de-tarragona-deja-en-manos-del-supremo-decidir-si-el-caso-montoro-se-queda-en-cataluna-o-se-traslada-a-madrid.html",
+          "source": "El País",
+          "summary": "Varios de los acusados, incluido el exministro de Hacienda, habían pedido que los juzgados de Madrid asumieran la investigación",
           "sources": [
-            "Europa Press",
-            "20minutos",
+            "El País",
             "elDiario.es"
           ],
-          "firstSeen": "2026-09-21T11:25:13.032Z"
-        },
-        {
-          "title": "Sánchez arrancará en octubre las negociaciones para \"el nuevo contrato social\" de la era de la IA",
-          "link": "https://www.eldiario.es/tecnologia/sanchez-arrancara-octubre-negociaciones-nuevo-contrato-social-ia_1_13525061.html",
-          "source": "elDiario.es",
-          "summary": "El Ejecutivo convocará a patronal, sindicatos y partidos para fijar límites a las grandes tecnológicas, proteger el empleo e impulsar la integración de esta tecnología en el tejido productivo, para lo que lanzará un bono especial para pymes y autónomos ¿'Frenar' la IA? Por qué el resto del mundo desconfía del plan de Silicon Valley El Gobierno abrirá el próximo mes de octubre una mesa de negociación multilateral para “articular un nuevo contrato social” para la era de la inteligencia artificial (IA). El presidente Pedro Sánchez ha anunciado que convocará a los agentes sociales (sindicatos y…",
-          "sources": [
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-09-21T11:25:13.032Z"
-        },
-        {
-          "title": "El partido de Putin gana las elecciones legislativas rusas",
-          "link": "https://diariosocialista.net/2026/09/21/el-partido-de-putin-gana-las-elecciones-legislativas-rusas/",
-          "source": "Diario Socialista",
-          "summary": "La fuerza oficialista Rusia Unida se encamina a retener la mayoría absoluta en el Parlamento ruso tras registrar entre el 57,7% y el 57,9% de los votos, según los recuentos preliminares presentados por la Comisión Electoral Central.",
-          "sources": [
-            "Diario Socialista",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-21T11:25:13.032Z"
+          "firstSeen": "2026-09-22T10:34:09.473Z"
         }
       ],
       "items": [
         {
-          "title": "Negu Gorriak, el colectivo que acoge a migrantes sin hogar en Pamplona al que querían agredir en Ceuta",
-          "link": "https://www.eldiario.es/navarra/negu-gorriak-colectivo-acoge-migrantes-hogar-pamplona-querian-agredir-ceuta_1_13527034.html",
-          "source": "elDiario.es",
-          "published": "2026-09-21T19:00:46.000Z"
+          "title": "Protestas contra las bases de EEUU en Corea del Sur",
+          "link": "https://diariosocialista.net/2026/09/22/protestas-contra-las-bases-de-eeuu-en-corea-del-sur/",
+          "source": "Diario Socialista",
+          "published": "2026-09-22T10:00:40.000Z"
         },
         {
-          "title": "El ministro de Exteriores de Meloni obligado a pedir disculpas tras decir que las \"chicas más serias\" llevan \"la falda más larga\"",
-          "link": "https://www.eldiario.es/rastreador/ministro-exteriores-meloni-pide-disculpas-decir-chicas-serias-llevan-falda-larga_1_13527298.html",
-          "source": "elDiario.es",
-          "published": "2026-09-21T18:33:45.000Z"
+          "title": "Guardia Revolucionaria iraní: “Estamos listos para una guerra prolongada”",
+          "link": "https://diariosocialista.net/2026/09/22/guardia-revolucionaria-irani-estamos-listos-para-una-guerra-prolongada/",
+          "source": "Diario Socialista",
+          "published": "2026-09-22T10:00:22.000Z"
         },
         {
-          "title": "El Ministerio de Sanidad prepara un decreto para tener \"criterios comunes\" en las listas de espera",
-          "link": "https://www.20minutos.es/nacional/sanidad-prepara-un-decreto-para-establecer-criterios-comunes-las-listas-espera_7039521_0.html",
-          "source": "20minutos",
-          "published": "2026-09-21T17:58:40.000Z"
-        },
-        {
-          "title": "La política desempolva el debate sobre los impuestos a los superricos",
-          "link": "https://elpais.com/economia/2026-09-21/la-politica-desempolva-el-debate-sobre-los-impuestos-a-los-superricos.html",
+          "title": "Sánchez no asistirá a la habitual recepción que ofrece Trump por la Asamblea de la ONU",
+          "link": "https://elpais.com/espana/2026-09-22/sanchez-no-asistira-a-la-recepcion-que-ofrece-trump-por-la-asamblea-de-la-onu.html",
           "source": "El País",
-          "published": "2026-09-21T17:48:53.000Z"
+          "published": "2026-09-22T09:58:55.000Z"
         },
         {
-          "title": "Ada Colau participa en el intento de frenar el desahucio de una vecina vulnerable de Barcelona",
-          "link": "https://www.eldiario.es/catalunya/colau-acude-activista-frenar-desahucio-vecina-vulnerable-barcelona_1_13527161.html",
+          "title": "El Congreso expulsa finalmente al agitador ultra Vito Quiles con la abstención del PP",
+          "link": "https://www.elsaltodiario.com/congreso-de-los-diputados/expulsa-finalmente-al-agitador-ultra-vito-quiles-abstencion-del-pp?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-09-22T09:57:00.000Z"
+        },
+        {
+          "title": "El colectivo Negu Gorriak desafía la amenaza fascista y mandará una segunda brigada a Ceuta",
+          "link": "https://www.elsaltodiario.com/ceuta/colectivo-negu-gorriak-desafia-amenaza-fascista-mandara-una-segunda-brigada-ceuta?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-09-22T09:44:00.000Z"
+        },
+        {
+          "title": "Rodrigo Cuevas, contra el odio, en las fiestas de Oviedo: “Gracias a todos los inmigrantes que están en España, gracias de corazón”",
+          "link": "https://www.eldiario.es/rastreador/rodrigo-cuevas-fiestas-oviedo-estare-cerca-chino-bueno-patriota-bandera-dar-palizas_132_13528031.html",
           "source": "elDiario.es",
-          "published": "2026-09-21T17:44:21.000Z"
+          "published": "2026-09-22T09:39:37.000Z"
         },
         {
-          "title": "El PP aparta a su abogado jefe de los principales casos judiciales contra el PSOE",
-          "link": "https://www.eldiario.es/politica/pp-aparta-abogado-jefe-principales-casos-judiciales-psoe_1_13524760.html",
-          "source": "elDiario.es",
-          "published": "2026-09-21T17:35:09.000Z"
-        },
-        {
-          "title": "El real decreto de listas de espera de Sanidad incorporará información sobre las demoras en Atención Primaria",
-          "link": "https://www.infosalus.com/actualidad/noticia-real-decreto-listas-espera-sanidad-incorporara-informacion-demoras-atencion-primaria-20260921190928.html",
+          "title": "Varios socios avisan a España de que \"no es aceptable\" vincular la oficialidad del catalán a la ampliación de la UE",
+          "link": "https://www.europapress.es/nacional/noticia-varios-socios-avisan-espana-no-aceptable-vincular-oficialidad-catalan-ampliacion-ue-20260922112348.html",
           "source": "Europa Press",
-          "published": "2026-09-21T17:09:28.000Z"
+          "published": "2026-09-22T09:23:48.000Z"
         },
         {
-          "title": "Interior eleva a 105 los triajes diarios a adultos migrantes en Ceuta y cifra en 3.500 los que quedan en la calle",
-          "link": "https://www.europapress.es/epsocial/migracion/noticia-interior-eleva-105-triajes-diarios-adultos-migrantes-ceuta-cifra-3500-quedan-calle-20260921190459.html",
+          "title": "El Gobierno dice al Supremo que la 'ley de nietos' no puede alterar las elecciones y avisa de dificultades en consulados",
+          "link": "https://www.europapress.es/nacional/noticia-gobierno-dice-supremo-ley-nietos-no-puede-alterar-elecciones-avisa-dificultades-consulados-20260922111748.html",
           "source": "Europa Press",
-          "published": "2026-09-21T17:04:59.000Z"
+          "published": "2026-09-22T09:17:48.000Z"
         }
       ]
     },
@@ -124,113 +98,66 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "El partido de Putin logra un récord de escaños en Rusia",
-          "link": "https://www.dw.com/es/el-partido-de-putin-logra-un-récord-de-escaños-en-rusia/a-79354199?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El partido gobernante en el Kremlin, Rusia Unida, logró además la elección de todos los gobernadores regionales que presentó. Para la Unión Europea, las elecciones rusas evidenciaron el creciente autoritarismo en el país",
-          "sources": [
-            "DW",
-            "France 24",
-            "20minutos Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-09-21T11:25:13.032Z"
-        },
-        {
-          "title": "Un agente del ICE dispara y hiere a un inmigrante venezolano en Texas",
-          "link": "https://elpais.com/us/2026-09-20/un-agente-del-ice-dispara-y-hiere-a-un-hombre-en-texas-tras-marcarle-el-alto-a-su-vehiculo.html",
-          "source": "El País Internacional",
-          "summary": "La víctima se encuentra grave pero estable tras recibir un disparo en el torso y está en custodia de la agencia, confirmó el gobierno federal",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional",
-            "BBC Mundo",
-            "France 24"
-          ],
-          "firstSeen": "2026-09-21T11:25:13.032Z"
-        },
-        {
-          "title": "¿Cómo interpretar que Merz se niegue a renunciar tras derrota de CDU en las elecciones regionales?",
-          "link": "https://www.france24.com/es/video/20260921-c%C3%B3mo-interpretar-que-merz-se-niegue-a-renunciar-tras-derrota-de-cdu-en-las-elecciones-regionales",
-          "source": "France 24",
-          "summary": "El Gobierno de Alemania y las distintas fuerzas políticas analizan los resultados de las elecciones regionales celebradas el 20 de septiembre: las del Parlamento de Berlín y las del estado federado de Mecklemburgo-Pomerania Occidental. Ambas votaciones aumentan la presión sobre el futuro político del canciller alemán, Friedrich Merz, y muestran que no todo está perdido para la izquierda en el país. Para analizar el tema, conversamos con Ralf Leiteritz, politólogo de la Universidad de Potsdam (Alemania), en El Invitado del Día de France 24.",
-          "sources": [
-            "France 24",
-            "DW"
-          ],
-          "firstSeen": "2026-09-21T17:24:36.619Z"
-        },
-        {
-          "title": "Trump retrata en redes a CNN, MS NOW y Politico como bolsas de basura tras vetarlos de la Casa Blanca",
-          "link": "https://www.20minutos.es/internacional/trump-representa-cnn-ms-now-politico-como-bolsas-basura-tras-vetarlos-casa-blanca_7039501_0.html",
+          "title": "Trump halaga a Mamdani tras reunirse con él en Nueva York: \"Tiene potencial para ser un gran alcalde\"",
+          "link": "https://www.20minutos.es/internacional/trump-halaga-mamdani-potencial-gran-alcalde-nueva-york_7039585_0.html",
           "source": "20minutos Internacional",
-          "summary": "El presidente estadounidense ha difundido un montaje contra los tres medios en plena escalada del enfrentamiento por la retirada de las acreditaciones de sus periodistas.",
+          "summary": "El presidente de EEUU y el alcalde de Nueva York aparcan sus diferencias y acuerdan poner en marcha 12.000 viviendas asequibles en la gran manzana.",
           "sources": [
             "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-09-21T17:24:36.619Z"
-        },
-        {
-          "title": "\"El ocaso del canciller ha comenzado\": la presión crece sobre Merz tras su debacle electoral en Alemania",
-          "link": "https://www.france24.com/es/europa/20260921-el-ocaso-del-canciller-ha-comenzado-la-presi%C3%B3n-crece-sobre-merz-tras-su-debacle-electoral-en-alemania",
-          "source": "France 24",
-          "summary": "La ultraderecha alemana, encarnada en la AfD, consolida su ascenso electoral tras la victoria del domingo en la región de Mecklemburgo-Pomerania Occidental en detrimento de la oficialista Unión Demócrata Cristiana (CDU), que también perdió terreno en Berlín frente al Partido de la Izquierda. Esta cadena de derrotas tiene en aprietos al canciller alemán Friedrich Merz, quien, no obstante, abogó por mantener su coalición conservadora en nombre del \"futuro democrático\" del país.",
-          "sources": [
-            "France 24",
+            "elDiario.es Internacional",
             "El País Internacional"
           ],
-          "firstSeen": "2026-09-21T17:24:36.619Z"
+          "firstSeen": "2026-09-22T10:34:09.473Z"
         }
       ],
       "items": [
         {
-          "title": "Marco Rubio se reúne con representantes de Groenlandia y Dinamarca tras el acuerdo de seguridad sobre la isla",
-          "link": "https://www.20minutos.es/internacional/marco-rubio-se-reune-con-representantes-groenlandia-dinamarca-tras-acuerdo-seguridad-sobre-isla_7039564_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-21T20:40:09.000Z"
+          "title": "Trump, atrapado entre ayudar a su aliado saudí o agravar la guerra con Irán ante el avance de los hutíes a posiciones clave",
+          "link": "https://www.eldiario.es/internacional/theguardian/trump-atrapado-ayudar-aliado-saudi-agravar-guerra-iran-avance-huties-posiciones-clave_1_13528016.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-22T09:57:03.000Z"
         },
         {
-          "title": "El \"nuevo Hezbolá\" de Irán: ¿cuánto poder tienen los hutíes?",
-          "link": "https://www.dw.com/es/el-nuevo-hezbolá-de-irán-¿cuánto-poder-tienen-los-hutíes/a-79360236?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-21T20:38:00.000Z"
-        },
-        {
-          "title": "Cómo afecta el conflicto con los hutíes a países vecinos en África",
-          "link": "https://www.dw.com/es/cómo-afecta-el-conflicto-con-los-hutíes-a-países-vecinos-en-áfrica/a-79362702?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-21T20:38:00.000Z"
-        },
-        {
-          "title": "¿Escudo de las Américas o Escudo de Trump?",
-          "link": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20260921-escudo-de-las-am%C3%A9ricas-o-escudo-de-trump",
+          "title": "En directo: António Guterres abre por última vez el debate general de la Asamblea General de la ONU",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260922-en-directo-la-asamblea-general-de-la-onu-comenzar%C3%A1-este-martes-marcada-por-las-guerras-en-ir%C3%A1n-y-ucrania",
           "source": "France 24",
-          "published": "2026-09-21T20:15:00.000Z"
+          "published": "2026-09-22T08:27:45.000Z"
         },
         {
-          "title": "Milei agita la disputa de las Malvinas y evidencia las contradicciones con Israel del presidente \"más sionista del mundo\"",
-          "link": "https://www.eldiario.es/internacional/javier-milei-islas-malvinas-israel_1_13524824.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-21T20:03:42.000Z"
-        },
-        {
-          "title": "Varias capitales europeas de la OTAN alertan de la amenaza de un ataque de Rusia: ¿qué está pasando?",
-          "link": "https://www.eldiario.es/internacional/capitales-europeas-otan-alertan-amenaza-ataque-rusia-pasando_1_13526415.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-21T20:03:40.000Z"
-        },
-        {
-          "title": "Trump, (prácticamente) solo ante el mundo",
-          "link": "https://www.eldiario.es/internacional/trump-practicamente-mundo_129_13526761.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-21T20:03:40.000Z"
-        },
-        {
-          "title": "\"Jefes de inteligencia europeos advierten que Moscú planea acciones contra la OTAN\": 'The Guardian'",
-          "link": "https://www.france24.com/es/programas/revista-de-prensa/20260921-jefes-de-inteligencia-europeos-advierten-que-mosc%C3%BA-planea-acciones-contra-la-otan-the-guardian",
+          "title": "Japón: el tifón Dujuan deja cuatro muertos y más de 45.000 viviendas sin electricidad",
+          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260922-jap%C3%B3n-el-tif%C3%B3n-dujuan-deja-cuatro-muertos-y-m%C3%A1s-de-45-000-viviendas-sin-electricidad",
           "source": "France 24",
-          "published": "2026-09-21T20:03:21.000Z"
+          "published": "2026-09-22T08:01:07.000Z"
+        },
+        {
+          "title": "Macron conversa con Trump sobre Ormuz y con Zelenski sobre una tregua energética",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260922-macron-conversa-con-trump-sobre-ormuz-y-con-zelenski-sobre-una-tregua-energ%C3%A9tica",
+          "source": "France 24",
+          "published": "2026-09-22T07:55:07.000Z"
+        },
+        {
+          "title": "Groenlandia, Dinamarca y Estados Unidos firmarán el martes el acuerdo sobre el territorio ártico",
+          "link": "https://www.france24.com/es/europa/20260922-groenlandia-dinamarca-y-estados-unidos-firmar%C3%A1n-el-martes-el-acuerdo-sobre-el-territorio-%C3%A1rtico",
+          "source": "France 24",
+          "published": "2026-09-22T07:00:43.000Z"
+        },
+        {
+          "title": "La Fiscalía de Ruanda pide cadena perpetua para la opositora Victoire Ingabire, acusada de conspirar contra el presidente Kagame",
+          "link": "https://elpais.com/internacional/2026-09-22/la-fiscalia-de-ruanda-pide-cadena-perpetua-para-la-opositora-victoire-ingabire-acusada-de-conspirar-contra-el-presidente-kagame.html",
+          "source": "El País Internacional",
+          "published": "2026-09-22T06:48:09.000Z"
+        },
+        {
+          "title": "En directo: al menos 154 muertos en dos días de combates entre los hutíes y las fuerzas gubernamentales en Yemen",
+          "link": "https://www.france24.com/es/medio-oriente/20260922-en-directo-ir%C3%A1n-amenaza-con-ampliar-la-guerra-mientras-los-ataques-en-yemen-dejan-seis-civiles-muertos",
+          "source": "France 24",
+          "published": "2026-09-22T05:42:34.000Z"
+        },
+        {
+          "title": "La ONU está arruinada y EEUU le debe 1.300 millones de dólares (y no piensa pagar)",
+          "link": "https://www.eldiario.es/internacional/la-semana-internacional/onu-arruinada-eeuu-le-debe-1-300-millones-dolares-no-piensa-pagar_132_13527463.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-22T05:03:00.000Z"
         }
       ]
     }
