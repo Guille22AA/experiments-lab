@@ -5,5 +5,19 @@
     "enlace": "",
     "desde": "2026-09-01",
     "hasta": "2026-09-19"
+  },
+  {
+    "imagen": "carteles/olga-hospitalet.jpeg",
+    "texto": "Acto de homenaje y protesta por l'Olga, madre, amiga, vecina y compañera asesinada por el capitalismo. Basta de desahucios. 3 oct, 19:00 h, Plaça Pius XII (L'Hospitalet de Llobregat). Convocan: familia y amigas de l'Olga, Associació de Veïnes i Veïns - Som Santa Eulàlia, Sindicat d'Habitatge de l'Hospitalet",
+    "enlace": "",
+    "desde": "2026-09-22",
+    "hasta": "2026-10-03"
+  },
+  {
+    "imagen": "carteles/manifestacion-palestina-madrid.jpeg",
+    "texto": "Manifestación por Palestina: resistiendo al colonialismo, genocidio, apartheid y ocupación. Fin a las relaciones con Israel. 4 oct, 18:00 h, Atocha-Callao (Madrid). Quedada bloque feminista 17:30 h, Plaza Murillo - Puerta Jardín Botánico. Convoca: 8M Madrid y otros colectivos",
+    "enlace": "",
+    "desde": "2026-09-23",
+    "hasta": "2026-10-04"
   }
 ]
