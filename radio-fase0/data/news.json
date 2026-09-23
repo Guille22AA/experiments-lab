@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-23T15:46:03.977Z",
+  "updatedAt": "2026-09-23T20:50:30.730Z",
   "edition": "tarde",
   "sections": [
     {
@@ -44,6 +44,18 @@
           "firstSeen": "2026-09-23T15:46:03.977Z"
         },
         {
+          "title": "Sánchez carga contra Ayuso y Almeida por la “tragedia social” del desahucio de Maricarmen: “Están más preocupados en comprar aticazos”",
+          "link": "https://elpais.com/espana/2026-09-23/pedro-sanchez-comparece-antes-de-su-discurso-en-naciones-unidas.html",
+          "source": "El País",
+          "summary": "El presidente dice que no “descarta nada” para impedir los desahucios pero admite que necesita a sus socios, que han rechazado ya dos veces el escudo",
+          "sources": [
+            "El País",
+            "Público",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-09-23T20:50:30.730Z"
+        },
+        {
           "title": "Robles pide a Armengol que autorice la comparecencia de la directora del CNI tras las acusaciones de veto del PP al Gobierno",
           "link": "https://www.20minutos.es/nacional/robles-pide-armengol-que-autorice-comparecencia-directora-cni-tras-las-acusaciones-veto-pp-gobierno_7040252_0.html",
           "source": "20minutos",
@@ -53,67 +65,56 @@
             "Europa Press"
           ],
           "firstSeen": "2026-09-23T10:27:41.976Z"
-        },
-        {
-          "title": "El Gobierno autoriza que la solicitud de extradición del activista propalestino Fergie Chambers pase a la vía judicial",
-          "link": "https://www.eldiario.es/politica/gobierno-autoriza-solicitud-extradicion-activista-propalestino-fergie-chambers-pase-via-judicial_1_13530864.html",
-          "source": "elDiario.es",
-          "summary": "El Ejecutivo argumenta que se ha limitado a hacer \"lo que corresponde en esta fase procedimental\" aunque Sumar había pedido frenarlo ya. El caso pasará a la Audiencia Nacional y después el Gobierno tendrá la última palabra La pareja del filántropo propalestino detenido en España a petición de EEUU se reúne con los partidos y pide a Sánchez su libertad El Gobierno ha autorizado la continuación de la solicitud de extradición de James Fergie Chambers, el millonario filántropo de izquierdas detenido en Madrid tras la petición de entrega que formuló EEUU por un supuesto apoyo a Hamás. Ahora la…",
-          "sources": [
-            "elDiario.es",
-            "Diario Socialista"
-          ],
-          "firstSeen": "2026-09-23T10:27:41.976Z"
         }
       ],
       "items": [
         {
-          "title": "Últimas noticias de la Asamblea General de la ONU, en directo | El presidente de Irán responde a Trump: “Hemos sido las víctimas del terrorismo”",
-          "link": "https://elpais.com/internacional/2026-09-23/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
+          "title": "El desahucio de Maricarmen desata una conmoción social y política",
+          "link": "https://elpais.com/espana/madrid/2026-09-23/cientos-de-personas-cortan-el-centro-de-madrid-frente-al-atico-de-ayuso-tras-el-desahucio-de-maricarmen.html",
           "source": "El País",
-          "published": "2026-09-23T15:37:04.000Z"
+          "published": "2026-09-23T20:17:52.000Z"
         },
         {
-          "title": "La Audiencia Nacional condena a 17 años de cárcel a Sito Miñanco y absuelve al abogado Gonzalo Boye del delito de blanqueo",
-          "link": "https://elpais.com/espana/2026-09-23/la-audiencia-nacional-condena-a-17-anos-de-carcel-a-sito-minanco-y-absuelve-al-abogado-gonzalo-boye-del-delito-de-blanqueo.html",
-          "source": "El País",
-          "published": "2026-09-23T15:36:10.000Z"
+          "title": "Miles de personas protestan por el desahucio de Maricarmen, la anciana que vivía desde hace siete décadas en un piso de Madrid",
+          "link": "https://www.20minutos.es/nacional/miles-personas-protestan-por-desahucio-maricarmen-anciana-que-vivia-desde-hace-siete-decadas-un-piso-madrid_7040594_0.html",
+          "source": "20minutos",
+          "published": "2026-09-23T20:07:02.000Z"
         },
         {
-          "title": "Trump justifica ante el juez el veto a CNN, Politico y MS Now por motivos de seguridad nacional",
-          "link": "https://elpais.com/us/2026-09-23/trump-justifica-ante-el-juez-el-veto-a-cnn-politico-y-ms-now-por-motivos-de-seguridad-nacional.html",
-          "source": "El País",
-          "published": "2026-09-23T15:19:03.000Z"
+          "title": "Trump estudia un veto de 90 días a las exportaciones de diésel para intentar contener los precios",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/trump-estudia-un-veto-90-dias-las-exportaciones-diesel-para-intentar-contener-los-precios_7040590_0.html",
+          "source": "20minutos",
+          "published": "2026-09-23T19:50:29.000Z"
         },
         {
-          "title": "Crisis en Ceuta y actualidad política, en directo | La ministra Diana Morant pide a Marruecos que sea “más diligente con sus responsabilidades”",
-          "link": "https://elpais.com/espana/2026-09-23/crisis-en-ceuta-y-actualidad-politica-directo.html",
-          "source": "El País",
-          "published": "2026-09-23T15:00:35.000Z"
+          "title": "Sánchez no descarta aprobar ya el decreto de vivienda y pasa la \"responsabilidad\" a los grupos parlamentarios",
+          "link": "https://www.20minutos.es/nacional/sanchez-no-descarta-aprobar-ya-decreto-vivienda-tras-desahucio-maricarmen-pide-responsabilidad-los-grupos_7040600_0.html",
+          "source": "20minutos",
+          "published": "2026-09-23T19:50:10.000Z"
         },
         {
-          "title": "El Tribunal de Cuentas alerta de “graves deficiencias” en el sistema de las pulseras telemáticas para maltratadores",
-          "link": "https://elpais.com/sociedad/2026-09-23/el-tribunal-de-cuentas-alerta-de-graves-deficiencias-en-el-sistema-de-las-pulseras-telematicas-para-maltratadores.html",
-          "source": "El País",
-          "published": "2026-09-23T14:51:43.000Z"
+          "title": "Última hora del desahucio de Maricarmen en Madrid, en directo | \"El ático para Maricarmen\": miles de personas se manifiestan frente a la vivienda que compró el Gobierno de Ayuso - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXRCUWVlZjNaQzBEZmxhZjJHNU9KYVBTM0xwNGs2eTVtTzhKeDVWTkMzcWptVWJVWWhMRUxzd3lmWVh0NkJLR3cyX0Z1VldPdUY4Sk95STFEc0ZUVDYwMFdVUllHUU8wb2E5VkRWTTFqZktmcENyTUVZbXpoYnZRRjd3T08ydlJsM3ZiTEpDeEVKR0JTOF9z?oc=5",
+          "source": "Público",
+          "published": "2026-09-23T19:34:16.000Z"
         },
         {
-          "title": "Sánchez y Mamdani reivindican juntos las políticas sociales españolas: “Los poderosos nos temen”",
-          "link": "https://elpais.com/espana/2026-09-23/sanchez-y-mamdani-reivindican-juntos-las-politicas-sociales-espanolas.html",
+          "title": "Pedro Sánchez da su respaldo a la candidatura de Pablo Hernández de Cos para presidir el Banco Central Europeo",
+          "link": "https://elpais.com/economia/2026-09-23/pedro-sanchez-da-su-respaldo-a-la-candidatura-de-pablo-hernandez-de-cos-para-presidir-el-banco-central-europeo.html",
           "source": "El País",
-          "published": "2026-09-23T14:22:32.000Z"
+          "published": "2026-09-23T19:30:36.000Z"
         },
         {
-          "title": "Así fue el operativo judicial que echó a Maricarmen: orden del Juzgado 90 de Madrid y sentencia del Supremo",
-          "link": "https://diariosocialista.net/2026/09/23/asi-fue-el-operativo-judicial-que-echo-a-maricarmen-orden-del-juzgado-90-de-madrid-y-sentencia-del-supremo/",
-          "source": "Diario Socialista",
-          "published": "2026-09-23T14:17:00.000Z"
+          "title": "Pedro Sánchez emplaza a los partidos a que apoyen el decreto de vivienda: \"El desahucio de Maricarmen es una tragedia que no podemos aceptar\"",
+          "link": "https://www.eldiario.es/internacional/pedro-sanchez-desahucio-maricarmen-hoy-tragedia-no-aceptar_1_13533356.html",
+          "source": "elDiario.es",
+          "published": "2026-09-23T19:00:40.000Z"
         },
         {
-          "title": "Sumar exige que el Gobierno apruebe el decreto de vivienda que hubiera evitado el desahucio de Maricarmen junto al escudo social",
-          "link": "https://elpais.com/economia/2026-09-23/sumar-exige-que-el-gobierno-apruebe-el-decreto-de-vivienda-junto-con-el-escudo-anticrisis-la-proxima-semana.html",
-          "source": "El País",
-          "published": "2026-09-23T14:13:43.000Z"
+          "title": "El Gobierno acelera para aprobar ya el decreto de vivienda forzado por el impacto del desahucio de Maricarmen",
+          "link": "https://www.eldiario.es/politica/gobierno-acelera-aprobar-decreto-vivienda-forzado-impacto-desahucio-maricarmen_1_13533032.html",
+          "source": "elDiario.es",
+          "published": "2026-09-23T18:37:44.000Z"
         }
       ]
     },
@@ -132,6 +133,18 @@
             "elDiario.es Internacional"
           ],
           "firstSeen": "2026-09-23T10:27:41.976Z"
+        },
+        {
+          "title": "Delcy Rodríguez se reúne con Donald Trump en Nueva York",
+          "link": "https://www.france24.com/es/video/20260923-delcy-rodr%C3%ADguez-se-re%C3%BAne-con-donald-trump-en-nueva-york",
+          "source": "France 24",
+          "summary": "🇻🇪🇺🇸 La presidenta interina de Venezuela, Delcy Rodríguez, se reunió con Donald Trump en Nueva York, a pocos kilómetros del edificio en Brooklyn donde permanece detenido Nicolás Maduro.",
+          "sources": [
+            "France 24",
+            "El País Internacional",
+            "BBC Mundo"
+          ],
+          "firstSeen": "2026-09-23T20:50:30.730Z"
         },
         {
           "title": "En pleno choque con Trump, Lula defiende a Brasil en la ONU: \"No cabe en el patio trasero de nadie\"",
@@ -169,52 +182,52 @@
       ],
       "items": [
         {
-          "title": "En directo: \"Argentina no va a esperar que la ONU esté a la altura de su mandato, va a tomar cartas en el asunto\": Milei sobre Malvinas",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260923-en-directo-presidente-iran%C3%AD-intervendr%C3%A1-ante-la-onu-por-primera-vez-desde-que-ee-uu-e-israel-lanzaron-la-guerra-contra-teher%C3%A1nc",
+          "title": "\"Irán jamás bajará la cabeza\": Pezeshkian desafía a Trump y señala a EE. UU. de \"terrorista\"",
+          "link": "https://www.france24.com/es/medio-oriente/20260923-ir%C3%A1n-jam%C3%A1s-bajar%C3%A1-la-cabeza-pezeshkian-desaf%C3%ADa-a-trump-y-se%C3%B1ala-a-ee-uu-de-terrorista",
           "source": "France 24",
-          "published": "2026-09-23T15:28:54.000Z"
+          "published": "2026-09-23T20:27:45.000Z"
         },
         {
-          "title": "Irán abre la vía diplomática sin descartar seguir adelante con la guerra",
-          "link": "https://elpais.com/internacional/2026-09-23/iran-abre-la-via-diplomatica-sin-descartar-seguir-adelante-con-la-guerra.html",
-          "source": "El País Internacional",
-          "published": "2026-09-23T15:22:56.000Z"
-        },
-        {
-          "title": "El Reino Unido cede a la presión de Trump y anuncia que revisará la devolución del archipiélago de Chagos",
-          "link": "https://elpais.com/internacional/2026-09-23/el-reino-unido-cede-a-la-presion-de-trump-y-anuncia-que-revisara-la-devolucion-del-archipielago-de-chagos.html",
-          "source": "El País Internacional",
-          "published": "2026-09-23T15:06:57.000Z"
-        },
-        {
-          "title": "Mamdani recita versos de Lorca ante Sánchez y aplaude las medidas sociales aprobadas por el Gobierno: \"Restauró la fe en la democracia\"",
-          "link": "https://www.20minutos.es/internacional/mamdani-recita-versos-lorca-ante-sanchez-aplaude-las-medidas-sociales-aprobadas-por-gobierno-restauro-fe-democracia_7040452_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-23T14:43:24.000Z"
-        },
-        {
-          "title": "El segundo día de la Asamblea General de la ONU, en imágenes",
-          "link": "https://elpais.com/internacional/2026-09-23/el-segundo-dia-de-la-asamblea-general-de-la-onu-en-imagenes.html",
-          "source": "El País Internacional",
-          "published": "2026-09-23T14:37:11.000Z"
-        },
-        {
-          "title": "Azerbaiyán libera a un preso francés después de que la UE levantara las sanciones a un magnate ruso",
-          "link": "https://elpais.com/internacional/2026-09-23/azerbaiyan-libera-a-un-preso-frances-despues-de-que-la-ue-levantara-las-sanciones-a-un-magnate-ruso.html",
-          "source": "El País Internacional",
-          "published": "2026-09-23T14:28:43.000Z"
-        },
-        {
-          "title": "Trump en la ONU: ¿discurso global o campaña electoral?",
-          "link": "https://www.france24.com/es/programas/el-debate/20260923-trump-en-la-onu-discurso-global-o-campa%C3%B1a-electoral",
-          "source": "France 24",
-          "published": "2026-09-23T14:23:24.000Z"
-        },
-        {
-          "title": "El presidente iraní, Pezeshkian, responde a Trump en la ONU: \"Nos tacha de terroristas y somos víctimas del terrorismo, solo nos defendemos\"",
-          "link": "https://www.eldiario.es/internacional/presidente-irani-pezeshkian-responde-trump-onu-tacha-terroristas-victimas-terrorismo-defendemos_1_13532488.html",
+          "title": "Así funcionan las razones de Estado: oligarca ruso exonerado por espía francés indultado",
+          "link": "https://www.eldiario.es/internacional/funcionan-razones-oligarca-ruso-exonerado-espia-frances-indultado_1_13532489.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-09-23T14:22:14.000Z"
+          "published": "2026-09-23T20:22:22.000Z"
+        },
+        {
+          "title": "Cómo se está aplicando el embargo de armas a Israel y por qué el Gobierno no ha cerrado sus agujeros legales",
+          "link": "https://www.eldiario.es/internacional/aplicando-embargo-armas-israel-gobierno-no-cerrado-agujeros-legales_129_13526581.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-23T20:22:21.000Z"
+        },
+        {
+          "title": "De “obra maestra diplomática” a “sumisión” a EEUU: así ven Dinamarca y Groenlandia el acuerdo con Trump",
+          "link": "https://www.eldiario.es/internacional/obra-maestra-diplomatica-sumision-eeuu-ven-dinamarca-groenlandia-acuerdo-trump_1_13532418.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-23T20:22:20.000Z"
+        },
+        {
+          "title": "El FBI investiga el robo de miles de datos confidenciales de sus agentes tras el ciberataque de un grupo de 'hackers'",
+          "link": "https://www.20minutos.es/internacional/fbi-investiga-robo-miles-datos-confidenciales-sus-agentes-tras-ciberataque-un-grupo-hackers_7040598_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-23T19:53:20.000Z"
+        },
+        {
+          "title": "Zelenski, ante la ONU: “Esta guerra ridícula e interminable debe acabar”",
+          "link": "https://elpais.com/internacional/2026-09-23/zelenski-ante-la-onu-esta-guerra-ridicula-e-interminable-debe-acabar.html",
+          "source": "El País Internacional",
+          "published": "2026-09-23T19:52:11.000Z"
+        },
+        {
+          "title": "\"El regreso de la ley de la selva\": claves del último discurso de Macron en la Asamblea General de la ONU",
+          "link": "https://www.france24.com/es/francia/20260923-el-regreso-de-la-ley-de-la-selva-claves-del-%C3%BAltimo-discurso-de-macron-en-la-asamblea-general-de-la-onu",
+          "source": "France 24",
+          "published": "2026-09-23T19:39:23.000Z"
+        },
+        {
+          "title": "EEUU rechaza que la reunión entre Trump y Delcy Rodríguez legitime al Gobierno de Venezuela: \"Sabemos que ella no fue elegida\"",
+          "link": "https://www.20minutos.es/internacional/eeuu-rechaza-que-reunion-entre-trump-delcy-rodriguez-legitime-gobierno-venezuela-sabemos-que-ella-no-fue-elegida_7040596_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-23T19:34:31.000Z"
         }
       ]
     }
