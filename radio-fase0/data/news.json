@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-23T10:27:41.976Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-09-23T15:46:03.977Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -32,6 +32,18 @@
           "firstSeen": "2026-09-23T10:27:41.976Z"
         },
         {
+          "title": "Zapatero comunica al juez que las joyas son un regalo que el rey de Arabia Saudí le hizo en 2007 - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUgyZXZkaW5panNwanA4RmxkT3B1YnZIR2FZSW42cVVpdEFLcmZMNzJMQm9abURLenVVenozcVV6dzc3SXVOWldqaGlhYzhHUlRnQ2p1XzgxcjQzdTNCQ0dOdUp0dHdiZFN3XzNkNTdGMm1KRkgzUlp4X1JjUnQ0TFVjRHI5Z2l3alAwNk41TmJCa1R2Z0Rzb3hfRkFSUElWTU15d2VDc19YRFXSAbABQVVfeXFMUEd1TUdrMjhwX3Y3Zkc4S1Q0cTc0TElaRWNmZWYteFpnWDZoUmdadW9FRDVELVNpWlVZNGpkcTFIQkR5dGdfX1RuVkVtTUtNSGp2ak50X1N3U3BLTFR4WjlLTTZmYW80ekg2LUxLNVp6SnpESkZ1Qkw5b1NUY05rYkRmSDY0SHZ3MldRd1M5MHNxc0NCb2lTU1Etby1jenRYLVFIa2ROMjRYN0hPUmZzWG4?oc=5",
+          "source": "Público",
+          "summary": "Zapatero comunica al juez que las joyas son un regalo que el rey de Arabia Saudí le hizo en 2007 Diario Público",
+          "sources": [
+            "Público",
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-09-23T15:46:03.977Z"
+        },
+        {
           "title": "Robles pide a Armengol que autorice la comparecencia de la directora del CNI tras las acusaciones de veto del PP al Gobierno",
           "link": "https://www.20minutos.es/nacional/robles-pide-armengol-que-autorice-comparecencia-directora-cni-tras-las-acusaciones-veto-pp-gobierno_7040252_0.html",
           "source": "20minutos",
@@ -52,67 +64,56 @@
             "Diario Socialista"
           ],
           "firstSeen": "2026-09-23T10:27:41.976Z"
-        },
-        {
-          "title": "La OCDE eleva la previsión de crecimiento de España al 2,6% para este año, pero sube la inflación al 3,7%",
-          "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ocde-eleva-prevision-crecimiento-espana-26-ano-sube-inflacion-37-20260923111853.html",
-          "source": "Europa Press",
-          "summary": "La Organización para la Cooperación y el Desarrollo Económico (OCDE)ha revisado al alza las perspectivas de crecimiento para la economía española para los próximos años y ha fijado el incremento del producto interior bruto (PIB) para 2026 en el 2,6%, cuatro décimas más que las anteriores previsiones, y en el 1,8% para 2027, una décima más.",
-          "sources": [
-            "Europa Press",
-            "El País"
-          ],
-          "firstSeen": "2026-09-23T10:27:41.976Z"
         }
       ],
       "items": [
         {
-          "title": "La policía lanza gas pimienta para ejecutar el desahucio de Maricarmen ante la negativa del fondo a conceder una prórroga",
-          "link": "https://elpais.com/espana/madrid/2026-09-23/maricarmen-se-queda-un-centenar-de-activistas-espera-junto-a-la-anciana-a-la-comision-judicial.html",
+          "title": "Últimas noticias de la Asamblea General de la ONU, en directo | El presidente de Irán responde a Trump: “Hemos sido las víctimas del terrorismo”",
+          "link": "https://elpais.com/internacional/2026-09-23/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
           "source": "El País",
-          "published": "2026-09-23T10:26:42.000Z"
+          "published": "2026-09-23T15:37:04.000Z"
         },
         {
-          "title": "Crisis en Ceuta y actualidad política, en directo | Calma en las fronteras blindadas de Ceuta y Melilla en un día de alerta por la amenaza de un nuevo salto masivo",
+          "title": "La Audiencia Nacional condena a 17 años de cárcel a Sito Miñanco y absuelve al abogado Gonzalo Boye del delito de blanqueo",
+          "link": "https://elpais.com/espana/2026-09-23/la-audiencia-nacional-condena-a-17-anos-de-carcel-a-sito-minanco-y-absuelve-al-abogado-gonzalo-boye-del-delito-de-blanqueo.html",
+          "source": "El País",
+          "published": "2026-09-23T15:36:10.000Z"
+        },
+        {
+          "title": "Trump justifica ante el juez el veto a CNN, Politico y MS Now por motivos de seguridad nacional",
+          "link": "https://elpais.com/us/2026-09-23/trump-justifica-ante-el-juez-el-veto-a-cnn-politico-y-ms-now-por-motivos-de-seguridad-nacional.html",
+          "source": "El País",
+          "published": "2026-09-23T15:19:03.000Z"
+        },
+        {
+          "title": "Crisis en Ceuta y actualidad política, en directo | La ministra Diana Morant pide a Marruecos que sea “más diligente con sus responsabilidades”",
           "link": "https://elpais.com/espana/2026-09-23/crisis-en-ceuta-y-actualidad-politica-directo.html",
           "source": "El País",
-          "published": "2026-09-23T10:21:08.000Z"
+          "published": "2026-09-23T15:00:35.000Z"
         },
         {
-          "title": "La Policía acordona varias zonas del Congreso después de que una diputada del PP llevara un bote de gas pimienta al hemiciclo",
-          "link": "https://elpais.com/espana/2026-09-23/armengol-pide-a-la-diputada-popular-ana-vazquez-que-abandone-la-camara-por-sacar-un-bote-de-gas-pimienta.html",
+          "title": "El Tribunal de Cuentas alerta de “graves deficiencias” en el sistema de las pulseras telemáticas para maltratadores",
+          "link": "https://elpais.com/sociedad/2026-09-23/el-tribunal-de-cuentas-alerta-de-graves-deficiencias-en-el-sistema-de-las-pulseras-telematicas-para-maltratadores.html",
           "source": "El País",
-          "published": "2026-09-23T10:17:32.000Z"
+          "published": "2026-09-23T14:51:43.000Z"
         },
         {
-          "title": "El Sindicat d’Habitatge Socialista detiene el desahucio de un matrimonio de 81 y 74 años en Badalona",
-          "link": "https://diariosocialista.net/2026/09/23/el-sindicat-dhabitatge-socialista-detiene-el-desahucio-de-un-matrimonio-de-81-y-74-anos-en-badalona/",
-          "source": "Diario Socialista",
-          "published": "2026-09-23T10:06:11.000Z"
-        },
-        {
-          "title": "Escribir el futuro desde España: “Podemos ser una gran potencia tecnológica europea”",
-          "link": "https://elpais.com/aniversario/branded/un-futuro-por-escribir/2026-09-23/escribir-el-futuro-desde-espana-podemos-ser-una-gran-potencia-tecnologica-europea.html",
+          "title": "Sánchez y Mamdani reivindican juntos las políticas sociales españolas: “Los poderosos nos temen”",
+          "link": "https://elpais.com/espana/2026-09-23/sanchez-y-mamdani-reivindican-juntos-las-politicas-sociales-espanolas.html",
           "source": "El País",
-          "published": "2026-09-23T10:03:42.000Z"
+          "published": "2026-09-23T14:22:32.000Z"
         },
         {
-          "title": "El desfalco silencioso de la VPO: 200.000 millones que pudieron ser 2 millones de alquileres públicos",
-          "link": "https://diariosocialista.net/2026/09/23/el-desfalco-silencioso-de-la-vpo-200-000-millones-que-pudieron-ser-2-millones-de-alquileres-publicos/",
+          "title": "Así fue el operativo judicial que echó a Maricarmen: orden del Juzgado 90 de Madrid y sentencia del Supremo",
+          "link": "https://diariosocialista.net/2026/09/23/asi-fue-el-operativo-judicial-que-echo-a-maricarmen-orden-del-juzgado-90-de-madrid-y-sentencia-del-supremo/",
           "source": "Diario Socialista",
-          "published": "2026-09-23T10:00:07.000Z"
+          "published": "2026-09-23T14:17:00.000Z"
         },
         {
-          "title": "La UCO cifra en más de 78 millones el dinero evadido a Portugal por la trama de hidrocarburos de Aldama",
-          "link": "https://www.eldiario.es/politica/uco-cifra-78-millones-dinero-evadido-portugal-trama-hidrocarburos-aldama_1_13531101.html",
-          "source": "elDiario.es",
-          "published": "2026-09-23T09:24:54.000Z"
-        },
-        {
-          "title": "Enfado de Ana Vázquez tras ser expulsada: \"Esto no es un arma, sólo tiene 30 mililitros y además está vacío\"",
-          "link": "https://www.20minutos.es/nacional/enfado-ana-vazquez-tras-ser-expulsada-hemiciclo-por-armengol-esto-no-es-un-arma-solo-tiene-30-mililitros-ademas-esta-vacio_7040246_0.html",
-          "source": "20minutos",
-          "published": "2026-09-23T09:23:49.000Z"
+          "title": "Sumar exige que el Gobierno apruebe el decreto de vivienda que hubiera evitado el desahucio de Maricarmen junto al escudo social",
+          "link": "https://elpais.com/economia/2026-09-23/sumar-exige-que-el-gobierno-apruebe-el-decreto-de-vivienda-junto-con-el-escudo-anticrisis-la-proxima-semana.html",
+          "source": "El País",
+          "published": "2026-09-23T14:13:43.000Z"
         }
       ]
     },
@@ -153,56 +154,67 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-09-23T10:27:41.976Z"
+        },
+        {
+          "title": "Trump, Lula y Macron marcan inicio de la Asamblea General de la ONU",
+          "link": "https://www.france24.com/es/video/20260923-trump-lula-y-macron-marcan-inicio-de-la-asamblea-general-de-la-onu",
+          "source": "France 24",
+          "summary": "La ONU abrió su 81ª Asamblea General en Nueva York con protagonismo de Trump, Lula y Macron. Trump proclamó que EE.UU. es ‘el país más poderoso del mundo’; Lula denunció la crisis democrática en Venezuela y Cuba; y Macron pidió mayor compromiso internacional con Palestina.",
+          "sources": [
+            "France 24",
+            "BBC Mundo"
+          ],
+          "firstSeen": "2026-09-23T15:46:03.977Z"
         }
       ],
       "items": [
         {
-          "title": "El primer ministro británico da marcha atrás en el acuerdo de devolución de las islas Chagos para complacer a Trump",
-          "link": "https://www.eldiario.es/internacional/primer-ministro-britanico-da-marcha-acuerdo-devolucion-islas-chagos-complacer-trump_1_13530994.html",
+          "title": "En directo: \"Argentina no va a esperar que la ONU esté a la altura de su mandato, va a tomar cartas en el asunto\": Milei sobre Malvinas",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260923-en-directo-presidente-iran%C3%AD-intervendr%C3%A1-ante-la-onu-por-primera-vez-desde-que-ee-uu-e-israel-lanzaron-la-guerra-contra-teher%C3%A1nc",
+          "source": "France 24",
+          "published": "2026-09-23T15:28:54.000Z"
+        },
+        {
+          "title": "Irán abre la vía diplomática sin descartar seguir adelante con la guerra",
+          "link": "https://elpais.com/internacional/2026-09-23/iran-abre-la-via-diplomatica-sin-descartar-seguir-adelante-con-la-guerra.html",
+          "source": "El País Internacional",
+          "published": "2026-09-23T15:22:56.000Z"
+        },
+        {
+          "title": "El Reino Unido cede a la presión de Trump y anuncia que revisará la devolución del archipiélago de Chagos",
+          "link": "https://elpais.com/internacional/2026-09-23/el-reino-unido-cede-a-la-presion-de-trump-y-anuncia-que-revisara-la-devolucion-del-archipielago-de-chagos.html",
+          "source": "El País Internacional",
+          "published": "2026-09-23T15:06:57.000Z"
+        },
+        {
+          "title": "Mamdani recita versos de Lorca ante Sánchez y aplaude las medidas sociales aprobadas por el Gobierno: \"Restauró la fe en la democracia\"",
+          "link": "https://www.20minutos.es/internacional/mamdani-recita-versos-lorca-ante-sanchez-aplaude-las-medidas-sociales-aprobadas-por-gobierno-restauro-fe-democracia_7040452_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-23T14:43:24.000Z"
+        },
+        {
+          "title": "El segundo día de la Asamblea General de la ONU, en imágenes",
+          "link": "https://elpais.com/internacional/2026-09-23/el-segundo-dia-de-la-asamblea-general-de-la-onu-en-imagenes.html",
+          "source": "El País Internacional",
+          "published": "2026-09-23T14:37:11.000Z"
+        },
+        {
+          "title": "Azerbaiyán libera a un preso francés después de que la UE levantara las sanciones a un magnate ruso",
+          "link": "https://elpais.com/internacional/2026-09-23/azerbaiyan-libera-a-un-preso-frances-despues-de-que-la-ue-levantara-las-sanciones-a-un-magnate-ruso.html",
+          "source": "El País Internacional",
+          "published": "2026-09-23T14:28:43.000Z"
+        },
+        {
+          "title": "Trump en la ONU: ¿discurso global o campaña electoral?",
+          "link": "https://www.france24.com/es/programas/el-debate/20260923-trump-en-la-onu-discurso-global-o-campa%C3%B1a-electoral",
+          "source": "France 24",
+          "published": "2026-09-23T14:23:24.000Z"
+        },
+        {
+          "title": "El presidente iraní, Pezeshkian, responde a Trump en la ONU: \"Nos tacha de terroristas y somos víctimas del terrorismo, solo nos defendemos\"",
+          "link": "https://www.eldiario.es/internacional/presidente-irani-pezeshkian-responde-trump-onu-tacha-terroristas-victimas-terrorismo-defendemos_1_13532488.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-09-23T09:33:13.000Z"
-        },
-        {
-          "title": "Justicia de EE. UU. avala veto de Trump a medios a la Casa Blanca",
-          "link": "https://www.dw.com/es/justicia-de-ee-uu-avala-veto-de-trump-a-medios-a-la-casa-blanca/a-79386036?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-23T09:32:00.000Z"
-        },
-        {
-          "title": "Xi Jinping viaja a EE.UU.: el \"príncipe\" que lo perdió todo antes de convertirse en el líder más poderoso de China",
-          "link": "https://www.bbc.com/mundo/articles/c8ly4pqd2zlko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-09-23T09:16:28.000Z"
-        },
-        {
-          "title": "Más bases americanas, un cerco a China y Rusia y la \"actualización\" del pacto de 1951: así es el nuevo acuerdo sobre Groenlandia",
-          "link": "https://www.20minutos.es/internacional/mas-bases-americanas-un-cerco-china-rusia-actualizacion-pacto-1951-asi-es-nuevo-acuerdo-sobre-groenlandia_7039655_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-23T08:53:13.000Z"
-        },
-        {
-          "title": "Un ataque ruso incendia un centro comercial en Zaporiyia y deja dos heridos",
-          "link": "https://www.20minutos.es/internacional/un-ataque-ruso-incendia-un-centro-comercial-zaporiyia-deja-dos-heridos_7040204_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-23T08:52:47.000Z"
-        },
-        {
-          "title": "Irán traslada a EEUU sus condiciones para poner fin a la guerra y advierte con responder a las amenazas de \"aniquilación\" de Trump",
-          "link": "https://www.20minutos.es/internacional/iran-traslada-eeuu-sus-condiciones-para-poner-fin-guerra-advierte-con-responder-las-amenazas-trump_7040203_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-23T08:36:42.000Z"
-        },
-        {
-          "title": "Quizá no huela a azufre, pero la crueldad se respira en Naciones Unidas",
-          "link": "https://www.eldiario.es/internacional/cronicas-desde-trumplandia/no-huela-azufre-crueldad-respira-naciones-unidas_132_13530506.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-23T06:04:08.000Z"
-        },
-        {
-          "title": "Irán informó a EE.UU. sus condiciones para acabar con la guerra",
-          "link": "https://www.dw.com/es/irán-informó-a-ee-uu-sus-condiciones-para-acabar-con-la-guerra/a-79382504?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-23T05:28:00.000Z"
+          "published": "2026-09-23T14:22:14.000Z"
         }
       ]
     }
