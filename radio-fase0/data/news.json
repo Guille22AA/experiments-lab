@@ -1,62 +1,26 @@
 {
-  "date": "2026-09-22",
-  "updatedAt": "2026-09-22T20:38:59.649Z",
-  "edition": "tarde",
+  "date": "2026-09-23",
+  "updatedAt": "2026-09-23T10:27:41.976Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Crisis en Ceuta y actualidad política, directo | El Congreso retira definitivamente la acreditación como redactor a Vito Quiles",
-          "link": "https://elpais.com/espana/2026-09-22/crisis-en-ceuta-y-actualidad-politica-directo.html",
-          "source": "El País",
-          "summary": "Albares se reunirá en Nueva York con su homólogo marroquí para abordar el retorno de los inmigrantes que siguen en Ceuta | Marlaska asegura que a partir de este martes se acelerarán las filiaciones de menores",
+          "title": "Delcy Rodríguez celebra un \"histórico\" encuentro con Trump a puerta cerrada en Nueva York",
+          "link": "https://www.europapress.es/internacional/noticia-delcy-rodriguez-celebra-historico-encuentro-trump-puerta-cerrada-nueva-york-20260923075403.html",
+          "source": "Europa Press",
+          "summary": "El presidente estadounidense, Donald Trump, y la presidenta encargada de Venezuela, Delcy Rodríguez, han celebrado este martes un \"histórico\" encuentro a puerta cerrada al margen de la Asamblea General de Naciones Unidas celebrada en Nueva York, en el que constituye el primer cara a cara entre ambos líderes desde la llegada de Rodríguez a Miraflores.",
           "sources": [
+            "Europa Press",
             "El País",
-            "20minutos",
-            "elDiario.es"
+            "20minutos"
           ],
-          "firstSeen": "2026-09-22T10:34:09.473Z"
+          "firstSeen": "2026-09-23T10:27:41.976Z"
         },
         {
-          "title": "La Audiencia de Tarragona deja en manos del Supremo decidir si el ‘caso Montoro’ se queda en Cataluña o se traslada a Madrid",
-          "link": "https://elpais.com/espana/2026-09-22/la-audiencia-de-tarragona-deja-en-manos-del-supremo-decidir-si-el-caso-montoro-se-queda-en-cataluna-o-se-traslada-a-madrid.html",
-          "source": "El País",
-          "summary": "Varios de los acusados, incluido el exministro de Hacienda, habían pedido que los juzgados de Madrid asumieran la investigación",
-          "sources": [
-            "El País",
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-09-22T10:34:09.473Z"
-        },
-        {
-          "title": "El CGPJ abre expediente disciplinario al juez que dijo que las mujeres tienen \"ventajas\" cuando denuncian violencia machista - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3oyVmlXQmpJLWhJdXJ1UHJyX3FkWHpRZ1dISnNBZGJ2bk16b1NlUFNRbEJ4NHdIdVUwSUF4N2xYRUZoZXF4X0tEeHQyNlZzc3lSN29JbmtNN2RESl9SMFFha2RIbW45bE5TWTc4MVNnN3dPT1lNRnowQnBlcjc2WFlSN0YtX2hjV0VUNFFNWERZX1BlZlZqNUJnOGhkREpTTjV1NEVqcS1tM0dmc3dvOHFNVzdFMjl5SHVEZ2w3bEdlSHgxampOZjVyb0VSTTQzSE5Rb0RhdnpPRTTSAeABQVVfeXFMTjZCQnpPdHVVemFMQnFFSGdpUHAtalRKa2ZHZzdoYmVaSWtEWnNNY2FXNndjTWQtWUlmZWdKVnZNNmNqVlFycnAyTTFRSGZmdjdEb1BmYjY5eVNtMWEzMWFINGYtd1d5UHhmWGNnRUhEUHdVdE52RkhndmpteTN1YVJfeEtuU1ZKczItSWlyYUZEQktpQ0VRaGJpRHk1M2FVN2RxX1VyTlBiSm83QVEzSFRmWHhjdUpsOHdwRE1uUG9YenFuaXM5Nl9VM3dqcHB2OThTZ2RDcWFZRFVTS2FqQjI?oc=5",
-          "source": "Público",
-          "summary": "El CGPJ abre expediente disciplinario al juez que dijo que las mujeres tienen \"ventajas\" cuando denuncian violencia machista Diario Público",
-          "sources": [
-            "Público",
-            "El Salto",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-22T15:56:24.275Z"
-        },
-        {
-          "title": "El Congreso retira de forma definitiva la acreditación a Vito Quiles por reiteración de sanciones - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTW0wQ21LOFd1dlJhNWU0dWtWRkdEUVBndElZZEJsci1LVmVJSURBQnVmdUZHdjBGRkJjRkw3OVB1aEZ4UHZCTHpoamM5ZE55VTlPUU5xdDR1am5yR0hyX2hTdm5wa3B3Y1NLbndjMTM2ZEFZemdBR0NGbTZHNGRnQjVtT3VLOGk1eVlqZFJNVFF4UlQ0SHJ6cE9WYTFzbS1wMjlPa3JwU1ZDOW8zX19wN1J1WUJWMHg5ZWpn0gHAAUFVX3lxTFBJYVFicWVMdHhjcUJqRXNIOFhYYlRRUDhQMkptT0h6bW5pdUZXVXdueW5fTmk4WTJFNlBFZjhrVVJQNFJOTlpGaElJUFFWaEJQQTNsQmtwTmo5V28wZjhNcDFTM1ViQnJ5UE9sV210NHRiRG9kSmJuYU9JX0NYNzdEU1Y4SENzNjRKTVpHRFhycGxPczRFOUNKdjRuUlV6bWpyRjhHM2lGZzBFM09ENEZWeFdhR2dudkVDSGJXandVVg?oc=5",
-          "source": "Público",
-          "summary": "El Congreso retira de forma definitiva la acreditación a Vito Quiles por reiteración de sanciones Diario Público",
-          "sources": [
-            "Público",
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-22T15:56:24.275Z"
-        },
-        {
-          "title": "Sánchez dice ahora que ha socilitado \"respuestas\" a Marruecos porque \"falló\" su control en la frontera en la crisis de Ceuta",
+          "title": "Sánchez dice ahora que ha pedido \"respuestas\" a Marruecos porque \"falló\" su control en la frontera con Ceuta",
           "link": "https://www.20minutos.es/nacional/sanchez-dice-ahora-que-ha-pedido-respuestas-marruecos-porque-fallo-su-control-frontera-con-ceuta_7040073_0.html",
           "source": "20minutos",
           "summary": "Señala por primera vez a Rabat, al tiempo que denuncia la “falta de solidaridad” de varios gobiernos europeos con Ceuta y reclama más apoyo de la UE ante la presión migratoria.",
@@ -65,57 +29,90 @@
             "Europa Press",
             "El País"
           ],
-          "firstSeen": "2026-09-22T20:38:59.649Z"
+          "firstSeen": "2026-09-23T10:27:41.976Z"
+        },
+        {
+          "title": "Robles pide a Armengol que autorice la comparecencia de la directora del CNI tras las acusaciones de veto del PP al Gobierno",
+          "link": "https://www.20minutos.es/nacional/robles-pide-armengol-que-autorice-comparecencia-directora-cni-tras-las-acusaciones-veto-pp-gobierno_7040252_0.html",
+          "source": "20minutos",
+          "summary": "Armengol plantea citar a Robles a la comisión de secretos oficiales por Ceuta entre críticas del PP por no convocar también al CNI",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-09-23T10:27:41.976Z"
+        },
+        {
+          "title": "El Gobierno autoriza que la solicitud de extradición del activista propalestino Fergie Chambers pase a la vía judicial",
+          "link": "https://www.eldiario.es/politica/gobierno-autoriza-solicitud-extradicion-activista-propalestino-fergie-chambers-pase-via-judicial_1_13530864.html",
+          "source": "elDiario.es",
+          "summary": "El Ejecutivo argumenta que se ha limitado a hacer \"lo que corresponde en esta fase procedimental\" aunque Sumar había pedido frenarlo ya. El caso pasará a la Audiencia Nacional y después el Gobierno tendrá la última palabra La pareja del filántropo propalestino detenido en España a petición de EEUU se reúne con los partidos y pide a Sánchez su libertad El Gobierno ha autorizado la continuación de la solicitud de extradición de James Fergie Chambers, el millonario filántropo de izquierdas detenido en Madrid tras la petición de entrega que formuló EEUU por un supuesto apoyo a Hamás. Ahora la…",
+          "sources": [
+            "elDiario.es",
+            "Diario Socialista"
+          ],
+          "firstSeen": "2026-09-23T10:27:41.976Z"
+        },
+        {
+          "title": "La OCDE eleva la previsión de crecimiento de España al 2,6% para este año, pero sube la inflación al 3,7%",
+          "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ocde-eleva-prevision-crecimiento-espana-26-ano-sube-inflacion-37-20260923111853.html",
+          "source": "Europa Press",
+          "summary": "La Organización para la Cooperación y el Desarrollo Económico (OCDE)ha revisado al alza las perspectivas de crecimiento para la economía española para los próximos años y ha fijado el incremento del producto interior bruto (PIB) para 2026 en el 2,6%, cuatro décimas más que las anteriores previsiones, y en el 1,8% para 2027, una décima más.",
+          "sources": [
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-09-23T10:27:41.976Z"
         }
       ],
       "items": [
         {
-          "title": "Sánchez exige regular la IA para salvar a los menores: “Antes que los beneficios de los tecnooligarcas están nuestros hijos”",
-          "link": "https://elpais.com/espana/2026-09-22/sanchez-exige-regular-la-ia-para-salvar-a-los-menores-antes-que-los-beneficios-de-los-tecnooligarcas-estan-nuestros-hijos.html",
+          "title": "La policía lanza gas pimienta para ejecutar el desahucio de Maricarmen ante la negativa del fondo a conceder una prórroga",
+          "link": "https://elpais.com/espana/madrid/2026-09-23/maricarmen-se-queda-un-centenar-de-activistas-espera-junto-a-la-anciana-a-la-comision-judicial.html",
           "source": "El País",
-          "published": "2026-09-22T20:31:02.000Z"
+          "published": "2026-09-23T10:26:42.000Z"
         },
         {
-          "title": "La Justicia cerca al CEO de Glovo por emplear a repartidores como falsos autónomos",
-          "link": "https://www.20minutos.es/lainformacion/empresas/justicia-cerca-ceo-glovo-por-emplear-repartidores-como-falsos-autonomos_7040092_0.html",
-          "source": "20minutos",
-          "published": "2026-09-22T20:04:44.000Z"
+          "title": "Crisis en Ceuta y actualidad política, en directo | Calma en las fronteras blindadas de Ceuta y Melilla en un día de alerta por la amenaza de un nuevo salto masivo",
+          "link": "https://elpais.com/espana/2026-09-23/crisis-en-ceuta-y-actualidad-politica-directo.html",
+          "source": "El País",
+          "published": "2026-09-23T10:21:08.000Z"
         },
         {
-          "title": "El prestamista de Países Bajos Simon Verhoeven será puesto a disposición del juez del caso Zapatero este viernes",
-          "link": "https://www.eldiario.es/politica/prestamista-paises-bajos-simon-verhoeven-sera-puesto-disposicion-juez-caso-zapatero-viernes_1_13530332.html",
+          "title": "La Policía acordona varias zonas del Congreso después de que una diputada del PP llevara un bote de gas pimienta al hemiciclo",
+          "link": "https://elpais.com/espana/2026-09-23/armengol-pide-a-la-diputada-popular-ana-vazquez-que-abandone-la-camara-por-sacar-un-bote-de-gas-pimienta.html",
+          "source": "El País",
+          "published": "2026-09-23T10:17:32.000Z"
+        },
+        {
+          "title": "El Sindicat d’Habitatge Socialista detiene el desahucio de un matrimonio de 81 y 74 años en Badalona",
+          "link": "https://diariosocialista.net/2026/09/23/el-sindicat-dhabitatge-socialista-detiene-el-desahucio-de-un-matrimonio-de-81-y-74-anos-en-badalona/",
+          "source": "Diario Socialista",
+          "published": "2026-09-23T10:06:11.000Z"
+        },
+        {
+          "title": "Escribir el futuro desde España: “Podemos ser una gran potencia tecnológica europea”",
+          "link": "https://elpais.com/aniversario/branded/un-futuro-por-escribir/2026-09-23/escribir-el-futuro-desde-espana-podemos-ser-una-gran-potencia-tecnologica-europea.html",
+          "source": "El País",
+          "published": "2026-09-23T10:03:42.000Z"
+        },
+        {
+          "title": "El desfalco silencioso de la VPO: 200.000 millones que pudieron ser 2 millones de alquileres públicos",
+          "link": "https://diariosocialista.net/2026/09/23/el-desfalco-silencioso-de-la-vpo-200-000-millones-que-pudieron-ser-2-millones-de-alquileres-publicos/",
+          "source": "Diario Socialista",
+          "published": "2026-09-23T10:00:07.000Z"
+        },
+        {
+          "title": "La UCO cifra en más de 78 millones el dinero evadido a Portugal por la trama de hidrocarburos de Aldama",
+          "link": "https://www.eldiario.es/politica/uco-cifra-78-millones-dinero-evadido-portugal-trama-hidrocarburos-aldama_1_13531101.html",
           "source": "elDiario.es",
-          "published": "2026-09-22T19:49:01.000Z"
+          "published": "2026-09-23T09:24:54.000Z"
         },
         {
-          "title": "El PSOE rectifica y el Congreso estudiará despenalizar la jubilación anticipada a personas con 40 años cotizados",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/psoe-rectifica-congreso-estudiara-despenalizar-jubilacion-anticipada-personas-con-40-anos-cotizados_7040002_0.html",
+          "title": "Enfado de Ana Vázquez tras ser expulsada: \"Esto no es un arma, sólo tiene 30 mililitros y además está vacío\"",
+          "link": "https://www.20minutos.es/nacional/enfado-ana-vazquez-tras-ser-expulsada-hemiciclo-por-armengol-esto-no-es-un-arma-solo-tiene-30-mililitros-ademas-esta-vacio_7040246_0.html",
           "source": "20minutos",
-          "published": "2026-09-22T18:47:47.000Z"
-        },
-        {
-          "title": "La ley para prejubilarse sin penalización con 40 años cotizados echa a andar en el Congreso",
-          "link": "https://elpais.com/economia/2026-09-22/la-ley-para-prejubilarse-sin-penalizacion-con-40-anos-cotizados-echa-a-andar-en-el-congreso.html",
-          "source": "El País",
-          "published": "2026-09-22T18:47:07.000Z"
-        },
-        {
-          "title": "Lula a Trump: “Brasil no cabe en el patio trasero de nadie”",
-          "link": "https://elpais.com/america/2026-09-22/lula-a-trump-brasil-no-se-mete-en-el-patio-trasero-de-nadie.html",
-          "source": "El País",
-          "published": "2026-09-22T18:15:45.000Z"
-        },
-        {
-          "title": "Una mujer se ofrece a pagar la subida del alquiler a Maricarmen para evitar el desahucio previsto este miércoles",
-          "link": "https://www.eldiario.es/madrid/somos/mujer-ofrece-pagar-subida-alquiler-maricarmen-evitar-desahucio-previsto-miercoles_1_13530183.html",
-          "source": "elDiario.es",
-          "published": "2026-09-22T18:06:23.000Z"
-        },
-        {
-          "title": "El momento en el que Cuba abandona el pleno tras decir Trump que es \"un Estado fallido\" y \"acabará cayendo\"",
-          "link": "https://www.20minutos.es/internacional/asi-ha-sido-momento-que-cuba-abandona-onu-tras-decir-trump-que-es-un-estado-fallido-acabara-cayendo_7040038_0.html",
-          "source": "20minutos",
-          "published": "2026-09-22T17:49:50.000Z"
+          "published": "2026-09-23T09:23:49.000Z"
         }
       ]
     },
@@ -124,53 +121,27 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Qué contempla el acuerdo sobre Groenlandia firmado entre EE.UU. y Dinamarca tras meses de amenazas de Trump",
-          "link": "https://www.bbc.com/mundo/articles/cvzez9yz6766o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El acuerdo de defensa firmado en la Asamblea General de la ONU también reafirma la soberanía de Dinamarca sobre su territorio ártico semiautónomo.",
+          "title": "EE. UU., Dinamarca y Groenlandia firman acuerdo de seguridad",
+          "link": "https://www.france24.com/es/video/20260922-ee-uu-dinamarca-y-groenlandia-firman-acuerdo-de-seguridad",
+          "source": "France 24",
+          "summary": "EE. UU., Dinamarca y Groenlandia firmaron un acuerdo de seguridad que otorga a Washington presencia militar permanente en la isla ártica. El pacto prohíbe que actores ajenos a la OTAN tengan presencia en el territorio, además se respeta la autodeterminación local y soberanía nacional.",
           "sources": [
-            "BBC Mundo",
             "France 24",
-            "20minutos Internacional",
-            "elDiario.es Internacional",
-            "DW"
+            "BBC Mundo",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-09-22T20:38:59.649Z"
+          "firstSeen": "2026-09-23T10:27:41.976Z"
         },
         {
-          "title": "Trump halaga a Mamdani tras reunirse con él en Nueva York: \"Tiene potencial para ser un gran alcalde\"",
-          "link": "https://www.20minutos.es/internacional/trump-halaga-mamdani-potencial-gran-alcalde-nueva-york_7039585_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El presidente de EEUU y el alcalde de Nueva York aparcan sus diferencias y acuerdan poner en marcha 12.000 viviendas asequibles en la gran manzana.",
+          "title": "En pleno choque con Trump, Lula defiende a Brasil en la ONU: \"No cabe en el patio trasero de nadie\"",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260922-en-pleno-choque-con-trump-lula-defiende-a-brasil-en-la-onu-no-cabe-en-el-patio-trasero-de-nadie",
+          "source": "France 24",
+          "summary": "A menos de dos semanas de las elecciones presidenciales, el presidente brasileño, Luiz Inácio Lula da Silva, pronunció ante la Asamblea General de la ONU un discurso marcado por la campaña electoral. Denunció las \"tentaciones hegemónicas\" y las injerencias externas en América Latina, defendió el sistema electoral brasileño y advirtió que \"la democracia está nuevamente en jaque\".",
           "sources": [
-            "20minutos Internacional",
-            "elDiario.es Internacional",
+            "France 24",
             "El País Internacional"
           ],
-          "firstSeen": "2026-09-22T10:34:09.473Z"
-        },
-        {
-          "title": "EEUU, Dinamarca y Groenlandia sellan el nuevo acuerdo de seguridad para la isla: \"Somos aliados confiables\"",
-          "link": "https://www.20minutos.es/internacional/eeuu-dinamarca-groenlandia-sellan-nuevo-acuerdo-seguridad-para-isla-somos-aliados-confiables_7039999_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El pacto se ha confirmado en los márgenes de la Asamblea General de la ONU.",
-          "sources": [
-            "20minutos Internacional",
-            "elDiario.es Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-09-22T15:56:24.275Z"
-        },
-        {
-          "title": "Japón: el tifón Dujuan deja cuatro muertos y más de 45.000 viviendas sin electricidad",
-          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260922-jap%C3%B3n-el-tif%C3%B3n-dujuan-deja-cuatro-muertos-y-m%C3%A1s-de-45-000-viviendas-sin-electricidad",
-          "source": "France 24",
-          "summary": "El tifón Dujuan dejó varios muertos, heridos y desaparecidos a su paso por Japón, donde las lluvias torrenciales provocaron deslizamientos de tierra y cortes de electricidad en miles de viviendas cercanas a Tokio. El ciclón también alteró diferentes actividades y dejó precipitaciones récord antes de alejarse de la costa japonesa y avanzar por el Pacífico.",
-          "sources": [
-            "France 24",
-            "DW"
-          ],
-          "firstSeen": "2026-09-22T15:56:24.275Z"
+          "firstSeen": "2026-09-23T10:27:41.976Z"
         },
         {
           "title": "Irán, Cuba, Ucrania, Groenlandia e IA: qué dijo Trump ante la Asamblea General de la ONU",
@@ -181,57 +152,57 @@
             "France 24",
             "El País Internacional"
           ],
-          "firstSeen": "2026-09-22T20:38:59.649Z"
+          "firstSeen": "2026-09-23T10:27:41.976Z"
         }
       ],
       "items": [
         {
-          "title": "¿Quiénes no asisten a la Asamblea General de la ONU 2026 y por qué?",
-          "link": "https://www.dw.com/es/¿quiénes-no-asisten-a-la-asamblea-general-de-la-onu-2026-y-por-qué/a-79379904?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "El primer ministro británico da marcha atrás en el acuerdo de devolución de las islas Chagos para complacer a Trump",
+          "link": "https://www.eldiario.es/internacional/primer-ministro-britanico-da-marcha-acuerdo-devolucion-islas-chagos-complacer-trump_1_13530994.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-23T09:33:13.000Z"
+        },
+        {
+          "title": "Justicia de EE. UU. avala veto de Trump a medios a la Casa Blanca",
+          "link": "https://www.dw.com/es/justicia-de-ee-uu-avala-veto-de-trump-a-medios-a-la-casa-blanca/a-79386036?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-09-22T20:20:00.000Z"
+          "published": "2026-09-23T09:32:00.000Z"
         },
         {
-          "title": "El ministro de Exteriores de Irán y los enviados de Trump se reúnen en la ONU",
-          "link": "https://elpais.com/internacional/2026-09-22/iran-se-muestra-dispuesto-a-reabrir-ormuz-si-trump-afloja-la-presion-militar-y-levanta-su-bloqueo.html",
-          "source": "El País Internacional",
-          "published": "2026-09-22T20:16:19.000Z"
+          "title": "Xi Jinping viaja a EE.UU.: el \"príncipe\" que lo perdió todo antes de convertirse en el líder más poderoso de China",
+          "link": "https://www.bbc.com/mundo/articles/c8ly4pqd2zlko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-09-23T09:16:28.000Z"
         },
         {
-          "title": "La agonía de los viejos gigantes y el nacimiento de pequeñas \"islas\": ¿ha llegado el fin del sistema de partidos en Alemania?",
-          "link": "https://www.eldiario.es/internacional/agonia-viejos-gigantes-nacimiento-pequenas-islas-llegado-sistema-partidos-alemania_129_13528010.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-22T20:08:49.000Z"
-        },
-        {
-          "title": "Trump despliega en Naciones Unidas su diplomacia de la fuerza",
-          "link": "https://www.eldiario.es/internacional/trump-despliega-naciones-unidas-diplomacia-fuerza_1_13530310.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-22T20:04:35.000Z"
-        },
-        {
-          "title": "AfD: ¿puede el Gobierno alemán aplicar la \"coerción federal\" contra la extrema derecha en Sajonia-Anhalt?",
-          "link": "https://www.dw.com/es/afd-¿puede-el-gobierno-alemán-aplicar-la-coerción-federal-contra-la-extrema-derecha-en-sajonia-anhalt/a-79381047?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-22T20:00:00.000Z"
-        },
-        {
-          "title": "Más de 70 legisladores de EEUU, Canadá y América Latina exigen a Trump el fin de los asesinatos extrajudiciales en el Caribe y el Pacífico",
-          "link": "https://www.eldiario.es/internacional/70-legisladores-eeuu-america-latina-exigen-trump-asesinatos-extrajudiciales-caribe-pacifico_1_13530105.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-22T19:45:36.000Z"
-        },
-        {
-          "title": "Texas: ¿la IA abre una grieta en el bastión republicano?",
-          "link": "https://www.france24.com/es/programas/en-foco/20260922-texas-la-ia-abre-una-grieta-en-el-basti%C3%B3n-republicano",
-          "source": "France 24",
-          "published": "2026-09-22T19:17:20.000Z"
-        },
-        {
-          "title": "Macron critica en la ONU a quienes \"se jactan de una supuesta paz\" mientras se impone la \"ley de la selva\"",
-          "link": "https://www.20minutos.es/internacional/macron-critica-onu-quienes-se-jactan-una-supuesta-paz-mientras-se-impone-ley-selva_7040081_0.html",
+          "title": "Más bases americanas, un cerco a China y Rusia y la \"actualización\" del pacto de 1951: así es el nuevo acuerdo sobre Groenlandia",
+          "link": "https://www.20minutos.es/internacional/mas-bases-americanas-un-cerco-china-rusia-actualizacion-pacto-1951-asi-es-nuevo-acuerdo-sobre-groenlandia_7039655_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-09-22T19:15:56.000Z"
+          "published": "2026-09-23T08:53:13.000Z"
+        },
+        {
+          "title": "Un ataque ruso incendia un centro comercial en Zaporiyia y deja dos heridos",
+          "link": "https://www.20minutos.es/internacional/un-ataque-ruso-incendia-un-centro-comercial-zaporiyia-deja-dos-heridos_7040204_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-23T08:52:47.000Z"
+        },
+        {
+          "title": "Irán traslada a EEUU sus condiciones para poner fin a la guerra y advierte con responder a las amenazas de \"aniquilación\" de Trump",
+          "link": "https://www.20minutos.es/internacional/iran-traslada-eeuu-sus-condiciones-para-poner-fin-guerra-advierte-con-responder-las-amenazas-trump_7040203_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-23T08:36:42.000Z"
+        },
+        {
+          "title": "Quizá no huela a azufre, pero la crueldad se respira en Naciones Unidas",
+          "link": "https://www.eldiario.es/internacional/cronicas-desde-trumplandia/no-huela-azufre-crueldad-respira-naciones-unidas_132_13530506.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-23T06:04:08.000Z"
+        },
+        {
+          "title": "Irán informó a EE.UU. sus condiciones para acabar con la guerra",
+          "link": "https://www.dw.com/es/irán-informó-a-ee-uu-sus-condiciones-para-acabar-con-la-guerra/a-79382504?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-23T05:28:00.000Z"
         }
       ]
     }
