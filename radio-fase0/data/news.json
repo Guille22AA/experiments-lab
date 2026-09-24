@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
-  "updatedAt": "2026-09-24T10:44:23.063Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-09-24T16:07:31.079Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -15,7 +15,8 @@
           "sources": [
             "20minutos",
             "elDiario.es",
-            "Europa Press"
+            "Europa Press",
+            "Público"
           ],
           "firstSeen": "2026-09-24T10:44:23.063Z"
         },
@@ -30,6 +31,18 @@
             "Europa Press"
           ],
           "firstSeen": "2026-09-24T10:44:23.063Z"
+        },
+        {
+          "title": "El relator de la ONU para Vivienda reprocha a la jueza no haber suspendido el desahucio de Maricarmen",
+          "link": "https://www.europapress.es/epsocial/derechos-humanos/noticia-relator-onu-vivienda-reprocha-jueza-no-haber-suspendido-desahucio-maricarmen-20260924140414.html",
+          "source": "Europa Press",
+          "summary": "El relator de la ONU en vivienda, Koldo Casla, ha criticado el desahucio de Maricarmen de su piso en el que llevaba viviendo 70 años en Madrid y ha reprochado a la jueza no haber suspendido el desalojo para \"evitar un daño irreparable y para permitir que España cumpla con sus obligaciones internacionales de derechos humanos de buena fe\".",
+          "sources": [
+            "Europa Press",
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-24T16:07:31.079Z"
         },
         {
           "title": "El Gobierno desbloquea el decreto de vivienda tras el desahucio de Maricarmen y siete años de espera",
@@ -56,52 +69,52 @@
       ],
       "items": [
         {
-          "title": "El relator de la ONU para Vivienda asegura que la jueza \"debería haber parado\" el desahucio de Maricarmen",
-          "link": "https://www.eldiario.es/economia/onu-vivienda-asegura-jueza-deberia-haber-parado-desahucio-maricarmen_1_13534312.html",
-          "source": "elDiario.es",
-          "published": "2026-09-24T10:09:17.000Z"
-        },
-        {
-          "title": "UGT reclama incorporar la equidad intergeneracional como principio transversal de las políticas europeas",
-          "link": "https://www.ugt.es/ugt-reclama-incorporar-la-equidad-intergeneracional-como-principio-transversal-de-las-politicas",
-          "source": "UGT",
-          "published": "2026-09-24T10:02:13.000Z"
-        },
-        {
-          "title": "Sánchez tiene la potestad de expropiar el piso de Maricarmen a Urbagestión",
-          "link": "https://diariosocialista.net/2026/09/24/sanchez-tiene-la-potestad-de-expropiar-el-piso-de-maricarmen-a-urbagestion/",
-          "source": "Diario Socialista",
-          "published": "2026-09-24T10:00:36.000Z"
-        },
-        {
-          "title": "Corea del Norte prueba un nuevo misil y rechaza las exigencias de EEUU y la OIEA",
-          "link": "https://diariosocialista.net/2026/09/24/corea-del-norte-prueba-un-nuevo-misil-y-rechaza-las-exigencias-de-eeuu-y-la-oiea/",
-          "source": "Diario Socialista",
-          "published": "2026-09-24T10:00:23.000Z"
-        },
-        {
-          "title": "Detenido un hombre de 72 años tras la protesta contra el desahucio de Maricarmen",
-          "link": "https://www.20minutos.es/madrid/un-hombre-72-anos-es-detenido-tras-protesta-contra-desahucio-maricarmen_7040781_0.html",
-          "source": "20minutos",
-          "published": "2026-09-24T09:35:18.000Z"
-        },
-        {
-          "title": "El cirujano que denunció el cambio de prioridad de pacientes en Madrid se querella contra la consejera de Ayuso",
-          "link": "https://www.eldiario.es/madrid/cirujano-denuncio-cambio-prioridad-pacientes-ramon-cajal-querella-consejera-sanidad_1_13534385.html",
-          "source": "elDiario.es",
-          "published": "2026-09-24T09:32:17.000Z"
-        },
-        {
-          "title": "El doctor Luis Martos se querella contra la consejera de Sanidad madrileña por decir que él manipuló las listas de espera",
-          "link": "https://elpais.com/espana/madrid/2026-09-24/el-doctor-luis-martos-se-querella-contra-la-consejera-de-sanidad-madrilena.html",
+          "title": "Últimas noticias de la Asamblea General de la ONU, en directo | Abbas acusa a Israel de limpieza étnica: “Es un plan colonial maligno cuyo objetivo es hacer imposible la vida de los palestinos”",
+          "link": "https://elpais.com/internacional/2026-09-24/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
           "source": "El País",
-          "published": "2026-09-24T09:11:21.000Z"
+          "published": "2026-09-24T15:54:30.000Z"
         },
         {
-          "title": "La Audiencia de Madrid rechaza de nuevo la reapertura de la causa por la lona de HazteOir contra Pedro Sánchez",
-          "link": "https://www.eldiario.es/politica/audiencia-madrid-rechaza-nuevo-reapertura-causa-lona-hazteoir-pedro-sanchez_1_13534149.html",
+          "title": "Rutte ve \"muy improbable\" un ataque de Rusia contra la OTAN pero pide \"no pecar de ingenuos\"",
+          "link": "https://www.europapress.es/internacional/noticia-rutte-ve-muy-improbable-ataque-rusia-contra-otan-pide-no-pecar-ingenuos-20260924173821.html",
+          "source": "Europa Press",
+          "published": "2026-09-24T15:38:21.000Z"
+        },
+        {
+          "title": "Xi, ante Trump en la Casa Blanca: “Los intereses de China y EE UU están profundamente entrelazados”",
+          "link": "https://elpais.com/internacional/2026-09-24/xi-defiende-ante-trump-en-la-casa-blanca-la-estabilidad-estrategica-entre-estados-unidos-y-china.html",
+          "source": "El País",
+          "published": "2026-09-24T15:30:20.000Z"
+        },
+        {
+          "title": "Abbas denuncia la inacción de la comunidad internacional y se pregunta \"a qué espera\" para ayudar a los palestinos",
+          "link": "https://www.europapress.es/internacional/noticia-abbas-denuncia-inaccion-comunidad-internacional-pregunta-espera-ayudar-palestinos-20260924171846.html",
+          "source": "Europa Press",
+          "published": "2026-09-24T15:18:46.000Z"
+        },
+        {
+          "title": "Zapatero impugna a la segunda joyería requerida por el juez para tasar las joyas por \"falta de imparcialidad\"",
+          "link": "https://www.europapress.es/nacional/noticia-zapatero-impugna-segunda-joyeria-requerida-juez-tasar-joyas-falta-imparcialidad-20260924165639.html",
+          "source": "Europa Press",
+          "published": "2026-09-24T14:56:39.000Z"
+        },
+        {
+          "title": "Schnabel anuncia su salida del BCE y acelera la carrera por renovar la cúpula de la institución monetaria",
+          "link": "https://www.eldiario.es/economia/schnabel-anuncia-salida-bce-acelera-carrera-renovar-cupula-institucion-monetaria_1_13535634.html",
           "source": "elDiario.es",
-          "published": "2026-09-24T09:04:50.000Z"
+          "published": "2026-09-24T14:37:51.000Z"
+        },
+        {
+          "title": "La UE no muestra sorpresa por que drones rusos pudieran alcanzar España, Francia o Italia",
+          "link": "https://www.20minutos.es/internacional/union-europea-no-muestra-sorpresa-por-que-drones-rusos-pudieran-alcanzar-espana-francia-italia_7040983_0.html",
+          "source": "20minutos",
+          "published": "2026-09-24T14:31:05.000Z"
+        },
+        {
+          "title": "Abás interviene por vídeo en la ONU porque EEUU le ha negado el visado: \"La existencia del pueblo palestino en sus tierras está amenazada\"",
+          "link": "https://www.eldiario.es/internacional/abas-interviene-video-onu-eeuu-le-negado-visado-existencia-pueblo-palestino-tierras-amenazada_1_13535557.html",
+          "source": "elDiario.es",
+          "published": "2026-09-24T14:26:09.000Z"
         }
       ]
     },
@@ -136,6 +149,18 @@
           "firstSeen": "2026-09-24T10:44:23.063Z"
         },
         {
+          "title": "Trump impide a periodistas de CNN, Politico y MS NOW acceder a la Casa Blanca pese a que un juez levantó el veto",
+          "link": "https://elpais.com/internacional/2026-09-24/un-juez-levanta-la-prohibicion-de-acceso-a-la-casa-blanca-impuesta-por-trump-a-cnn-ms-now-y-politico.html",
+          "source": "El País Internacional",
+          "summary": "Los tres medios solicitan al magistrado que ordenó la restitución “inmediata” de las credenciales que convoque una audiencia urgente ante el desacato de la Administración",
+          "sources": [
+            "El País Internacional",
+            "France 24",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-09-24T16:07:31.079Z"
+        },
+        {
           "title": "El partido más próximo al rey gana las elecciones en Marruecos con una abstención del 62%",
           "link": "https://elpais.com/internacional/2026-09-24/el-partido-mas-proximo-al-rey-gana-las-elecciones-en-marruecos-con-una-abstencion-del-62.html",
           "source": "El País Internacional",
@@ -160,52 +185,52 @@
       ],
       "items": [
         {
-          "title": "Qué son los agentes de la IA, los poderosos sistemas que realizaron en Australia el \"primer ataque\" conocido contra un portal gubernamental",
-          "link": "https://www.bbc.com/mundo/articles/c6zxz1z7zejro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-09-24T10:39:18.000Z"
-        },
-        {
-          "title": "Rusia golpea Kiev y Járkiv mientras Ucrania se prepara para un invierno difícil",
-          "link": "https://www.france24.com/es/europa/20260924-rusia-golpea-kiev-y-j%C3%A1rkiv-mientras-ucrania-se-prepara-para-un-invierno-dif%C3%ADcil",
-          "source": "France 24",
-          "published": "2026-09-24T08:35:50.000Z"
-        },
-        {
-          "title": "El desahucio de una anciana en Madrid suscita una oleada de indignación en un país con los precios de la vivienda disparados",
-          "link": "https://www.dw.com/es/el-desahucio-de-una-anciana-en-madrid-suscita-una-oleada-de-indignación-en-un-país-con-los-precios-de-la-vivienda-disparados/a-79406135?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-24T07:24:00.000Z"
-        },
-        {
-          "title": "Logros y descalabros geopolíticos de Trump: un balance",
-          "link": "https://elpais.com/internacional/2026-09-24/logros-y-descalabros-geopoliticos-de-trump-un-balance.html",
-          "source": "El País Internacional",
-          "published": "2026-09-24T06:22:00.000Z"
-        },
-        {
-          "title": "En directo: Irán extenderá el conflicto \"hasta el océano Índico\" si Estados Unidos vuelve a atacarlo",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260924-en-directo-netanyahu-afronta-el-debate-sobre-gaza-en-la-onu-mientras-abbas-intervendr%C3%A1-por-videoconferencia",
-          "source": "France 24",
-          "published": "2026-09-24T05:38:20.000Z"
-        },
-        {
-          "title": "Un juez tumba el veto de Trump a CNN, MSNOW y Politico",
-          "link": "https://www.eldiario.es/internacional/juez-bloquea-veto-trump-cnn-msnow-politico-les-permite-entrar-casa-blanca_1_13533743.html",
+          "title": "La inteligencia militar danesa cree que Rusia intensificará sus \"ataques híbridos\" en los próximos meses contra la OTAN",
+          "link": "https://www.eldiario.es/internacional/inteligencia-militar-danesa-cree-rusia-intensificara-ataques-hibridos-proximos-meses-otan_1_13535851.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-09-24T05:28:50.000Z"
+          "published": "2026-09-24T15:57:21.000Z"
         },
         {
-          "title": "Xi pide a Trump una relación de \"socios, no rivales\" entre China y EEUU",
-          "link": "https://www.20minutos.es/internacional/xi-pide-trump-una-relacion-socios-no-rivales-entre-china-eeuu_7040632_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-24T05:00:09.000Z"
-        },
-        {
-          "title": "Australia investiga el acceso de un agente de OpenAI a archivos sanitarios restringidos",
-          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260924-australia-revela-que-openai-infiltr%C3%B3-su-sitio-web-gubernamental-de-salud",
+          "title": "La CIA alerta un ataque ruso con drones contra España, Francia o Italia: esto es lo que sabemos",
+          "link": "https://www.france24.com/es/europa/20260924-la-cia-alerta-un-ataque-ruso-con-drones-contra-espa%C3%B1a-francia-o-italia-esto-es-lo-que-sabemos",
           "source": "France 24",
-          "published": "2026-09-24T04:55:33.000Z"
+          "published": "2026-09-24T15:49:00.000Z"
+        },
+        {
+          "title": "El Comité Electoral de Israel aprueba excluir a todos los partidos árabes de los comicios de octubre",
+          "link": "https://elpais.com/internacional/2026-09-24/el-comite-electoral-de-israel-aprueba-excluir-a-todos-los-partidos-arabes-de-los-comicios-de-octubre.html",
+          "source": "El País Internacional",
+          "published": "2026-09-24T15:31:52.000Z"
+        },
+        {
+          "title": "El Niño cambia a huracanes, tifones y ciclones en todo el planeta",
+          "link": "https://www.dw.com/es/el-niño-cambia-a-huracanes-tifones-y-ciclones-en-todo-el-planeta/a-79403883?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-24T15:20:00.000Z"
+        },
+        {
+          "title": "Xi emplaza a Trump en la Casa Blanca a \"evitar la confrontación\": \"Debemos encontrar el camino para nuestros dos grandes países\"",
+          "link": "https://www.eldiario.es/internacional/xi-emplaza-trump-casa-blanca-evitar-confrontacion-debemos-encontrar-camino-grandes-paises_1_13535564.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-24T15:03:08.000Z"
+        },
+        {
+          "title": "Un terremoto de magnitud 5,4 sacude el sureste de Turquía",
+          "link": "https://www.20minutos.es/internacional/un-terremoto-magnitud-5-4-sacude-sureste-turquia_7041003_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-24T15:00:18.000Z"
+        },
+        {
+          "title": "Abbas acusa a Israel de perpetrar \"un plan colonial maligno en Palestina\" y pide a la ONU que reaccione: \"No permitan más masacres\"",
+          "link": "https://www.20minutos.es/internacional/abbas-acusa-israel-perpetrar-un-plan-colonial-maligno-palestina-pide-onu-que-reaccione-no-permitan-mas-masacres_7040708_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-24T14:57:57.000Z"
+        },
+        {
+          "title": "China blinda Beijing: ¿por qué prohíbe los drones en sus cielos?",
+          "link": "https://www.france24.com/es/programas/ciencia-y-tecnolog%C3%ADa/20260924-china-blinda-beijing-por-qu%C3%A9-proh%C3%ADbe-los-drones-en-sus-cielos",
+          "source": "France 24",
+          "published": "2026-09-24T14:49:36.000Z"
         }
       ]
     }
