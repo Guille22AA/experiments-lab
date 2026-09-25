@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "updatedAt": "2026-09-25T16:08:08.681Z",
+  "updatedAt": "2026-09-25T20:52:14.561Z",
   "edition": "tarde",
   "sections": [
     {
@@ -32,6 +32,18 @@
           "firstSeen": "2026-09-25T16:08:08.681Z"
         },
         {
+          "title": "Frente Amplio, la nueva marca de los partidos de Sumar para las generales - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkpLVldEaTNoZWZOTHY5WnJVZkNWMXVobzhDM0pjSzBDY1J6bUlERlpreWVRSlp3VkZ4OXJlSkp3bktqVEpEUkotMWhNWmZGQThtdGJmUXBrOTdpZnpISWdHNEdTSlhqOFdRMllzXy1CYTNIWGlNcVJmVTZsdlM4OXd4YnF4N2h0RmQtLXB3bEd1SUZQRHNYQ3k1aUjSAaIBQVVfeXFMTUhSYU1SZWgwTzAtamptNGxNU3c4RWJHU3BpSnNPSDhoOU1WcXVpWmRFdEV3MnNMVTViNlNmd1FlNkNKQUlVNU1odWFGMXd5SnRGVThzXzg0RUUyZ1JSc2RBZHpiZDdUY04ya2pBeFBfc21iNXV0UEtiWGRhRDVOdUIwbF8teXZPNURINlR4T2lTOWtrMDZJaEwxalBGUnVNcGlR?oc=5",
+          "source": "Público",
+          "summary": "Frente Amplio, la nueva marca de los partidos de Sumar para las generales Diario Público",
+          "sources": [
+            "Público",
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-09-25T20:52:14.561Z"
+        },
+        {
           "title": "El juez deja en libertad al principal prestamista del caso Plus Ultra pero le prohíbe salir de España",
           "link": "https://www.eldiario.es/politica/juez-deja-libertad-presunto-caso-plus-ultra-le-prohibe-salir-espana_1_13537272.html",
           "source": "elDiario.es",
@@ -52,67 +64,56 @@
             "Europa Press"
           ],
           "firstSeen": "2026-09-25T10:48:21.769Z"
-        },
-        {
-          "title": "Marruecos, sobre los inmigrantes que no han sido devueltos: \"Hay que preguntarle a España\"",
-          "link": "https://www.20minutos.es/nacional/crisis-migratoria-ceuta-directo-marruecos-insiste-que-si-los-inmigrantes-no-han-sido-devueltos-hay-que-preguntarle-espana-las-razones_7041183_6.html",
-          "source": "20minutos",
-          "summary": "Última hora sobre la crisis migratoria en Ceuta.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-09-25T10:48:21.769Z"
         }
       ],
       "items": [
         {
-          "title": "Feijóo acusa al Gobierno de utilizar a Maricarmen para \"hacer política\" y promete la construcción de un millón de viviendas",
-          "link": "https://www.20minutos.es/nacional/feijoo-acusa-gobierno-utilizar-maricarmen-para-hacer-politica-promete-construccion-un-millon-viviendas_7041496_0.html",
-          "source": "20minutos",
-          "published": "2026-09-25T15:09:27.000Z"
-        },
-        {
-          "title": "La empresa que ha desahuciado a Maricarmen ofrece el piso al Ayuntamiento de Madrid para que pueda volver a casa",
-          "link": "https://www.20minutos.es/madrid/empresa-inmobiliaria-que-ha-desahuciado-maricarmen-ofrece-piso-ayuntamiento-madrid-para-que-pueda-volver-casa_7041500_0.html",
-          "source": "20minutos",
-          "published": "2026-09-25T15:03:23.000Z"
-        },
-        {
-          "title": "Muere un migrante en el asentamiento de la playa del Trampolín",
-          "link": "https://www.eldiario.es/desalambre/muere-migrante-asentamiento-playa-trampolin_1_13538829.html",
+          "title": "\"Por todas las Maricarmen\": Santander se suma a la ola de indignación contra los desahucios sin alternativa habitacional",
+          "link": "https://www.eldiario.es/cantabria/maricarmen-santander-suma-ola-indignacion-desahucios-alternativa-habitacional_1_13539652.html",
           "source": "elDiario.es",
-          "published": "2026-09-25T14:59:27.000Z"
+          "published": "2026-09-25T20:10:26.000Z"
         },
         {
-          "title": "Un diputado de Vox 'pillado' mandando \"a tomar por culo\" al presidente del parlamento de Asturias en un pleno",
-          "link": "https://www.eldiario.es/asturias/diputado-vox-pillado-mandando-culo-presidente-parlamento-asturias-pleno_1_13538921.html",
+          "title": "El Gobierno evita responder a un informe de CBS que reaviva la posibilidad de una acción militar en Cuba",
+          "link": "https://elpais.com/us/2026-09-25/un-reporte-de-cbs-reaviva-la-posibilidad-de-una-accion-militar-en-cuba.html",
+          "source": "El País",
+          "published": "2026-09-25T19:27:23.000Z"
+        },
+        {
+          "title": "Mercadona gana en el Tribunal Supremo la guerra de la horchata tras cinco años de batalla legal",
+          "link": "https://elpais.com/economia/2026-09-25/mercadona-gana-en-el-tribunal-supremo-la-guerra-de-la-horchata-tras-cinco-anos-de-batalla-legal.html",
+          "source": "El País",
+          "published": "2026-09-25T19:24:39.000Z"
+        },
+        {
+          "title": "Madrid rechaza la propuesta de Urbagestión para asumir el piso de Maricarmen por “inviable”, pero se ofrece a mediar",
+          "link": "https://elpais.com/espana/madrid/2026-09-25/urbagestion-propone-ceder-al-ayuntamiento-de-madrid-la-casa-de-maricarmen-para-que-pueda-volver.html",
+          "source": "El País",
+          "published": "2026-09-25T19:15:10.000Z"
+        },
+        {
+          "title": "Renfe desvela un ciberataque con origen en Adif: los atacantes se han hecho con información \"limitada\" de usuarios",
+          "link": "https://www.20minutos.es/nacional/renfe-desvela-ciberataque-origen-adif-atacantes-hecho-informacion-limitada-usuarios_7041585_0.html",
+          "source": "20minutos",
+          "published": "2026-09-25T19:11:35.000Z"
+        },
+        {
+          "title": "Un tribunal da la razón a EEUU en la designación de Anthropic como riesgo para la cadena de suministro",
+          "link": "https://www.20minutos.es/tecnologia/actualidad/un-tribunal-da-razon-eeuu-designacion-anthropic-como-riesgo-para-cadena-suministro_7041582_0.html",
+          "source": "20minutos",
+          "published": "2026-09-25T18:50:39.000Z"
+        },
+        {
+          "title": "Valladolid se solidariza con Maricarmen ante la sede de Urbagestión: \"Su estrategia está muy naturalizada\"",
+          "link": "https://www.eldiario.es/castilla-y-leon/valladolid-solidariza-maricarmen-desahucio-estrategia-urbagestion-naturalizada_1_13539546.html",
           "source": "elDiario.es",
-          "published": "2026-09-25T14:52:58.000Z"
+          "published": "2026-09-25T18:35:32.000Z"
         },
         {
-          "title": "Frente Amplio, la nueva marca de los partidos de Sumar para las generales - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkpLVldEaTNoZWZOTHY5WnJVZkNWMXVobzhDM0pjSzBDY1J6bUlERlpreWVRSlp3VkZ4OXJlSkp3bktqVEpEUkotMWhNWmZGQThtdGJmUXBrOTdpZnpISWdHNEdTSlhqOFdRMllzXy1CYTNIWGlNcVJmVTZsdlM4OXd4YnF4N2h0RmQtLXB3bEd1SUZQRHNYQ3k1aUjSAaIBQVVfeXFMTUhSYU1SZWgwTzAtamptNGxNU3c4RWJHU3BpSnNPSDhoOU1WcXVpWmRFdEV3MnNMVTViNlNmd1FlNkNKQUlVNU1odWFGMXd5SnRGVThzXzg0RUUyZ1JSc2RBZHpiZDdUY04ya2pBeFBfc21iNXV0UEtiWGRhRDVOdUIwbF8teXZPNURINlR4T2lTOWtrMDZJaEwxalBGUnVNcGlR?oc=5",
-          "source": "Público",
-          "published": "2026-09-25T13:09:28.000Z"
-        },
-        {
-          "title": "El Gobierno vuelve a retrasar el registro horario pese a que prometió reforzarlo este mes de septiembre",
-          "link": "https://elpais.com/economia/2026-09-25/el-gobierno-vuelve-a-retrasar-el-registro-horario-pese-a-que-prometio-reforzarlo-este-mes-de-septiembre.html",
+          "title": "Trump y Xi sellan su ‘entente cordiale’ tras tres días de gran pompa y escasa sustancia",
+          "link": "https://elpais.com/internacional/2026-09-25/trump-y-xi-sellan-su-entente-cordiale-tras-tres-dias-de-gran-pompa-y-escasa-sustancia.html",
           "source": "El País",
-          "published": "2026-09-25T13:06:41.000Z"
-        },
-        {
-          "title": "La policía de Nueva York arresta a las actrices Susan Sarandon y Hannah Einbinder en una protesta contra Netanyahu",
-          "link": "https://elpais.com/cultura/2026-09-25/la-policia-de-nueva-york-arresta-a-la-actriz-susan-sarandon-en-una-protesta-contra-netanyahu.html",
-          "source": "El País",
-          "published": "2026-09-25T13:04:42.000Z"
-        },
-        {
-          "title": "Zapatero propondrá un perito para valorar sus joyas si el juez mantiene la tasación impugnada",
-          "link": "https://www.europapress.es/nacional/noticia-zapatero-propondra-perito-valorar-joyas-si-juez-mantiene-tasacion-impugnada-20260925145434.html",
-          "source": "Europa Press",
-          "published": "2026-09-25T12:54:34.000Z"
+          "published": "2026-09-25T18:31:02.000Z"
         }
       ]
     },
@@ -163,56 +164,67 @@
             "DW"
           ],
           "firstSeen": "2026-09-25T16:08:08.681Z"
+        },
+        {
+          "title": "El Supremo permite a Trump aplicar un sistema de control de votantes",
+          "link": "https://www.20minutos.es/internacional/supremo-permite-trump-aplicar-un-sistema-control-votantes_7041595_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El sistema combina las bases de datos sobre ciudadanía, números de la Seguridad Social y otros datos confidenciales, para impedir que puedan votar personas que no tengan la ciudadanía estadounidense.",
+          "sources": [
+            "20minutos Internacional",
+            "France 24"
+          ],
+          "firstSeen": "2026-09-25T20:52:14.561Z"
         }
       ],
       "items": [
         {
-          "title": "Xi en EE. UU.: Trump augura “cosas extraordinarias”, pero afirma que ayuda de China a Irán es “inaceptable”",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260925-xi-en-ee-uu-trump-augura-cosas-extraordinarias-pero-afirma-que-ayuda-de-china-a-ir%C3%A1n-es-inaceptable",
+          "title": "Elif Eralp, la respuesta al ascenso de la ultraderecha que llevó a La Izquierda a su primera victoria de la historia en Berlín",
+          "link": "https://www.eldiario.es/internacional/elif-eralp-respuesta-ascenso-ultraderecha-llevo-izquierda-primera-victoria-historia-berlin_1_13539554.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-25T20:36:45.000Z"
+        },
+        {
+          "title": "La nueva cara del radicalismo: \"Los discursos que estaban en los rincones de internet hoy salen de la Casa Blanca\"",
+          "link": "https://www.eldiario.es/internacional/nueva-cara-radicalismo-discursos-estaban-rincones-internet-hoy-salen-casa-blanca_1_13537845.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-25T20:36:45.000Z"
+        },
+        {
+          "title": "Caso Maricarmen: España registró un desahucio cada 20 minutos en 2025",
+          "link": "https://www.france24.com/es/programas/en-contexto/20260925-caso-maricarmen-espa%C3%B1a-registr%C3%B3-un-desahucio-cada-20-minutos-en-2025",
           "source": "France 24",
-          "published": "2026-09-25T16:03:35.000Z"
+          "published": "2026-09-25T20:24:20.000Z"
         },
         {
-          "title": "¿Lula o Flávio Bolsonaro? Brasil decide su rumbo político",
-          "link": "https://www.france24.com/es/programas/enlace/20260925-lula-o-fl%C3%A1vio-bolsonaro-brasil-decide-su-rumbo-pol%C3%ADtico",
+          "title": "Desde el terreno: clases, drones y pueblos vacíos, la educación bajo la guerra en el sur de Líbano",
+          "link": "https://www.france24.com/es/medio-oriente/20260925-desde-el-terreno-clases-drones-y-pueblos-vac%C3%ADos-la-educaci%C3%B3n-bajo-la-guerra-en-el-sur-de-l%C3%ADbano",
           "source": "France 24",
-          "published": "2026-09-25T15:03:08.000Z"
+          "published": "2026-09-25T19:54:53.000Z"
         },
         {
-          "title": "Rusia pone el acceso a internet en el punto de mira de sus ataques contra Ucrania",
-          "link": "https://www.20minutos.es/internacional/rusia-pone-acceso-internet-punto-mira-sus-ataques-contra-ucrania_7041502_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-25T14:59:30.000Z"
-        },
-        {
-          "title": "Rusia: ¿un Parlamento al servicio de la guerra de Putin en Ucrania?",
-          "link": "https://www.france24.com/es/programas/ventana-a-europa/20260925-rusia-un-parlamento-al-servicio-de-la-guerra-de-putin-en-ucrania",
+          "title": "Padre Carlos Justino Novoa: \"León XIV continúa la senda del papa Francisco\"",
+          "link": "https://www.france24.com/es/video/20260925-padre-carlos-justino-novoa-le%C3%B3n-xiv-contin%C3%BAa-la-senda-del-papa-francisco",
           "source": "France 24",
-          "published": "2026-09-25T14:43:14.000Z"
+          "published": "2026-09-25T19:10:15.000Z"
         },
         {
-          "title": "Denuncian un ataque ruso contra periodistas extranjeros, entre ellos un español, en el este de Ucrania",
-          "link": "https://www.20minutos.es/internacional/denuncian-un-ataque-ruso-contra-periodistas-extranjeros-entre-ellos-un-espanol-este-ucrania_7041494_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-25T14:39:33.000Z"
-        },
-        {
-          "title": "Rusia redobla su ‘flota fantasma’ pese a las sanciones y los bombardeos de Ucrania",
-          "link": "https://elpais.com/internacional/2026-09-25/rusia-redobla-su-flota-fantasma-pese-a-las-sanciones-y-los-bombardeos-de-ucrania.html",
-          "source": "El País Internacional",
-          "published": "2026-09-25T14:24:59.000Z"
-        },
-        {
-          "title": "Xi Jinping y Donald Trump evitan hablar en público sobre Taiwán, pero intercambian a puerta cerrada",
-          "link": "https://www.dw.com/es/xi-jinping-y-donald-trump-evitan-hablar-en-público-sobre-taiwán-pero-intercambian-a-puerta-cerrada/a-79432083?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-25T14:17:00.000Z"
-        },
-        {
-          "title": "Xi Jinping en EE. UU.: ¿qué hay debajo de la alfombra roja?",
-          "link": "https://www.france24.com/es/programas/el-debate/20260925-xi-jinping-en-ee-uu-qu%C3%A9-hay-debajo-de-la-alfombra-roja",
+          "title": "Consejo de Seguridad de la ONU respalda el derecho a la defensa de Arabia Saudita frente a los hutíes",
+          "link": "https://www.france24.com/es/medio-oriente/20260925-consejo-de-seguridad-de-la-onu-respalda-el-derecho-a-la-defensa-de-arabia-saudita-frente-a-los-hut%C3%ADes",
           "source": "France 24",
-          "published": "2026-09-25T13:59:35.000Z"
+          "published": "2026-09-25T18:49:54.000Z"
+        },
+        {
+          "title": "La ONU amplía a 214 la lista de empresas vinculadas a los asentamientos israelíes",
+          "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260925-la-onu-ampl%C3%ADa-a-214-la-lista-de-empresas-vinculadas-a-los-asentamientos-israel%C3%ADes",
+          "source": "France 24",
+          "published": "2026-09-25T18:43:34.000Z"
+        },
+        {
+          "title": "La pobreza escala en Argentina y pone a prueba las políticas de Javier Milei",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260925-la-pobreza-escala-en-argentina-y-pone-a-prueba-las-pol%C3%ADticas-de-javier-milei",
+          "source": "France 24",
+          "published": "2026-09-25T18:39:52.000Z"
         }
       ]
     }
