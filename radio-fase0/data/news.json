@@ -1,120 +1,105 @@
 {
-  "date": "2026-09-24",
-  "updatedAt": "2026-09-24T20:56:19.355Z",
-  "edition": "tarde",
+  "date": "2026-09-25",
+  "updatedAt": "2026-09-25T10:48:21.769Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Sumar exige expropiar el piso de Maricarmen y llevar al Consejo de Ministros el decreto de vivienda",
-          "link": "https://www.20minutos.es/nacional/sumar-exige-gobierno-llevar-consejo-ministros-decreto-vivienda-expropiacion-piso-maricarmen_7040695_0.html",
-          "source": "20minutos",
-          "summary": "Varios ministros de la formación han publicado mensajes en redes sociales defendiendo estas demandas, así como el Real-Decreto ley de vivienda.",
+          "title": "Vivienda negocia con Junts prohibir los desahucios en pisos de fondos buitre e impedir que estos compren inmuebles",
+          "link": "https://www.eldiario.es/politica/vivienda-negocia-junts-prohibir-desahucios-pisos-fondos-buitre-e-impedir-compren-inmuebles_1_13537593.html",
+          "source": "elDiario.es",
+          "summary": "El ministerio busca un acuerdo con los independentistas para recuperar la protección que tumbaron a principios de año, aunque solo para inquilinos que vivan en pisos de empresas. Para el resto, Vivienda acepta la demanda de Junts de costear las cuotas de los arrendatarios vulnerables para evitar su desalojo El Gobierno negocia contra reloj concesiones fiscales a Junts para aprobar el martes el decreto de vivienda Ara y confirmó elDiario.es, de cara a incluirlas en el decreto que el Gobierno se encuentra elaborando contra reloj en contacto con sus socios parlamentarios para intentar ponerlo en…",
           "sources": [
-            "20minutos",
             "elDiario.es",
-            "Europa Press",
-            "Público"
+            "20minutos"
           ],
-          "firstSeen": "2026-09-24T10:44:23.063Z"
+          "firstSeen": "2026-09-25T10:48:21.769Z"
         },
         {
-          "title": "Sánchez carga contra Ayuso y Almeida por la “tragedia social” del desahucio de Maricarmen: “Están más preocupados en comprar aticazos”",
-          "link": "https://elpais.com/espana/2026-09-23/pedro-sanchez-comparece-antes-de-su-discurso-en-naciones-unidas.html",
-          "source": "El País",
-          "summary": "El presidente dice que no “descarta nada” para impedir los desahucios pero admite que necesita a sus socios, que han rechazado ya dos veces el escudo",
+          "title": "El juez deja en libertad al principal prestamista del caso Plus Ultra pero le prohíbe salir de España",
+          "link": "https://www.eldiario.es/politica/juez-deja-libertad-presunto-caso-plus-ultra-le-prohibe-salir-espana_1_13537272.html",
+          "source": "elDiario.es",
+          "summary": "Calama le impone comparecencias cada dos días en el juzgado y el financiero neerlandés se ofrece a declarar próximamente Los mensajes entre Plus Ultra y la SEPI documentan un proceso para el rescate ajeno a una posible 'vía Zapatero' El juez de la Audiencia Nacional José Luis Calama ha dejado en libertad a Simon Lendeert Verhoeven, uno de los principales prestamistas del caso Plus Ultra, aunque le ha impuesto la prohibición de salir de España, la obligación de comparecer cada dos días en el juzgado y de fijar su domicilio para estar localizable. Fuentes jurídicas han informado a Europa Press…",
           "sources": [
-            "El País",
-            "Público",
+            "elDiario.es",
             "Europa Press"
           ],
-          "firstSeen": "2026-09-24T10:44:23.063Z"
+          "firstSeen": "2026-09-25T10:48:21.769Z"
         },
         {
-          "title": "El relator de la ONU para Vivienda reprocha a la jueza no haber suspendido el desahucio de Maricarmen",
-          "link": "https://www.europapress.es/epsocial/derechos-humanos/noticia-relator-onu-vivienda-reprocha-jueza-no-haber-suspendido-desahucio-maricarmen-20260924140414.html",
-          "source": "Europa Press",
-          "summary": "El relator de la ONU en vivienda, Koldo Casla, ha criticado el desahucio de Maricarmen de su piso en el que llevaba viviendo 70 años en Madrid y ha reprochado a la jueza no haber suspendido el desalojo para \"evitar un daño irreparable y para permitir que España cumpla con sus obligaciones internacionales de derechos humanos de buena fe\".",
+          "title": "Bolaños acusa al Poder Judicial de paralizar sus quejas contra Peinado para buscar la “impunidad” por su jubilación",
+          "link": "https://www.eldiario.es/politica/bolanos-acusa-judicial-paralizar-quejas-peinado-buscar-impunidad-jubilacion_1_13537161.html",
+          "source": "elDiario.es",
+          "summary": "El ministro presenta un nuevo recurso de alzada por la “indefensión” generada al negarle el expediente de sus quejas contra el instructor del caso contra Begoña Gómez El Poder Judicial archiva definitivamente las denuncias de Bolaños contra el juez Peinado El ministro de Justicia, Félix Bolaños, ha presentado un nuevo recurso de alzada ante el Consejo General del Poder Judicial (CGPJ). Esta vez, contra la decisión del órgano de denegarle el acceso al expediente completo de su queja contra el juez Juan Carlos Peinado, instructor del caso contra Begoña Gómez. El ministro sostiene que la…",
           "sources": [
-            "Europa Press",
+            "elDiario.es",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-09-25T10:48:21.769Z"
+        },
+        {
+          "title": "Marruecos, sobre los inmigrantes que no han sido devueltos: \"Hay que preguntarle a España\"",
+          "link": "https://www.20minutos.es/nacional/crisis-migratoria-ceuta-directo-marruecos-insiste-que-si-los-inmigrantes-no-han-sido-devueltos-hay-que-preguntarle-espana-las-razones_7041183_6.html",
+          "source": "20minutos",
+          "summary": "Última hora sobre la crisis migratoria en Ceuta.",
+          "sources": [
             "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-24T16:07:31.079Z"
-        },
-        {
-          "title": "El Gobierno desbloquea el decreto de vivienda tras el desahucio de Maricarmen y siete años de espera",
-          "link": "https://diariosocialista.net/2026/09/24/el-gobierno-desbloquea-el-decreto-de-vivienda-tras-el-desahucio-de-maricarmen-y-siete-anos-de-espera/",
-          "source": "Diario Socialista",
-          "summary": "Sánchez ordena negociar a marchas forzadas el decreto paralizado desde julio para llevarlo al Consejo de Ministros la próxima semana, a meses de las elecciones, mientras se abstiene en las leyes que tocan el bolsillo del capital inmobiliario.",
-          "sources": [
-            "Diario Socialista",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-24T10:44:23.063Z"
-        },
-        {
-          "title": "Sánchez, en la ONU: “Ceuta saldrá de la crisis sin convertir al inmigrante en un enemigo, respetando derechos humanos”",
-          "link": "https://elpais.com/espana/2026-09-24/sanchez-en-la-onu-ceuta-saldra-de-la-crisis-sin-convertir-al-inmigrante-en-un-enemigo-respetando-derechos-humanos.html",
-          "source": "El País",
-          "summary": "El presidente lanza en su último viaje a Nueva York antes de las elecciones su discurso más anti Trump y llama al optimismo de los progresistas",
-          "sources": [
-            "El País",
             "Europa Press"
           ],
-          "firstSeen": "2026-09-24T10:44:23.063Z"
+          "firstSeen": "2026-09-25T10:48:21.769Z"
         }
       ],
       "items": [
         {
-          "title": "El interés del bono de Estados Unidos a 10 años se dispara al 5,22%, máximos de 2007",
-          "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-24/la-bolsa-y-el-ibex-35.html",
+          "title": "Sumar se abre a dar incentivos fiscales a los propietarios de pisos en alquiler para sacar el decreto de vivienda",
+          "link": "https://elpais.com/economia/2026-09-25/sumar-se-abre-a-dar-incentivos-fiscales-a-los-propietarios-de-pisos-en-alquiler-para-sacar-el-decreto-de-vivienda.html",
           "source": "El País",
-          "published": "2026-09-24T20:30:07.000Z"
+          "published": "2026-09-25T10:30:02.000Z"
         },
         {
-          "title": "El Gobierno negocia contra reloj concesiones fiscales a Junts para aprobar el martes el decreto de vivienda",
-          "link": "https://www.eldiario.es/politica/gobierno-negocia-reloj-concesiones-fiscales-junts-aprobar-martes-decreto-vivienda_1_13535838.html",
+          "title": "Representantes de los españoles en el extranjero denuncian que el Supremo les “discrimina” con el fallo de la ley de nietos",
+          "link": "https://www.eldiario.es/politica/representantes-espanoles-extranjero-denuncian-supremo-les-discrimina-fallo-ley-nietos_1_13537794.html",
           "source": "elDiario.es",
-          "published": "2026-09-24T19:44:55.000Z"
+          "published": "2026-09-25T10:25:47.000Z"
         },
         {
-          "title": "Netanyahu reivindica la presencia judía en territorios ocupados por Israel: \"No tenemos elección\"",
-          "link": "https://www.europapress.es/internacional/noticia-netanyahu-reivindica-presencia-judia-territorios-ocupados-israel-no-tenemos-eleccion-20260924211504.html",
+          "title": "El PP admite el \"error\" de manipular el bote de gas pimienta en el Congreso: \"Mal. Es evidente\"",
+          "link": "https://www.europapress.es/nacional/noticia-pp-admite-error-manipular-bote-gas-pimienta-congreso-mal-evidente-20260925122251.html",
           "source": "Europa Press",
-          "published": "2026-09-24T19:15:04.000Z"
+          "published": "2026-09-25T10:22:51.000Z"
         },
         {
-          "title": "A los pies de la Giralda, los vecinos de Sevilla reivindican la plaza tras la polémica cena privada: \"Esto es de todos\"",
-          "link": "https://www.eldiario.es/sevilla/pies-giralda-vecinos-sevilla-apropian-plaza-polemica-cena-privada_1_13536453.html",
+          "title": "Más de 500 firmas piden que el negacionismo del genocidio en Palestina quede fuera de los espacios literarios",
+          "link": "https://www.elsaltodiario.com/literatura/de-500-firmas-piden-negacionismo-del-genocidio-palestina-quede-fuera-espacios-literarios?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-09-25T10:10:00.000Z"
+        },
+        {
+          "title": "El diésel se dispara un 7% en Europa tras amenazar Trump con prohibir las exportaciones de EEUU",
+          "link": "https://diariosocialista.net/2026/09/25/el-diesel-se-dispara-un-7-en-europa-tras-amenazar-trump-con-prohibir-las-exportaciones-de-eeuu/",
+          "source": "Diario Socialista",
+          "published": "2026-09-25T10:08:13.000Z"
+        },
+        {
+          "title": "Lo que destapa la retirada de una invitación a Ariana Harwicz por su negación del genocidio palestino",
+          "link": "https://www.eldiario.es/cultura/destapa-retirada-invitacion-ariana-harwicz-negacion-genocidio-palestino_129_13537384.html",
           "source": "elDiario.es",
-          "published": "2026-09-24T19:08:55.000Z"
+          "published": "2026-09-25T09:49:54.000Z"
         },
         {
-          "title": "Netanyahu se encara con la ONU y dice que \"acusar a Israel de genocidio es la mentira más grande\"",
-          "link": "https://www.20minutos.es/internacional/netanyahu-se-encara-con-onu-asegura-que-acusar-israel-genocidio-es-mentira-mas-grande-siglo_7040711_0.html",
+          "title": "Lleida prohíbe el uso del burka y el niqab en los espacios públicos con los votos del PSC y Junts",
+          "link": "https://www.20minutos.es/cataluna/lleida/lleida-prohibe-uso-burka-niqab-los-espacios-publicos_7040346_0.html",
           "source": "20minutos",
-          "published": "2026-09-24T18:50:20.000Z"
+          "published": "2026-09-25T09:45:43.000Z"
         },
         {
-          "title": "La representante de Israel en España tilda de antisemita a la ministra Sira Rego por pedir una Palestina libre \"desde el río hasta el mar\"",
-          "link": "https://www.20minutos.es/internacional/representante-israel-espana-tilda-antisemita-sira-rego-por-pedir-una-palestina-libre-desde-rio-hasta-mar_7041100_0.html",
-          "source": "20minutos",
-          "published": "2026-09-24T18:37:19.000Z"
-        },
-        {
-          "title": "El fiscal pide hasta 19 años de cárcel para dos ultraderechistas por atacar con explosivos una sede del PSOE durante una charla",
-          "link": "https://elpais.com/espana/2026-09-24/el-fiscal-pide-hasta-19-anos-de-carcel-para-dos-ultraderechistas-por-atacar-con-explosivos-una-sede-del-psoe-durante-una-charla.html",
-          "source": "El País",
-          "published": "2026-09-24T18:26:22.000Z"
-        },
-        {
-          "title": "El expresidente de Plus Ultra denuncia al juez que la SEPI le exigió renunciar al control de la sociedad que tiene el 51% de la aerolínea",
-          "link": "https://elpais.com/espana/2026-09-24/el-expresidente-de-plus-ultra-denuncia-al-juez-que-la-sepi-le-exigio-renunciar-al-control-de-la-sociedad-que-tiene-el-51-de-la-aerolinea.html",
-          "source": "El País",
-          "published": "2026-09-24T18:23:43.000Z"
+          "title": "Maricarmen llama a movilizarse este sábado por la vivienda: \"No he logrado defender mi casa, pero voy a seguir luchando\"",
+          "link": "https://www.europapress.es/madrid/noticia-maricarmen-llama-movilizarse-sabado-vivienda-no-he-logrado-defender-casa-voy-seguir-luchando-20260925114444.html",
+          "source": "Europa Press",
+          "published": "2026-09-25T09:44:44.000Z"
         }
       ]
     },
@@ -123,115 +108,87 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Juez de EE.UU. ordena a la Casa Blanca restablecer el acceso a medios vetados por Trump",
-          "link": "https://www.dw.com/es/juez-de-ee-uu-ordena-a-la-casa-blanca-restablecer-el-acceso-a-medios-vetados-por-trump/a-79408151?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "León XIV en Francia: \"La de Ceuta es una verdadera crisis humanitaria\"",
+          "link": "https://www.dw.com/es/león-xiv-en-francia-la-de-ceuta-es-una-verdadera-crisis-humanitaria/a-79427461?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "summary": "Un juez ha ordenado el restablecimiento \"inmediato\" del acceso a la Casa Blanca a los medios CNN, MS NOW y \"Politico\", vetados por Trump.",
+          "summary": "El papa León XIV fue recibido por el presidente Emmanuel Macron al comienzo de una visita de cuatro días a Francia.",
           "sources": [
             "DW",
-            "El País Internacional",
-            "20minutos Internacional",
-            "France 24",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-09-24T10:44:23.063Z"
-        },
-        {
-          "title": "Delcy Rodríguez promete que “en Venezuela habrá elecciones en igualdad de condiciones para todos”",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260924-delcy-rodr%C3%ADguez-promete-que-en-venezuela-habr%C3%A1-elecciones-en-igualdad-de-condiciones-para-todos",
-          "source": "France 24",
-          "summary": "La presidenta encargada pronunció un discurso de 18 minutos ante la Asamblea General de la ONU, en el que agradeció al mandatario estadounidense Donald Trump por “su disposición a retomar el camino de las relaciones diplomáticas y de cooperación”, no mencionó a sus antecesores en la llamada Revolución Bolivariana Hugo Chávez y Nicolás Maduro, y prometió elecciones, no sin antes recordar que “la democracia no se mide por la existencia de elecciones”.",
-          "sources": [
-            "France 24",
-            "BBC Mundo",
-            "El País Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-09-24T10:44:23.063Z"
-        },
-        {
-          "title": "Trump impide a periodistas de CNN, Politico y MS NOW acceder a la Casa Blanca pese a que un juez levantó el veto",
-          "link": "https://elpais.com/internacional/2026-09-24/un-juez-levanta-la-prohibicion-de-acceso-a-la-casa-blanca-impuesta-por-trump-a-cnn-ms-now-y-politico.html",
-          "source": "El País Internacional",
-          "summary": "Los tres medios solicitan al magistrado que ordenó la restitución “inmediata” de las credenciales que convoque una audiencia urgente ante el desacato de la Administración",
-          "sources": [
-            "El País Internacional",
-            "France 24",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-09-24T16:07:31.079Z"
-        },
-        {
-          "title": "El partido más próximo al rey gana las elecciones en Marruecos con una abstención del 62%",
-          "link": "https://elpais.com/internacional/2026-09-24/el-partido-mas-proximo-al-rey-gana-las-elecciones-en-marruecos-con-una-abstencion-del-62.html",
-          "source": "El País Internacional",
-          "summary": "El Partido de la Autenticidad y la Modernidad, fundado por el principal consejero de Mohamed VI, recibirá previsiblemente el encargo de formar un Gobierno de coalición junto con los actuales socios en el poder",
-          "sources": [
-            "El País Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-09-24T10:44:23.063Z"
-        },
-        {
-          "title": "Pezeshkian, Zelenski y Milei marcan la segunda jornada de la Asamblea General de la ONU",
-          "link": "https://www.france24.com/es/video/20260924-pezeshkian-zelenski-y-milei-marcan-la-segunda-jornada-de-la-asamblea-general-de-la-onu",
-          "source": "France 24",
-          "summary": "En la segunda jornada de la 81.ª Asamblea General de las Naciones Unidas, el presidente iraní, Masud Pezeshkian, aseguró que su país es \"víctima del terrorismo\" de Estados Unidos e Israel. Otro conflicto también estuvo en el centro de la jornada: el mandatario ucraniano, Volodímir Zelenski, advirtió sobre el riesgo de que los ataques rusos contra la infraestructura energética dejen a millones de ucranianos sin electricidad este invierno. Por su parte, los líderes latinoamericanos también tuvieron un papel protagónico: Javier Milei de Argentina, Daniel Noboa de Ecuador y Delcy Rodríguez de…",
-          "sources": [
-            "France 24",
             "El País Internacional"
           ],
-          "firstSeen": "2026-09-24T10:44:23.063Z"
+          "firstSeen": "2026-09-25T10:48:21.769Z"
+        },
+        {
+          "title": "Informe desde Washington: Trump resalta relación con Xi tras reunión en la Casa Blanca",
+          "link": "https://www.france24.com/es/video/20260924-informe-desde-washington-trump-resalta-relaci%C3%B3n-con-xi-tras-reuni%C3%B3n-en-la-casa-blanca",
+          "source": "France 24",
+          "summary": "El presidente estadounidense, Donald Trump, recibió a su homólogo chino, Xi Jinping, en la Oficina Oval. Los mandatarios dieron una rueda de prensa conjunta tras su reunión, en la que Trump exaltó el desacuerdo comercial que están intentando mitigar y estabilizar. Nuestro corresponsal Cristóbal Vásquez nos amplió la información sobre el encuentro.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-09-25T10:48:21.769Z"
+        },
+        {
+          "title": "Últimas noticias de la Asamblea General de la ONU, en directo | La Asamblea de la ONU se vacía antes del discurso de Netanyahu y él les llama “cobardes”",
+          "link": "https://elpais.com/internacional/2026-09-24/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
+          "source": "El País Internacional",
+          "summary": "Netanyahu agradece a Trump su valentía “para salvar a la civilización” y defiende que acusar a Israel de genocidio es “la mayor mentira del siglo” | Abbas denuncia la limpieza étnica de los palestinos: “Es un plan colonial maligno cuyo objetivo es hacer imposible la vida”",
+          "sources": [
+            "El País Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-09-25T10:48:21.769Z"
         }
       ],
       "items": [
         {
-          "title": "Un dron ruso se estrella en Rumania durante una incursión que activó a dos cazas F-18 españoles",
-          "link": "https://elpais.com/internacional/2026-09-24/un-dron-ruso-se-estrella-en-rumania-durante-una-incursion-que-activo-a-dos-cazas-f-18-espanoles.html",
-          "source": "El País Internacional",
-          "published": "2026-09-24T20:43:08.000Z"
-        },
-        {
-          "title": "La caída del ultra Jordan Bardella en Francia: de favorito a la presidencia a desautorizado por su propio partido",
-          "link": "https://www.eldiario.es/internacional/caida-ultra-jordan-bardella-francia-favorito-presidencia-desautorizado-propio-partido_1_13517804.html",
+          "title": "El embajador de Israel provoca a un diplomático iraní en la ONU con un dispositivo Starlink: \"¿Quieres llevártelo?\"",
+          "link": "https://www.eldiario.es/internacional/embajador-israel-provoca-diplomatico-irani-onu-dispositivo-starlink-quieres-llevartelo_1_13537259.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-09-24T20:29:54.000Z"
+          "published": "2026-09-25T10:35:28.000Z"
         },
         {
-          "title": "Venezolanos reaccionan a asistencia de presidenta encargada Delcy Rodríguez a Asamblea de la ONU",
-          "link": "https://www.france24.com/es/video/20260924-venezolanos-reaccionan-a-asistencia-de-presidenta-encargada-delcy-rodr%C3%ADguez-a-asamblea-de-la-onu",
+          "title": "España, el único país grande de los 76 que participaron en el boicot a Netanyahu en la Asamblea de la ONU",
+          "link": "https://www.20minutos.es/internacional/espana-unico-pais-grande-los-76-que-participaron-boicot-netanyahu-asamblea-onu_7041248_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-25T09:27:01.000Z"
+        },
+        {
+          "title": "Irán plantea a EEUU un plan de siete días para cesar las hostilidades, reabrir Ormuz e iniciar conversaciones sobre el programa nuclear",
+          "link": "https://www.20minutos.es/internacional/iran-plantea-eeuu-un-plan-siete-dias-para-cesar-las-hostilidades-reabrir-ormuz-iniciar-conversaciones-sobre-programa-nuclear_7041279_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-25T09:25:35.000Z"
+        },
+        {
+          "title": "Cazas de Finlandia y Suecia interceptan aviones de guerra rusos sobre el Báltico",
+          "link": "https://www.20minutos.es/internacional/cazas-finlandia-suecia-interceptan-aviones-guerra-rusos-sobre-baltico_7041284_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-25T09:19:01.000Z"
+        },
+        {
+          "title": "Xi Jinping, de risas con Trump en la Casa Blanca al ver la imagen que ha utilizado para sustituir el retrato de Biden",
+          "link": "https://www.20minutos.es/internacional/xi-jinping-risas-con-trump-casa-blanca-ver-imagen-que-ha-utilizado-para-sustituir-retrato-biden_7041245_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-25T08:46:41.000Z"
+        },
+        {
+          "title": "China reactiva con EEUU su \"diplomacia de los pandas\" durante la visita de Xi",
+          "link": "https://www.20minutos.es/internacional/china-reactiva-con-eeuu-su-diplomacia-los-pandas-durante-visita-xi_7041164_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-25T04:54:42.000Z"
+        },
+        {
+          "title": "La cena de gala (y un águila calva) de Trump para agasajar a Xi Jinping",
+          "link": "https://elpais.com/internacional/2026-09-25/la-cena-de-gala-y-un-aguila-calva-de-trump-para-agasajar-a-xi-jinping.html",
+          "source": "El País Internacional",
+          "published": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "title": "¿Cuál es el costo psicológico de las misiones militares prolongadas?",
+          "link": "https://www.france24.com/es/video/20260925-cu%C3%A1l-es-el-costo-psicol%C3%B3gico-de-las-misiones-militares-prolongadas",
           "source": "France 24",
-          "published": "2026-09-24T20:29:07.000Z"
-        },
-        {
-          "title": "Netanyahu reta a una Asamblea de la ONU semivacía en protesta por su invasión de Gaza: “Acusarnos de genocidio es la mayor mentira del siglo”",
-          "link": "https://elpais.com/internacional/2026-09-24/netanyahu-reta-a-una-asamblea-de-la-onu-semivacia-en-protesta-por-su-invasion-de-gaza-acusarnos-de-genocidio-es-la-mayor-mentira-del-siglo.html",
-          "source": "El País Internacional",
-          "published": "2026-09-24T20:26:01.000Z"
-        },
-        {
-          "title": "Aumentan las muertes por la bacteria come carne en EEUU: ya hay doce fallecidos en Florida y Luisiana",
-          "link": "https://www.20minutos.es/internacional/aumentan-las-muertes-por-bacteria-come-carne-eeuu-ya-hay-doce-fallecidos-florida-luisiana_7041134_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-24T20:14:27.000Z"
-        },
-        {
-          "title": "Macron afirma que Rusia multiplica los actos hostiles y criminales contra países europeos",
-          "link": "https://elpais.com/internacional/2026-09-24/macron-afirma-que-rusia-multiplica-los-actos-hostiles-y-criminales-contra-paises-europeos.html",
-          "source": "El País Internacional",
-          "published": "2026-09-24T19:52:02.000Z"
-        },
-        {
-          "title": "Trump dice que tuvo una “gran reunión” con Xi Jinping en la Casa Blanca",
-          "link": "https://www.dw.com/es/trump-dice-que-tuvo-una-gran-reunión-con-xi-jinping-en-la-casa-blanca/a-79419977?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-24T19:30:00.000Z"
-        },
-        {
-          "title": "China aplica la 'diplomacia del panda' con EEUU: Xi Jinping anuncia ante Donald Trump la llegada de dos ejemplares al zoo de Atlanta",
-          "link": "https://www.20minutos.es/internacional/china-aplica-diplomacia-panda-con-eeuu-xi-jinping-anuncia-ante-donald-trump-llegada-dos-ejemplares-zoo-atlanta_7041121_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-24T19:28:40.000Z"
+          "published": "2026-09-25T03:33:09.000Z"
         }
       ]
     }
