@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
-  "updatedAt": "2026-09-25T10:48:21.769Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-09-25T16:08:08.681Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -14,9 +14,22 @@
           "summary": "El ministerio busca un acuerdo con los independentistas para recuperar la protección que tumbaron a principios de año, aunque solo para inquilinos que vivan en pisos de empresas. Para el resto, Vivienda acepta la demanda de Junts de costear las cuotas de los arrendatarios vulnerables para evitar su desalojo El Gobierno negocia contra reloj concesiones fiscales a Junts para aprobar el martes el decreto de vivienda Ara y confirmó elDiario.es, de cara a incluirlas en el decreto que el Gobierno se encuentra elaborando contra reloj en contacto con sus socios parlamentarios para intentar ponerlo en…",
           "sources": [
             "elDiario.es",
-            "20minutos"
+            "20minutos",
+            "El País"
           ],
           "firstSeen": "2026-09-25T10:48:21.769Z"
+        },
+        {
+          "title": "El Congreso abrirá expediente a la diputada del PP Ana Vázquez por mostrar un bote de gas pimienta",
+          "link": "https://www.20minutos.es/nacional/congreso-abrira-expediente-diputada-pp-que-mostro-un-bote-gas-pimienta-hemiciclo_7041468_0.html",
+          "source": "20minutos",
+          "summary": "La sanción puede ir desde el apercibimiento hasta la suspensión temporal y una multa económica.",
+          "sources": [
+            "20minutos",
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-09-25T16:08:08.681Z"
         },
         {
           "title": "El juez deja en libertad al principal prestamista del caso Plus Ultra pero le prohíbe salir de España",
@@ -54,52 +67,52 @@
       ],
       "items": [
         {
-          "title": "Sumar se abre a dar incentivos fiscales a los propietarios de pisos en alquiler para sacar el decreto de vivienda",
-          "link": "https://elpais.com/economia/2026-09-25/sumar-se-abre-a-dar-incentivos-fiscales-a-los-propietarios-de-pisos-en-alquiler-para-sacar-el-decreto-de-vivienda.html",
-          "source": "El País",
-          "published": "2026-09-25T10:30:02.000Z"
-        },
-        {
-          "title": "Representantes de los españoles en el extranjero denuncian que el Supremo les “discrimina” con el fallo de la ley de nietos",
-          "link": "https://www.eldiario.es/politica/representantes-espanoles-extranjero-denuncian-supremo-les-discrimina-fallo-ley-nietos_1_13537794.html",
-          "source": "elDiario.es",
-          "published": "2026-09-25T10:25:47.000Z"
-        },
-        {
-          "title": "El PP admite el \"error\" de manipular el bote de gas pimienta en el Congreso: \"Mal. Es evidente\"",
-          "link": "https://www.europapress.es/nacional/noticia-pp-admite-error-manipular-bote-gas-pimienta-congreso-mal-evidente-20260925122251.html",
-          "source": "Europa Press",
-          "published": "2026-09-25T10:22:51.000Z"
-        },
-        {
-          "title": "Más de 500 firmas piden que el negacionismo del genocidio en Palestina quede fuera de los espacios literarios",
-          "link": "https://www.elsaltodiario.com/literatura/de-500-firmas-piden-negacionismo-del-genocidio-palestina-quede-fuera-espacios-literarios?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-09-25T10:10:00.000Z"
-        },
-        {
-          "title": "El diésel se dispara un 7% en Europa tras amenazar Trump con prohibir las exportaciones de EEUU",
-          "link": "https://diariosocialista.net/2026/09/25/el-diesel-se-dispara-un-7-en-europa-tras-amenazar-trump-con-prohibir-las-exportaciones-de-eeuu/",
-          "source": "Diario Socialista",
-          "published": "2026-09-25T10:08:13.000Z"
-        },
-        {
-          "title": "Lo que destapa la retirada de una invitación a Ariana Harwicz por su negación del genocidio palestino",
-          "link": "https://www.eldiario.es/cultura/destapa-retirada-invitacion-ariana-harwicz-negacion-genocidio-palestino_129_13537384.html",
-          "source": "elDiario.es",
-          "published": "2026-09-25T09:49:54.000Z"
-        },
-        {
-          "title": "Lleida prohíbe el uso del burka y el niqab en los espacios públicos con los votos del PSC y Junts",
-          "link": "https://www.20minutos.es/cataluna/lleida/lleida-prohibe-uso-burka-niqab-los-espacios-publicos_7040346_0.html",
+          "title": "Feijóo acusa al Gobierno de utilizar a Maricarmen para \"hacer política\" y promete la construcción de un millón de viviendas",
+          "link": "https://www.20minutos.es/nacional/feijoo-acusa-gobierno-utilizar-maricarmen-para-hacer-politica-promete-construccion-un-millon-viviendas_7041496_0.html",
           "source": "20minutos",
-          "published": "2026-09-25T09:45:43.000Z"
+          "published": "2026-09-25T15:09:27.000Z"
         },
         {
-          "title": "Maricarmen llama a movilizarse este sábado por la vivienda: \"No he logrado defender mi casa, pero voy a seguir luchando\"",
-          "link": "https://www.europapress.es/madrid/noticia-maricarmen-llama-movilizarse-sabado-vivienda-no-he-logrado-defender-casa-voy-seguir-luchando-20260925114444.html",
+          "title": "La empresa que ha desahuciado a Maricarmen ofrece el piso al Ayuntamiento de Madrid para que pueda volver a casa",
+          "link": "https://www.20minutos.es/madrid/empresa-inmobiliaria-que-ha-desahuciado-maricarmen-ofrece-piso-ayuntamiento-madrid-para-que-pueda-volver-casa_7041500_0.html",
+          "source": "20minutos",
+          "published": "2026-09-25T15:03:23.000Z"
+        },
+        {
+          "title": "Muere un migrante en el asentamiento de la playa del Trampolín",
+          "link": "https://www.eldiario.es/desalambre/muere-migrante-asentamiento-playa-trampolin_1_13538829.html",
+          "source": "elDiario.es",
+          "published": "2026-09-25T14:59:27.000Z"
+        },
+        {
+          "title": "Un diputado de Vox 'pillado' mandando \"a tomar por culo\" al presidente del parlamento de Asturias en un pleno",
+          "link": "https://www.eldiario.es/asturias/diputado-vox-pillado-mandando-culo-presidente-parlamento-asturias-pleno_1_13538921.html",
+          "source": "elDiario.es",
+          "published": "2026-09-25T14:52:58.000Z"
+        },
+        {
+          "title": "Frente Amplio, la nueva marca de los partidos de Sumar para las generales - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkpLVldEaTNoZWZOTHY5WnJVZkNWMXVobzhDM0pjSzBDY1J6bUlERlpreWVRSlp3VkZ4OXJlSkp3bktqVEpEUkotMWhNWmZGQThtdGJmUXBrOTdpZnpISWdHNEdTSlhqOFdRMllzXy1CYTNIWGlNcVJmVTZsdlM4OXd4YnF4N2h0RmQtLXB3bEd1SUZQRHNYQ3k1aUjSAaIBQVVfeXFMTUhSYU1SZWgwTzAtamptNGxNU3c4RWJHU3BpSnNPSDhoOU1WcXVpWmRFdEV3MnNMVTViNlNmd1FlNkNKQUlVNU1odWFGMXd5SnRGVThzXzg0RUUyZ1JSc2RBZHpiZDdUY04ya2pBeFBfc21iNXV0UEtiWGRhRDVOdUIwbF8teXZPNURINlR4T2lTOWtrMDZJaEwxalBGUnVNcGlR?oc=5",
+          "source": "Público",
+          "published": "2026-09-25T13:09:28.000Z"
+        },
+        {
+          "title": "El Gobierno vuelve a retrasar el registro horario pese a que prometió reforzarlo este mes de septiembre",
+          "link": "https://elpais.com/economia/2026-09-25/el-gobierno-vuelve-a-retrasar-el-registro-horario-pese-a-que-prometio-reforzarlo-este-mes-de-septiembre.html",
+          "source": "El País",
+          "published": "2026-09-25T13:06:41.000Z"
+        },
+        {
+          "title": "La policía de Nueva York arresta a las actrices Susan Sarandon y Hannah Einbinder en una protesta contra Netanyahu",
+          "link": "https://elpais.com/cultura/2026-09-25/la-policia-de-nueva-york-arresta-a-la-actriz-susan-sarandon-en-una-protesta-contra-netanyahu.html",
+          "source": "El País",
+          "published": "2026-09-25T13:04:42.000Z"
+        },
+        {
+          "title": "Zapatero propondrá un perito para valorar sus joyas si el juez mantiene la tasación impugnada",
+          "link": "https://www.europapress.es/nacional/noticia-zapatero-propondra-perito-valorar-joyas-si-juez-mantiene-tasacion-impugnada-20260925145434.html",
           "source": "Europa Press",
-          "published": "2026-09-25T09:44:44.000Z"
+          "published": "2026-09-25T12:54:34.000Z"
         }
       ]
     },
@@ -139,56 +152,67 @@
             "elDiario.es Internacional"
           ],
           "firstSeen": "2026-09-25T10:48:21.769Z"
+        },
+        {
+          "title": "Zelenski afirma que Trump tomó la \"decisión final\" de conceder a Ucrania licencia para los misiles Patriot",
+          "link": "https://www.france24.com/es/europa/20260925-zelenski-afirma-que-trump-tom%C3%B3-la-decisi%C3%B3n-final-de-conceder-a-ucrania-licencia-para-los-misiles-patriot",
+          "source": "France 24",
+          "summary": "El presidente de EE. UU., Donald Trump, comunicó a su homólogo de Ucrania, Volodímir Zelenski, que tomó una \"decisión final\" de conceder a Kiev la licencia para fabricar misiles de defensa aérea Patriot, según declaró este viernes el líder ucraniano. La confirmación llegó durante la última reunión entre ambos mandatarios, poniendo fin a un periodo de incertidumbre tras una serie de cambios de postura sobre el asunto.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-09-25T16:08:08.681Z"
         }
       ],
       "items": [
         {
-          "title": "El embajador de Israel provoca a un diplomático iraní en la ONU con un dispositivo Starlink: \"¿Quieres llevártelo?\"",
-          "link": "https://www.eldiario.es/internacional/embajador-israel-provoca-diplomatico-irani-onu-dispositivo-starlink-quieres-llevartelo_1_13537259.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-25T10:35:28.000Z"
-        },
-        {
-          "title": "España, el único país grande de los 76 que participaron en el boicot a Netanyahu en la Asamblea de la ONU",
-          "link": "https://www.20minutos.es/internacional/espana-unico-pais-grande-los-76-que-participaron-boicot-netanyahu-asamblea-onu_7041248_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-25T09:27:01.000Z"
-        },
-        {
-          "title": "Irán plantea a EEUU un plan de siete días para cesar las hostilidades, reabrir Ormuz e iniciar conversaciones sobre el programa nuclear",
-          "link": "https://www.20minutos.es/internacional/iran-plantea-eeuu-un-plan-siete-dias-para-cesar-las-hostilidades-reabrir-ormuz-iniciar-conversaciones-sobre-programa-nuclear_7041279_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-25T09:25:35.000Z"
-        },
-        {
-          "title": "Cazas de Finlandia y Suecia interceptan aviones de guerra rusos sobre el Báltico",
-          "link": "https://www.20minutos.es/internacional/cazas-finlandia-suecia-interceptan-aviones-guerra-rusos-sobre-baltico_7041284_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-25T09:19:01.000Z"
-        },
-        {
-          "title": "Xi Jinping, de risas con Trump en la Casa Blanca al ver la imagen que ha utilizado para sustituir el retrato de Biden",
-          "link": "https://www.20minutos.es/internacional/xi-jinping-risas-con-trump-casa-blanca-ver-imagen-que-ha-utilizado-para-sustituir-retrato-biden_7041245_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-25T08:46:41.000Z"
-        },
-        {
-          "title": "China reactiva con EEUU su \"diplomacia de los pandas\" durante la visita de Xi",
-          "link": "https://www.20minutos.es/internacional/china-reactiva-con-eeuu-su-diplomacia-los-pandas-durante-visita-xi_7041164_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-25T04:54:42.000Z"
-        },
-        {
-          "title": "La cena de gala (y un águila calva) de Trump para agasajar a Xi Jinping",
-          "link": "https://elpais.com/internacional/2026-09-25/la-cena-de-gala-y-un-aguila-calva-de-trump-para-agasajar-a-xi-jinping.html",
-          "source": "El País Internacional",
-          "published": "2026-09-25T04:00:00.000Z"
-        },
-        {
-          "title": "¿Cuál es el costo psicológico de las misiones militares prolongadas?",
-          "link": "https://www.france24.com/es/video/20260925-cu%C3%A1l-es-el-costo-psicol%C3%B3gico-de-las-misiones-militares-prolongadas",
+          "title": "Xi en EE. UU.: Trump augura “cosas extraordinarias”, pero afirma que ayuda de China a Irán es “inaceptable”",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260925-xi-en-ee-uu-trump-augura-cosas-extraordinarias-pero-afirma-que-ayuda-de-china-a-ir%C3%A1n-es-inaceptable",
           "source": "France 24",
-          "published": "2026-09-25T03:33:09.000Z"
+          "published": "2026-09-25T16:03:35.000Z"
+        },
+        {
+          "title": "¿Lula o Flávio Bolsonaro? Brasil decide su rumbo político",
+          "link": "https://www.france24.com/es/programas/enlace/20260925-lula-o-fl%C3%A1vio-bolsonaro-brasil-decide-su-rumbo-pol%C3%ADtico",
+          "source": "France 24",
+          "published": "2026-09-25T15:03:08.000Z"
+        },
+        {
+          "title": "Rusia pone el acceso a internet en el punto de mira de sus ataques contra Ucrania",
+          "link": "https://www.20minutos.es/internacional/rusia-pone-acceso-internet-punto-mira-sus-ataques-contra-ucrania_7041502_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-25T14:59:30.000Z"
+        },
+        {
+          "title": "Rusia: ¿un Parlamento al servicio de la guerra de Putin en Ucrania?",
+          "link": "https://www.france24.com/es/programas/ventana-a-europa/20260925-rusia-un-parlamento-al-servicio-de-la-guerra-de-putin-en-ucrania",
+          "source": "France 24",
+          "published": "2026-09-25T14:43:14.000Z"
+        },
+        {
+          "title": "Denuncian un ataque ruso contra periodistas extranjeros, entre ellos un español, en el este de Ucrania",
+          "link": "https://www.20minutos.es/internacional/denuncian-un-ataque-ruso-contra-periodistas-extranjeros-entre-ellos-un-espanol-este-ucrania_7041494_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-25T14:39:33.000Z"
+        },
+        {
+          "title": "Rusia redobla su ‘flota fantasma’ pese a las sanciones y los bombardeos de Ucrania",
+          "link": "https://elpais.com/internacional/2026-09-25/rusia-redobla-su-flota-fantasma-pese-a-las-sanciones-y-los-bombardeos-de-ucrania.html",
+          "source": "El País Internacional",
+          "published": "2026-09-25T14:24:59.000Z"
+        },
+        {
+          "title": "Xi Jinping y Donald Trump evitan hablar en público sobre Taiwán, pero intercambian a puerta cerrada",
+          "link": "https://www.dw.com/es/xi-jinping-y-donald-trump-evitan-hablar-en-público-sobre-taiwán-pero-intercambian-a-puerta-cerrada/a-79432083?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-25T14:17:00.000Z"
+        },
+        {
+          "title": "Xi Jinping en EE. UU.: ¿qué hay debajo de la alfombra roja?",
+          "link": "https://www.france24.com/es/programas/el-debate/20260925-xi-jinping-en-ee-uu-qu%C3%A9-hay-debajo-de-la-alfombra-roja",
+          "source": "France 24",
+          "published": "2026-09-25T13:59:35.000Z"
         }
       ]
     }
