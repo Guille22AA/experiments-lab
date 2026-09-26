@@ -1,119 +1,72 @@
 {
-  "date": "2026-09-25",
-  "updatedAt": "2026-09-25T20:52:14.561Z",
-  "edition": "tarde",
+  "date": "2026-09-26",
+  "updatedAt": "2026-09-26T10:29:56.568Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Vivienda negocia con Junts prohibir los desahucios en pisos de fondos buitre e impedir que estos compren inmuebles",
-          "link": "https://www.eldiario.es/politica/vivienda-negocia-junts-prohibir-desahucios-pisos-fondos-buitre-e-impedir-compren-inmuebles_1_13537593.html",
+          "title": "El BOE publica la jubilación forzosa por edad del juez Peinado tras cerrar la instrucción del caso Begoña Gómez",
+          "link": "https://www.eldiario.es/politica/boe-publica-jubilacion-forzosa-edad-juez-peinado-cerrar-instruccion-caso-begona-gomez_1_13539955.html",
           "source": "elDiario.es",
-          "summary": "El ministerio busca un acuerdo con los independentistas para recuperar la protección que tumbaron a principios de año, aunque solo para inquilinos que vivan en pisos de empresas. Para el resto, Vivienda acepta la demanda de Junts de costear las cuotas de los arrendatarios vulnerables para evitar su desalojo El Gobierno negocia contra reloj concesiones fiscales a Junts para aprobar el martes el decreto de vivienda Ara y confirmó elDiario.es, de cara a incluirlas en el decreto que el Gobierno se encuentra elaborando contra reloj en contacto con sus socios parlamentarios para intentar ponerlo en…",
+          "summary": "La medida se publica a un día de que el magistrado cumpla 72 años. Durante esta semana, ha gozado de tres días de permiso una vez dictó el lunes el auto de apertura de juicio contra la mujer del presidente del Gobierno El juez Peinado da el último paso para que Begoña Gómez sea juzgada por un tribunal del jurado El Boletín Oficial del Estado (BOE) ha publicado este sábado la jubilación forzosa por edad del juez Juan Carlos Peinado, un día antes de cumplir 72 años, y con una carrera marcada en su etapa final por investigar y enviar a juicio ante un jurado popular a Begoña Gómez, mujer del…",
           "sources": [
             "elDiario.es",
-            "20minutos",
-            "El País"
+            "20minutos"
           ],
-          "firstSeen": "2026-09-25T10:48:21.769Z"
-        },
-        {
-          "title": "El Congreso abrirá expediente a la diputada del PP Ana Vázquez por mostrar un bote de gas pimienta",
-          "link": "https://www.20minutos.es/nacional/congreso-abrira-expediente-diputada-pp-que-mostro-un-bote-gas-pimienta-hemiciclo_7041468_0.html",
-          "source": "20minutos",
-          "summary": "La sanción puede ir desde el apercibimiento hasta la suspensión temporal y una multa económica.",
-          "sources": [
-            "20minutos",
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-09-25T16:08:08.681Z"
-        },
-        {
-          "title": "Frente Amplio, la nueva marca de los partidos de Sumar para las generales - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkpLVldEaTNoZWZOTHY5WnJVZkNWMXVobzhDM0pjSzBDY1J6bUlERlpreWVRSlp3VkZ4OXJlSkp3bktqVEpEUkotMWhNWmZGQThtdGJmUXBrOTdpZnpISWdHNEdTSlhqOFdRMllzXy1CYTNIWGlNcVJmVTZsdlM4OXd4YnF4N2h0RmQtLXB3bEd1SUZQRHNYQ3k1aUjSAaIBQVVfeXFMTUhSYU1SZWgwTzAtamptNGxNU3c4RWJHU3BpSnNPSDhoOU1WcXVpWmRFdEV3MnNMVTViNlNmd1FlNkNKQUlVNU1odWFGMXd5SnRGVThzXzg0RUUyZ1JSc2RBZHpiZDdUY04ya2pBeFBfc21iNXV0UEtiWGRhRDVOdUIwbF8teXZPNURINlR4T2lTOWtrMDZJaEwxalBGUnVNcGlR?oc=5",
-          "source": "Público",
-          "summary": "Frente Amplio, la nueva marca de los partidos de Sumar para las generales Diario Público",
-          "sources": [
-            "Público",
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-09-25T20:52:14.561Z"
-        },
-        {
-          "title": "El juez deja en libertad al principal prestamista del caso Plus Ultra pero le prohíbe salir de España",
-          "link": "https://www.eldiario.es/politica/juez-deja-libertad-presunto-caso-plus-ultra-le-prohibe-salir-espana_1_13537272.html",
-          "source": "elDiario.es",
-          "summary": "Calama le impone comparecencias cada dos días en el juzgado y el financiero neerlandés se ofrece a declarar próximamente Los mensajes entre Plus Ultra y la SEPI documentan un proceso para el rescate ajeno a una posible 'vía Zapatero' El juez de la Audiencia Nacional José Luis Calama ha dejado en libertad a Simon Lendeert Verhoeven, uno de los principales prestamistas del caso Plus Ultra, aunque le ha impuesto la prohibición de salir de España, la obligación de comparecer cada dos días en el juzgado y de fijar su domicilio para estar localizable. Fuentes jurídicas han informado a Europa Press…",
-          "sources": [
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-09-25T10:48:21.769Z"
-        },
-        {
-          "title": "Bolaños acusa al Poder Judicial de paralizar sus quejas contra Peinado para buscar la “impunidad” por su jubilación",
-          "link": "https://www.eldiario.es/politica/bolanos-acusa-judicial-paralizar-quejas-peinado-buscar-impunidad-jubilacion_1_13537161.html",
-          "source": "elDiario.es",
-          "summary": "El ministro presenta un nuevo recurso de alzada por la “indefensión” generada al negarle el expediente de sus quejas contra el instructor del caso contra Begoña Gómez El Poder Judicial archiva definitivamente las denuncias de Bolaños contra el juez Peinado El ministro de Justicia, Félix Bolaños, ha presentado un nuevo recurso de alzada ante el Consejo General del Poder Judicial (CGPJ). Esta vez, contra la decisión del órgano de denegarle el acceso al expediente completo de su queja contra el juez Juan Carlos Peinado, instructor del caso contra Begoña Gómez. El ministro sostiene que la…",
-          "sources": [
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-09-25T10:48:21.769Z"
+          "firstSeen": "2026-09-26T10:29:56.568Z"
         }
       ],
       "items": [
         {
-          "title": "\"Por todas las Maricarmen\": Santander se suma a la ola de indignación contra los desahucios sin alternativa habitacional",
-          "link": "https://www.eldiario.es/cantabria/maricarmen-santander-suma-ola-indignacion-desahucios-alternativa-habitacional_1_13539652.html",
-          "source": "elDiario.es",
-          "published": "2026-09-25T20:10:26.000Z"
-        },
-        {
-          "title": "El Gobierno evita responder a un informe de CBS que reaviva la posibilidad de una acción militar en Cuba",
-          "link": "https://elpais.com/us/2026-09-25/un-reporte-de-cbs-reaviva-la-posibilidad-de-una-accion-militar-en-cuba.html",
+          "title": "Manifestación contra Sánchez, en directo | Unas 20.000 personas marchan en Madrid para pedir elecciones y “en defensa de Ceuta”",
+          "link": "https://elpais.com/espana/2026-09-26/manifestacion-en-apoyo-de-ceuta-y-melilla-en-directo.html",
           "source": "El País",
-          "published": "2026-09-25T19:27:23.000Z"
+          "published": "2026-09-26T10:28:08.000Z"
         },
         {
-          "title": "Mercadona gana en el Tribunal Supremo la guerra de la horchata tras cinco años de batalla legal",
-          "link": "https://elpais.com/economia/2026-09-25/mercadona-gana-en-el-tribunal-supremo-la-guerra-de-la-horchata-tras-cinco-anos-de-batalla-legal.html",
+          "title": "Unas 20.000 personas recorren el centro de Madrid en apoyo a Ceuta y para exigir elecciones ya",
+          "link": "https://www.europapress.es/nacional/noticia-segunda-marcha-dignidad-recorre-centro-madrid-apoyo-ceuta-exigir-elecciones-ya-20260926112540.html",
+          "source": "Europa Press",
+          "published": "2026-09-26T09:25:40.000Z"
+        },
+        {
+          "title": "La mitad de los hogares en alquiler nunca podrá comprar una vivienda, según un estudio de la revista ICE",
+          "link": "https://diariosocialista.net/2026/09/26/la-mitad-de-los-hogares-en-alquiler-nunca-podra-comprar-una-vivienda-segun-un-estudio-de-la-revista-ice/",
+          "source": "Diario Socialista",
+          "published": "2026-09-26T09:00:30.000Z"
+        },
+        {
+          "title": "Un alto cargo de la OTAN pide aumentar la presencia militar en el Sahel y augura una futura intervención",
+          "link": "https://diariosocialista.net/2026/09/26/un-alto-cargo-de-la-otan-pide-aumentar-la-presencia-militar-en-el-sahel-y-augura-una-futura-intervencion/",
+          "source": "Diario Socialista",
+          "published": "2026-09-26T09:00:22.000Z"
+        },
+        {
+          "title": "El Papa visita un centro para migrantes en París y pide \"honrar la dignidad infinita de cada hermano y hermana\"",
+          "link": "https://www.europapress.es/sociedad/noticia-papa-visita-centro-migrantes-paris-pide-honrar-dignidad-infinita-cada-hermano-hermana-20260926105614.html",
+          "source": "Europa Press",
+          "published": "2026-09-26T08:56:14.000Z"
+        },
+        {
+          "title": "Abascal desdeña las críticas de Aznar, otro \"derrotado por Marruecos\", y reta a Feijóo a buscarse \"mejor padrino\"",
+          "link": "https://www.europapress.es/nacional/noticia-abascal-desdena-criticas-aznar-otro-derrotado-marruecos-reta-feijoo-buscarse-mejor-padrino-20260926103755.html",
+          "source": "Europa Press",
+          "published": "2026-09-26T08:37:55.000Z"
+        },
+        {
+          "title": "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio después de una investigación con avales y correcciones",
+          "link": "https://www.europapress.es/nacional/noticia-juez-peinado-jubila-enviar-begona-gomez-juicio-despues-investigacion-avales-correcciones-20260926102952.html",
+          "source": "Europa Press",
+          "published": "2026-09-26T08:29:52.000Z"
+        },
+        {
+          "title": "Lady Gaga, Lena Dunham y el vientre de alquiler: ¿por qué en Estados Unidos no genera escándalo?",
+          "link": "https://elpais.com/sociedad/2026-09-26/lady-gaga-lena-dunham-y-el-vientre-de-alquiler-por-que-en-estados-unidos-no-genera-escandalo.html",
           "source": "El País",
-          "published": "2026-09-25T19:24:39.000Z"
-        },
-        {
-          "title": "Madrid rechaza la propuesta de Urbagestión para asumir el piso de Maricarmen por “inviable”, pero se ofrece a mediar",
-          "link": "https://elpais.com/espana/madrid/2026-09-25/urbagestion-propone-ceder-al-ayuntamiento-de-madrid-la-casa-de-maricarmen-para-que-pueda-volver.html",
-          "source": "El País",
-          "published": "2026-09-25T19:15:10.000Z"
-        },
-        {
-          "title": "Renfe desvela un ciberataque con origen en Adif: los atacantes se han hecho con información \"limitada\" de usuarios",
-          "link": "https://www.20minutos.es/nacional/renfe-desvela-ciberataque-origen-adif-atacantes-hecho-informacion-limitada-usuarios_7041585_0.html",
-          "source": "20minutos",
-          "published": "2026-09-25T19:11:35.000Z"
-        },
-        {
-          "title": "Un tribunal da la razón a EEUU en la designación de Anthropic como riesgo para la cadena de suministro",
-          "link": "https://www.20minutos.es/tecnologia/actualidad/un-tribunal-da-razon-eeuu-designacion-anthropic-como-riesgo-para-cadena-suministro_7041582_0.html",
-          "source": "20minutos",
-          "published": "2026-09-25T18:50:39.000Z"
-        },
-        {
-          "title": "Valladolid se solidariza con Maricarmen ante la sede de Urbagestión: \"Su estrategia está muy naturalizada\"",
-          "link": "https://www.eldiario.es/castilla-y-leon/valladolid-solidariza-maricarmen-desahucio-estrategia-urbagestion-naturalizada_1_13539546.html",
-          "source": "elDiario.es",
-          "published": "2026-09-25T18:35:32.000Z"
-        },
-        {
-          "title": "Trump y Xi sellan su ‘entente cordiale’ tras tres días de gran pompa y escasa sustancia",
-          "link": "https://elpais.com/internacional/2026-09-25/trump-y-xi-sellan-su-entente-cordiale-tras-tres-dias-de-gran-pompa-y-escasa-sustancia.html",
-          "source": "El País",
-          "published": "2026-09-25T18:31:02.000Z"
+          "published": "2026-09-26T08:20:57.000Z"
         }
       ]
     },
@@ -122,109 +75,66 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "León XIV en Francia: \"La de Ceuta es una verdadera crisis humanitaria\"",
-          "link": "https://www.dw.com/es/león-xiv-en-francia-la-de-ceuta-es-una-verdadera-crisis-humanitaria/a-79427461?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El papa León XIV fue recibido por el presidente Emmanuel Macron al comienzo de una visita de cuatro días a Francia.",
-          "sources": [
-            "DW",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-09-25T10:48:21.769Z"
-        },
-        {
-          "title": "Informe desde Washington: Trump resalta relación con Xi tras reunión en la Casa Blanca",
-          "link": "https://www.france24.com/es/video/20260924-informe-desde-washington-trump-resalta-relaci%C3%B3n-con-xi-tras-reuni%C3%B3n-en-la-casa-blanca",
+          "title": "Siete días para reabrir el estrecho de Ormuz: Irán fija condiciones a cambio de concesiones críticas de EE. UU.",
+          "link": "https://www.france24.com/es/medio-oriente/20260926-siete-d%C3%ADas-para-reabrir-el-estrecho-de-ormuz-ir%C3%A1n-fija-condiciones-a-cambio-de-concesiones-cr%C3%ADticas-de-ee-uu",
           "source": "France 24",
-          "summary": "El presidente estadounidense, Donald Trump, recibió a su homólogo chino, Xi Jinping, en la Oficina Oval. Los mandatarios dieron una rueda de prensa conjunta tras su reunión, en la que Trump exaltó el desacuerdo comercial que están intentando mitigar y estabilizar. Nuestro corresponsal Cristóbal Vásquez nos amplió la información sobre el encuentro.",
+          "summary": "El canciller Abbas Araqchi conversó con periodistas que cubrían la reunión del Consejo de Seguridad de la ONU para hacer pública una nueva iniciativa que podría permitir la reanudación de la navegación en la vía por la que transita un quinto del petróleo mundial. Teherán accedería a la apertura si Washington levanta su bloqueo naval, suspende las sanciones contra el petróleo iraní e incluye a Líbano en las negociaciones para un nuevo alto el fuego.",
           "sources": [
             "France 24",
+            "BBC Mundo",
             "DW"
           ],
-          "firstSeen": "2026-09-25T10:48:21.769Z"
-        },
-        {
-          "title": "Últimas noticias de la Asamblea General de la ONU, en directo | La Asamblea de la ONU se vacía antes del discurso de Netanyahu y él les llama “cobardes”",
-          "link": "https://elpais.com/internacional/2026-09-24/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
-          "source": "El País Internacional",
-          "summary": "Netanyahu agradece a Trump su valentía “para salvar a la civilización” y defiende que acusar a Israel de genocidio es “la mayor mentira del siglo” | Abbas denuncia la limpieza étnica de los palestinos: “Es un plan colonial maligno cuyo objetivo es hacer imposible la vida”",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-09-25T10:48:21.769Z"
-        },
-        {
-          "title": "Zelenski afirma que Trump tomó la \"decisión final\" de conceder a Ucrania licencia para los misiles Patriot",
-          "link": "https://www.france24.com/es/europa/20260925-zelenski-afirma-que-trump-tom%C3%B3-la-decisi%C3%B3n-final-de-conceder-a-ucrania-licencia-para-los-misiles-patriot",
-          "source": "France 24",
-          "summary": "El presidente de EE. UU., Donald Trump, comunicó a su homólogo de Ucrania, Volodímir Zelenski, que tomó una \"decisión final\" de conceder a Kiev la licencia para fabricar misiles de defensa aérea Patriot, según declaró este viernes el líder ucraniano. La confirmación llegó durante la última reunión entre ambos mandatarios, poniendo fin a un periodo de incertidumbre tras una serie de cambios de postura sobre el asunto.",
-          "sources": [
-            "France 24",
-            "DW"
-          ],
-          "firstSeen": "2026-09-25T16:08:08.681Z"
-        },
-        {
-          "title": "El Supremo permite a Trump aplicar un sistema de control de votantes",
-          "link": "https://www.20minutos.es/internacional/supremo-permite-trump-aplicar-un-sistema-control-votantes_7041595_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El sistema combina las bases de datos sobre ciudadanía, números de la Seguridad Social y otros datos confidenciales, para impedir que puedan votar personas que no tengan la ciudadanía estadounidense.",
-          "sources": [
-            "20minutos Internacional",
-            "France 24"
-          ],
-          "firstSeen": "2026-09-25T20:52:14.561Z"
+          "firstSeen": "2026-09-26T10:29:56.568Z"
         }
       ],
       "items": [
         {
-          "title": "Elif Eralp, la respuesta al ascenso de la ultraderecha que llevó a La Izquierda a su primera victoria de la historia en Berlín",
-          "link": "https://www.eldiario.es/internacional/elif-eralp-respuesta-ascenso-ultraderecha-llevo-izquierda-primera-victoria-historia-berlin_1_13539554.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-25T20:36:45.000Z"
+          "title": "Qué es la Unidad 29155, la fuerza secreta de Putin que se encarga de misiones para desestabilizar Occidente",
+          "link": "https://www.20minutos.es/internacional/que-es-unidad-fuerza-secreta-putin-encarga-misiones-desestabilizar-occidente_7041661_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-26T10:25:39.000Z"
         },
         {
-          "title": "La nueva cara del radicalismo: \"Los discursos que estaban en los rincones de internet hoy salen de la Casa Blanca\"",
-          "link": "https://www.eldiario.es/internacional/nueva-cara-radicalismo-discursos-estaban-rincones-internet-hoy-salen-casa-blanca_1_13537845.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-25T20:36:45.000Z"
+          "title": "Al menos cinco muertos en ataques con drones entre Rusia y Ucrania",
+          "link": "https://www.dw.com/es/al-menos-cinco-muertos-en-ataques-con-drones-entre-rusia-y-ucrania/a-79442350?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-26T10:25:00.000Z"
         },
         {
-          "title": "Caso Maricarmen: España registró un desahucio cada 20 minutos en 2025",
-          "link": "https://www.france24.com/es/programas/en-contexto/20260925-caso-maricarmen-espa%C3%B1a-registr%C3%B3-un-desahucio-cada-20-minutos-en-2025",
-          "source": "France 24",
-          "published": "2026-09-25T20:24:20.000Z"
+          "title": "El significado detrás del regalo de Xi a Trump: la \"diplomacia del panda\", 85 años de regalos y préstamos de embajadores peludos",
+          "link": "https://www.20minutos.es/internacional/significado-detras-regalo-xi-trump-diplomacia-panda-85-anos-regalos-prestamos-embajadores-peludos_7041310_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-26T10:14:59.000Z"
         },
         {
-          "title": "Desde el terreno: clases, drones y pueblos vacíos, la educación bajo la guerra en el sur de Líbano",
-          "link": "https://www.france24.com/es/medio-oriente/20260925-desde-el-terreno-clases-drones-y-pueblos-vac%C3%ADos-la-educaci%C3%B3n-bajo-la-guerra-en-el-sur-de-l%C3%ADbano",
-          "source": "France 24",
-          "published": "2026-09-25T19:54:53.000Z"
+          "title": "Donald Trump se burla de Irán y sube una imagen del 'Estrecho de Trump' tras rechazar un acuerdo de alto el fuego",
+          "link": "https://www.20minutos.es/internacional/donald-trump-burla-iran-sube-imagen-estrecho-trump-rechazar-alto-fuego_7041657_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-26T09:55:57.000Z"
         },
         {
-          "title": "Padre Carlos Justino Novoa: \"León XIV continúa la senda del papa Francisco\"",
-          "link": "https://www.france24.com/es/video/20260925-padre-carlos-justino-novoa-le%C3%B3n-xiv-contin%C3%BAa-la-senda-del-papa-francisco",
-          "source": "France 24",
-          "published": "2026-09-25T19:10:15.000Z"
+          "title": "Cazas españoles intervienen tras detectar un dron ruso cerca de la frontera con Rumanía",
+          "link": "https://www.20minutos.es/internacional/cazas-espanoles-intervienen-detectar-dron-ruso-cerca-frontera-rumania_7041652_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-26T09:29:17.000Z"
         },
         {
-          "title": "Consejo de Seguridad de la ONU respalda el derecho a la defensa de Arabia Saudita frente a los hutíes",
-          "link": "https://www.france24.com/es/medio-oriente/20260925-consejo-de-seguridad-de-la-onu-respalda-el-derecho-a-la-defensa-de-arabia-saudita-frente-a-los-hut%C3%ADes",
-          "source": "France 24",
-          "published": "2026-09-25T18:49:54.000Z"
+          "title": "La Casa Blanca impide a periodistas de CNN subir al Air Force One para cubrir a Trump",
+          "link": "https://www.20minutos.es/internacional/casa-blanca-impide-periodistas-cnn-subir-air-force-one-para-cubrir-trump_7041641_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-26T08:28:30.000Z"
         },
         {
-          "title": "La ONU amplía a 214 la lista de empresas vinculadas a los asentamientos israelíes",
-          "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260925-la-onu-ampl%C3%ADa-a-214-la-lista-de-empresas-vinculadas-a-los-asentamientos-israel%C3%ADes",
-          "source": "France 24",
-          "published": "2026-09-25T18:43:34.000Z"
+          "title": "China y Estados Unidos establecen un \"canal de comunicación\" para incidencias sobre \"superinteligencia\", como acordaron llamar a la IA",
+          "link": "https://www.dw.com/es/china-y-estados-unidos-establecen-un-canal-de-comunicación-para-incidencias-sobre-superinteligencia-como-acordaron-llamar-a-la-ia/a-79441636?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-26T08:17:00.000Z"
         },
         {
-          "title": "La pobreza escala en Argentina y pone a prueba las políticas de Javier Milei",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260925-la-pobreza-escala-en-argentina-y-pone-a-prueba-las-pol%C3%ADticas-de-javier-milei",
-          "source": "France 24",
-          "published": "2026-09-25T18:39:52.000Z"
+          "title": "Putin afirma que Rusia no se está preparando para una acción militar contra la UE: \"No tenemos planes de ese tipo\"",
+          "link": "https://www.20minutos.es/internacional/putin-afirma-que-rusia-no-se-esta-preparando-para-una-accion-militar-contra-ue-no-tenemos-planes-ese-tipo_7041630_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-26T07:48:20.000Z"
         }
       ]
     }
