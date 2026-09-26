@@ -1,12 +1,24 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-26T10:29:56.568Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-09-26T15:21:17.852Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio después de una investigación con avales y correcciones",
+          "link": "https://www.europapress.es/nacional/noticia-juez-peinado-jubila-enviar-begona-gomez-juicio-despues-investigacion-avales-correcciones-20260926102952.html",
+          "source": "Europa Press",
+          "summary": "El juez Juan Carlos Peinado pone fin este domingo a su trayectoria en la carrera judicial al cumplir 72 años y después de enviar a juicio con jurado popular a Begoña Gómez, la esposa del presidente del Gobierno, Pedro Sánchez, tras una investigación que se ha extendido dos años y que ha cosechado tanto respaldos como revisiones de tribunales superiores a las decisiones tomadas por el instructor.",
+          "sources": [
+            "Europa Press",
+            "elDiario.es",
+            "20minutos"
+          ],
+          "firstSeen": "2026-09-26T15:21:17.852Z"
+        },
         {
           "title": "El BOE publica la jubilación forzosa por edad del juez Peinado tras cerrar la instrucción del caso Begoña Gómez",
           "link": "https://www.eldiario.es/politica/boe-publica-jubilacion-forzosa-edad-juez-peinado-cerrar-instruccion-caso-begona-gomez_1_13539955.html",
@@ -17,56 +29,89 @@
             "20minutos"
           ],
           "firstSeen": "2026-09-26T10:29:56.568Z"
-        }
-      ],
-      "items": [
+        },
         {
-          "title": "Manifestación contra Sánchez, en directo | Unas 20.000 personas marchan en Madrid para pedir elecciones y “en defensa de Ceuta”",
-          "link": "https://elpais.com/espana/2026-09-26/manifestacion-en-apoyo-de-ceuta-y-melilla-en-directo.html",
-          "source": "El País",
-          "published": "2026-09-26T10:28:08.000Z"
+          "title": "Maricarmen pide un decreto ley a Sánchez desde el hospital: \"El primer paso para acabar con el sistema\" que llevó a su desahucio",
+          "link": "https://www.20minutos.es/nacional/maricarmen-pedro-sanchez-desde-hospital-tiene-que-aprobar-decreto-acabar-desahucios_7041713_0.html",
+          "source": "20minutos",
+          "summary": "La anciana quiere que \"lo que me ha pasado a mí sirva para que no le pase a otras personas, quiero que sirva para que la gente luche\".",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-09-26T15:21:17.852Z"
+        },
+        {
+          "title": "Sumar no irá al Consejo de Ministros si no incluye medidas efectivas de vivienda: \"No valen parches\"",
+          "link": "https://www.20minutos.es/nacional/sumar-no-ira-proximo-consejo-ministros-si-no-incluye-medidas-efectivas-vivienda-no-valen-parches_7041690_0.html",
+          "source": "20minutos",
+          "summary": "\"Ya nos plantamos una vez, y si toca plantarnos de nuevo, lo haremos este martes\", han advertido los cinco ministros de Sumar.",
+          "sources": [
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-26T15:21:17.852Z"
         },
         {
           "title": "Unas 20.000 personas recorren el centro de Madrid en apoyo a Ceuta y para exigir elecciones ya",
           "link": "https://www.europapress.es/nacional/noticia-segunda-marcha-dignidad-recorre-centro-madrid-apoyo-ceuta-exigir-elecciones-ya-20260926112540.html",
           "source": "Europa Press",
-          "published": "2026-09-26T09:25:40.000Z"
-        },
+          "summary": "El líder de Vox, Santiago Abascal, y el secretario general del PP, Miguel Tellado, participan en la segunda 'Marcha por la Dignidad'",
+          "sources": [
+            "Europa Press",
+            "20minutos"
+          ],
+          "firstSeen": "2026-09-26T15:21:17.852Z"
+        }
+      ],
+      "items": [
         {
-          "title": "La mitad de los hogares en alquiler nunca podrá comprar una vivienda, según un estudio de la revista ICE",
-          "link": "https://diariosocialista.net/2026/09/26/la-mitad-de-los-hogares-en-alquiler-nunca-podra-comprar-una-vivienda-segun-un-estudio-de-la-revista-ice/",
-          "source": "Diario Socialista",
-          "published": "2026-09-26T09:00:30.000Z"
-        },
-        {
-          "title": "Un alto cargo de la OTAN pide aumentar la presencia militar en el Sahel y augura una futura intervención",
-          "link": "https://diariosocialista.net/2026/09/26/un-alto-cargo-de-la-otan-pide-aumentar-la-presencia-militar-en-el-sahel-y-augura-una-futura-intervencion/",
-          "source": "Diario Socialista",
-          "published": "2026-09-26T09:00:22.000Z"
-        },
-        {
-          "title": "El Papa visita un centro para migrantes en París y pide \"honrar la dignidad infinita de cada hermano y hermana\"",
-          "link": "https://www.europapress.es/sociedad/noticia-papa-visita-centro-migrantes-paris-pide-honrar-dignidad-infinita-cada-hermano-hermana-20260926105614.html",
-          "source": "Europa Press",
-          "published": "2026-09-26T08:56:14.000Z"
-        },
-        {
-          "title": "Abascal desdeña las críticas de Aznar, otro \"derrotado por Marruecos\", y reta a Feijóo a buscarse \"mejor padrino\"",
-          "link": "https://www.europapress.es/nacional/noticia-abascal-desdena-criticas-aznar-otro-derrotado-marruecos-reta-feijoo-buscarse-mejor-padrino-20260926103755.html",
-          "source": "Europa Press",
-          "published": "2026-09-26T08:37:55.000Z"
-        },
-        {
-          "title": "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio después de una investigación con avales y correcciones",
-          "link": "https://www.europapress.es/nacional/noticia-juez-peinado-jubila-enviar-begona-gomez-juicio-despues-investigacion-avales-correcciones-20260926102952.html",
-          "source": "Europa Press",
-          "published": "2026-09-26T08:29:52.000Z"
-        },
-        {
-          "title": "Lady Gaga, Lena Dunham y el vientre de alquiler: ¿por qué en Estados Unidos no genera escándalo?",
-          "link": "https://elpais.com/sociedad/2026-09-26/lady-gaga-lena-dunham-y-el-vientre-de-alquiler-por-que-en-estados-unidos-no-genera-escandalo.html",
+          "title": "Manifestación contra los desahucios, en directo | Maricarmen anima desde el hospital a acudir a la manifestación de esta tarde en Madrid",
+          "link": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html",
           "source": "El País",
-          "published": "2026-09-26T08:20:57.000Z"
+          "published": "2026-09-26T14:45:32.000Z"
+        },
+        {
+          "title": "Trump mantiene su desafío contra la prensa: impide a CNN entrar en el Air Force One para cubrir un viaje presidencial a Tennessee",
+          "link": "https://elpais.com/us/2026-09-26/trump-mantiene-su-desafio-contra-la-prensa-impide-a-cnn-entrar-en-el-air-force-one-para-cubrir-un-viaje-presidencial-a-tennessee.html",
+          "source": "El País",
+          "published": "2026-09-26T14:39:20.000Z"
+        },
+        {
+          "title": "Dimite el presidente del PP de Navarra, Javier García, y una gestora asumirá la dirección",
+          "link": "https://www.eldiario.es/navarra/dimite-presidente-pp-navarra-javier-garcia-gestora-asumira-direccion_1_13540603.html",
+          "source": "elDiario.es",
+          "published": "2026-09-26T14:23:11.000Z"
+        },
+        {
+          "title": "Más de un millar de personas marcha en Santander contra el fascismo y en apoyo a la población migrante",
+          "link": "https://www.eldiario.es/cantabria/millar-personas-marcha-santander-fascismo-apoyo-poblacion-migrante_1_13540474.html",
+          "source": "elDiario.es",
+          "published": "2026-09-26T14:12:00.000Z"
+        },
+        {
+          "title": "El Sindicato Socialista de Vivienda de Euskal Herria convoca asambleas populares el 2 de octubre",
+          "link": "https://diariosocialista.net/2026/09/26/el-sindicato-socialista-de-vivienda-de-euskal-herria-convoca-asambleas-populares-el-2-de-octubre/",
+          "source": "Diario Socialista",
+          "published": "2026-09-26T14:05:49.000Z"
+        },
+        {
+          "title": "Maricarmen podrá volver a su casa con un alquiler que no supere el 40% de sus ingresos si alcanza un acuerdo con Urbagestión",
+          "link": "https://www.20minutos.es/madrid/maricarmen-podra-volver-su-casa-con-un-alquiler-que-no-supere-40-sus-ingresos-si-alcanza-un-acuerdo-con-urbagestion_7041700_0.html",
+          "source": "20minutos",
+          "published": "2026-09-26T13:14:56.000Z"
+        },
+        {
+          "title": "PP y Vox muestran sus diferencias en la multitudinaria marcha que ha pedido investigar a Pedro Sánchez por \"traición\"",
+          "link": "https://www.20minutos.es/nacional/pp-vox-muestran-diferencias-multitudinaria-marcha-pedido-investigar-pedro-sanchez-traicion_7041693_0.html",
+          "source": "20minutos",
+          "published": "2026-09-26T13:05:45.000Z"
+        },
+        {
+          "title": "Vox se impone al PP en la manifestación de “ultimátum” al Gobierno, con la mitad de participación que la del pasado mayo",
+          "link": "https://elpais.com/espana/2026-09-26/vox-se-impone-al-pp-en-la-manifestacion-de-ultimatum-al-gobierno-en-madrid-con-la-mitad-de-participacion-que-la-del-pasado-mayo.html",
+          "source": "El País",
+          "published": "2026-09-26T13:01:53.000Z"
         }
       ]
     },
@@ -89,14 +134,44 @@
       ],
       "items": [
         {
+          "title": "Lula prohíbe las apuestas online en Brasil a nueve días de las elecciones",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260926-lula-proh%C3%ADbe-las-apuestas-online-en-brasil-a-nueve-d%C3%ADas-de-las-elecciones",
+          "source": "France 24",
+          "published": "2026-09-26T14:59:17.000Z"
+        },
+        {
+          "title": "La cumbre entre Xi Jinping y Donald Trump escenifica la buena relación entre ambos, pero no supuso grandes avances",
+          "link": "https://www.dw.com/es/la-cumbre-entre-xi-jinping-y-donald-trump-escenifica-la-buena-relación-entre-ambos-pero-no-supuso-grandes-avances/a-79442246?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-26T14:47:00.000Z"
+        },
+        {
+          "title": "Trump rechaza una propuesta iraní para reabrir Ormuz y mantiene abierta la puerta a nuevos bombardeos",
+          "link": "https://www.france24.com/es/medio-oriente/20260926-trump-rechaza-una-propuesta-iran%C3%AD-para-reabrir-ormuz-y-mantiene-abierta-la-puerta-a-nuevos-bombardeos",
+          "source": "France 24",
+          "published": "2026-09-26T14:28:15.000Z"
+        },
+        {
+          "title": "Wilmer Esteve Roldán Solano: \"León XIV es hijo de un país de migrantes, como es EE. UU.\"",
+          "link": "https://www.france24.com/es/video/20260926-wilmer-esteve-rold%C3%A1n-solano-le%C3%B3n-xiv-es-hijo-de-un-pa%C3%ADs-de-migrantes-como-es-ee-uu",
+          "source": "France 24",
+          "published": "2026-09-26T13:59:05.000Z"
+        },
+        {
+          "title": "Recuperan los cuerpos de dos turistas de Estados Unidos en un edificio derrumbado en Atenas por una explosión de gas",
+          "link": "https://www.dw.com/es/recuperan-los-cuerpos-de-dos-turistas-de-estados-unidos-en-un-edificio-derrumbado-en-atenas-por-una-explosión-de-gas/a-79442401?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-26T11:15:00.000Z"
+        },
+        {
           "title": "Qué es la Unidad 29155, la fuerza secreta de Putin que se encarga de misiones para desestabilizar Occidente",
           "link": "https://www.20minutos.es/internacional/que-es-unidad-fuerza-secreta-putin-encarga-misiones-desestabilizar-occidente_7041661_0.html",
           "source": "20minutos Internacional",
           "published": "2026-09-26T10:25:39.000Z"
         },
         {
-          "title": "Al menos cinco muertos en ataques con drones entre Rusia y Ucrania",
-          "link": "https://www.dw.com/es/al-menos-cinco-muertos-en-ataques-con-drones-entre-rusia-y-ucrania/a-79442350?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Al menos cinco muertos en ataques con drones entre Rusia y Ucrania que dejan también varios heridos",
+          "link": "https://www.dw.com/es/al-menos-cinco-muertos-en-ataques-con-drones-entre-rusia-y-ucrania-que-dejan-también-varios-heridos/a-79442350?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
           "published": "2026-09-26T10:25:00.000Z"
         },
@@ -105,36 +180,6 @@
           "link": "https://www.20minutos.es/internacional/significado-detras-regalo-xi-trump-diplomacia-panda-85-anos-regalos-prestamos-embajadores-peludos_7041310_0.html",
           "source": "20minutos Internacional",
           "published": "2026-09-26T10:14:59.000Z"
-        },
-        {
-          "title": "Donald Trump se burla de Irán y sube una imagen del 'Estrecho de Trump' tras rechazar un acuerdo de alto el fuego",
-          "link": "https://www.20minutos.es/internacional/donald-trump-burla-iran-sube-imagen-estrecho-trump-rechazar-alto-fuego_7041657_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-26T09:55:57.000Z"
-        },
-        {
-          "title": "Cazas españoles intervienen tras detectar un dron ruso cerca de la frontera con Rumanía",
-          "link": "https://www.20minutos.es/internacional/cazas-espanoles-intervienen-detectar-dron-ruso-cerca-frontera-rumania_7041652_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-26T09:29:17.000Z"
-        },
-        {
-          "title": "La Casa Blanca impide a periodistas de CNN subir al Air Force One para cubrir a Trump",
-          "link": "https://www.20minutos.es/internacional/casa-blanca-impide-periodistas-cnn-subir-air-force-one-para-cubrir-trump_7041641_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-26T08:28:30.000Z"
-        },
-        {
-          "title": "China y Estados Unidos establecen un \"canal de comunicación\" para incidencias sobre \"superinteligencia\", como acordaron llamar a la IA",
-          "link": "https://www.dw.com/es/china-y-estados-unidos-establecen-un-canal-de-comunicación-para-incidencias-sobre-superinteligencia-como-acordaron-llamar-a-la-ia/a-79441636?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-26T08:17:00.000Z"
-        },
-        {
-          "title": "Putin afirma que Rusia no se está preparando para una acción militar contra la UE: \"No tenemos planes de ese tipo\"",
-          "link": "https://www.20minutos.es/internacional/putin-afirma-que-rusia-no-se-esta-preparando-para-una-accion-militar-contra-ue-no-tenemos-planes-ese-tipo_7041630_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-26T07:48:20.000Z"
         }
       ]
     }
