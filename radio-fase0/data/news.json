@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T16:00:23.359Z",
+  "updatedAt": "2026-09-27T20:35:32.438Z",
   "edition": "tarde",
   "sections": [
     {
@@ -18,6 +18,18 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-09-27T16:00:23.359Z"
+        },
+        {
+          "title": "La Comunidad y el Ayuntamiento de Madrid acusan al Gobierno de \"lavarse las manos\" y de \"dejación de funciones\" ante la acampada",
+          "link": "https://www.20minutos.es/madrid/ayuntamiento-madrid-acusa-delegado-gobierno-dejacion-funciones-por-permitir-acampada-sol_7041891_0.html",
+          "source": "20minutos",
+          "summary": "El Consistorio de la capital muestra su \"sorpresa\" e \"indignación\" ante la actuación de la Delegación del Gobierno durante la manifestación del sábado que derivó en la acampada de Sol. Mientras, la Comunidad señala al Ministerio del Interior.",
+          "sources": [
+            "20minutos",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-27T20:35:32.438Z"
         },
         {
           "title": "Oposición y socios piden cuentas al Gobierno en el Congreso sobre Vivienda tras el desahucio de Maricarmen",
@@ -55,10 +67,40 @@
       ],
       "items": [
         {
-          "title": "Acampada en Sol contra los desahucios, en directo | Cientos de personas comparten comida, organizan las actividades y consolidan la acampada en Sol",
-          "link": "https://elpais.com/espana/2026-09-27/acampada-en-sol-contra-los-desahucios-en-directo.html",
+          "title": "Una acampada “muy diversa” en Sol por la vivienda prometen aguantar “hasta que la cosa cambie”",
+          "link": "https://elpais.com/videos/2026-09-27/una-acampada-muy-diversa-en-sol-por-la-vivienda-prometen-aguantar-hasta-que-la-cosa-cambie.html",
           "source": "El País",
-          "published": "2026-09-27T15:49:09.000Z"
+          "published": "2026-09-27T18:52:02.000Z"
+        },
+        {
+          "title": "Cientos de personas llenan la Plaza del Ayuntamiento de València \"por todas las Maricarmen\" y exigen la aprobación del real decreto de vivienda",
+          "link": "https://www.eldiario.es/comunitat-valenciana/valencia/cientos-personas-llenan-plaza-ayuntamiento-valencia-maricarmen-exigen-aprobacion-real-decreto-vivienda_1_13542408.html",
+          "source": "elDiario.es",
+          "published": "2026-09-27T18:50:50.000Z"
+        },
+        {
+          "title": "Marc Vidal, economista: \"Hacienda recauda cuatro veces más rápido de lo que crece la economía real\"",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/marc-vidal-economista-hacienda-recauda-cuatro-veces-mas-rapido-que-crece-economia-real_7041535_0.html",
+          "source": "20minutos",
+          "published": "2026-09-27T17:35:59.000Z"
+        },
+        {
+          "title": "\"La Thatcher de Madrid cae en desgracia por el escándalo del piso\": el diario 'The Telegraph' sentencia a Ayuso y los tuiteros no dejan pasar la ocasión - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFlJRUI0d1VlS3lBbmRtZEpnMEE4MWtxdnBQdV9GS0JkRmItZWZCUE9PT1lvQnI3dXZUUVNlUGE4SXgwRDVHV0NPdTU4MzJMamRvRDZHa1dwUGpobFhpZlBoWHdzdTNvZlBMbUtuOW5WZVFYTlpyM21pdk5uaTZlalIxVjQwQUdQazVCdG9vaWFqMkl6dXJVYS1sM0NXRE9wR3NHQk0tX2FrVV9qZ21MNDZHcWpaUdIBuwFBVV95cUxOMnFqMTViNnVDSUhWb3pHVUpuNFNESWRZRWJkeTZmVHpWMFFHeWN1QWRYeWFjOC11NDlJLVowOExSVjRYVmQwRm1lWlRoS1BjamkwbnY2NWZkaURnV1JtTjFsWXJpelVBb1o3SlpyWlpqYkpnTUtuZkIwQ3ZpaUF3UFlwbWIxaUo0NW5YWWVSVEhtUVRidWtiSWY4WUlBZ19CVVpmNDNOdWhnQ1pzZS1kd1lqX1g5Q1B6Y2FZ?oc=5",
+          "source": "Público",
+          "published": "2026-09-27T17:13:05.000Z"
+        },
+        {
+          "title": "Concepción Fernández Villanueva: \"El PP y Vox atacan a un periodismo que puede desmentir sus versiones y hacer daño a sus objetivos\" - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnZKT1BFWXk0U0hsS24zdW9tRHVvbHc3Wkl1cXlsLUZjM2JPODlQaDNhd3VfWE95cTlvei1PWTFqU2pPdTRKcjgzRUZZQWp3NTNGLVpLZ1JIZTN5amUzV3Y3UFZlUWNsNXIxTFRmMnlYVm1aSFVvV1F4Y2U2T1I1Z3JJbE9oZTQtaWRfdHlhaHluX182c0l5UDlUVEt4M1RVdUtqcdIBqgFBVV95cUxOZ1B2SUhsTEhnMGV2cFZjTzUtMjlXZVRlOHdIbXhHTDFrRmVZZ01lVmJOb1hxT3dYT1JoSDdrQmtVa2RtdmYteVlaem5iMGdMVl85Sl9ZTVZ5UENXZGJmTEtEQXEyelB6eFBIMGFZWlF4ekNJZ1M2NXNMYW53bXkybEhnX3NBSEdkY1NQcTlnX3BaY3BpSkcyMkhoZGhHUXJDemRSZWE3YUNBQQ?oc=5",
+          "source": "Público",
+          "published": "2026-09-27T16:25:34.000Z"
+        },
+        {
+          "title": "Del control de los alquileres a desahucios: las diferencias entre grupos políticos que retrasan el decreto de vivienda",
+          "link": "https://www.20minutos.es/nacional/control-los-alquileres-desahucios-las-diferencias-entre-grupos-politicos-que-retrasan-decreto-vivienda_7041888_0.html",
+          "source": "20minutos",
+          "published": "2026-09-27T16:21:47.000Z"
         },
         {
           "title": "La acampada en la Puerta del Sol por la vivienda supera todas las expectativas: “Viendo este desborde, no se sabe cuánto estaremos aquí”",
@@ -71,36 +113,6 @@
           "link": "https://www.20minutos.es/nacional/pp-propone-un-decalogo-medidas-que-incluye-construir-un-millon-viviendas-cuatro-anos_7041853_0.html",
           "source": "20minutos",
           "published": "2026-09-27T14:07:22.000Z"
-        },
-        {
-          "title": "La tormenta invernal ‘nor’easter’ que sacude Estados Unidos deja inundaciones a su paso por la costa este",
-          "link": "https://elpais.com/us/2026-09-27/la-tormenta-invernal-noreaster-que-sacude-estados-unidos-deja-inundaciones-a-su-paso-por-la-costa-este.html",
-          "source": "El País",
-          "published": "2026-09-27T13:50:10.000Z"
-        },
-        {
-          "title": "Sánchez apremia a los socios a apoyar el decreto de vivienda “por Maricarmen y los millones de españoles que sufren la crisis”",
-          "link": "https://elpais.com/espana/2026-09-27/sanchez-apremia-a-los-socios-a-apoyar-el-decreto-de-vivienda-por-maricarmen-y-los-millones-de-espanoles-que-sufren-la-crisis.html",
-          "source": "El País",
-          "published": "2026-09-27T13:24:26.000Z"
-        },
-        {
-          "title": "Una marea verde por la educación pública desborda Madrid y termina junto a la acampada por la vivienda en Sol: “Tenemos los mismos enemigos”",
-          "link": "https://www.eldiario.es/sociedad/marea-verde-educacion-publica-desborda-madrid-termina-acampada-vivienda-sol-enemigos_1_13542078.html",
-          "source": "elDiario.es",
-          "published": "2026-09-27T13:22:49.000Z"
-        },
-        {
-          "title": "Sánchez pide un \"último esfuerzo\" a los partidos para aprobar el decreto de vivienda el martes: \"No es ideología, es humanidad\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-pide-ultimo-esfuerzo-partidos-aprobar-decreto-vivienda-martes-ideologia-humanidad_7041835_0.html",
-          "source": "20minutos",
-          "published": "2026-09-27T12:19:04.000Z"
-        },
-        {
-          "title": "Los manifestantes continúan la acampada por la crisis de vivienda en la Puerta del Sol: “Está siendo una ola de rabia organizada”",
-          "link": "https://elpais.com/espana/2026-09-27/los-manifestantes-continuan-la-acampada-por-la-crisis-de-vivienda-en-la-puerta-del-sol-esta-siendo-una-ola-de-rabia-organizada.html",
-          "source": "El País",
-          "published": "2026-09-27T12:00:04.000Z"
         }
       ]
     },
@@ -166,52 +178,52 @@
       ],
       "items": [
         {
-          "title": "Quién es el hombre más rico de África y por qué ahora quiere vender partes de su imperio",
-          "link": "https://www.bbc.com/mundo/articles/c6n9wp843nylo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-09-27T15:46:16.000Z"
+          "title": "Francia: la ultraderecha de Le Pen gana terreno en el Senado a siete meses de las presidenciales",
+          "link": "https://www.france24.com/es/francia/20260927-francia-la-ultraderecha-de-le-pen-gana-terreno-en-el-senado-a-siete-meses-de-las-presidenciales",
+          "source": "France 24",
+          "published": "2026-09-27T20:26:13.000Z"
         },
         {
-          "title": "Arrestan a 5 sospechosos de preparar un acto terrorista tras \"incidente grave\" cerca de una base aérea británica que usa el ejército de EE.UU.",
-          "link": "https://www.bbc.com/mundo/articles/cj3v4qlv5p1xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-09-27T15:30:37.000Z"
+          "title": "Suiza: el referendo para una neutralidad más estricta es rechazado por un 70% de votantes",
+          "link": "https://www.france24.com/es/europa/20260927-suiza-el-referendo-para-una-neutralidad-m%C3%A1s-estricta-es-rechazado-por-un-70-de-votantes",
+          "source": "France 24",
+          "published": "2026-09-27T19:39:26.000Z"
         },
         {
-          "title": "Putin podría reunirse con Trump en la cumbre de la APEC en China, según el Kremlin",
-          "link": "https://www.20minutos.es/internacional/putin-podria-reunirse-con-trump-cumbre-apec-china-segun-kremlin_7041861_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-27T14:36:37.000Z"
+          "title": "Irlanda del Norte: manifestantes bloquean calles para impedir movilización de Orden de Orange",
+          "link": "https://www.france24.com/es/video/20260927-irlanda-del-norte-manifestantes-bloquean-calles-para-impedir-movilizaci%C3%B3n-de-orden-de-orange",
+          "source": "France 24",
+          "published": "2026-09-27T19:36:05.000Z"
         },
         {
-          "title": "Irán anuncia la captura de un segundo submarino no tripulado del Ejército de EEUU en el estrecho de Ormuz",
-          "link": "https://www.20minutos.es/internacional/iran-anuncia-captura-un-segundo-submarino-no-tripulado-ejercito-eeuu-estrecho-ormuz_7041842_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-27T12:43:30.000Z"
+          "title": "El presidente serbio, Aleksandar Vucic, dimite y abre paso a unas elecciones presidenciales anticipadas",
+          "link": "https://www.france24.com/es/europa/20260927-el-presidente-serbio-aleksandar-vucic-dimite-y-abre-paso-a-unas-elecciones-presidenciales-anticipadas",
+          "source": "France 24",
+          "published": "2026-09-27T19:00:05.000Z"
         },
         {
-          "title": "Cinco detenidos por \"terrorismo\" en Reino Unido cerca de una base aérea con presencia de EEUU",
-          "link": "https://www.20minutos.es/internacional/detenidos-varios-hombres-por-explosivos-cerca-una-base-britanica-usada-por-eeuu_7041836_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-27T11:34:00.000Z"
-        },
-        {
-          "title": "Alemania reinicia las conversaciones diplomáticas con Rusia",
-          "link": "https://elpais.com/internacional/2026-09-27/alemania-reinicia-las-conversaciones-diplomaticas-con-rusia.html",
-          "source": "El País Internacional",
-          "published": "2026-09-27T11:25:59.000Z"
+          "title": "Qasem: Israel no logró \"romper la resistencia\" de Hezbolá",
+          "link": "https://www.dw.com/es/qasem-israel-no-logró-romper-la-resistencia-de-hezbolá/a-79450353?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-27T18:56:00.000Z"
         },
         {
           "title": "La autorización de una marcha protestante por un barrio católico vuelve a prender la mecha en Irlanda del Norte",
           "link": "https://elpais.com/internacional/2026-09-27/la-autorizacion-de-una-marcha-protestante-por-un-barrio-catolico-vuelve-a-prender-la-mecha-en-irlanda-del-norte.html",
           "source": "El País Internacional",
-          "published": "2026-09-27T11:02:25.000Z"
+          "published": "2026-09-27T18:37:50.000Z"
         },
         {
-          "title": "Israel cierra la Cisjordania ocupada durante una semana y restringe el acceso de trabajadores palestinos",
-          "link": "https://www.20minutos.es/internacional/israel-cierra-cisjordania-ocupada-durante-una-semana-restringe-acceso-trabajadores-palestinos_7041823_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-27T10:17:07.000Z"
+          "title": "\"La ola de rabia es imparable\": el campamento por la vivienda se instala en el corazón de Madrid",
+          "link": "https://www.france24.com/es/europa/20260927-la-ola-de-rabia-es-imparable-el-campamento-por-la-vivienda-se-instala-en-el-coraz%C3%B3n-de-madrid",
+          "source": "France 24",
+          "published": "2026-09-27T18:15:41.000Z"
+        },
+        {
+          "title": "Trump: detenidos querían causar \"gran daño\" en base británica",
+          "link": "https://www.dw.com/es/trump-detenidos-querían-causar-gran-daño-en-base-británica/a-79450198?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-27T17:05:00.000Z"
         }
       ]
     }
