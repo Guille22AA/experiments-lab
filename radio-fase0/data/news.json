@@ -1,12 +1,24 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T11:01:35.666Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-09-27T16:00:23.359Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "Pedro Sánchez envía un mensaje a Maricarmen: \"El Gobierno está trabajando contra reloj para llevar al Consejo de Ministros el decreto de vivienda\" - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZDBvVnhINktMZkFMOVhwdXpBQnVpLUlHNkI2aVBSZ0hEZzFQLTBrTUoyOGJoaDFBU0NGTF9TY3JBZk4yV001QzdrdWFfRUgxV1lZbTBwM1hRZDlvMEo2REhTVjZPQk1hNjFVb0ZUWXFSa2c5UVo2NW1JTmJLMVpqSDJfZmpZLVpza2hQQ29BZGZ0NU9mTlMxZk92OUpzSDhoWHZxc2hoLUZWUDRHX0JLMVBscUpmbjJQeXlpWHVPMm9oeFJtYUZYUnVOMU5LdU9YRC10MWZtcFgwQkpXOWYxRm5uMFUwak1zclRFN9IB8gFBVV95cUxQRjliT2d5NVNFMGhOTzBjTmRZMFpRdG9SaFRPWmt0Q3pLejRNYm5tTnF2T2x5aEl1T3hnRTc4dkdLVGR0UmF5TGp3dlVxckNQOG9SQ0QxVjQtRXhKdzJ6c0tLbkpRNnZnWjRRRkJKbDF3YkJqdlUxSm16Rk4wZXdiT05qUU16NVJWU0wtalUxNmI3ZWJBa3g3aGJyeUl2Mkg1NE1CT1JKaldrNF9UTktZcGVzOVJ2aWVJMXNZUWpWVTJSbUNWZVFGRlFHelkxeF9yN1NtOGxIOFpndFl0anlsU0ZnUmJ6aGxTT0RtUlJTanlSUQ?oc=5",
+          "source": "Público",
+          "summary": "Pedro Sánchez envía un mensaje a Maricarmen: \"El Gobierno está trabajando contra reloj para llevar al Consejo de Ministros el decreto de vivienda\" Diario Público",
+          "sources": [
+            "Público",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-27T16:00:23.359Z"
+        },
         {
           "title": "Oposición y socios piden cuentas al Gobierno en el Congreso sobre Vivienda tras el desahucio de Maricarmen",
           "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-oposicion-socios-piden-cuentas-gobierno-congreso-vivienda-desahucio-maricarmen-20260927123258.html",
@@ -28,56 +40,67 @@
             "20minutos"
           ],
           "firstSeen": "2026-09-27T11:01:35.666Z"
+        },
+        {
+          "title": "Las imágenes de la manifestación por la educación pública que acaba en la acampada de Sol",
+          "link": "https://www.eldiario.es/sociedad/imagenes-manifestacion-educacion-publica-acabara-acampada-sol_3_13541815.html",
+          "source": "elDiario.es",
+          "summary": "La comunidad educativa se lanza a las calles de Madrid y confluye con los cientos de personas que permanecen frente a la sede del Gobierno de Ayuso en medio de la presión social por la aprobación del decreto de vivienda Un 15M por la vivienda presiona a los partidos para pactar medidas urgentes En medio del furor de la manifestación por la vivienda que sacó a las calles a decenas de miles de personas la pasada noche del sábado en Madrid, este domingo una marcha por la educación pública recorre las calles de la capital. La protesta ha finalizado en la Puerta del Sol, el punto donde cientos de…",
+          "sources": [
+            "elDiario.es",
+            "El Salto"
+          ],
+          "firstSeen": "2026-09-27T16:00:23.359Z"
         }
       ],
       "items": [
         {
-          "title": "La manifestación por la educación pública, contra la ley del suelo y la acampada confluyen en Sol",
-          "link": "https://www.elsaltodiario.com/madrid/manifestacion-educacion-publica-ley-del-suelo-ayuso-acampada-confluyen-sol?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-09-27T10:27:00.000Z"
+          "title": "Acampada en Sol contra los desahucios, en directo | Cientos de personas comparten comida, organizan las actividades y consolidan la acampada en Sol",
+          "link": "https://elpais.com/espana/2026-09-27/acampada-en-sol-contra-los-desahucios-en-directo.html",
+          "source": "El País",
+          "published": "2026-09-27T15:49:09.000Z"
         },
         {
-          "title": "Sindicato de inquilinas exige contratos de alquiler indefinidos y no descarta acampadas en otras ciudades",
-          "link": "https://www.europapress.es/sociedad/noticia-sindicato-inquilinas-exige-contratos-alquiler-indefinidos-no-descarta-acampadas-otras-ciudades-20260927121855.html",
-          "source": "Europa Press",
-          "published": "2026-09-27T10:18:55.000Z"
+          "title": "La acampada en la Puerta del Sol por la vivienda supera todas las expectativas: “Viendo este desborde, no se sabe cuánto estaremos aquí”",
+          "link": "https://www.eldiario.es/madrid/acampada-puerta-sol-vivienda-supera-expectativas-viendo-desborde-no-estaremos_1_13542182.html",
+          "source": "elDiario.es",
+          "published": "2026-09-27T14:44:16.000Z"
         },
         {
-          "title": "Detenido el hombre atrincherado tras el asesinato de su pareja en La Campana (Sevilla)",
-          "link": "https://www.europapress.es/andalucia/sevilla-00357/noticia-atrincherado-hombre-vivienda-matar-mujer-campana-sevilla-20260927113540.html",
-          "source": "Europa Press",
-          "published": "2026-09-27T09:35:40.000Z"
-        },
-        {
-          "title": "Gonzalo Álvarez, en Sol: \"La crudeza del caso de Maricarmen es algo que nunca pensamos que podría llegar a pasar\"",
-          "link": "https://www.20minutos.es/madrid/gonzalo-alvarez-sindicato-inquilinas-acampada-sol-crudeza-caso-maricarmen-es-algo-que-nunca-pensamos-que-podria-llegar-pasar_7041791_0.html",
+          "title": "El PP propone un decálogo de medidas que incluye construir un millón de viviendas en cuatro años",
+          "link": "https://www.20minutos.es/nacional/pp-propone-un-decalogo-medidas-que-incluye-construir-un-millon-viviendas-cuatro-anos_7041853_0.html",
           "source": "20minutos",
-          "published": "2026-09-27T09:24:20.000Z"
+          "published": "2026-09-27T14:07:22.000Z"
         },
         {
-          "title": "La jueza escucha esta semana como testigos al presidente de Ceuta y al exjefe de gabinete de la Delegación de Gobierno",
-          "link": "https://www.europapress.es/nacional/noticia-jueza-escucha-semana-testigos-presidente-ceuta-exjefe-gabinete-delegacion-gobierno-20260927104447.html",
-          "source": "Europa Press",
-          "published": "2026-09-27T08:44:47.000Z"
+          "title": "La tormenta invernal ‘nor’easter’ que sacude Estados Unidos deja inundaciones a su paso por la costa este",
+          "link": "https://elpais.com/us/2026-09-27/la-tormenta-invernal-noreaster-que-sacude-estados-unidos-deja-inundaciones-a-su-paso-por-la-costa-este.html",
+          "source": "El País",
+          "published": "2026-09-27T13:50:10.000Z"
         },
         {
-          "title": "PP propone acabar con las zonas tensionadas y avales de hasta el 100% para la compra de vivienda de jóvenes",
-          "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-pp-propone-acabar-zonas-tensionadas-avales-100-compra-vivienda-jovenes-20260927103759.html",
-          "source": "Europa Press",
-          "published": "2026-09-27T08:37:59.000Z"
+          "title": "Sánchez apremia a los socios a apoyar el decreto de vivienda “por Maricarmen y los millones de españoles que sufren la crisis”",
+          "link": "https://elpais.com/espana/2026-09-27/sanchez-apremia-a-los-socios-a-apoyar-el-decreto-de-vivienda-por-maricarmen-y-los-millones-de-espanoles-que-sufren-la-crisis.html",
+          "source": "El País",
+          "published": "2026-09-27T13:24:26.000Z"
         },
         {
-          "title": "Macron visita España con el Tratado de Amistad aún pendiente y la solidaridad con Ceuta muy presente",
-          "link": "https://www.europapress.es/nacional/noticia-macron-visita-espana-tratado-amistad-aun-pendiente-solidaridad-ceuta-muy-presente-20260927102959.html",
-          "source": "Europa Press",
-          "published": "2026-09-27T08:29:59.000Z"
+          "title": "Una marea verde por la educación pública desborda Madrid y termina junto a la acampada por la vivienda en Sol: “Tenemos los mismos enemigos”",
+          "link": "https://www.eldiario.es/sociedad/marea-verde-educacion-publica-desborda-madrid-termina-acampada-vivienda-sol-enemigos_1_13542078.html",
+          "source": "elDiario.es",
+          "published": "2026-09-27T13:22:49.000Z"
         },
         {
-          "title": "Cientos de personas pasan la noche en Sol como protesta contra la crisis de la vivienda - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjlZYnV5bTk0b1RZQnZqeWZScjJEMy1DLWRQR05ZMG05OTY4Q21LWTdaLVpzYmQyN0U3dFItQ2ZNMjNUOEtaM3hkeTA5TmVENUxMSzJOa3dxQ3hvTlB1YnBNX2N0X3VZTWRMYnNyYldoeXhjOHdubmQ4UDQyMmkxaUNZa3hETE5Welp2eHZBVi1ZWW5NX2d2NzJfX1FIcWl3ejJZbjFR0gGrAUFVX3lxTE00OVd3RWdRRFRucTBkVENEMWxkeld4MWZqX1ZSeDNDbU1FcGlaR3NKTG9QU19qLWhSTm0wM2dOUC1Ub2lPQ0tReFU2MERZV01KREZ4MUVwVVRaMjRhLUhqT1BOU2hLRzAyU3Vqdk5vZ3BkYnh0SkM1ZEhIazhuYjgxQzZWSk9yb1NfVXJURU5sRW9WOTQxYjhsZ0hWTmdlblNfUVppUzk5OWF2cw?oc=5",
-          "source": "Público",
-          "published": "2026-09-27T07:36:10.000Z"
+          "title": "Sánchez pide un \"último esfuerzo\" a los partidos para aprobar el decreto de vivienda el martes: \"No es ideología, es humanidad\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-pide-ultimo-esfuerzo-partidos-aprobar-decreto-vivienda-martes-ideologia-humanidad_7041835_0.html",
+          "source": "20minutos",
+          "published": "2026-09-27T12:19:04.000Z"
+        },
+        {
+          "title": "Los manifestantes continúan la acampada por la crisis de vivienda en la Puerta del Sol: “Está siendo una ola de rabia organizada”",
+          "link": "https://elpais.com/espana/2026-09-27/los-manifestantes-continuan-la-acampada-por-la-crisis-de-vivienda-en-la-puerta-del-sol-esta-siendo-una-ola-de-rabia-organizada.html",
+          "source": "El País",
+          "published": "2026-09-27T12:00:04.000Z"
         }
       ]
     },
@@ -128,56 +151,67 @@
             "France 24"
           ],
           "firstSeen": "2026-09-27T11:01:35.666Z"
+        },
+        {
+          "title": "Suiza rechaza ampliamente reforzar la neutralidad en su Constitución",
+          "link": "https://www.france24.com/es/video/20260927-suiza-rechaza-ampliamente-reforzar-la-neutralidad-en-su-constituci%C3%B3n",
+          "source": "France 24",
+          "summary": "A pesar de la división entre los suizos sobre su posición de neutralidad, el rechazo a reforzarla en la Constitución ganó ampliamente en el referéndum del 27 de septiembre. Mientras activistas defienden el papel de Suiza como un actor negociador y la necesidad de no tomar partido en los conflictos, otros aseguran que no involucrase ya es tomar una posición y puede poner en riesgo la seguridad del país, especialmente con la guerra en Ucrania sucediendo en Europa y Rusia apoyando a la parte que promueve la neutralidad.",
+          "sources": [
+            "France 24",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-09-27T16:00:23.359Z"
         }
       ],
       "items": [
+        {
+          "title": "Quién es el hombre más rico de África y por qué ahora quiere vender partes de su imperio",
+          "link": "https://www.bbc.com/mundo/articles/c6n9wp843nylo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-09-27T15:46:16.000Z"
+        },
+        {
+          "title": "Arrestan a 5 sospechosos de preparar un acto terrorista tras \"incidente grave\" cerca de una base aérea británica que usa el ejército de EE.UU.",
+          "link": "https://www.bbc.com/mundo/articles/cj3v4qlv5p1xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-09-27T15:30:37.000Z"
+        },
+        {
+          "title": "Putin podría reunirse con Trump en la cumbre de la APEC en China, según el Kremlin",
+          "link": "https://www.20minutos.es/internacional/putin-podria-reunirse-con-trump-cumbre-apec-china-segun-kremlin_7041861_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-27T14:36:37.000Z"
+        },
+        {
+          "title": "Irán anuncia la captura de un segundo submarino no tripulado del Ejército de EEUU en el estrecho de Ormuz",
+          "link": "https://www.20minutos.es/internacional/iran-anuncia-captura-un-segundo-submarino-no-tripulado-ejercito-eeuu-estrecho-ormuz_7041842_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-27T12:43:30.000Z"
+        },
+        {
+          "title": "Cinco detenidos por \"terrorismo\" en Reino Unido cerca de una base aérea con presencia de EEUU",
+          "link": "https://www.20minutos.es/internacional/detenidos-varios-hombres-por-explosivos-cerca-una-base-britanica-usada-por-eeuu_7041836_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-27T11:34:00.000Z"
+        },
+        {
+          "title": "Alemania reinicia las conversaciones diplomáticas con Rusia",
+          "link": "https://elpais.com/internacional/2026-09-27/alemania-reinicia-las-conversaciones-diplomaticas-con-rusia.html",
+          "source": "El País Internacional",
+          "published": "2026-09-27T11:25:59.000Z"
+        },
+        {
+          "title": "La autorización de una marcha protestante por un barrio católico vuelve a prender la mecha en Irlanda del Norte",
+          "link": "https://elpais.com/internacional/2026-09-27/la-autorizacion-de-una-marcha-protestante-por-un-barrio-catolico-vuelve-a-prender-la-mecha-en-irlanda-del-norte.html",
+          "source": "El País Internacional",
+          "published": "2026-09-27T11:02:25.000Z"
+        },
         {
           "title": "Israel cierra la Cisjordania ocupada durante una semana y restringe el acceso de trabajadores palestinos",
           "link": "https://www.20minutos.es/internacional/israel-cierra-cisjordania-ocupada-durante-una-semana-restringe-acceso-trabajadores-palestinos_7041823_0.html",
           "source": "20minutos Internacional",
           "published": "2026-09-27T10:17:07.000Z"
-        },
-        {
-          "title": "Donald Trump vuelve a enfrentarse con una reportera y la manda callar: \"Silencio, no me gustan las noticias falsas\"",
-          "link": "https://www.20minutos.es/internacional/donald-trump-vuelve-enfrentarse-reportera-manda-callar-silencio-noticias-falsas_7041817_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-27T10:03:56.000Z"
-        },
-        {
-          "title": "Dentro de la misión española que intercepta drones rusos en Rumanía: \"Rusia testea la capacidad de respuesta de la OTAN\"",
-          "link": "https://www.20minutos.es/internacional/dentro-mision-espanola-que-intercepta-drones-rusos-rumania-rusia-testea-capacidad-respuesta-otan_7041810_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-27T09:29:56.000Z"
-        },
-        {
-          "title": "Israel decreta un \"cierre general\" en Cisjordania durante una semana por la celebración de la Fiesta de los Tabernáculos",
-          "link": "https://www.dw.com/es/israel-decreta-un-cierre-general-en-cisjordania-durante-una-semana-por-la-celebración-de-la-fiesta-de-los-tabernáculos/a-79447993?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-27T08:55:00.000Z"
-        },
-        {
-          "title": "China envía dos osos panda gigantes a Estados Unidos como \"enviados de amistad entre chinos y estadounidenses\"",
-          "link": "https://www.dw.com/es/china-envía-dos-osos-panda-gigantes-a-estados-unidos-como-enviados-de-amistad-entre-chinos-y-estadounidenses/a-79447301?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-27T07:07:00.000Z"
-        },
-        {
-          "title": "La propaganda escolar en Rusia prepara a los niños para morir por la patria",
-          "link": "https://www.dw.com/es/la-propaganda-escolar-en-rusia-prepara-a-los-niños-para-morir-por-la-patria/a-79446107?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-27T06:39:00.000Z"
-        },
-        {
-          "title": "Londres, París, Roma y ahora Berlín: por qué Lisboa y Madrid son la 'excepción ibérica' al voto progresista en las grandes urbes de la UE",
-          "link": "https://www.20minutos.es/internacional/londres-paris-roma-ahora-berlin-por-que-lisboa-madrid-son-excepcion-iberica-voto-progresista-las-grandes-urbes-ue_7039762_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-27T05:58:11.000Z"
-        },
-        {
-          "title": "Luis Manuel Otero Alcántara, expreso político cubano: \"Hay miedo a que Trump intervenga como en Venezuela y deje al castrismo en el poder”",
-          "link": "https://www.20minutos.es/internacional/luis-manuel-otero-alcantara-expreso-politico-cubano-hay-miedo-que-trump-intervenga-como-venezuela-deje-castrismo-poder_7041226_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-09-27T05:55:38.000Z"
         }
       ]
     }
