@@ -1,117 +1,83 @@
 {
-  "date": "2026-09-26",
-  "updatedAt": "2026-09-26T20:21:30.425Z",
-  "edition": "tarde",
+  "date": "2026-09-27",
+  "updatedAt": "2026-09-27T11:01:35.666Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio después de una investigación con avales y correcciones",
-          "link": "https://www.europapress.es/nacional/noticia-juez-peinado-jubila-enviar-begona-gomez-juicio-despues-investigacion-avales-correcciones-20260926102952.html",
+          "title": "Oposición y socios piden cuentas al Gobierno en el Congreso sobre Vivienda tras el desahucio de Maricarmen",
+          "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-oposicion-socios-piden-cuentas-gobierno-congreso-vivienda-desahucio-maricarmen-20260927123258.html",
           "source": "Europa Press",
-          "summary": "El juez Juan Carlos Peinado pone fin este domingo a su trayectoria en la carrera judicial al cumplir 72 años y después de enviar a juicio con jurado popular a Begoña Gómez, la esposa del presidente del Gobierno, Pedro Sánchez, tras una investigación que se ha extendido dos años y que ha cosechado tanto respaldos como revisiones de tribunales superiores a las decisiones tomadas por el instructor.",
+          "summary": "La oposición y varios socios parlamentarios del Gobierno pedirán cuentas esta semana en el Congreso a la ministra de Vivienda, Isabel Rodríguez, por su gestión al frente de su cartera y después del desahucio de Maricarmen, una mujer de 87 años discapacitada que llevaba siete décadas viviendo en el barrio madrileño de Retiro.",
           "sources": [
             "Europa Press",
-            "elDiario.es",
-            "20minutos"
+            "El País"
           ],
-          "firstSeen": "2026-09-26T15:21:17.852Z"
+          "firstSeen": "2026-09-27T11:01:35.666Z"
         },
         {
-          "title": "El BOE publica la jubilación forzosa por edad del juez Peinado tras cerrar la instrucción del caso Begoña Gómez",
-          "link": "https://www.eldiario.es/politica/boe-publica-jubilacion-forzosa-edad-juez-peinado-cerrar-instruccion-caso-begona-gomez_1_13539955.html",
+          "title": "La acampada por los desahucios no es el 15M",
+          "link": "https://www.eldiario.es/opinion/zona-critica/acampada-desahucios-no-15m_129_13541359.html",
           "source": "elDiario.es",
-          "summary": "La medida se publica a un día de que el magistrado cumpla 72 años. Durante esta semana, ha gozado de tres días de permiso una vez dictó el lunes el auto de apertura de juicio contra la mujer del presidente del Gobierno El juez Peinado da el último paso para que Begoña Gómez sea juzgada por un tribunal del jurado El Boletín Oficial del Estado (BOE) ha publicado este sábado la jubilación forzosa por edad del juez Juan Carlos Peinado, un día antes de cumplir 72 años, y con una carrera marcada en su etapa final por investigar y enviar a juicio ante un jurado popular a Begoña Gómez, mujer del…",
+          "summary": "Asombra que en solo 15 años desde el 15M se muestre tal desconocimiento de lo ocurrido porque esta vez ni siquiera parece la intención habitual de manipular. Pero, desde luego, aquello no vino de fallos de la socialdemocracia, como dicen, ni lo organizó Podemos -que tardó tres años en formarse- y no propició en sí mismo el triunfo absoluto del PP de Rajoy en todas las elecciones que siguieron: generales, municipales, autonómicas y al parlamento europeo. En el 15M, solo y nada menos, cristalizó un hartazgo supremo que venía precedido de varios factores de enorme peso (no es que ahora falten ni…",
           "sources": [
             "elDiario.es",
             "20minutos"
           ],
-          "firstSeen": "2026-09-26T10:29:56.568Z"
-        },
-        {
-          "title": "Maricarmen pide un decreto ley a Sánchez desde el hospital: \"El primer paso para acabar con el sistema\" que llevó a su desahucio",
-          "link": "https://www.20minutos.es/nacional/maricarmen-pedro-sanchez-desde-hospital-tiene-que-aprobar-decreto-acabar-desahucios_7041713_0.html",
-          "source": "20minutos",
-          "summary": "La anciana quiere que \"lo que me ha pasado a mí sirva para que no le pase a otras personas, quiero que sirva para que la gente luche\".",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-09-26T15:21:17.852Z"
-        },
-        {
-          "title": "Sumar no irá al Consejo de Ministros si no incluye medidas efectivas de vivienda: \"No valen parches\"",
-          "link": "https://www.20minutos.es/nacional/sumar-no-ira-proximo-consejo-ministros-si-no-incluye-medidas-efectivas-vivienda-no-valen-parches_7041690_0.html",
-          "source": "20minutos",
-          "summary": "\"Ya nos plantamos una vez, y si toca plantarnos de nuevo, lo haremos este martes\", han advertido los cinco ministros de Sumar.",
-          "sources": [
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-26T15:21:17.852Z"
-        },
-        {
-          "title": "Unas 20.000 personas recorren el centro de Madrid en apoyo a Ceuta y para exigir elecciones ya",
-          "link": "https://www.europapress.es/nacional/noticia-segunda-marcha-dignidad-recorre-centro-madrid-apoyo-ceuta-exigir-elecciones-ya-20260926112540.html",
-          "source": "Europa Press",
-          "summary": "El líder de Vox, Santiago Abascal, y el secretario general del PP, Miguel Tellado, participan en la segunda 'Marcha por la Dignidad'",
-          "sources": [
-            "Europa Press",
-            "20minutos"
-          ],
-          "firstSeen": "2026-09-26T15:21:17.852Z"
+          "firstSeen": "2026-09-27T11:01:35.666Z"
         }
       ],
       "items": [
         {
-          "title": "Manifestación contra los desahucios, en directo | Los manifestantes por la crisis de la vivienda acampan en la Puerta del Sol",
-          "link": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html",
-          "source": "El País",
-          "published": "2026-09-26T20:15:21.000Z"
-        },
-        {
-          "title": "Acampada en la Puerta del Sol tras la marcha por la vivienda para exigir la aprobación del 'decreto Maricarmen'",
-          "link": "https://www.europapress.es/nacional/noticia-acampada-puerta-sol-marcha-vivienda-exigir-aprobacion-decreto-maricarmen-20260926215002.html",
-          "source": "Europa Press",
-          "published": "2026-09-26T19:50:02.000Z"
-        },
-        {
-          "title": "Última hora de la manifestación por la vivienda y contra el desahucio de Maricarmen, en directo | Una marcha multitudinaria recorre el centro de Madrid - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWtVeFIwQkViUEFJdl9aOXBqU2pkUDZWVXEyOGEzTG8wZGxRRVBPbnB3RW90aS1tWnk0b044WGtNRkFGUzV4T3R2TlJ5cDFmVzNQY2xEbUEwaFVsN3loeGlnV2J3M3I1ZHkteDVqMEU5WHN4UDl4UlNhLVVPTkRfanp1VkF6QnBVa19HMGh3MVFRNy1ycXJzOUtqVWNkZmtycVBnYUtTOS0xT2d0a2fSAbMBQVVfeXFMUE9QX1NWd3Y4RnhrSWJ0dkRTRjFMcmlxZFpGQThrdmZsRDdBMkw0b0EyQi1iMjdUWWtQbVVkUTlSYkgybnBhSDVHQmtNN3NxaHRadEN0ZnVOdld4XzR2MFJWTER2eHZ3eGZSd3JNaXViMWl3VUYwZGFIQWhQU3l0a3hfTjZXeHoxU3lLLWoyanBPNzVGeFg1Zm5yX2tkVEg3cVh2VHBjU3I1czhmOE85bjNNdFk?oc=5",
-          "source": "Público",
-          "published": "2026-09-26T19:36:54.000Z"
-        },
-        {
-          "title": "Detenidos dos migrantes en Ceuta por tratar de agredir sexualmente a una menor marroquí",
-          "link": "https://www.20minutos.es/ceuta/detenidos-inmigrantes-ceuta-tratar-agredir-sexualmente-menor-marroqui_7041762_0.html",
-          "source": "20minutos",
-          "published": "2026-09-26T19:30:19.000Z"
-        },
-        {
-          "title": "Trump rechaza la propuesta de Irán para reabrir el estrecho de Ormuz",
-          "link": "https://elpais.com/us/2026-09-26/trump-rechaza-la-propuesta-de-iran-para-reabrir-el-estrecho-de-ormuz.html",
-          "source": "El País",
-          "published": "2026-09-26T19:00:16.000Z"
-        },
-        {
-          "title": "Fotogalería | Los manifestantes instalan un campamento en Sol para “escalar la presión” al Gobierno",
-          "link": "https://www.elsaltodiario.com/madrid/fotogaleria-or-imagenes-gran-manifestacion-una-maricarmen?utm_source=feed",
+          "title": "La manifestación por la educación pública, contra la ley del suelo y la acampada confluyen en Sol",
+          "link": "https://www.elsaltodiario.com/madrid/manifestacion-educacion-publica-ley-del-suelo-ayuso-acampada-confluyen-sol?utm_source=feed",
           "source": "El Salto",
-          "published": "2026-09-26T18:07:00.000Z"
+          "published": "2026-09-27T10:27:00.000Z"
         },
         {
-          "title": "El presidente del PP navarro deja el cargo por sorpresa y en el partido no se descarta la candidatura del tránsfuga Sayas",
-          "link": "https://elpais.com/espana/2026-09-26/el-presidente-del-pp-navarro-deja-el-cargo-por-sorpresa-y-en-el-partido-no-se-descarta-la-candidatura-del-transfuga-sayas.html",
-          "source": "El País",
-          "published": "2026-09-26T18:05:36.000Z"
+          "title": "Sindicato de inquilinas exige contratos de alquiler indefinidos y no descarta acampadas en otras ciudades",
+          "link": "https://www.europapress.es/sociedad/noticia-sindicato-inquilinas-exige-contratos-alquiler-indefinidos-no-descarta-acampadas-otras-ciudades-20260927121855.html",
+          "source": "Europa Press",
+          "published": "2026-09-27T10:18:55.000Z"
         },
         {
-          "title": "Jesús Dueñas, camionero en EEUU: \"En España no faltan conductores; lo que no hay es exceso\"",
-          "link": "https://www.20minutos.es/motor/movilidad/jesus-duenas-camionero-espanol-eeuu-espana-no-faltan-conductores-que-no-hay-exceso-ellos-quieren_7038120_0.html",
+          "title": "Detenido el hombre atrincherado tras el asesinato de su pareja en La Campana (Sevilla)",
+          "link": "https://www.europapress.es/andalucia/sevilla-00357/noticia-atrincherado-hombre-vivienda-matar-mujer-campana-sevilla-20260927113540.html",
+          "source": "Europa Press",
+          "published": "2026-09-27T09:35:40.000Z"
+        },
+        {
+          "title": "Gonzalo Álvarez, en Sol: \"La crudeza del caso de Maricarmen es algo que nunca pensamos que podría llegar a pasar\"",
+          "link": "https://www.20minutos.es/madrid/gonzalo-alvarez-sindicato-inquilinas-acampada-sol-crudeza-caso-maricarmen-es-algo-que-nunca-pensamos-que-podria-llegar-pasar_7041791_0.html",
           "source": "20minutos",
-          "published": "2026-09-26T18:00:00.000Z"
+          "published": "2026-09-27T09:24:20.000Z"
+        },
+        {
+          "title": "La jueza escucha esta semana como testigos al presidente de Ceuta y al exjefe de gabinete de la Delegación de Gobierno",
+          "link": "https://www.europapress.es/nacional/noticia-jueza-escucha-semana-testigos-presidente-ceuta-exjefe-gabinete-delegacion-gobierno-20260927104447.html",
+          "source": "Europa Press",
+          "published": "2026-09-27T08:44:47.000Z"
+        },
+        {
+          "title": "PP propone acabar con las zonas tensionadas y avales de hasta el 100% para la compra de vivienda de jóvenes",
+          "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-pp-propone-acabar-zonas-tensionadas-avales-100-compra-vivienda-jovenes-20260927103759.html",
+          "source": "Europa Press",
+          "published": "2026-09-27T08:37:59.000Z"
+        },
+        {
+          "title": "Macron visita España con el Tratado de Amistad aún pendiente y la solidaridad con Ceuta muy presente",
+          "link": "https://www.europapress.es/nacional/noticia-macron-visita-espana-tratado-amistad-aun-pendiente-solidaridad-ceuta-muy-presente-20260927102959.html",
+          "source": "Europa Press",
+          "published": "2026-09-27T08:29:59.000Z"
+        },
+        {
+          "title": "Cientos de personas pasan la noche en Sol como protesta contra la crisis de la vivienda - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjlZYnV5bTk0b1RZQnZqeWZScjJEMy1DLWRQR05ZMG05OTY4Q21LWTdaLVpzYmQyN0U3dFItQ2ZNMjNUOEtaM3hkeTA5TmVENUxMSzJOa3dxQ3hvTlB1YnBNX2N0X3VZTWRMYnNyYldoeXhjOHdubmQ4UDQyMmkxaUNZa3hETE5Welp2eHZBVi1ZWW5NX2d2NzJfX1FIcWl3ejJZbjFR0gGrAUFVX3lxTE00OVd3RWdRRFRucTBkVENEMWxkeld4MWZqX1ZSeDNDbU1FcGlaR3NKTG9QU19qLWhSTm0wM2dOUC1Ub2lPQ0tReFU2MERZV01KREZ4MUVwVVRaMjRhLUhqT1BOU2hLRzAyU3Vqdk5vZ3BkYnh0SkM1ZEhIazhuYjgxQzZWSk9yb1NfVXJURU5sRW9WOTQxYjhsZ0hWTmdlblNfUVppUzk5OWF2cw?oc=5",
+          "source": "Público",
+          "published": "2026-09-27T07:36:10.000Z"
         }
       ]
     },
@@ -120,17 +86,37 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Siete días para reabrir el estrecho de Ormuz: Irán fija condiciones a cambio de concesiones críticas de EE. UU.",
-          "link": "https://www.france24.com/es/medio-oriente/20260926-siete-d%C3%ADas-para-reabrir-el-estrecho-de-ormuz-ir%C3%A1n-fija-condiciones-a-cambio-de-concesiones-cr%C3%ADticas-de-ee-uu",
-          "source": "France 24",
-          "summary": "El canciller Abbas Araqchi conversó con periodistas que cubrían la reunión del Consejo de Seguridad de la ONU para hacer pública una nueva iniciativa que podría permitir la reanudación de la navegación en la vía por la que transita un quinto del petróleo mundial. Teherán accedería a la apertura si Washington levanta su bloqueo naval, suspende las sanciones contra el petróleo iraní e incluye a Líbano en las negociaciones para un nuevo alto el fuego.",
+          "title": "La policía británica detiene a varios sospechosos por manejar explosivos cerca de la base militar aérea de Fairford",
+          "link": "https://elpais.com/internacional/2026-09-27/la-policia-britanica-detiene-a-varios-sospechosos-por-manejar-explosivos-cerca-de-la-base-militar-aerea-de-fairford.html",
+          "source": "El País Internacional",
+          "summary": "Cazas estadounidenses utilizan las instalaciones para participar en la ofensiva contra Irán",
           "sources": [
-            "France 24",
-            "BBC Mundo",
-            "DW",
-            "20minutos Internacional"
+            "El País Internacional",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-09-26T10:29:56.568Z"
+          "firstSeen": "2026-09-27T11:01:35.666Z"
+        },
+        {
+          "title": "Protestan en España contra la crisis de vivienda",
+          "link": "https://www.dw.com/es/protestan-en-españa-contra-la-crisis-de-vivienda/a-79446396?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Los manifestantes acampan en la Puerta del Sol de Madrid para exigir medidas que garanticen derecho a la vivienda.",
+          "sources": [
+            "DW",
+            "France 24"
+          ],
+          "firstSeen": "2026-09-27T11:01:35.666Z"
+        },
+        {
+          "title": "Trump rechaza la propuesta de Irán para reabrir el estrecho de Ormuz",
+          "link": "https://elpais.com/us/2026-09-26/trump-rechaza-la-propuesta-de-iran-para-reabrir-el-estrecho-de-ormuz.html",
+          "source": "El País Internacional",
+          "summary": "El presidente de Estados Unidos amenaza con nuevos bombardeos tras las elecciones de noviembre",
+          "sources": [
+            "El País Internacional",
+            "BBC Mundo"
+          ],
+          "firstSeen": "2026-09-27T11:01:35.666Z"
         },
         {
           "title": "Ministros de Exteriores de Rusia y Alemania se reúnen en la ONU",
@@ -141,57 +127,57 @@
             "DW",
             "France 24"
           ],
-          "firstSeen": "2026-09-26T20:21:30.425Z"
+          "firstSeen": "2026-09-27T11:01:35.666Z"
         }
       ],
       "items": [
         {
-          "title": "¿Paz o escalada? Las amenazas que marcaron la Asamblea de la ONU",
-          "link": "https://www.france24.com/es/una-semana-en-el-mundo",
-          "source": "France 24",
-          "published": "2026-09-26T20:13:44.000Z"
-        },
-        {
-          "title": "Crisis de vivienda en España: gran protesta en Madrid contra el desahucio de una mujer de 87 años",
-          "link": "https://www.france24.com/es/europa/20260926-crisis-de-vivienda-en-espa%C3%B1a-gran-protesta-en-madrid-tras-el-desahucio-de-una-mujer-de-87-a%C3%B1os",
-          "source": "France 24",
-          "published": "2026-09-26T20:10:21.000Z"
-        },
-        {
-          "title": "Trump rechaza plan iraní para reabrir Ormuz; anuncia que podría retomar ataques tras 'midterms'",
-          "link": "https://www.france24.com/es/video/20260926-trump-rechaza-plan-iran%C3%AD-para-reabrir-ormuz-anuncia-que-podr%C3%ADa-retomar-ataques-tras-midterms",
-          "source": "France 24",
-          "published": "2026-09-26T20:01:55.000Z"
-        },
-        {
-          "title": "Miles protestan en España contra gestión de Sánchez en Ceuta y exigen elecciones anticipadas",
-          "link": "https://www.france24.com/es/video/20260926-miles-protestan-en-espa%C3%B1a-contra-gesti%C3%B3n-de-s%C3%A1nchez-en-ceuta-y-exigen-elecciones-anticipadas",
-          "source": "France 24",
-          "published": "2026-09-26T19:59:42.000Z"
-        },
-        {
-          "title": "Ucrania activa la 'Operación Vivaldi': sorprende lanzando robots terrestres tras las líneas enemigas y causa 3.000 bajas rusas",
-          "link": "https://www.20minutos.es/internacional/ucrania-activa-operacion-vivaldi-sorprende-lanzando-robots-tras-lineas-enemigas-causa-bajas-rusas_7041751_0.html",
+          "title": "Israel cierra la Cisjordania ocupada durante una semana y restringe el acceso de trabajadores palestinos",
+          "link": "https://www.20minutos.es/internacional/israel-cierra-cisjordania-ocupada-durante-una-semana-restringe-acceso-trabajadores-palestinos_7041823_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-09-26T18:14:21.000Z"
+          "published": "2026-09-27T10:17:07.000Z"
         },
         {
-          "title": "Trump cree que no será \"necesaria\" una intervención militar en Cuba y asegura que no habló demasiado de Taiwán con Xi Jinping",
-          "link": "https://www.20minutos.es/internacional/trump-cree-que-no-sera-necesaria-una-intervencion-militar-cuba-asegura-que-no-hablo-demasiado-taiwan-con-xi-jinping_7041732_0.html",
+          "title": "Donald Trump vuelve a enfrentarse con una reportera y la manda callar: \"Silencio, no me gustan las noticias falsas\"",
+          "link": "https://www.20minutos.es/internacional/donald-trump-vuelve-enfrentarse-reportera-manda-callar-silencio-noticias-falsas_7041817_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-09-26T17:05:34.000Z"
+          "published": "2026-09-27T10:03:56.000Z"
         },
         {
-          "title": "Trump dice que Estados Unidos llegará a un acuerdo con Cuba y descarta una intervención militar",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260926-trump-dice-que-estados-unidos-llegar%C3%A1-a-un-acuerdo-con-cuba-y-descarta-una-intervenci%C3%B3n-militar",
-          "source": "France 24",
-          "published": "2026-09-26T17:05:07.000Z"
+          "title": "Dentro de la misión española que intercepta drones rusos en Rumanía: \"Rusia testea la capacidad de respuesta de la OTAN\"",
+          "link": "https://www.20minutos.es/internacional/dentro-mision-espanola-que-intercepta-drones-rusos-rumania-rusia-testea-capacidad-respuesta-otan_7041810_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-27T09:29:56.000Z"
         },
         {
-          "title": "Lula prohíbe las apuestas online en Brasil a nueve días de las elecciones",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260926-lula-proh%C3%ADbe-las-apuestas-online-en-brasil-a-nueve-d%C3%ADas-de-las-elecciones",
-          "source": "France 24",
-          "published": "2026-09-26T14:59:17.000Z"
+          "title": "Israel decreta un \"cierre general\" en Cisjordania durante una semana por la celebración de la Fiesta de los Tabernáculos",
+          "link": "https://www.dw.com/es/israel-decreta-un-cierre-general-en-cisjordania-durante-una-semana-por-la-celebración-de-la-fiesta-de-los-tabernáculos/a-79447993?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-27T08:55:00.000Z"
+        },
+        {
+          "title": "China envía dos osos panda gigantes a Estados Unidos como \"enviados de amistad entre chinos y estadounidenses\"",
+          "link": "https://www.dw.com/es/china-envía-dos-osos-panda-gigantes-a-estados-unidos-como-enviados-de-amistad-entre-chinos-y-estadounidenses/a-79447301?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-27T07:07:00.000Z"
+        },
+        {
+          "title": "La propaganda escolar en Rusia prepara a los niños para morir por la patria",
+          "link": "https://www.dw.com/es/la-propaganda-escolar-en-rusia-prepara-a-los-niños-para-morir-por-la-patria/a-79446107?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-27T06:39:00.000Z"
+        },
+        {
+          "title": "Londres, París, Roma y ahora Berlín: por qué Lisboa y Madrid son la 'excepción ibérica' al voto progresista en las grandes urbes de la UE",
+          "link": "https://www.20minutos.es/internacional/londres-paris-roma-ahora-berlin-por-que-lisboa-madrid-son-excepcion-iberica-voto-progresista-las-grandes-urbes-ue_7039762_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-27T05:58:11.000Z"
+        },
+        {
+          "title": "Luis Manuel Otero Alcántara, expreso político cubano: \"Hay miedo a que Trump intervenga como en Venezuela y deje al castrismo en el poder”",
+          "link": "https://www.20minutos.es/internacional/luis-manuel-otero-alcantara-expreso-politico-cubano-hay-miedo-que-trump-intervenga-como-venezuela-deje-castrismo-poder_7041226_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-27T05:55:38.000Z"
         }
       ]
     }
