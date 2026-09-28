@@ -168,10 +168,12 @@ a:hover { text-decoration-thickness: 2px; }
 .cartel { position: relative; padding: 0.9rem 0.6rem 0; }
 .cartel img {
   width: 100%; height: auto;
+  opacity: 1;
   transform: rotate(var(--poster-tilt));
   box-shadow: 0 1rem 2rem -1rem color-mix(in oklab, var(--ink) 60%, transparent);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  transition: opacity 0.4s ease, transform 0.25s ease, box-shadow 0.25s ease;
 }
+.cartel img.is-fading { opacity: 0; }
 .cartel-link { display: block; cursor: zoom-in; }
 .cartel-link:hover img, .cartel-link:focus-visible img {
   transform: rotate(var(--poster-tilt)) scale(1.06);

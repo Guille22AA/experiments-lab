@@ -112,14 +112,22 @@ export async function startCarteles(root) {
   const img = root.querySelector("img");
   const link = root.querySelector(".cartel-link");
   let i = 0;
-  const show = (c) => {
+  const swap = (c) => {
     img.src = c.imagen;
     img.alt = c.texto || "Cartel";
     link.href = safeUrl(c.imagen) || c.imagen; // al pulsar se abre el cartel a tamaño completo en otra pestaña
     link.title = "Ver el cartel completo";
   };
-  show(list[0]);
-  if (list.length > 1) setInterval(() => show(list[++i % list.length]), 20000);
+  swap(list[0]);
+  if (list.length > 1) {
+    setInterval(() => {
+      img.classList.add("is-fading");
+      setTimeout(() => {
+        swap(list[++i % list.length]);
+        img.classList.remove("is-fading");
+      }, 400);
+    }, 20000);
+  }
 }
 
 // ── Tablón de convocatorias ─────────────────────────────────
