@@ -1,118 +1,119 @@
 {
-  "date": "2026-09-27",
-  "updatedAt": "2026-09-27T20:35:32.438Z",
-  "edition": "tarde",
+  "date": "2026-09-28",
+  "updatedAt": "2026-09-28T12:20:36.677Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Pedro Sánchez envía un mensaje a Maricarmen: \"El Gobierno está trabajando contra reloj para llevar al Consejo de Ministros el decreto de vivienda\" - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZDBvVnhINktMZkFMOVhwdXpBQnVpLUlHNkI2aVBSZ0hEZzFQLTBrTUoyOGJoaDFBU0NGTF9TY3JBZk4yV001QzdrdWFfRUgxV1lZbTBwM1hRZDlvMEo2REhTVjZPQk1hNjFVb0ZUWXFSa2c5UVo2NW1JTmJLMVpqSDJfZmpZLVpza2hQQ29BZGZ0NU9mTlMxZk92OUpzSDhoWHZxc2hoLUZWUDRHX0JLMVBscUpmbjJQeXlpWHVPMm9oeFJtYUZYUnVOMU5LdU9YRC10MWZtcFgwQkpXOWYxRm5uMFUwak1zclRFN9IB8gFBVV95cUxQRjliT2d5NVNFMGhOTzBjTmRZMFpRdG9SaFRPWmt0Q3pLejRNYm5tTnF2T2x5aEl1T3hnRTc4dkdLVGR0UmF5TGp3dlVxckNQOG9SQ0QxVjQtRXhKdzJ6c0tLbkpRNnZnWjRRRkJKbDF3YkJqdlUxSm16Rk4wZXdiT05qUU16NVJWU0wtalUxNmI3ZWJBa3g3aGJyeUl2Mkg1NE1CT1JKaldrNF9UTktZcGVzOVJ2aWVJMXNZUWpWVTJSbUNWZVFGRlFHelkxeF9yN1NtOGxIOFpndFl0anlsU0ZnUmJ6aGxTT0RtUlJTanlSUQ?oc=5",
-          "source": "Público",
-          "summary": "Pedro Sánchez envía un mensaje a Maricarmen: \"El Gobierno está trabajando contra reloj para llevar al Consejo de Ministros el decreto de vivienda\" Diario Público",
+          "title": "Pedro Sánchez reclama “privilegiar” el uso residencial y no el turístico de la vivienda",
+          "link": "https://elpais.com/espana/catalunya/2026-09-28/pedro-sanchez-reclama-privilegiar-el-uso-residencial-y-no-el-turistico-de-la-vivienda.html",
+          "source": "El País",
+          "summary": "El presidente defiende gobernar el mercado del sector y reclama a las Comunidades Autónomas que sigan el ejemplo de Cataluña",
           "sources": [
-            "Público",
-            "Europa Press",
-            "elDiario.es"
+            "El País",
+            "elDiario.es",
+            "20minutos",
+            "Europa Press"
           ],
-          "firstSeen": "2026-09-27T16:00:23.359Z"
+          "firstSeen": "2026-09-28T12:20:36.677Z"
         },
         {
-          "title": "La Comunidad y el Ayuntamiento de Madrid acusan al Gobierno de \"lavarse las manos\" y de \"dejación de funciones\" ante la acampada",
-          "link": "https://www.20minutos.es/madrid/ayuntamiento-madrid-acusa-delegado-gobierno-dejacion-funciones-por-permitir-acampada-sol_7041891_0.html",
+          "title": "Dimite el delegado del Gobierno en Ceuta y deja la política recordando que avisó \"semanas antes\" al Ejecutivo",
+          "link": "https://www.europapress.es/nacional/noticia-dimite-delegado-gobierno-ceuta-deja-politica-recordando-aviso-semanas-antes-ejecutivo-20260928123415.html",
+          "source": "Europa Press",
+          "summary": "El delegado del Gobierno en Ceuta, Miguel Ángel Pérez Triano, ha presentado su dimisión este lunes. Una decisión que, según el mismo ha dicho, había tomado ya hace algún tiempo y se la había comunicado al ministro y 'mando único' para la crisis de Ceuta, Ángel Victor Torres. Además, ha señalado que \"semanas antes\" ya había avisado al Gobierno central de la movilización que se estaba produciendo en Marruecos para pasar la frontera, ha recalcado.",
+          "sources": [
+            "Europa Press",
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-28T12:20:36.677Z"
+        },
+        {
+          "title": "Detenido en Murcia un profesor de instituto por amenazar de muerte a la ministra Mónica García",
+          "link": "https://www.20minutos.es/nacional/detenido-murcia-un-profesor-instituto-por-amenazar-muerte-ministra-monica-garcia_7042226_0.html",
           "source": "20minutos",
-          "summary": "El Consistorio de la capital muestra su \"sorpresa\" e \"indignación\" ante la actuación de la Delegación del Gobierno durante la manifestación del sábado que derivó en la acampada de Sol. Mientras, la Comunidad señala al Ministerio del Interior.",
+          "summary": "El hombre, de 50 años y sin antecedentes, realizó dos llamadas al grupo municipal de Más Madrid con amenazas contra la ministra y otros miembros del partido.",
           "sources": [
             "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-09-28T12:20:36.677Z"
+        },
+        {
+          "title": "Fiscalía reprocha a Peinado decisiones tomadas con \"celeridad\" que pasaron \"por encima\" de las partes del 'caso Begoña'",
+          "link": "https://www.europapress.es/nacional/noticia-fiscalia-reprocha-peinado-decisiones-tomadas-celeridad-pasaron-encima-partes-caso-begona-20260928131705.html",
+          "source": "Europa Press",
+          "summary": "Aunque no ve \"indefensión trascendente\" para la asesora de la esposa de Sánchez al celebrarse una vista previa al juicio sin ella presente",
+          "sources": [
             "Europa Press",
             "elDiario.es"
           ],
-          "firstSeen": "2026-09-27T20:35:32.438Z"
+          "firstSeen": "2026-09-28T12:20:36.677Z"
         },
         {
-          "title": "Oposición y socios piden cuentas al Gobierno en el Congreso sobre Vivienda tras el desahucio de Maricarmen",
-          "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-oposicion-socios-piden-cuentas-gobierno-congreso-vivienda-desahucio-maricarmen-20260927123258.html",
-          "source": "Europa Press",
-          "summary": "La oposición y varios socios parlamentarios del Gobierno pedirán cuentas esta semana en el Congreso a la ministra de Vivienda, Isabel Rodríguez, por su gestión al frente de su cartera y después del desahucio de Maricarmen, una mujer de 87 años discapacitada que llevaba siete décadas viviendo en el barrio madrileño de Retiro.",
+          "title": "El presidente de la Diputación de Valencia, sobre el día de la dana: “La gestión fue un desastre”",
+          "link": "https://elpais.com/espana/2026-09-28/pradas-y-mompo-declaran-en-el-congreso-tras-el-silencio-de-mazon-sobre-la-gestion-de-la-dana.html",
+          "source": "El País",
+          "summary": "La ‘exconsellera’ de Emergencias y Vicente Mompó comparecen por segunda vez ante la comisión de investigación parlamentaria",
           "sources": [
-            "Europa Press",
-            "El País"
+            "El País",
+            "elDiario.es"
           ],
-          "firstSeen": "2026-09-27T11:01:35.666Z"
-        },
-        {
-          "title": "La acampada por los desahucios no es el 15M",
-          "link": "https://www.eldiario.es/opinion/zona-critica/acampada-desahucios-no-15m_129_13541359.html",
-          "source": "elDiario.es",
-          "summary": "Asombra que en solo 15 años desde el 15M se muestre tal desconocimiento de lo ocurrido porque esta vez ni siquiera parece la intención habitual de manipular. Pero, desde luego, aquello no vino de fallos de la socialdemocracia, como dicen, ni lo organizó Podemos -que tardó tres años en formarse- y no propició en sí mismo el triunfo absoluto del PP de Rajoy en todas las elecciones que siguieron: generales, municipales, autonómicas y al parlamento europeo. En el 15M, solo y nada menos, cristalizó un hartazgo supremo que venía precedido de varios factores de enorme peso (no es que ahora falten ni…",
-          "sources": [
-            "elDiario.es",
-            "20minutos"
-          ],
-          "firstSeen": "2026-09-27T11:01:35.666Z"
-        },
-        {
-          "title": "Las imágenes de la manifestación por la educación pública que acaba en la acampada de Sol",
-          "link": "https://www.eldiario.es/sociedad/imagenes-manifestacion-educacion-publica-acabara-acampada-sol_3_13541815.html",
-          "source": "elDiario.es",
-          "summary": "La comunidad educativa se lanza a las calles de Madrid y confluye con los cientos de personas que permanecen frente a la sede del Gobierno de Ayuso en medio de la presión social por la aprobación del decreto de vivienda Un 15M por la vivienda presiona a los partidos para pactar medidas urgentes En medio del furor de la manifestación por la vivienda que sacó a las calles a decenas de miles de personas la pasada noche del sábado en Madrid, este domingo una marcha por la educación pública recorre las calles de la capital. La protesta ha finalizado en la Puerta del Sol, el punto donde cientos de…",
-          "sources": [
-            "elDiario.es",
-            "El Salto"
-          ],
-          "firstSeen": "2026-09-27T16:00:23.359Z"
+          "firstSeen": "2026-09-28T12:20:36.677Z"
         }
       ],
       "items": [
         {
-          "title": "Una acampada “muy diversa” en Sol por la vivienda prometen aguantar “hasta que la cosa cambie”",
-          "link": "https://elpais.com/videos/2026-09-27/una-acampada-muy-diversa-en-sol-por-la-vivienda-prometen-aguantar-hasta-que-la-cosa-cambie.html",
+          "title": "Galicia comienza una semana histórica de movilizaciones y asambleas abiertas por la vivienda",
+          "link": "https://www.elsaltodiario.com/galicia/galicia-comienza-una-semana-historica-movilizaciones-asambleas-abiertas-vivienda?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-09-28T12:18:00.000Z"
+        },
+        {
+          "title": "Acampada en Sol por la vivienda, en directo | Sumar advierte que el acuerdo “aún está lejos”",
+          "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
           "source": "El País",
-          "published": "2026-09-27T18:52:02.000Z"
+          "published": "2026-09-28T12:14:24.000Z"
         },
         {
-          "title": "Cientos de personas llenan la Plaza del Ayuntamiento de València \"por todas las Maricarmen\" y exigen la aprobación del real decreto de vivienda",
-          "link": "https://www.eldiario.es/comunitat-valenciana/valencia/cientos-personas-llenan-plaza-ayuntamiento-valencia-maricarmen-exigen-aprobacion-real-decreto-vivienda_1_13542408.html",
+          "title": "La ONU eleva a 214 las empresas vinculadas a la colonización sionista, tres de ellas del Estado español",
+          "link": "https://diariosocialista.net/2026/09/28/la-onu-eleva-a-214-las-empresas-vinculadas-a-la-colonizacion-sionista-tres-de-ellas-del-estado-espanol/",
+          "source": "Diario Socialista",
+          "published": "2026-09-28T11:58:59.000Z"
+        },
+        {
+          "title": "La Abogacía acusa a Vox de actuar contra la ‘ley de nietos’ al considerar que favorece a la izquierda: “No hay la más mínima prueba”",
+          "link": "https://elpais.com/espana/2026-09-28/la-abogacia-acusa-a-vox-de-actuar-contra-la-ley-de-nietos-al-considerar-que-favorece-a-la-izquierda-no-hay-la-mas-minima-prueba.html",
+          "source": "El País",
+          "published": "2026-09-28T11:52:27.000Z"
+        },
+        {
+          "title": "Condenado por recorrer en moto acuática las calles inundadas de Bangkok",
+          "link": "https://www.20minutos.es/internacional/condenado-por-recorrer-moto-acuatica-las-calles-inundadas-bangkok_7042173_0.html",
+          "source": "20minutos",
+          "published": "2026-09-28T11:50:51.000Z"
+        },
+        {
+          "title": "Junts advierte al Gobierno que no aproveche el decreto vivienda para \"introducir cosas que no tienen nada que ver\"",
+          "link": "https://www.eldiario.es/catalunya/junts-advierte-gobierno-no-aproveche-decreto-vivienda-introducir-cosas-no-ver_1_13543458.html",
           "source": "elDiario.es",
-          "published": "2026-09-27T18:50:50.000Z"
+          "published": "2026-09-28T11:39:20.000Z"
         },
         {
-          "title": "Marc Vidal, economista: \"Hacienda recauda cuatro veces más rápido de lo que crece la economía real\"",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/marc-vidal-economista-hacienda-recauda-cuatro-veces-mas-rapido-que-crece-economia-real_7041535_0.html",
+          "title": "¿Se puede acampar en la Puerta del Sol? Esto es lo que dice la ley",
+          "link": "https://www.20minutos.es/madrid/se-puede-acampar-puerta-sol-esto-es-dice-ley_7042148_0.html",
           "source": "20minutos",
-          "published": "2026-09-27T17:35:59.000Z"
+          "published": "2026-09-28T11:37:56.000Z"
         },
         {
-          "title": "\"La Thatcher de Madrid cae en desgracia por el escándalo del piso\": el diario 'The Telegraph' sentencia a Ayuso y los tuiteros no dejan pasar la ocasión - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFlJRUI0d1VlS3lBbmRtZEpnMEE4MWtxdnBQdV9GS0JkRmItZWZCUE9PT1lvQnI3dXZUUVNlUGE4SXgwRDVHV0NPdTU4MzJMamRvRDZHa1dwUGpobFhpZlBoWHdzdTNvZlBMbUtuOW5WZVFYTlpyM21pdk5uaTZlalIxVjQwQUdQazVCdG9vaWFqMkl6dXJVYS1sM0NXRE9wR3NHQk0tX2FrVV9qZ21MNDZHcWpaUdIBuwFBVV95cUxOMnFqMTViNnVDSUhWb3pHVUpuNFNESWRZRWJkeTZmVHpWMFFHeWN1QWRYeWFjOC11NDlJLVowOExSVjRYVmQwRm1lWlRoS1BjamkwbnY2NWZkaURnV1JtTjFsWXJpelVBb1o3SlpyWlpqYkpnTUtuZkIwQ3ZpaUF3UFlwbWIxaUo0NW5YWWVSVEhtUVRidWtiSWY4WUlBZ19CVVpmNDNOdWhnQ1pzZS1kd1lqX1g5Q1B6Y2FZ?oc=5",
-          "source": "Público",
-          "published": "2026-09-27T17:13:05.000Z"
-        },
-        {
-          "title": "Concepción Fernández Villanueva: \"El PP y Vox atacan a un periodismo que puede desmentir sus versiones y hacer daño a sus objetivos\" - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnZKT1BFWXk0U0hsS24zdW9tRHVvbHc3Wkl1cXlsLUZjM2JPODlQaDNhd3VfWE95cTlvei1PWTFqU2pPdTRKcjgzRUZZQWp3NTNGLVpLZ1JIZTN5amUzV3Y3UFZlUWNsNXIxTFRmMnlYVm1aSFVvV1F4Y2U2T1I1Z3JJbE9oZTQtaWRfdHlhaHluX182c0l5UDlUVEt4M1RVdUtqcdIBqgFBVV95cUxOZ1B2SUhsTEhnMGV2cFZjTzUtMjlXZVRlOHdIbXhHTDFrRmVZZ01lVmJOb1hxT3dYT1JoSDdrQmtVa2RtdmYteVlaem5iMGdMVl85Sl9ZTVZ5UENXZGJmTEtEQXEyelB6eFBIMGFZWlF4ekNJZ1M2NXNMYW53bXkybEhnX3NBSEdkY1NQcTlnX3BaY3BpSkcyMkhoZGhHUXJDemRSZWE3YUNBQQ?oc=5",
-          "source": "Público",
-          "published": "2026-09-27T16:25:34.000Z"
-        },
-        {
-          "title": "Del control de los alquileres a desahucios: las diferencias entre grupos políticos que retrasan el decreto de vivienda",
-          "link": "https://www.20minutos.es/nacional/control-los-alquileres-desahucios-las-diferencias-entre-grupos-politicos-que-retrasan-decreto-vivienda_7041888_0.html",
-          "source": "20minutos",
-          "published": "2026-09-27T16:21:47.000Z"
-        },
-        {
-          "title": "La acampada en la Puerta del Sol por la vivienda supera todas las expectativas: “Viendo este desborde, no se sabe cuánto estaremos aquí”",
-          "link": "https://www.eldiario.es/madrid/acampada-puerta-sol-vivienda-supera-expectativas-viendo-desborde-no-estaremos_1_13542182.html",
+          "title": "El activista propalestino 'Fergie' Chambers se niega a ser extraditado a EEUU: \"España está en el lado bueno de la historia\"",
+          "link": "https://www.eldiario.es/politica/activista-propalestino-fergie-chambers-niega-extraditado-eeuu-espana-lado-bueno-historia_1_13538792.html",
           "source": "elDiario.es",
-          "published": "2026-09-27T14:44:16.000Z"
-        },
-        {
-          "title": "El PP propone un decálogo de medidas que incluye construir un millón de viviendas en cuatro años",
-          "link": "https://www.20minutos.es/nacional/pp-propone-un-decalogo-medidas-que-incluye-construir-un-millon-viviendas-cuatro-anos_7041853_0.html",
-          "source": "20minutos",
-          "published": "2026-09-27T14:07:22.000Z"
+          "published": "2026-09-28T11:33:19.000Z"
         }
       ]
     },
@@ -121,109 +122,98 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "La policía británica detiene a varios sospechosos por manejar explosivos cerca de la base militar aérea de Fairford",
-          "link": "https://elpais.com/internacional/2026-09-27/la-policia-britanica-detiene-a-varios-sospechosos-por-manejar-explosivos-cerca-de-la-base-militar-aerea-de-fairford.html",
+          "title": "Nuevo avance de Le Pen en Francia: la extrema derecha tendrá por primera vez un grupo parlamentario en el Senado",
+          "link": "https://www.eldiario.es/internacional/nuevo-avance-le-pen-francia-extrema-derecha-tendra-primera-vez-grupo-parlamentario-senado_1_13543464.html",
+          "source": "elDiario.es Internacional",
+          "summary": "A siete meses de las presidenciales, la líder ultraderechista ha celebrado los resultados de su partido en las elecciones parciales, celebradas en la mitad del territorio entre cargos públicos: Agrupación Nacional pasa de los tres senadores actuales a más de diez La caída del ultra Jordan Bardella en Francia: de favorito a la presidencia a desautorizado por su propio partido Nuevo avance de la extrema derecha francesa, que consiguió este domingo consolidar su posición en el Senado, donde tendrá grupo parlamentario propio a raíz de las elecciones parciales a la Cámara Alta que tuvieron lugar a…",
+          "sources": [
+            "elDiario.es Internacional",
+            "France 24"
+          ],
+          "firstSeen": "2026-09-28T12:20:36.677Z"
+        },
+        {
+          "title": "China confirma la ampliación de la tregua comercial con Estados Unidos",
+          "link": "https://elpais.com/internacional/2026-09-28/china-confirma-la-ampliacion-de-la-tregua-comercial-con-estados-unidos.html",
           "source": "El País Internacional",
-          "summary": "Cazas estadounidenses utilizan las instalaciones para participar en la ofensiva contra Irán",
+          "summary": "Pekín y Washington acuerdan qué productos incluir en una futura rebaja de aranceles, mientras el acceso chino a los chips estadounidenses sigue sin resolverse",
+          "sources": [
+            "El País Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-09-28T12:20:36.677Z"
+        },
+        {
+          "title": "El Reino Unido sospecha que la mano de Irán está detrás del intento de atentado contra una base militar",
+          "link": "https://elpais.com/internacional/2026-09-28/el-reino-unido-sospecha-que-la-mano-de-iran-esta-detras-del-intento-de-atentado-contra-una-base-militar.html",
+          "source": "El País Internacional",
+          "summary": "Cinco personas siguen detenidas bajo la ley antiterrorista, mientras se mantiene acordonada la zona en torno a las instalaciones de la RAF en Fairford",
           "sources": [
             "El País Internacional",
             "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-09-27T11:01:35.666Z"
+          "firstSeen": "2026-09-28T12:20:36.677Z"
         },
         {
-          "title": "Protestan en España contra la crisis de vivienda",
-          "link": "https://www.dw.com/es/protestan-en-españa-contra-la-crisis-de-vivienda/a-79446396?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Los manifestantes acampan en la Puerta del Sol de Madrid para exigir medidas que garanticen derecho a la vivienda.",
-          "sources": [
-            "DW",
-            "France 24"
-          ],
-          "firstSeen": "2026-09-27T11:01:35.666Z"
-        },
-        {
-          "title": "Trump rechaza la propuesta de Irán para reabrir el estrecho de Ormuz",
-          "link": "https://elpais.com/us/2026-09-26/trump-rechaza-la-propuesta-de-iran-para-reabrir-el-estrecho-de-ormuz.html",
-          "source": "El País Internacional",
-          "summary": "El presidente de Estados Unidos amenaza con nuevos bombardeos tras las elecciones de noviembre",
-          "sources": [
-            "El País Internacional",
-            "BBC Mundo"
-          ],
-          "firstSeen": "2026-09-27T11:01:35.666Z"
-        },
-        {
-          "title": "Ministros de Exteriores de Rusia y Alemania se reúnen en la ONU",
-          "link": "https://www.dw.com/es/ministros-de-exteriores-de-rusia-y-alemania-se-reúnen-en-la-onu/a-79445859?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El titular alemán, Johann Wadephul, dijo a su par ruso que Berlín seguirá respaldando a Ucrania e instó a Moscú a “abandonar su peligrosa senda de escalada”.",
-          "sources": [
-            "DW",
-            "France 24"
-          ],
-          "firstSeen": "2026-09-27T11:01:35.666Z"
-        },
-        {
-          "title": "Suiza rechaza ampliamente reforzar la neutralidad en su Constitución",
-          "link": "https://www.france24.com/es/video/20260927-suiza-rechaza-ampliamente-reforzar-la-neutralidad-en-su-constituci%C3%B3n",
+          "title": "Serbia: Aleksandar Vucic renuncia a la Presidencia para buscar ser primer ministro",
+          "link": "https://www.france24.com/es/video/20260928-serbia-aleksandar-vucic-renuncia-a-la-presidencia-para-buscar-ser-primer-ministro",
           "source": "France 24",
-          "summary": "A pesar de la división entre los suizos sobre su posición de neutralidad, el rechazo a reforzarla en la Constitución ganó ampliamente en el referéndum del 27 de septiembre. Mientras activistas defienden el papel de Suiza como un actor negociador y la necesidad de no tomar partido en los conflictos, otros aseguran que no involucrase ya es tomar una posición y puede poner en riesgo la seguridad del país, especialmente con la guerra en Ucrania sucediendo en Europa y Rusia apoyando a la parte que promueve la neutralidad.",
+          "summary": "El presidente de Serbia, Aleksandar Vucic, anunció su renuncia antes de concluir su mandato para participar en las elecciones parlamentarias anticipadas del próximo 25 de octubre y buscar el cargo de primer ministro.",
           "sources": [
             "France 24",
-            "El País Internacional"
+            "20minutos Internacional"
           ],
-          "firstSeen": "2026-09-27T16:00:23.359Z"
+          "firstSeen": "2026-09-28T12:20:36.677Z"
         }
       ],
       "items": [
         {
-          "title": "Francia: la ultraderecha de Le Pen gana terreno en el Senado a siete meses de las presidenciales",
-          "link": "https://www.france24.com/es/francia/20260927-francia-la-ultraderecha-de-le-pen-gana-terreno-en-el-senado-a-siete-meses-de-las-presidenciales",
+          "title": "En directo: el papa León XIV insta a hacer concesiones para lograr la paz mientras se prolonga la guerra en Ucrania",
+          "link": "https://www.france24.com/es/francia/20260928-en-directo-el-papa-le%C3%B3n-xiv-insta-a-hacer-concesiones-para-lograr-la-paz-mientras-se-prolonga-la-guerra-en-ucrania",
           "source": "France 24",
-          "published": "2026-09-27T20:26:13.000Z"
+          "published": "2026-09-28T12:04:07.000Z"
         },
         {
-          "title": "Suiza: el referendo para una neutralidad más estricta es rechazado por un 70% de votantes",
-          "link": "https://www.france24.com/es/europa/20260927-suiza-el-referendo-para-una-neutralidad-m%C3%A1s-estricta-es-rechazado-por-un-70-de-votantes",
+          "title": "ICE: miedo y familias separadas en el mayor centro de detención de EE. UU.",
+          "link": "https://www.france24.com/es/programas/reporteros/20260928-ice-en-texas-miedo-y-familias-separadas-en-el-mayor-centro-de-detenci%C3%B3n-de-ee-uu",
           "source": "France 24",
-          "published": "2026-09-27T19:39:26.000Z"
+          "published": "2026-09-28T11:56:56.000Z"
         },
         {
-          "title": "Irlanda del Norte: manifestantes bloquean calles para impedir movilización de Orden de Orange",
-          "link": "https://www.france24.com/es/video/20260927-irlanda-del-norte-manifestantes-bloquean-calles-para-impedir-movilizaci%C3%B3n-de-orden-de-orange",
-          "source": "France 24",
-          "published": "2026-09-27T19:36:05.000Z"
-        },
-        {
-          "title": "El presidente serbio, Aleksandar Vucic, dimite y abre paso a unas elecciones presidenciales anticipadas",
-          "link": "https://www.france24.com/es/europa/20260927-el-presidente-serbio-aleksandar-vucic-dimite-y-abre-paso-a-unas-elecciones-presidenciales-anticipadas",
-          "source": "France 24",
-          "published": "2026-09-27T19:00:05.000Z"
-        },
-        {
-          "title": "Qasem: Israel no logró \"romper la resistencia\" de Hezbolá",
-          "link": "https://www.dw.com/es/qasem-israel-no-logró-romper-la-resistencia-de-hezbolá/a-79450353?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-09-27T18:56:00.000Z"
-        },
-        {
-          "title": "La autorización de una marcha protestante por un barrio católico vuelve a prender la mecha en Irlanda del Norte",
-          "link": "https://elpais.com/internacional/2026-09-27/la-autorizacion-de-una-marcha-protestante-por-un-barrio-catolico-vuelve-a-prender-la-mecha-en-irlanda-del-norte.html",
+          "title": "Netanyahu pide al presidente de Emiratos Árabes que desmienta que le avisó sobre un ataque de Hamás antes del 7 de octubre",
+          "link": "https://elpais.com/internacional/2026-09-28/netanyahu-pide-al-presidente-de-emiratos-arabes-que-desmienta-que-le-aviso-sobre-un-ataque-de-hamas-antes-del-7-de-octubre.html",
           "source": "El País Internacional",
-          "published": "2026-09-27T18:37:50.000Z"
+          "published": "2026-09-28T11:27:09.000Z"
         },
         {
-          "title": "\"La ola de rabia es imparable\": el campamento por la vivienda se instala en el corazón de Madrid",
-          "link": "https://www.france24.com/es/europa/20260927-la-ola-de-rabia-es-imparable-el-campamento-por-la-vivienda-se-instala-en-el-coraz%C3%B3n-de-madrid",
-          "source": "France 24",
-          "published": "2026-09-27T18:15:41.000Z"
+          "title": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei",
+          "link": "https://www.bbc.com/mundo/articles/c6z7zzel0lx5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-09-28T11:17:51.000Z"
         },
         {
-          "title": "Trump: detenidos querían causar \"gran daño\" en base británica",
-          "link": "https://www.dw.com/es/trump-detenidos-querían-causar-gran-daño-en-base-británica/a-79450198?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones",
+          "link": "https://www.bbc.com/mundo/articles/cw770pkk3gkpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-09-28T11:04:21.000Z"
+        },
+        {
+          "title": "Hungría levanta la inmunidad parlamentaria del primer ministro Péter Magyar para aclarar la \"farsa\" en torno a un móvil lanzado al Danubio",
+          "link": "https://www.dw.com/es/hungría-levanta-la-inmunidad-parlamentaria-del-primer-ministro-péter-magyar-para-aclarar-la-farsa-en-torno-a-un-móvil-lanzado-al-danubio/a-79456791?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-09-27T17:05:00.000Z"
+          "published": "2026-09-28T10:51:00.000Z"
+        },
+        {
+          "title": "Suiza rechaza en referéndum una propuesta apoyada por los ultras para imponer una neutralidad más estricta",
+          "link": "https://www.eldiario.es/internacional/suiza-rechaza-referendum-propuesta-apoyada-ultras-imponer-neutralidad-estricta_1_13543268.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-09-28T10:34:42.000Z"
+        },
+        {
+          "title": "Israel convoca a la encargada de negocios de España tras las palabras de Sira Rego: \"El Gobierno ha perdido su brújula moral\"",
+          "link": "https://www.20minutos.es/internacional/israel-convoca-encargada-negocios-espana-tras-las-palabras-sira-rego-gobierno-ha-perdido-su-brujula-moral_7042110_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-28T10:16:11.000Z"
         }
       ]
     }
