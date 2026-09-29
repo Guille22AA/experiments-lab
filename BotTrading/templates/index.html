@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Panel local — bot de trading</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="/static/style.css?v={{ v }}" />
+  </head>
+  <body>
+    <div class="barra">
+      <h1>PANEL LOCAL</h1>
+      <div>
+        <div class="conjunto" id="conjunto">—</div>
+        <div id="conjunto-detalle"></div>
+      </div>
+      <div class="estado">
+        <span id="estado-bot"><span class="punto off"></span>conectando…</span>
+        <span id="ultima">—</span>
+        <button id="interruptor">Parar bot</button>
+      </div>
+    </div>
+
+    <div id="error" class="error" style="display: none"></div>
+
+    <div class="columnas">
+      <section class="wallet" id="wallet-crypto"></section>
+      <section class="wallet" id="wallet-broker"></section>
+    </div>
+
+    <script src="/static/app.js?v={{ v }}"></script>
+  </body>
+</html>

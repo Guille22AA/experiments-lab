@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Estado, historial, backups, logs y la clave de CoinGecko: todo local, nunca a git.
+data/
