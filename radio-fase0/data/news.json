@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-29T11:47:39.942Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-09-29T17:15:25.017Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -19,6 +19,19 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-09-28T22:45:10.594Z"
+        },
+        {
+          "title": "Las claves de los decretos de vivienda: frenazo a los desahucios y castigos a los fondos buitre",
+          "link": "https://elpais.com/economia/vivienda/2026-09-29/las-claves-de-los-decretos-de-vivienda-frenazo-a-los-desahucios-y-castigos-a-los-fondos-buitre.html",
+          "source": "El País",
+          "summary": "El Gobierno plantea una batería de medidas que incluyen bonificaciones a los caseros, ayudas a los inquilinos y préstamos al 0% para la compra de la primera casa",
+          "sources": [
+            "El País",
+            "Europa Press",
+            "elDiario.es",
+            "20minutos"
+          ],
+          "firstSeen": "2026-09-29T17:15:25.017Z"
         },
         {
           "title": "La Audiencia Nacional admite como víctima en el ‘caso Leire Díez’ a la jueza que investigó al hermano de Sánchez",
@@ -54,67 +67,56 @@
             "El País"
           ],
           "firstSeen": "2026-09-28T22:45:10.594Z"
-        },
-        {
-          "title": "El fiscal del ‘caso Begoña Gómez’, contra el juez Peinado: “No es aceptable pasar por encima de los profesionales”",
-          "link": "https://elpais.com/espana/2026-09-28/el-fiscal-contra-el-juez-peinado-no-es-aceptable-pasar-por-encima-de-los-profesionales.html",
-          "source": "El País",
-          "summary": "El ministerio público censura los tiempos manejados en la investigación por el magistrado, que se jubiló este domingo",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-28T22:45:10.594Z"
         }
       ],
       "items": [
         {
-          "title": "Acampada en Sol por la vivienda, en directo | El PSOE y Sumar acuerdan la protección frente a los desahucios hasta 2030 y la prórroga de los alquileres hasta 2028",
-          "link": "https://elpais.com/espana/2026-09-29/acampada-en-sol-por-la-vivienda-en-directo.html",
-          "source": "El País",
-          "published": "2026-09-29T11:42:42.000Z"
+          "title": "El PP carga contra el Gobierno por los decretos en vivienda: \"Lo que no han hecho en 8 años lo van a arreglar en 4 días\"",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/pp-carga-contra-gobierno-por-los-decretos-vivienda-que-no-han-hecho-8-anos-van-arreglar-4-dias_7042907_0.html",
+          "source": "20minutos",
+          "published": "2026-09-29T16:52:40.000Z"
         },
         {
-          "title": "La inflación se dispara al 4,9% en septiembre empujada por los carburantes",
-          "link": "https://elpais.com/economia/2026-09-29/la-inflacion-se-dispara-al-49-en-septiembre-empujada-por-los-carburantes.html",
-          "source": "El País",
-          "published": "2026-09-29T11:30:01.000Z"
-        },
-        {
-          "title": "El Congreso abre un expediente sancionador a la diputada del PP Ana Vázquez por mostrar un espray de gas pimienta",
-          "link": "https://elpais.com/espana/2026-09-29/el-congreso-abre-un-expediente-sancionador-a-la-diputada-ana-vazquez-por-mostrar-un-espray-de-gas-pimienta.html",
-          "source": "El País",
-          "published": "2026-09-29T11:14:46.000Z"
-        },
-        {
-          "title": "UGT reclama controlar los precios de la energía y subir los salarios ante una inflación que alcanza el 4,9%",
-          "link": "https://www.ugt.es/ugt-reclama-controlar-los-precios-de-la-energia-y-subir-los-salarios-ante-una-inflacion-que-alcanza",
-          "source": "UGT",
-          "published": "2026-09-29T11:12:06.000Z"
-        },
-        {
-          "title": "El Gobierno amplía las ayudas al campo y al sector del transporte para mitigar el despegue del gasóleo profesional",
-          "link": "https://www.eldiario.es/economia/gobierno-amplia-ayudas-campo-sector-transporte-mitigar-despegue-gasoleo-profesional_1_13546359.html",
+          "title": "El PP condecora a uno de los policías que humillaron a una excompañera y exconcejal de Podemos por ser lesbiana",
+          "link": "https://www.eldiario.es/illes-balears/politica/pp-condecora-policias-humillaron-excompanera-exconcejal-lesbiana_1_13547642.html",
           "source": "elDiario.es",
-          "published": "2026-09-29T10:44:59.000Z"
+          "published": "2026-09-29T16:33:16.000Z"
         },
         {
-          "title": "El juez del caso Plus Ultra rechaza la recusación que presentó Zapatero contra el segundo perito de las joyas incautadas",
-          "link": "https://www.eldiario.es/politica/juez-caso-plus-ultra-rechaza-recusacion-presento-zapatero-segundo-perito-joyas-incautadas_1_13546571.html",
+          "title": "La Fiscalía avala la investigación del juez de los negocios de Zapatero en Bolivia: \"Autos razonados milimétricamente\"",
+          "link": "https://www.eldiario.es/politica/fiscalia-avala-investigacion-juez-negocios-zapatero-bolivia-autos-razonados-milimetricamente_1_13548024.html",
           "source": "elDiario.es",
-          "published": "2026-09-29T10:43:09.000Z"
+          "published": "2026-09-29T16:33:08.000Z"
         },
         {
-          "title": "UGT denuncia que se utiliza el “absentismo” para convertir la enfermedad y los derechos laborales en culpa",
-          "link": "https://www.ugt.es/ugt-denuncia-que-se-utiliza-el-absentismo-para-convertir-la-enfermedad-y-los-derechos-laborales-en",
-          "source": "UGT",
-          "published": "2026-09-29T10:34:51.000Z"
+          "title": "Mohamed VI nombra jefa de gobierno de Marruecos a Fátima Zahra el Mansuri, la primera mujer en el cargo",
+          "link": "https://www.europapress.es/internacional/noticia-mohamed-vi-nombra-primera-ministra-fatima-zahra-mansuri-primera-mujer-jefe-gobierno-marruecos-20260929182417.html",
+          "source": "Europa Press",
+          "published": "2026-09-29T16:24:17.000Z"
         },
         {
-          "title": "El Ejecutivo de Ayuso exige al Gobierno que desaloje Sol \"en 48 horas\" y \"proteja\" su sede: \"Hemos visto orines en la fachada\"",
-          "link": "https://www.eldiario.es/madrid/gobierno-ayuso-exige-delegado-gobierno-desaloje-sol-48-horas-proteja-sede-hemos-visto-orines-fachada_1_13546413.html",
-          "source": "elDiario.es",
-          "published": "2026-09-29T10:29:22.000Z"
+          "title": "El Gobierno renueva el escudo anticrisis reforzado con el tope al gas con la vista puesta en la calefacción del otoño",
+          "link": "https://elpais.com/economia/2026-09-29/el-gobierno-renueva-el-escudo-anticrisis-reforzado-con-el-tope-al-gas-con-la-vista-puesta-en-la-calefaccion-del-otono.html",
+          "source": "El País",
+          "published": "2026-09-29T16:17:39.000Z"
+        },
+        {
+          "title": "Illa redobla su apuesta por la vivienda con dos fondos dotados con 125 millones",
+          "link": "https://elpais.com/espana/catalunya/2026-09-29/illa-redobla-su-apuesta-por-la-vivienda-con-dos-fondos-dotados-con-125-millones.html",
+          "source": "El País",
+          "published": "2026-09-29T16:10:36.000Z"
+        },
+        {
+          "title": "Más de 300.000 trabajadores franceses en huelga contra el congelamiento salarial; la juventud bloquea 338 institutos",
+          "link": "https://diariosocialista.net/2026/09/29/mas-de-300-000-trabajadores-franceses-en-huelga-contra-el-congelamiento-salarial-la-juventud-bloquea-338-institutos/",
+          "source": "Diario Socialista",
+          "published": "2026-09-29T16:09:20.000Z"
+        },
+        {
+          "title": "La ministra de Vivienda dice que Urbagestión no es un fondo pero sí una \"pyme buitre, muy carroñera\"",
+          "link": "https://www.20minutos.es/nacional/ministra-vivienda-califica-urbagestion-pyme-buitre-muy-carronera-tras-caso-maricarmen_7042885_0.html",
+          "source": "20minutos",
+          "published": "2026-09-29T16:08:16.000Z"
         }
       ]
     },
@@ -132,56 +134,78 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-09-28T22:45:10.594Z"
+        },
+        {
+          "title": "Corea del Sur y Ucrania chocan por la revelación del traslado secreto de dos prisioneros norcoreanos",
+          "link": "https://elpais.com/internacional/2026-09-29/corea-del-sur-y-ucrania-chocan-por-la-revelacion-del-traslado-secreto-de-dos-prisioneros-norcoreanos.html",
+          "source": "El País Internacional",
+          "summary": "Seúl culpa a Kiev de incumplir un acuerdo que preveía no hacer pública la operación. La disputa coincide con una advertencia de Zelenski sobre un nuevo envío de miles de soldados norcoreanas a Rusia",
+          "sources": [
+            "El País Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-09-29T17:15:25.017Z"
+        },
+        {
+          "title": "Estonia atribuye a Rusia incendio en una empresa que fabrica drones para Ucrania",
+          "link": "https://www.dw.com/es/estonia-atribuye-a-rusia-incendio-en-una-empresa-que-fabrica-drones-para-ucrania/a-79472985?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Los servicios de inteligencia rusos están detrás de un incendio provocado en una empresa estonia que fabrica drones militares terrestres para Ucrania, afirmó el primer ministro Kristen Michal. Rusia lo desmiente.",
+          "sources": [
+            "DW",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-09-29T17:15:25.017Z"
         }
       ],
       "items": [
         {
-          "title": "Estonia acusa a Rusia del incendio en un fabricante de material militar",
-          "link": "https://elpais.com/internacional/2026-09-29/estonia-acusa-a-rusia-del-incendio-en-un-fabricante-de-material-militar.html",
-          "source": "El País Internacional",
-          "published": "2026-09-29T11:27:02.000Z"
-        },
-        {
-          "title": "Qué se sabe del Corredor Andes-Atlántico, el ambicioso proyecto con el que EE.UU. busca acceder a recursos estratégicos de Argentina (y competir con China)",
-          "link": "https://www.bbc.com/mundo/articles/c6n9wrpdje2ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-09-29T11:04:03.000Z"
-        },
-        {
-          "title": "Rusia machaca Kiev con misiles y drones a un ritmo sin precedentes en la guerra",
-          "link": "https://elpais.com/internacional/2026-09-29/rusia-machaca-con-misiles-y-drones-kiev-a-un-ritmo-sin-precedentes-en-la-guerra.html",
-          "source": "El País Internacional",
-          "published": "2026-09-29T11:03:26.000Z"
-        },
-        {
-          "title": "Rutte pide \"calma\" ante los ataques híbridos de Putin y ve debilitamiento: \"Rusia no está en su mejor momento\"",
-          "link": "https://www.20minutos.es/internacional/rutte-pide-calma-ante-los-ataques-hibridos-putin-ve-debilitamiento-rusia-no-esta-su-mejor-momento_7042697_0.html",
+          "title": "Mohamed VI encarga por primera vez a una mujer formar Gobierno: la elegida es Fatima El Mansouri y no el ganador de los comicios",
+          "link": "https://www.20minutos.es/internacional/mohamed-vi-encarga-por-primera-vez-una-mujer-formar-gobierno-marruecos_7042912_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-09-29T10:36:53.000Z"
+          "published": "2026-09-29T16:40:24.000Z"
         },
         {
-          "title": "Guatemala: siete muertos en ataques armados, el ejército niega su participación",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260929-guatemala-siete-muertos-en-ataques-armados-el-ej%C3%A9rcito-niega-su-participaci%C3%B3n",
+          "title": "Bardella rechaza acusaciones de 'Mediapart' de publicar mensajes antisemitas entre 2013 y 2015",
+          "link": "https://www.france24.com/es/video/20260929-bardella-rechaza-acusaciones-de-mediapart-de-publicar-mensajes-antisemitas-entre-2013-y-2015",
           "source": "France 24",
-          "published": "2026-09-29T09:41:58.000Z"
+          "published": "2026-09-29T16:08:51.000Z"
         },
         {
-          "title": "Irán dice que espera una respuesta de EE. UU. después de nuevas conversaciones indirectas",
-          "link": "https://www.france24.com/es/medio-oriente/20260929-ir%C3%A1n-dice-que-espera-una-respuesta-de-ee-uu-despu%C3%A9s-de-nuevas-conversaciones-indirectas",
+          "title": "León XIV y la migración: ¿qué pide el papa a Europa?",
+          "link": "https://www.france24.com/es/programas/migrantes/20260929-le%C3%B3n-xiv-y-la-migraci%C3%B3n-qu%C3%A9-pide-el-papa-a-europa",
           "source": "France 24",
-          "published": "2026-09-29T09:35:07.000Z"
+          "published": "2026-09-29T15:18:27.000Z"
         },
         {
-          "title": "Por qué se ha enfadado Corea del Sur con Ucrania por dos prisioneros de guerra norcoreanos",
-          "link": "https://www.eldiario.es/internacional/theguardian/enfadado-corea-sur-ucrania-prisioneros-guerra-norcoreanos_1_13545762.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-09-29T09:28:27.000Z"
+          "title": "Rusia intensifica su ofensiva sobre Ucrania con ataques día y noche mientras crece la presión sobre las fronteras de la OTAN",
+          "link": "https://www.20minutos.es/internacional/rusia-intensifica-su-ofensiva-sobre-ucrania-con-ataques-dia-noche-mientras-crece-presion-sobre-las-fronteras-otan_7042810_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-29T15:14:41.000Z"
         },
         {
-          "title": "Rusia hipoteca su futuro económico por la guerra: defensa, seguridad y espionaje suman ya casi la mitad del gasto público",
-          "link": "https://elpais.com/internacional/2026-09-29/rusia-hipoteca-su-futuro-economico-por-la-guerra-defensa-seguridad-y-espionaje-suman-ya-casi-la-mitad-del-gasto-publico.html",
+          "title": "El comercio mundial resiste los embates de las guerras de Irán y Ucrania y los aranceles de Trump",
+          "link": "https://www.dw.com/es/el-comercio-mundial-resiste-los-embates-de-las-guerras-de-irán-y-ucrania-y-los-aranceles-de-trump/a-79476829?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-09-29T15:14:00.000Z"
+        },
+        {
+          "title": "La anciana Maricarmen podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
+          "link": "https://www.bbc.com/mundo/articles/c9gk5lxv7kx4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-09-29T15:04:21.000Z"
+        },
+        {
+          "title": "Andy Burnham coloca la crisis de la vivienda como prioridad de su programa de Gobierno",
+          "link": "https://elpais.com/internacional/2026-09-29/andy-burnham-coloca-la-crisis-de-la-vivienda-como-prioridad-de-su-programa-de-gobierno.html",
           "source": "El País Internacional",
-          "published": "2026-09-29T09:13:32.000Z"
+          "published": "2026-09-29T15:00:18.000Z"
+        },
+        {
+          "title": "Etiopía: ¿por qué vuelve la guerra y quiénes se enfrentan?",
+          "link": "https://www.france24.com/es/programas/%C3%A1frica-7-d%C3%ADas/20260929-etiop%C3%ADa-por-qu%C3%A9-vuelve-la-guerra-y-qui%C3%A9nes-se-enfrentan",
+          "source": "France 24",
+          "published": "2026-09-29T14:56:39.000Z"
         }
       ]
     }
