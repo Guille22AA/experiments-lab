@@ -1,224 +1,174 @@
 {
-  "date": "2026-09-29",
-  "updatedAt": "2026-09-29T21:39:03.055Z",
-  "edition": "tarde",
+  "date": "2026-09-30",
+  "updatedAt": "2026-09-30T11:34:13.947Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Dimite el delegado del Gobierno en Ceuta y anuncia su retirada de la política - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOE9fR3ktY3pyTTdjSmRZX08xeHdaYzlTOTg5bDNKT2NBLVVTTGp3c3FyWnlvaXg5X3lxcnowbjRIWXNxVFdSWnpjQmM4UjRTQ3RRc1BpVmNwT2JaRmFhTVA2VnlfYktPbTJzdG9iYmczMjNQRWRtUl9uRHp1SjNnbFpGdFFuMlJyck05NdIBkgFBVV95cUxNWElBLWtpVmVxUTlEeHUxNmlCa3ZWcjdUWDBaaGtwMWVnMVFlaW9yS3lGcWFSWmVlbUdOQk8yazAyUENTRTRIQ2UxOXJDT0h1ZzN5a2ZnQms1aEJMYUNOVUd1NnhWTFJwT0Y4UFBUNXNzWkRqR2Z5bGQzUklJSmktUDg0NXdMUDRRLW5lbUdJV0Uwdw?oc=5",
-          "source": "Público",
-          "summary": "Dimite el delegado del Gobierno en Ceuta y anuncia su retirada de la política Diario Público",
+          "title": "El Gobierno prohíbe a los 'fondos buitre' comprar viviendas por debajo del 70% de su valor hasta 2028",
+          "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-gobierno-prohibe-fondos-buitre-comprar-viviendas-debajo-70-valor-2028-20260930105558.html",
+          "source": "Europa Press",
+          "summary": "El Gobierno ha limitado hasta el 31 de diciembre de 2028 la adquisición de viviendas por parte de 'fondos buitre', es decir, entidades, con o sin personalidad jurídica, que incluyan en su objeto social la adquisición de inmuebles y pretendan adquirir una vivienda por un precio inferior al 70% de su valor de tasación de mercado,.",
           "sources": [
-            "Público",
-            "Europa Press",
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-09-28T22:45:10.594Z"
-        },
-        {
-          "title": "Las claves de los decretos de vivienda: frenazo a los desahucios y castigos a los fondos buitre",
-          "link": "https://elpais.com/economia/vivienda/2026-09-29/las-claves-de-los-decretos-de-vivienda-frenazo-a-los-desahucios-y-castigos-a-los-fondos-buitre.html",
-          "source": "El País",
-          "summary": "El Gobierno plantea una batería de medidas que incluyen bonificaciones a los caseros, ayudas a los inquilinos y préstamos al 0% para la compra de la primera casa",
-          "sources": [
-            "El País",
             "Europa Press",
             "elDiario.es",
-            "20minutos"
+            "El País",
+            "Diario Socialista"
           ],
-          "firstSeen": "2026-09-29T17:15:25.017Z"
+          "firstSeen": "2026-09-30T11:34:13.947Z"
         },
         {
-          "title": "La Audiencia Nacional admite como víctima en el ‘caso Leire Díez’ a la jueza que investigó al hermano de Sánchez",
-          "link": "https://elpais.com/espana/2026-09-28/pedraz-admite-a-la-jueza-biedma-como-perjudicada-en-el-caso-leire-diez.html",
+          "title": "El decreto que aún no publica el Gobierno dice que el propietario tendrá que indemnizar al inquilino con 12 mensualidades si no hay prórroga automática",
+          "link": "https://www.20minutos.es/nacional/propietario-indemnizara-inquilino-con-12-mensualidades-si-rompe-prorroga-automatica-alquiler_7043105_0.html",
+          "source": "20minutos",
+          "summary": "El segundo decreto, que contiene las demandas de Sumar y del Sindicato de Inquilinos, se publicará este jueves en el BOE.",
+          "sources": [
+            "20minutos",
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-09-30T11:34:13.947Z"
+        },
+        {
+          "title": "Acampadas en España por la vivienda, en directo | Feijóo anuncia el rechazo del PP a los decretos de vivienda: “Que no cuenten conmigo para estafar a nadie”",
+          "link": "https://elpais.com/espana/2026-09-30/acampada-en-sol-por-la-vivienda-en-directo.html",
           "source": "El País",
-          "summary": "El magistrado Santiago Pedraz cita a declarar a Beatriz Biedma como presunta perjudicada de, “al menos, un delito de calumnias”",
+          "summary": "ERC y Compromís apoyarán las medidas pese a considerarlas insuficientes | La ministra Rodríguez acusa a los populares de “no estar al lado de la gente” | El Gobierno retrasa al jueves la publicación del decreto sobre renovación automática de alquileres",
           "sources": [
             "El País",
+            "20minutos"
+          ],
+          "firstSeen": "2026-09-30T11:34:13.947Z"
+        },
+        {
+          "title": "Defensa envía a la Justicia las denuncias de torturas y tratos degradantes de militares a migrantes en Ceuta",
+          "link": "https://www.eldiario.es/desalambre/defensa-envia-justicia-denuncias-torturas-tratos-degradantes-militares-migrantes-ceuta_1_13549491.html",
+          "source": "elDiario.es",
+          "summary": "La denuncia de Amnistía Internacional, que recoge parte de la investigación de elDiario.es, provoca que el departamento de Robles remita a la Fiscalía y al Juzgado de Guardia de la ciudad autónoma el informe que documenta prácticas como palizas, acoso, humillaciones y el robo de dinero y teléfonos móviles INVESTIGACIÓN - Dos decenas de migrantes denuncian palizas y vejaciones de militares que patrullan Ceuta Los vídeos que confirman palizas de militares a migrantes en Ceuta El Ministerio de Defensa ha remitido a la Fiscalía y el Juzgado de Guardia de Ceuta las denuncias de torturas y otros…",
+          "sources": [
             "elDiario.es",
             "Europa Press"
           ],
-          "firstSeen": "2026-09-28T22:45:10.594Z"
+          "firstSeen": "2026-09-30T11:34:13.947Z"
         },
         {
-          "title": "El Gobierno limita la subida de la tarifa del gas natural al 15% y fija la de la bombona de butano en 19,55 euros",
-          "link": "https://elpais.com/economia/2026-09-29/el-gobierno-limita-la-tarifa-de-gas-y-el-butano-para-evitar-que-se-dispare-el-recibo-en-todo-el-invierno.html",
-          "source": "El País",
-          "summary": "Frena las fuertes subidas derivadas de la revisión automática de estos precios, que habría supuesto más de un 45% en el caso de la TUR, pero la diferencia la seguirán pagando en diferido y con intereses por los consumidores",
+          "title": "Feijóo anuncia el \"no\" del PP a los decretos de vivienda: \"Yo no voy a apoyar un Gobierno tramposo\"",
+          "link": "https://www.europapress.es/nacional/noticia-feijoo-anuncia-no-pp-decretos-vivienda-yo-no-voy-apoyar-gobierno-tramposo-20260930104611.html",
+          "source": "Europa Press",
+          "summary": "El líder del PP, Alberto Núñez Feijóo, ha acusado al jefe del Ejecutivo, Pedro Sánchez, de \"engañar\" a los ciudadanos con los decretos de vivienda, que ha calificado de \"trampa\". Tras recalcar que no se puede contar con él para \"estafar a nadie\", ha avanzado que el Grupo Popular votará en contra de su convalidación en el Pleno del Congreso que se celebrará este viernes.",
           "sources": [
-            "El País",
             "Europa Press",
-            "20minutos"
+            "elDiario.es"
           ],
-          "firstSeen": "2026-09-29T11:47:39.942Z"
-        },
-        {
-          "title": "Vivienda plantea en su borrador una prórroga de dos años para alquileres y prohibir desahucios solo hasta 2028",
-          "link": "https://www.eldiario.es/economia/vivienda-plantea-borrador-decreto-prorrogas-alquileres-prohibir-desahucios-2028_1_13545048.html",
-          "source": "elDiario.es",
-          "summary": "El texto se está negociando con los grupos y dentro del Gobierno, pero aún no satisface plenamente a Sumar, con quien el Ministerio de Vivienda mantiene abiertas las conversaciones. Los desalojos no se suspenderían 'sine die': únicamente se aplazarían por periodos máximos de tres años El Gobierno renuncia a reformar la Ley del Suelo para acercar el apoyo de Podemos al decreto de vivienda El borrador del decreto de vivienda que negocia el Gobierno con Sumar y con los grupos parlamentarios incluirá la posibilidad de solicitar una prórroga al mismo precio tan solo de los contratos de alquiler…",
-          "sources": [
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-09-28T22:45:10.594Z"
+          "firstSeen": "2026-09-30T11:34:13.947Z"
         }
       ],
       "items": [
         {
-          "title": "Lamine Yamal desata la fiesta en Sevilla",
-          "link": "https://www.europapress.es/deportes/futbol/mundial-00639/noticia-lamine-yamal-desata-fiesta-sevilla-20260929224238.html",
+          "title": "La coalición de EEUU abandona Irak tras más de dos décadas",
+          "link": "https://diariosocialista.net/2026/09/30/la-coalicion-de-eeuu-abandona-irak-tras-mas-de-dos-decadas/",
+          "source": "Diario Socialista",
+          "published": "2026-09-30T11:30:08.000Z"
+        },
+        {
+          "title": "Vivas ratifica que solicitó ayuda al Gobierno antes de la entrada masiva de migrantes en Ceuta",
+          "link": "https://www.europapress.es/nacional/noticia-vivas-ratifica-solicito-ayuda-gobierno-antes-entrada-masiva-migrantes-ceuta-20260930132244.html",
           "source": "Europa Press",
-          "published": "2026-09-29T20:42:38.000Z"
+          "published": "2026-09-30T11:22:44.000Z"
         },
         {
-          "title": "¿A quién beneficia electoralmente la acampada de Sol?",
-          "link": "https://elpais.com/videos/2026-09-29/a-quien-beneficia-electoralmente-la-acampada-de-sol.html",
-          "source": "El País",
-          "published": "2026-09-29T20:16:00.000Z"
-        },
-        {
-          "title": "Los activistas de Barcelona se suman a los de Madrid y otras ciudades españolas y empiezan una acampada en la plaza Cataluña",
-          "link": "https://www.20minutos.es/cataluna/barcelona-acampa-por-vivienda-plaza-catalunya_7042977_0.html",
+          "title": "Vandalizan el Oso y el Madroño en Sol con un chaleco, pintadas y símbolos",
+          "link": "https://www.20minutos.es/madrid/vandalizan-oso-madrono-sol-con-un-chaleco-sindicato-inquilinas-pintadas-simbolos-plena-acampada_7043183_0.html",
           "source": "20minutos",
-          "published": "2026-09-29T19:55:29.000Z"
+          "published": "2026-09-30T11:22:38.000Z"
         },
         {
-          "title": "De Sol no se mueve nadie",
-          "link": "https://elpais.com/espana/madrid/2026-09-29/de-sol-no-se-mueve-nadie.html",
-          "source": "El País",
-          "published": "2026-09-29T19:30:08.000Z"
+          "title": "Sevilla, Barcelona, Santander o Las Palmas: las acampadas por la vivienda toman las ciudades de España",
+          "link": "https://www.eldiario.es/economia/sevilla-barcelona-santander-palmas-acampadas-vivienda-toman-ciudades-espana_1_13549581.html",
+          "source": "elDiario.es",
+          "published": "2026-09-30T11:18:46.000Z"
         },
         {
-          "title": "Última hora de la acampada en Sol por la vivienda, en directo | Sindicato Inquilinas rechaza el \"troceo\" del decreto: \"Cuanto más dividan, más nos enfadarán\" - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEgxaVVvNms4UFRTZGRTaUhiTnUzcGlCYUxpR0h1RjdHNlNHUndlSVRuSmZZLUY4LTNtNWlmcFBOVmRaU0wwMFZUVVZCVEdJWGd1b0wwbkRpRVlUZXdrNlo3djhXRkJPeEZYdmxLYnZ2Z1NzMTd2OTVvVE1OZ2JITDI2ZGTSAYoBQVVfeXFMTjFKZjdoUGx6N2ZPT09Fay00T2NTOXFfUm42bTV1MnRjRTJReHkwNGlYWi1oWUp0WGtyblo4UXpoeGJUMXJyTjhPTUVxejJsX1Jtc0lLWFdiZXpvWm40bWpaNFRUVmhOSGVEY0NXZ1NHRy1EdmdJVEpsVGw0WWJpekdGMDY1dFQzX3Z3?oc=5",
-          "source": "Público",
-          "published": "2026-09-29T19:05:31.000Z"
+          "title": "Ocho de cada diez españoles cree que el acceso a la primera vivienda empeorará o seguirá igual en el futuro",
+          "link": "https://www.20minutos.es/nacional/ocho-cada-diez-espanoles-cree-que-acceso-primera-vivienda-empeorara-seguira-igual-futuro-segun-cis_7043176_0.html",
+          "source": "20minutos",
+          "published": "2026-09-30T11:10:05.000Z"
         },
         {
-          "title": "El Rey defiende que es \"responsabilidad de todos\" en la UE proteger la frontera exterior en Ceuta",
-          "link": "https://www.europapress.es/nacional/noticia-rey-defiende-responsabilidad-todos-ue-proteger-frontera-exterior-ceuta-pide-mas-recursos-20260929205602.html",
+          "title": "EEUU impone una nueva oleada sanciones financieras y de viaje contra Cuba",
+          "link": "https://diariosocialista.net/2026/09/30/eeuu-impone-una-nueva-oleada-sanciones-financieras-y-de-viaje-contra-cuba/",
+          "source": "Diario Socialista",
+          "published": "2026-09-30T11:04:21.000Z"
+        },
+        {
+          "title": "El juez del 'caso Leire Díez' responde a la Fiscalía Europea que no constan indicios sobre uso de dinero de la UE",
+          "link": "https://www.europapress.es/nacional/noticia-juez-caso-leire-diez-responde-fiscalia-europea-no-constan-indicios-uso-dinero-ue-20260930125841.html",
           "source": "Europa Press",
-          "published": "2026-09-29T18:56:02.000Z"
+          "published": "2026-09-30T10:58:41.000Z"
         },
         {
-          "title": "El Gobierno renueva el escudo anticrisis reforzado con un tope al gas con la vista puesta en la calefacción del otoño",
-          "link": "https://elpais.com/economia/2026-09-29/el-gobierno-renueva-el-escudo-anticrisis-reforzado-con-el-tope-al-gas-con-la-vista-puesta-en-la-calefaccion-del-otono.html",
-          "source": "El País",
-          "published": "2026-09-29T18:49:01.000Z"
-        },
-        {
-          "title": "Marruecos nombra a Fátima Mansouri como primera mujer al frente del Gobierno en Rabat",
-          "link": "https://elpais.com/internacional/2026-09-29/marruecos-nombra-a-fatima-mansouri-como-primera-ministra-del-pais-la-primera-mujer-al-frente-del-gobierno-en-rabat.html",
-          "source": "El País",
-          "published": "2026-09-29T18:39:50.000Z"
+          "title": "El Gobierno cubrirá el impago de alquileres para suspender los desahucios a personas vulnerables más allá de 2030",
+          "link": "https://www.eldiario.es/economia/gobierno-cubrira-impago-alquileres-suspender-desahucios-personas-vulnerables_1_13549174.html",
+          "source": "elDiario.es",
+          "published": "2026-09-30T10:58:05.000Z"
         }
       ]
     },
     {
       "id": "mundo",
       "title": "Mundo · Geopolítica",
-      "highlights": [
-        {
-          "title": "Estonia atribuye a Rusia incendio en una empresa que fabrica drones para Ucrania",
-          "link": "https://www.dw.com/es/estonia-atribuye-a-rusia-incendio-en-una-empresa-que-fabrica-drones-para-ucrania/a-79472985?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Los servicios de inteligencia rusos están detrás de un incendio provocado en una empresa estonia que fabrica drones militares terrestres para Ucrania, afirmó el primer ministro Kristen Michal. Rusia lo desmiente.",
-          "sources": [
-            "DW",
-            "elDiario.es Internacional",
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-09-29T17:15:25.017Z"
-        },
-        {
-          "title": "La líder del Partido Socialdemócrata de Suecia renuncia a formar Gobierno y se reinician las negociaciones: \"No es posible\"",
-          "link": "https://www.20minutos.es/internacional/lider-partido-socialdemocrata-suecia-renuncia-formar-gobierno-se-reinician-las-negociaciones-no-es-posible_7042326_0.html",
-          "source": "20minutos Internacional",
-          "summary": "Magdalena Andersson ha tomado esa decisión después de que la Izquierda haya apoyado al candidato conservador para presidir la Cámara.",
-          "sources": [
-            "20minutos Internacional",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-09-28T22:45:10.594Z"
-        },
-        {
-          "title": "Corea del Sur y Ucrania chocan por la revelación del traslado secreto de dos prisioneros norcoreanos",
-          "link": "https://elpais.com/internacional/2026-09-29/corea-del-sur-y-ucrania-chocan-por-la-revelacion-del-traslado-secreto-de-dos-prisioneros-norcoreanos.html",
-          "source": "El País Internacional",
-          "summary": "Seúl culpa a Kiev de incumplir un acuerdo que preveía no hacer pública la operación. La disputa coincide con una advertencia de Zelenski sobre un nuevo envío de miles de soldados norcoreanas a Rusia",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-09-29T17:15:25.017Z"
-        },
-        {
-          "title": "El Supremo de EEUU autoriza a Trump reactivar las deportaciones de migrantes a terceros países",
-          "link": "https://www.20minutos.es/internacional/supremo-eeuu-autoriza-trump-reactivar-las-deportaciones-migrantes-terceros-paises_7042980_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El Gobierno había presentado una solicitud de emergencia para bloquear el fallo de un tribunal de apelaciones que consideró ilegal el procedimiento.",
-          "sources": [
-            "20minutos Internacional",
-            "France 24"
-          ],
-          "firstSeen": "2026-09-29T21:39:03.055Z"
-        }
-      ],
+      "highlights": [],
       "items": [
         {
-          "title": "El Gobierno de Brasil solicita el bloqueo de 5.200 sitios web de apuestas ilegales tras prohibirlas la semana pasada",
-          "link": "https://www.20minutos.es/internacional/gobierno-brasil-solicita-bloqueo-5-200-sitios-web-apuestas-ilegales_7042985_0.html",
+          "title": "En directo: “Lo alcanzaremos”: Macron en Madrid tras rechazo del Senado español al Tratado de Amistad con Francia",
+          "link": "https://www.france24.com/es/europa/20260930-en-directo-lo-alcanzaremos-macron-en-madrid-tras-rechazo-del-senado-espa%C3%B1ol-al-tratado-de-amistad-con-francia",
+          "source": "France 24",
+          "published": "2026-09-30T11:01:58.000Z"
+        },
+        {
+          "title": "Israel investiga si la pelea en un vuelo fue un intento de secuestro: \"Uno de los pilotos intentó imitar el 11-S y estrellar el avión\"",
+          "link": "https://www.20minutos.es/internacional/israel-investiga-si-pelea-un-vuelo-fue-un-intento-secuestro-uno-los-pilotos-intento-imitar-11-s-estrellar-avion_7043174_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-09-29T20:50:59.000Z"
+          "published": "2026-09-30T10:53:55.000Z"
         },
         {
-          "title": "Viaje al corazón obrero de Brasil: declive industrial, repartidores y tensión electoral en la cuna sindical de Lula",
-          "link": "https://www.eldiario.es/internacional/viaje-corazon-obrero-brasil-declive-industrial-repartidores-tension-electoral-cuna-sindical-lula_1_13544955.html",
+          "title": "La explosión de varias minas en la Zona Desmilitarizada abre una nueva crisis entre las dos Coreas",
+          "link": "https://elpais.com/internacional/2026-09-30/la-explosion-de-varias-minas-en-la-zona-desmilitarizada-abre-una-nueva-crisis-entre-las-dos-coreas.html",
+          "source": "El País Internacional",
+          "published": "2026-09-30T10:40:30.000Z"
+        },
+        {
+          "title": "Nuevas imágenes de Google Maps muestran cómo ha quedado Gaza arrasada por Israel",
+          "link": "https://www.eldiario.es/internacional/nuevas-imagenes-google-maps-muestran-quedado-gaza-arrasada-israel_1_13549052.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-09-29T20:31:41.000Z"
+          "published": "2026-09-30T09:55:30.000Z"
         },
         {
-          "title": "El peso del abstencionismo de cara a las elecciones generales en Brasil",
-          "link": "https://www.france24.com/es/video/20260929-el-peso-del-abstencionismo-de-cara-a-las-elecciones-generales-en-brasil",
-          "source": "France 24",
-          "published": "2026-09-29T20:25:17.000Z"
+          "title": "Satélites, 5G y respuesta rápida: Bruselas plantea conectar a policías, bomberos y sanitarios en una red \"ultrasegura\" ante crisis",
+          "link": "https://www.20minutos.es/internacional/satelites-5g-respuesta-rapida-bruselas-plantea-conectar-policias-bomberos-sanitarios-una-red-ultrasegura-ante-crisis_7043037_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-09-30T09:09:04.000Z"
         },
         {
-          "title": "Merz: “Rusia no ganará” la guerra que lanzó contra Ucrania",
-          "link": "https://www.dw.com/es/merz-rusia-no-ganará-la-guerra-que-lanzó-contra-ucrania/a-79480368?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Vuelo de FlyDubai a Israel fue desviado a Arabia Saudita por \"altercado\" entre pilotos e Israel movilizó aviones de combate",
+          "link": "https://www.dw.com/es/vuelo-de-flydubai-a-israel-fue-desviado-a-arabia-saudita-por-altercado-entre-pilotos-e-israel-movilizó-aviones-de-combate/a-79482811?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-09-29T19:54:00.000Z"
+          "published": "2026-09-30T08:52:00.000Z"
         },
         {
-          "title": "Jóvenes acampan en Madrid en protesta por la crisis de vivienda en España",
-          "link": "https://www.france24.com/es/video/20260929-jo%CC%81venes-acampan-en-madrid-en-protesta-por-la-crisis-de-vivienda-en-espan%CC%83a",
-          "source": "France 24",
-          "published": "2026-09-29T19:29:37.000Z"
-        },
-        {
-          "title": "La polémica de la Virgen de Aparecida: religión y bulos en la disputa entre Flávio Bolsonaro y Lula",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260929-la-pol%C3%A9mica-de-la-virgen-de-aparecida-religi%C3%B3n-y-bulos-en-la-disputa-entre-fl%C3%A1vio-bolsonaro-y-lula",
-          "source": "France 24",
-          "published": "2026-09-29T19:11:41.000Z"
-        },
-        {
-          "title": "Israel prohíbe la participación de partidos árabes en las elecciones: lo que hay que saber",
-          "link": "https://www.dw.com/es/israel-prohíbe-la-participación-de-partidos-árabes-en-las-elecciones-lo-que-hay-que-saber/a-79478739?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Irán ejecuta a otros dos hombres que participaron en las protestas de enero",
+          "link": "https://www.dw.com/es/irán-ejecuta-a-otros-dos-hombres-que-participaron-en-las-protestas-de-enero/a-79481801?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-09-29T18:55:00.000Z"
+          "published": "2026-09-30T08:07:00.000Z"
         },
         {
-          "title": "¿Desaprobación de Trump influye en la ventaja del Partido Demócrata para las 'midterms'?",
-          "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260929-desaprobaci%C3%B3n-de-trump-influye-en-la-ventaja-del-partido-dem%C3%B3crata-para-las-midterms",
-          "source": "France 24",
-          "published": "2026-09-29T18:40:21.000Z"
+          "title": "Andy Burnham no descarta estudiar un futuro reingreso del Reino Unido en la UE",
+          "link": "https://elpais.com/internacional/2026-09-30/andy-burnham-no-descarta-estudiar-un-futuro-reingreso-del-reino-unido-en-la-ue.html",
+          "source": "El País Internacional",
+          "published": "2026-09-30T08:02:57.000Z"
         }
       ]
     }
