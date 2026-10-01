@@ -1,6 +1,7 @@
 // Menu of the shopping cycle: generate it, review the proposal, then manage it day by day.
 import { CalendarDays, Minus, Plus, ShoppingCart, Sparkles } from 'lucide-react';
 import { useCallback, useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { api } from '../api/client.js';
 import DeductionSheet from '../components/menu/DeductionSheet.jsx';
 import MenuDays from '../components/menu/MenuDays.jsx';
@@ -28,7 +29,11 @@ function DaysStepper({ days, onChange }) {
   );
 }
 
-function ShoppingSuggestions({ suggestions }) {
+/**
+ * What the menu needs and is not at home. `onAddToList` is only given for the
+ * active menu (a draft is not decided yet).
+ */
+function ShoppingSuggestions({ suggestions, onAddToList }) {
   if (suggestions.length === 0) return null;
   return (
     <section className="card">
@@ -44,13 +49,20 @@ function ShoppingSuggestions({ suggestions }) {
           </li>
         ))}
       </ul>
-      <p className="muted small">Pronto podrás pasarlo a la lista de la compra con un toque.</p>
+      {onAddToList ? (
+        <button type="button" className="button secondary full" onClick={onAddToList}>
+          <ShoppingCart size={18} aria-hidden="true" /> Añadir a la lista de la compra
+        </button>
+      ) : (
+        <p className="muted small">Cuando aceptes el menú podrás pasarlo a la lista de la compra.</p>
+      )}
     </section>
   );
 }
 
 export default function MenuPage() {
   const showToast = useToast();
+  const navigate = useNavigate();
   const [state, setState] = useState(null); // { active, draft, cycleStatus, suggestedDays }
   const [days, setDays] = useState(7);
   const [busy, setBusy] = useState(null); // text shown while the AI works
@@ -85,6 +97,16 @@ export default function MenuPage() {
   const generate = () => run('Pensando tu menú… puede tardar medio minuto.', () => api.post('/menus/generate', { days }));
   const accept = () => run('Guardando…', () => api.post(`/menus/${state.draft.menu.id}/accept`));
   const discard = () => run('Descartando…', () => api.delete(`/menus/${state.draft.menu.id}`));
+
+  async function addSuggestionsToList() {
+    try {
+      const { added, total } = await api.post('/shopping-list/from-menu', { menuId: state.active.menu.id });
+      const text = added === 0 ? 'Ya estaba todo en la lista' : `${added} de ${total} productos añadidos a la lista`;
+      showToast(text, { actionLabel: 'Ver lista', onAction: () => navigate('/lista') });
+    } catch (err) {
+      showToast(err.message);
+    }
+  }
   const extend = (extraDays) =>
     run('Estirando el menú con lo que queda en casa…', () => api.post('/menus/current/extend', { days: extraDays }));
 
@@ -161,7 +183,7 @@ export default function MenuPage() {
       {shown && (
         <>
           <MenuDays view={shown} onOpenSlot={setOpenSlot} />
-          <ShoppingSuggestions suggestions={shown.menu.shoppingSuggestions} />
+          <ShoppingSuggestions suggestions={shown.menu.shoppingSuggestions} onAddToList={draft ? null : addSuggestionsToList} />
         </>
       )}
 

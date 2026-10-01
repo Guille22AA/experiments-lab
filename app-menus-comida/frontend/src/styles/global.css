@@ -1146,3 +1146,120 @@ h3 {
 .generate-card h2 {
   justify-content: center;
 }
+
+/* ---------- Shopping list ---------- */
+.list-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  padding-right: 4px;
+}
+
+.list-item-toggle {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 56px;
+  padding: 0 12px;
+  border: none;
+  background: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.tick {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  color: var(--accent-contrast);
+}
+
+.list-item.is-checked .tick {
+  border-color: var(--accent);
+  background: var(--accent);
+}
+
+.list-item.is-checked .list-item-text {
+  color: var(--text-muted);
+  text-decoration: line-through;
+}
+
+.export-preview {
+  max-height: 40dvh;
+  overflow: auto;
+  margin: 0 0 12px;
+  padding: 12px;
+  border-radius: var(--radius-small);
+  background: var(--surface-2);
+  font: 0.9rem/1.5 ui-monospace, monospace;
+  white-space: pre-wrap;
+}
+
+.export-actions {
+  display: grid;
+  gap: 8px;
+}
+
+/* ---------- Print: only the list, plain black on white ---------- */
+.print-only {
+  display: none;
+}
+
+@media print {
+  html,
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  .app-header,
+  .bottom-nav,
+  .fab,
+  .toast-area,
+  .app-main > :not(.print-only) {
+    display: none !important;
+  }
+
+  .app-main {
+    padding: 0;
+  }
+
+  .print-only {
+    display: block;
+    font-size: 12pt;
+  }
+
+  .print-only h1 {
+    font-size: 16pt;
+  }
+
+  .print-only h2 {
+    margin: 12pt 0 4pt;
+    font-size: 11pt;
+    text-transform: uppercase;
+  }
+
+  .print-only ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .print-only li {
+    break-inside: avoid;
+    margin-bottom: 3pt;
+  }
+}

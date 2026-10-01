@@ -1,6 +1,6 @@
 // Pantry: what is at home, grouped by supermarket section.
 // Tap the level to lower it, swipe left to remove, tap the name for more options.
-import { Package } from 'lucide-react';
+import { Package, ShoppingCart } from 'lucide-react';
 import { useCallback, useEffect, useState } from 'react';
 import { api } from '../api/client.js';
 import CycleCard from '../components/pantry/CycleCard.jsx';
@@ -53,10 +53,23 @@ export default function PantryPage() {
     }
   }
 
+  async function addToList(item) {
+    try {
+      const added = await api.post(`/shopping-list/from-pantry/${item.id}`);
+      showToast(added.alreadyThere ? `${item.name} ya estaba en la lista` : `${item.name} añadido a la lista`);
+    } catch (err) {
+      showToast(err.message);
+    }
+  }
+
   async function changeLevel(item, level) {
     replaceItem({ ...item, level }); // instant feedback, then save
     try {
       replaceItem(await api.patch(`/pantry/${item.id}`, { level }));
+      // Just ran out: offer the shortcut to the shopping list.
+      if (level === 'empty') {
+        showToast(`Se acabó: ${item.name}`, { actionLabel: 'Añadir a la lista', onAction: () => addToList(item) });
+      }
     } catch (err) {
       replaceItem(item); // put it back as it was
       showToast(err.message);
@@ -120,6 +133,11 @@ export default function PantryPage() {
                       <button type="button" className="pantry-item-name" onClick={() => setEditing(item)}>
                         {item.name}
                       </button>
+                      {item.level === 'empty' && (
+                        <button type="button" className="icon-button" onClick={() => addToList(item)} aria-label={`Añadir ${item.name} a la lista`}>
+                          <ShoppingCart size={20} aria-hidden="true" />
+                        </button>
+                      )}
                       <LevelButton level={item.level} productName={item.name} onChange={(level) => changeLevel(item, level)} />
                     </div>
                   </SwipeRow>

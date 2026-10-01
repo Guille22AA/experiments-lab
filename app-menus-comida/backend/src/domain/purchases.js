@@ -9,6 +9,7 @@ import {
   getCurrentCycle,
   setCycleOpeningPurchase,
 } from '../db/repositories/purchaseRepo.js';
+import { deleteItemsForProducts } from '../db/repositories/shoppingListRepo.js';
 import { runInTransaction } from '../db/transaction.js';
 import { suggestedMenuDays } from './cycles.js';
 import { LEVEL_AFTER_PURCHASE } from './pantry.js';
@@ -37,6 +38,7 @@ export function registerPurchase({ kind, purchasedAt, source, totalPrice = null,
     const purchaseId = createPurchase({ cycleId, kind, purchasedAt, source, totalPrice });
     if (opensCycle) setCycleOpeningPurchase(cycleId, purchaseId);
 
+    const boughtProductIds = [];
     for (const item of items) {
       const product = resolveProduct(item);
       addPurchaseItem({
@@ -47,8 +49,12 @@ export function registerPurchase({ kind, purchasedAt, source, totalPrice = null,
         price: item.price ?? null,
       });
       setPantryLevel(product.id, item.level ?? LEVEL_AFTER_PURCHASE);
+      boughtProductIds.push(product.id);
     }
 
-    return { purchaseId, cycleId, openedCycle: opensCycle, itemCount: items.length };
+    // What was bought no longer needs to be on the shopping list.
+    const removedFromList = deleteItemsForProducts(boughtProductIds);
+
+    return { purchaseId, cycleId, openedCycle: opensCycle, itemCount: items.length, removedFromList };
   });
 }

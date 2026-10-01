@@ -15,6 +15,7 @@ import { productRoutes } from './routes/productRoutes.js';
 import { profileRoutes } from './routes/profileRoutes.js';
 import { purchaseRoutes } from './routes/purchaseRoutes.js';
 import { recipeRoutes } from './routes/recipeRoutes.js';
+import { shoppingListRoutes } from './routes/shoppingListRoutes.js';
 
 const app = express();
 app.use(express.json({ limit: '15mb' })); // receipts (images/PDF) arrive as base64
@@ -30,6 +31,7 @@ app.use('/api/products', productRoutes);
 app.use('/api/purchases', purchaseRoutes);
 app.use('/api/menus', menuRoutes);
 app.use('/api/recipes', recipeRoutes);
+app.use('/api/shopping-list', shoppingListRoutes);
 
 app.use('/api', (req, res) => {
   res.status(404).json({ error: { message: 'Esa ruta de la API no existe.' } });
