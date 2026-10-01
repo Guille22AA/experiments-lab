@@ -1,9 +1,10 @@
 // Detail of a menu dish: the recipe and what can be done with it
 // (mark as cooked or skipped, change it for another dish, move it).
-import { ArrowRightLeft, Check, RefreshCw, SkipForward, Sparkles, Undo2 } from 'lucide-react';
+import { ArrowRightLeft, Check, MessageCircle, RefreshCw, SkipForward, Sparkles, Undo2 } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { api } from '../../api/client.js';
 import { MEAL_TYPE_LABELS } from '../../constants/labels.js';
+import { useAssistant } from '../../context/AssistantContext.jsx';
 import { dayLabel } from '../../lib/dates.js';
 import RecipeBody from '../recipes/RecipeBody.jsx';
 import Sheet from '../ui/Sheet.jsx';
@@ -169,6 +170,13 @@ export default function SlotSheet({ slot, view, editable, onStateChange, onSlotC
     onClose();
   };
 
+  const { openAssistant } = useAssistant();
+  function askAssistant() {
+    const label = `${MEAL_TYPE_LABELS[slot.mealType]} del ${dayLabel(slot.date).replace(/^(Hoy|Mañana) · /, '')}: ${slot.title}`;
+    onClose();
+    openAssistant({ name: 'menu_slot', label, slotId: slot.id });
+  }
+
   const title = mode === 'change' ? 'Cambiar plato' : mode === 'move' ? 'Mover plato' : slot.title;
   return (
     <Sheet title={title} onClose={onClose}>
@@ -180,6 +188,11 @@ export default function SlotSheet({ slot, view, editable, onStateChange, onSlotC
         <>
           {recipe ? <RecipeBody recipe={recipe} /> : !error && <p className="muted">Cargando receta…</p>}
           {error && <p className="notice error">{error}</p>}
+
+          {/* E.g. "no me queda X, ¿con qué lo sustituyo?" with this dish as context. */}
+          <button type="button" className="link-button ask-assistant" onClick={askAssistant}>
+            <MessageCircle size={16} aria-hidden="true" /> Preguntar al asistente sobre este plato
+          </button>
 
           {editable && (
             <div className="sheet-actions">

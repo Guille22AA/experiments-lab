@@ -9,6 +9,7 @@ import PantryItemSheet from '../components/pantry/PantryItemSheet.jsx';
 import ProductSearch from '../components/pantry/ProductSearch.jsx';
 import SwipeRow from '../components/ui/SwipeRow.jsx';
 import { useToast } from '../context/ToastContext.jsx';
+import { useDataChanged } from '../hooks/useDataChanged.js';
 
 /** Groups items by section, keeping the walking order. Items without section go to "Otros". */
 function groupBySection(items, sections) {
@@ -40,6 +41,7 @@ export default function PantryPage() {
   useEffect(() => {
     load();
   }, [load]);
+  useDataChanged(load); // the assistant may change things from the chat
 
   const replaceItem = (updated) => setItems((current) => current.map((i) => (i.id === updated.id ? updated : i)));
 

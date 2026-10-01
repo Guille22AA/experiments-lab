@@ -57,6 +57,10 @@ export function updatePantryItemLevel(id, level) {
   return getPantryItem(id);
 }
 
+export function deletePantryItemByProduct(productId) {
+  db.prepare('DELETE FROM pantry_items WHERE product_id = ?').run(productId);
+}
+
 export function deletePantryItem(id) {
   return db.prepare('DELETE FROM pantry_items WHERE id = ?').run(id).changes > 0;
 }

@@ -1,12 +1,14 @@
 // One recipe: content, links (variations, linked product), history and feedback.
-import { ChefHat, ExternalLink, GitBranch, Package, Pencil, Star, Trash2 } from 'lucide-react';
+import { ChefHat, ExternalLink, GitBranch, MessageCircle, Package, Pencil, Star, Trash2 } from 'lucide-react';
 import { useCallback, useEffect, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 import { api } from '../api/client.js';
 import AfterCooking from '../components/recipes/AfterCooking.jsx';
 import RecipeBody from '../components/recipes/RecipeBody.jsx';
 import { ADJUSTMENT_LABELS, LEVEL_LABELS, SOURCE_LABELS, VERDICT_SHORT } from '../constants/labels.js';
+import { useAssistant } from '../context/AssistantContext.jsx';
 import { useToast } from '../context/ToastContext.jsx';
+import { useDataChanged } from '../hooks/useDataChanged.js';
 
 const formatDate = (iso) => new Date(iso).toLocaleDateString('es-ES', { day: 'numeric', month: 'long' });
 
@@ -14,6 +16,7 @@ export default function RecipeDetailPage() {
   const { id } = useParams();
   const navigate = useNavigate();
   const showToast = useToast();
+  const { openAssistant } = useAssistant();
   const [recipe, setRecipe] = useState(null);
   const [error, setError] = useState(null);
   const [cooked, setCooked] = useState(null);
@@ -23,6 +26,7 @@ export default function RecipeDetailPage() {
   useEffect(() => {
     load();
   }, [load]);
+  useDataChanged(load); // the assistant may change things from the chat
 
   async function toggleFavorite() {
     const isFavorite = !recipe.isFavorite;
@@ -100,6 +104,13 @@ export default function RecipeDetailPage() {
 
       <section className="card">
         <RecipeBody recipe={recipe} />
+        <button
+          type="button"
+          className="link-button ask-assistant"
+          onClick={() => openAssistant({ name: 'recipe', label: `Receta: ${recipe.name}`, recipeId: recipe.id })}
+        >
+          <MessageCircle size={16} aria-hidden="true" /> Preguntar al asistente sobre esta receta
+        </button>
       </section>
 
       <button type="button" className="button full" onClick={markCooked}>

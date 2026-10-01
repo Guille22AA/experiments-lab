@@ -8,6 +8,7 @@ import MenuDays from '../components/menu/MenuDays.jsx';
 import SlotSheet from '../components/menu/SlotSheet.jsx';
 import CycleCard from '../components/pantry/CycleCard.jsx';
 import { useToast } from '../context/ToastContext.jsx';
+import { useDataChanged } from '../hooks/useDataChanged.js';
 import { todayIso } from '../lib/dates.js';
 
 const MAX_DAYS = 14;
@@ -80,6 +81,7 @@ export default function MenuPage() {
   useEffect(() => {
     load();
   }, [load]);
+  useDataChanged(load); // the assistant may change things from the chat
 
   /** Runs an action that may call the AI, with a clear loading message. */
   async function run(message, action) {

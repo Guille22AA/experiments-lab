@@ -4,14 +4,14 @@ A personal web app that plans what I cook and what I buy, with an AI assistant t
 
 **The problem:** every week I have to decide what to eat, check what's left at home and write a shopping list. This app does it shopping trip to shopping trip: after each shop it proposes a menu built around what I already have, and it turns whatever is missing into a shopping list sorted by supermarket aisle.
 
-> 🚧 **Work in progress.** It is built in 8 phases ([roadmap](#roadmap)). Phases 1–5 are done.
+> 🚧 **Work in progress.** It is built in 8 phases ([roadmap](#roadmap)). Phases 1–6 are done.
 
 <!-- Screenshots will be added in phase 8 -->
 
 ## Features
 
 - **AI onboarding interview.** A natural chat to learn allergies, tastes, how much I feel like cooking, kitchen equipment… then a summary I can review and edit.
-- **Always-on assistant.** A floating chat on every screen that knows which screen it was opened from.
+- **Always-on assistant that can propose changes.** A floating chat on every screen; it can also be opened from a specific dish or recipe ("I'm out of tomato, what can I use instead?"). When I ask for a change ("swap Thursday's dinner for something quicker", "I don't like fish any more", "add eggs to the list", "I made the ramen today") it never touches the data: it returns structured actions, the app checks them in code (restrictions included) and shows a confirmation card. Accepted actions are logged and can be undone.
 - **Editable profile** with a light/dark theme (follows the system by default).
 - **Pantry** grouped by supermarket aisle, with approximate levels (plenty / some / little / out). Tap to lower a level, swipe to remove, with undo.
 - **Receipt reading.** Upload a photo or PDF of the receipt: the AI extracts the products, the app matches them with products it already knows, and I review everything before saving.
@@ -24,7 +24,7 @@ A personal web app that plans what I cook and what I buy, with an AI assistant t
 - **Shopping cycles.** A normal shop starts a new cycle; small top-ups don't. The app learns how many days I usually go between shops.
 - **Works without AI:** if the provider is down or the free quota runs out, everything except the assistant keeps working.
 
-Coming next: assistant actions with confirmation and undo, and nutrition info from Open Food Facts.
+Coming next: nutrition info from Open Food Facts and approximate prices.
 
 ### Design principles
 
@@ -102,7 +102,7 @@ docs/          full spec and data model
 3. ✅ Menu generation and management, restrictions as hard filters
 4. ✅ Shopping list by aisle, export (.txt, share, print)
 5. ✅ Recipe book: variations, recipes linked to products, import from text and links, feedback
-6. Assistant actions with confirmation cards, history and undo
+6. ✅ Assistant actions with confirmation cards, history and undo
 7. Nutrition info (Open Food Facts) and approximate prices
 8. Design polish, accessibility and screenshots
 

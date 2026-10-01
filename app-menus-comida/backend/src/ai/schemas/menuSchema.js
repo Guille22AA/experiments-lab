@@ -6,7 +6,7 @@ export const DIFFICULTIES = ['easy', 'medium', 'hard'];
 
 const ingredientSchema = z.object({
   name: z.string().trim().min(1).max(120),
-  quantity: z.string().trim().max(60).nullable(), // approximate: "200 g", "1 lata", "un puñado"
+  quantity: z.string().trim().max(60).nullish(), // approximate: "200 g", "1 lata", "un puñado"
   optional: z.boolean().default(false),
 });
 

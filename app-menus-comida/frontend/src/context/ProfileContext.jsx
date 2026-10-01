@@ -1,6 +1,7 @@
 // Holds the user profile for the whole app, plus the light/dark theme.
 import { createContext, useCallback, useContext, useEffect, useState } from 'react';
 import { api } from '../api/client.js';
+import { useDataChanged } from '../hooks/useDataChanged.js';
 
 const ProfileContext = createContext(null);
 
@@ -33,6 +34,7 @@ export function ProfileProvider({ children }) {
   useEffect(() => {
     reload();
   }, [reload]);
+  useDataChanged(reload); // the assistant may update the profile from the chat
 
   const setTheme = useCallback(async (theme) => {
     applyTheme(theme); // instant feedback, then save

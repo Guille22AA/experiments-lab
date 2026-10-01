@@ -1,11 +1,13 @@
 // List of chat bubbles, shared by the assistant panel and the onboarding interview.
-import { useEffect, useRef } from 'react';
+import { Fragment, useEffect, useRef } from 'react';
 
 /**
- * @param {{ messages: {id, role, content}[], pending?: boolean, error?: string|null }} props
- * role can be 'user', 'assistant' or 'error'.
+ * @param {{ messages: {id, role, content}[], pending?: boolean, error?: string|null,
+ *           renderAfter?: (message) => React.ReactNode }} props
+ * role can be 'user', 'assistant' or 'error'. `renderAfter` adds things under a
+ * message (the assistant's confirmation cards).
  */
-export default function MessageList({ messages, pending = false, error = null }) {
+export default function MessageList({ messages, pending = false, error = null, renderAfter }) {
   const endRef = useRef(null);
 
   // Keep the latest message in view.
@@ -16,9 +18,10 @@ export default function MessageList({ messages, pending = false, error = null })
   return (
     <div className="message-list" aria-live="polite">
       {messages.map((message) => (
-        <div key={message.id} className={`message ${message.role}`}>
-          {message.content}
-        </div>
+        <Fragment key={message.id}>
+          <div className={`message ${message.role}`}>{message.content}</div>
+          {renderAfter?.(message)}
+        </Fragment>
       ))}
       {pending && <div className="message assistant pending">Escribiendo…</div>}
       {error && (

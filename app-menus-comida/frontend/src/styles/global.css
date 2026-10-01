@@ -1466,3 +1466,98 @@ h3 {
   border-color: var(--danger);
   background: var(--danger-soft);
 }
+
+/* ---------- Assistant actions ---------- */
+.chat-notice {
+  margin: 16px;
+}
+
+.chat-hint {
+  padding: 16px 16px 0;
+}
+
+.action-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-self: stretch;
+}
+
+.action-card {
+  padding: 12px 14px;
+  border: 2px solid var(--accent);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.action-card.status-rejected,
+.action-card.status-undone,
+.action-card.status-failed {
+  border-color: var(--border);
+  opacity: 0.75;
+}
+
+.action-card.status-accepted {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.action-summary {
+  margin: 0 0 6px;
+  font-weight: 600;
+}
+
+.action-warning {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  margin: 4px 0;
+  font-size: 0.875rem;
+  color: var(--danger);
+}
+
+.action-warning svg {
+  flex-shrink: 0;
+  margin-top: 3px;
+}
+
+.action-status {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.ask-assistant {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0;
+  margin-top: 8px;
+}
+
+.history-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.history-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0 12px;
+  padding: 10px 0;
+  border-top: 1px solid var(--border);
+}
+
+.history-summary {
+  flex-basis: 100%;
+}
+
+.history-list li.is-undone .history-summary {
+  color: var(--text-muted);
+  text-decoration: line-through;
+}

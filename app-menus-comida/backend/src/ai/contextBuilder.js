@@ -3,12 +3,14 @@
 // The AI has no memory of its own: all memory lives in our database.
 // For each task we pick and summarize only what is needed, so we spend few
 // tokens and switching provider loses nothing.
+import { listActionsForMessages } from '../db/repositories/actionRepo.js';
 import { listRecentMessages } from '../db/repositories/chatRepo.js';
-import { listRecentDishNames } from '../db/repositories/menuRepo.js';
+import { getLatestMenu, getSlot, listRecentDishNames, listSlots } from '../db/repositories/menuRepo.js';
 import { listPantry } from '../db/repositories/pantryRepo.js';
 import { getProfile } from '../db/repositories/profileRepo.js';
-import { listRecipeSummaries } from '../db/repositories/recipeRepo.js';
-import { daysBetweenDays, todayLocal } from '../lib/dates.js';
+import { getRecipe, listRecipeSummaries } from '../db/repositories/recipeRepo.js';
+import { listItems } from '../db/repositories/shoppingListRepo.js';
+import { daysBetweenDays, listDays, todayLocal } from '../lib/dates.js';
 import { CHAT_PROMPT } from './prompts/chatPrompt.js';
 import { ALTERNATIVES_PROMPT, MENU_PROMPT } from './prompts/menuPrompt.js';
 import { ONBOARDING_PROMPT } from './prompts/onboardingPrompt.js';
@@ -56,15 +58,77 @@ export function buildOnboardingContext() {
   return { system, messages: toTurns(listRecentMessages('onboarding', ONBOARDING_HISTORY_LIMIT)) };
 }
 
+const ACTION_STATUS = { proposed: 'pendiente', accepted: 'aceptada', rejected: 'rechazada', undone: 'deshecha', failed: 'falló' };
+
+/** Active menu with slot ids, so the assistant can refer to a dish ("slot 12"). */
+function summarizeActiveMenu() {
+  const menu = getLatestMenu(['active']);
+  if (!menu) return null;
+  const weekday = new Map(listDays(menu.startDate, menu.days).map((d) => [d.date, d.weekday]));
+  return listSlots(menu.id)
+    .map((s) => {
+      const status = s.status === 'planned' ? '' : ` [${s.status === 'cooked' ? 'hecho' : 'saltado'}]`;
+      return `- slot ${s.id}: ${weekday.get(s.date) ?? ''} ${s.date}, ${LABELS[s.mealType]}: ${s.title}${s.isLeftover ? ' (sobras)' : ''}${status}`;
+    })
+    .join('\n');
+}
+
+/** Pending items of the shopping list. */
+function summarizeShoppingList() {
+  const pending = listItems().filter((i) => !i.checked);
+  return pending.length ? pending.map((i) => `${i.text}${i.quantityText ? ` (${i.quantityText})` : ''}`).join(', ') : '(vacía)';
+}
+
+/** Full recipe as text (when the chat is opened from a dish or a recipe). */
+function describeRecipe(recipeId) {
+  const recipe = recipeId ? getRecipe(recipeId) : null;
+  if (!recipe) return null;
+  return [
+    `"${recipe.name}" (id ${recipe.id}${recipe.timeMinutes ? `, ${recipe.timeMinutes} min` : ''})`,
+    `Ingredientes: ${recipe.ingredients.map((i) => `${i.name}${i.quantityText ? ` (${i.quantityText})` : ''}`).join(', ')}`,
+    recipe.steps.length ? `Pasos: ${recipe.steps.map((s, n) => `${n + 1}. ${s}`).join(' ')}` : null,
+  ]
+    .filter(Boolean)
+    .join('\n');
+}
+
 /**
- * Context for a chat question.
- * @param {{ screen?: { name: string, label?: string } }} options where the chat was opened from
+ * Context for a chat question. Always: profile, today's date, the active menu
+ * (with ids), pantry, shopping list and recipe names, all summarized. Plus the
+ * dish or recipe the chat was opened from, and the last messages.
+ * @param {{ screen?: { name: string, label?: string, slotId?: number, recipeId?: number } }} options
  */
 export function buildChatContext({ screen } = {}) {
-  const profile = getProfile();
-  const parts = [CHAT_PROMPT, '## Perfil del usuario', summarizeProfile(profile)];
-  if (screen) parts.push('## Pantalla desde la que abre el chat', screen.label ?? screen.name);
-  return { system: parts.join('\n\n'), messages: toTurns(listRecentMessages('chat', CHAT_HISTORY_LIMIT)) };
+  const [today] = listDays(todayLocal(), 1);
+  const slot = screen?.slotId ? getSlot(screen.slotId) : null;
+  const focusRecipe = describeRecipe(slot?.recipeId ?? screen?.recipeId);
+  const recipes = listRecipeSummaries().slice(0, RECIPES_LIMIT).map((r) => `${r.id}: ${r.name}`).join('; ');
+
+  const system = [
+    CHAT_PROMPT,
+    sections([
+      '## Hoy', `${today.weekday} ${today.date}`,
+      '## Perfil del usuario', summarizeProfile(getProfile()),
+      '## Menú activo', summarizeActiveMenu(),
+      '## Despensa', summarizePantry(),
+      '## Lista de la compra', summarizeShoppingList(),
+      '## Recetas guardadas (id: nombre)', recipes,
+      '## Pantalla desde la que abre el chat', screen ? `${screen.label ?? screen.name}${slot ? ` (slot ${slot.id})` : ''}` : null,
+      '## Receta de la que habla', focusRecipe,
+    ]),
+  ].join('\n\n');
+
+  // Past proposals are shown to the AI next to its messages, with what the user decided.
+  const messages = listRecentMessages('chat', CHAT_HISTORY_LIMIT);
+  const actionsByMessage = Map.groupBy(listActionsForMessages(messages.map((m) => m.id)), (a) => a.messageId);
+  const withActions = messages.map((m) => {
+    const actions = actionsByMessage.get(m.id) ?? [];
+    if (actions.length === 0) return m;
+    const notes = actions.map((a) => `[Propuesta: ${a.summary} → ${ACTION_STATUS[a.status]}]`).join('\n');
+    return { ...m, content: `${m.content}\n${notes}` };
+  });
+
+  return { system, messages: toTurns(withActions) };
 }
 
 /**

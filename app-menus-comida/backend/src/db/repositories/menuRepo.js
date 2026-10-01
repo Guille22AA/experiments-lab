@@ -144,6 +144,10 @@ export function logCooked({ recipeId = null, title, menuSlotId = null, cookedAt 
   return Number(lastInsertRowid);
 }
 
+export function deleteCookedLog(id) {
+  db.prepare('DELETE FROM cooked_log WHERE id = ?').run(id);
+}
+
 /** Undo "cooked" on a slot. */
 export function deleteCookedForSlot(menuSlotId) {
   db.prepare('DELETE FROM cooked_log WHERE menu_slot_id = ?').run(menuSlotId);

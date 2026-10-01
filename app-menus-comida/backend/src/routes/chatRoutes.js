@@ -1,38 +1,56 @@
-// /api/chat — the always-available assistant.
+// /api/chat — the always-available assistant, and its proposed actions.
 import { Router } from 'express';
 import { z } from 'zod';
-import { generateText } from '../ai/aiService.js';
-import { buildChatContext } from '../ai/contextBuilder.js';
-import { addMessage, deleteMessages, listRecentMessages } from '../db/repositories/chatRepo.js';
+import { listActionHistory } from '../db/repositories/actionRepo.js';
+import { deleteMessages } from '../db/repositories/chatRepo.js';
+import { acceptAction, listChat, rejectAction, sendChatMessage, undoAcceptedAction } from '../domain/assistantChat.js';
 import { validate } from '../lib/validate.js';
 
 export const chatRoutes = Router();
 
 const HISTORY_SHOWN = 50; // messages shown when the panel opens (the AI only gets the last few)
-
-const toDto = ({ id, role, content, createdAt }) => ({ id, role, content, createdAt });
+const idParam = (req) => validate(z.coerce.number().int().positive(), req.params.id);
 
 chatRoutes.get('/', (req, res) => {
-  res.json(listRecentMessages('chat', HISTORY_SHOWN).map(toDto));
+  res.json(listChat(HISTORY_SHOWN));
 });
 
 const messageSchema = z.object({
   message: z.string().trim().min(1).max(2000),
-  // Where the chat was opened from, e.g. { name: 'pantry', label: 'Despensa' }.
-  screen: z.object({ name: z.string().max(50), label: z.string().max(200).optional() }).optional(),
+  // Where the chat was opened from, e.g. { name: 'menu_slot', label: 'Cena del jueves: …', slotId: 12 }.
+  screen: z
+    .object({
+      name: z.string().max(50),
+      label: z.string().max(200).optional(),
+      slotId: z.number().int().positive().optional(),
+      recipeId: z.number().int().positive().optional(),
+    })
+    .optional(),
 });
 
 chatRoutes.post('/messages', async (req, res) => {
-  const { message, screen } = validate(messageSchema, req.body);
-  // Saved first, so the question is not lost if the AI fails.
-  addMessage({ role: 'user', content: message, mode: 'chat', screenContext: screen ?? null });
-
-  const reply = await generateText(buildChatContext({ screen }));
-  const saved = addMessage({ role: 'assistant', content: reply.trim(), mode: 'chat' });
-  res.json(toDto(saved));
+  res.json(await sendChatMessage(validate(messageSchema, req.body)));
 });
 
 chatRoutes.delete('/', (req, res) => {
-  deleteMessages('chat');
+  deleteMessages('chat'); // the actions stay in the history (their message link is cleared)
   res.status(204).end();
+});
+
+// ---------- Actions (confirmation cards) ----------
+
+chatRoutes.get('/actions/history', (req, res) => {
+  res.json(listActionHistory().map(({ id, type, summary, status, resolvedAt }) => ({ id, type, summary, status, resolvedAt })));
+});
+
+chatRoutes.post('/actions/:id/accept', (req, res) => {
+  res.json(acceptAction(idParam(req)));
+});
+
+chatRoutes.post('/actions/:id/reject', (req, res) => {
+  res.json(rejectAction(idParam(req)));
+});
+
+chatRoutes.post('/actions/:id/undo', (req, res) => {
+  res.json(undoAcceptedAction(idParam(req)));
 });

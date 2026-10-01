@@ -1,10 +1,11 @@
 // The recipe book: search, filter and open recipes; add new ones.
 import { BookOpen, Clock, GitBranch, Plus, Search, Sparkles, Star } from 'lucide-react';
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { api } from '../api/client.js';
 import ImportSheet from '../components/recipes/ImportSheet.jsx';
 import { VERDICT_SHORT } from '../constants/labels.js';
+import { useDataChanged } from '../hooks/useDataChanged.js';
 
 const QUICK_MINUTES = 20;
 
@@ -24,9 +25,12 @@ export default function RecipesPage() {
   const [filter, setFilter] = useState('all');
   const [importing, setImporting] = useState(false);
 
+  const load = useCallback(() => api.get('/recipes').then(setRecipes).catch((err) => setError(err.message)), []);
+
   useEffect(() => {
-    api.get('/recipes').then(setRecipes).catch((err) => setError(err.message));
-  }, []);
+    load();
+  }, [load]);
+  useDataChanged(load); // the assistant may save recipes from the chat
 
   if (error) return <p className="notice error">{error}</p>;
   if (!recipes) return <p className="muted">Cargando…</p>;
