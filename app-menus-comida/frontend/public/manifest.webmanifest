@@ -1,0 +1,11 @@
+{
+  "name": "Despensa y menús",
+  "short_name": "Menús",
+  "description": "Lista de la compra y menús semanales con asistente IA",
+  "lang": "es",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#2f7d4f",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
