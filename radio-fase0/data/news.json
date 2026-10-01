@@ -1,107 +1,97 @@
 {
-  "date": "2026-10-01",
-  "updatedAt": "2026-10-01T12:02:51.098Z",
-  "edition": "mediodía",
+  "date": "2026-10-02",
+  "updatedAt": "2026-10-01T22:07:05.037Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Moncloa difunde un registro de nueve llamadas para intentar contrarrestar a Vivas: \"Todas fueron diligentemente atendidas\"",
+          "title": "El Gobierno mantiene la votación de los textos: \"Ha llegado la hora de que se retraten\"",
+          "link": "https://www.20minutos.es/nacional/gobierno-mantiene-votacion-los-decretos-pese-amenaza-junts-ha-llegado-hora-que-se-retraten_7043958_0.html",
+          "source": "20minutos",
+          "summary": "Junts ha anunciado que no apoyará los decretos de vivienda si el Gobierno no los retira y los renegocia. El decreto de prórroga de los alquileres era el único que tenía opciones de convalidarse, pero Moncloa mantiene los dos y apela a que los grupos se \"retraten\".",
+          "sources": [
+            "20minutos",
+            "Europa Press",
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-10-01T22:07:05.037Z"
+        },
+        {
+          "title": "Moncloa difunde un registro de llamadas para intentar contrarrestar a Juan Vivas: \"Todas fueron atendidas\"",
           "link": "https://www.20minutos.es/nacional/moncloa-difunde-un-registro-nueve-llamadas-para-desmontar-version-vivas-todas-fueron-diligentemente-atendidas_7043652_0.html",
           "source": "20minutos",
-          "summary": "El Gobierno sostiene que Vivas no pidió hablar con Sánchez hasta el día 30 y que los ocho intentos que denuncia no aparecen en sus registros. Vivas insiste en su versión y advierte de que también tiene un registro para demostrarla.",
+          "summary": "El Gobierno sostiene que Vivas no pidió hablar con Sánchez hasta el día 30 y que los ocho intentos que denuncia no aparecen en sus registros. El presidente ceutí insiste en su versión y advierte de que también tiene un registro para demostrarla.",
           "sources": [
             "20minutos",
             "Europa Press",
             "elDiario.es"
           ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
+          "firstSeen": "2026-10-01T22:07:05.037Z"
         },
         {
-          "title": "Los reyes visitarán Ceuta y Melilla el 13 y 14 de octubre",
-          "link": "https://www.eldiario.es/politica/reyes-visitaran-ceuta-melilla-13-14-octubre_1_13552402.html",
-          "source": "elDiario.es",
-          "summary": "Felipe VI y Letizia viajarán las ciudades autónomas en una visita \"consensuada por el Gobierno y la Casa Real\" Defensa envía a la Justicia las denuncias de torturas y tratos degradantes de militares a migrantes en Ceuta Los reyes Felipe VI y Letizia viajarán el próximo 13 de octubre a Ceuta en la que será su primera visita desde su llegada al trono en junio de 2014 y que se producirá dos meses y medio después de la entrada de más de 80.000 migrantes a esta ciudad autónoma desde Marruecos, según ha anunciado este jueves fuentes Zarzuela y del Gobierno. En el Ejecutivo clarifican que Sánchez no…",
+          "title": "Netanyahu dice que el copiloto era un \"suicida islamista radical\" que quería \"otro 11-S\"",
+          "link": "https://www.20minutos.es/internacional/netanyahu-asegura-que-fontanero-israeli-que-tomo-los-mandos-avion-flydubai-evito-otro-11-s_7043776_0.html",
+          "source": "20minutos",
+          "summary": "El primer ministro israelí sostiene que el atacante estaba adoctrinado en el islamismo radical y pretendía estrellar el avión. Cinco pasajeros serán propuestos para una condecoración por su actuación durante el incidente.",
           "sources": [
-            "elDiario.es",
             "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
-        },
-        {
-          "title": "Podemos anuncia su apoyo a los decretos de vivienda en el Congreso y deja todo en manos de Junts",
-          "link": "https://elpais.com/espana/2026-10-01/podemos-anuncia-su-apoyo-a-los-decretos-de-vivienda-en-el-congreso.html",
-          "source": "El País",
-          "summary": "Ione Belarra confirma el voto de su partido tras reunirse con la Confederación de Sindicatos de Inquilinas. El apoyo de PNV y Coalición Canaria es también fundamental",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
-        },
-        {
-          "title": "Última hora de la acampada en Sol y los decretos de vivienda, en directo | El BOE publica el decreto de prórroga automática del alquiler - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3lCaHE5dHdKb2JDTzhjdDlfWS1DTktGS3RHU0doQ0t0N0NlTW1tV2ZTVmZWNllpYl9naEtBVzEzVXlrUjA1cUIwNUtHZlNYenRRd3JnY2JtamhNRzlMendETm5HZmFqQ19kQ0xYeUt2Ymw1R2FRLXp3N3BtT1c1Wi12Z3prekE3a3R3bG1HZi3SAZYBQVVfeXFMTWFSUlFaV2VrbkE3WFlGQmdsaEZ6S3pWdWRYSEVpXzByc0hXQWp2TzAyRE40djRkdGJKZ3h2S2UyTTlQTXljYzhYdXA2Uk9mdDZPc25CRm9rZlhYQk83TUZnSGoxVjdUV0Q3eE1oVkVFUldxcjdPMng4SjVpVGdlaURXLVI2anVpQ1JtUS1aNjJCSmtmTExB?oc=5",
-          "source": "Público",
-          "summary": "Última hora de la acampada en Sol y los decretos de vivienda, en directo | El BOE publica el decreto de prórroga automática del alquiler Diario Público",
-          "sources": [
-            "Público",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
+          "firstSeen": "2026-10-01T22:07:05.037Z"
         }
       ],
       "items": [
         {
-          "title": "UGT y CCOO exigen la convalidación de los dos reales decretos de medidas urgentes en la emergencia habitacional",
-          "link": "https://www.ugt.es/ugt-y-ccoo-exigen-la-convalidacion-de-los-dos-reales-decretos-de-medidas-urgentes-en-la-emergencia",
-          "source": "UGT",
-          "published": "2026-10-01T11:58:30.000Z"
-        },
-        {
-          "title": "Ayuso lleva el desalojo de la acampada de Sol a los tribunales y pide su “inmediata disolución”",
-          "link": "https://diariosocialista.net/2026/10/01/ayuso-lleva-el-desalojo-de-la-acampada-de-sol-a-los-tribunales-y-pide-su-inmediata-disolucion/",
-          "source": "Diario Socialista",
-          "published": "2026-10-01T11:53:26.000Z"
-        },
-        {
-          "title": "Las protestas por la vivienda toman las calles: horarios y recorridos de las manifestaciones del 3 y el 4 de octubre",
-          "link": "https://www.eldiario.es/economia/protestas-vivienda-toman-calles-horarios-recorridos-manifestaciones-3-4-octubre_1_13552633.html",
-          "source": "elDiario.es",
-          "published": "2026-10-01T11:50:35.000Z"
-        },
-        {
-          "title": "Antonio Garamendi es reelegido líder de la patronal entre ataques a los decretos de vivienda: \"Algunos van de Robin Hood\"",
-          "link": "https://www.eldiario.es/economia/antonio-garamendi-reelegido-lider-patronal-ataques-decretos-vivienda-robin-hood_1_13553279.html",
-          "source": "elDiario.es",
-          "published": "2026-10-01T11:31:27.000Z"
-        },
-        {
-          "title": "Un bombero responde al presidente de la Diputación de Teruel: \"¿Cuántas horas trabaja usted al día? ¿Nos las enseña?\"",
-          "link": "https://www.eldiario.es/aragon/sociedad/bombero-responde-presidente-diputacion-teruel-horas-trabaja-dia-ensena_1_13553278.html",
-          "source": "elDiario.es",
-          "published": "2026-10-01T11:18:08.000Z"
-        },
-        {
-          "title": "Todo sobre el suceso del avión de Flydubai: qué pasó en cabina, por qué Israel lo tilda de \"ataque terrorista\" y de qué país era el piloto",
-          "link": "https://www.20minutos.es/internacional/todo-sobre-suceso-avion-flydubai-que-paso-cabina-por-que-israel-tilda-ataque-terrorista-que-pais-era-piloto_7043577_0.html",
-          "source": "20minutos",
-          "published": "2026-10-01T11:17:33.000Z"
-        },
-        {
-          "title": "Moreno ratifica su apoyo a Ceuta y anuncia descuentos del 25% en el ferry y una nueva conexión con el puerto de Málaga",
-          "link": "https://www.20minutos.es/andalucia/moreno-ratifica-su-apoyo-ceuta-anuncia-descuentos-25-ferry-una-nueva-conexion-con-puerto-malaga_7043670_0.html",
-          "source": "20minutos",
-          "published": "2026-10-01T11:07:07.000Z"
-        },
-        {
-          "title": "Marlaska exige “solidaridad financiera y política” a la UE ante crisis migratorias como la de Ceuta",
-          "link": "https://elpais.com/espana/2026-10-01/marlaska-exige-solidaridad-financiera-y-politica-a-la-ue-ante-crisis-migratorias-como-la-de-ceuta.html",
+          "title": "Acampadas en España por la vivienda, en directo | El Gobierno mantiene los decretos y reta a PP, Vox y Junts a “retratarse” en la votación",
+          "link": "https://elpais.com/espana/2026-10-01/acampadas-en-espana-por-la-vivienda-en-directo.html",
           "source": "El País",
-          "published": "2026-10-01T10:46:36.000Z"
+          "published": "2026-10-01T21:58:43.000Z"
+        },
+        {
+          "title": "El Gobierno acuerda no retirar ninguno de los decretos de vivienda tras el rechazo de Junts: \"España no puede esperar más\"",
+          "link": "https://www.eldiario.es/politica/gobierno-acuerda-no-retirar-decretos-vivienda-rechazo-junts-espana-no-esperar_1_13555448.html",
+          "source": "elDiario.es",
+          "published": "2026-10-01T21:34:55.000Z"
+        },
+        {
+          "title": "Trump desliza que el copiloto del vuelo de Flydubai estaría relacionado con Irán y amenaza a Teherán con un ataque \"muy fuerte\"",
+          "link": "https://www.20minutos.es/internacional/trump-desliza-que-copiloto-vuelo-tel-aviv-estaria-relacionado-con-iran-amenaza-teheran-con-un-ataque-muy-fuerte_7043955_0.html",
+          "source": "20minutos",
+          "published": "2026-10-01T21:27:29.000Z"
+        },
+        {
+          "title": "Ayuso ve en la acampada de Sol un complot para perpetuar a Sánchez: “Se nos ha colado un dictador”",
+          "link": "https://elpais.com/espana/madrid/2026-10-01/ayuso-ve-en-la-acampada-de-sol-un-complot-para-perpetuar-a-sanchez-se-nos-ha-colado-un-dictador.html",
+          "source": "El País",
+          "published": "2026-10-01T21:05:13.000Z"
+        },
+        {
+          "title": "Junts rechaza los decretos de vivienda del Gobierno y pide su retirada",
+          "link": "https://www.europapress.es/catalunya/noticia-av-junts-rechaza-decretos-vivienda-gobierno-pide-retirada-20261001223258.html",
+          "source": "Europa Press",
+          "published": "2026-10-01T20:32:58.000Z"
+        },
+        {
+          "title": "La mayoría del PP de Ayuso en la Asamblea veta la comisión de investigación sobre Madrid Network",
+          "link": "https://www.eldiario.es/madrid/mayoria-pp-ayuso-asamblea-veta-comision-investigacion-madrid-network_1_13554263.html",
+          "source": "elDiario.es",
+          "published": "2026-10-01T20:32:30.000Z"
+        },
+        {
+          "title": "Miles de personas alzan la voz con cacerolas en mano frente a los ayuntamientos y exigen la convalidación de los dos decretos",
+          "link": "https://www.20minutos.es/nacional/miles-personas-alzan-voz-con-cacerolas-mano-frente-los-ayuntamientos-exigen-convalidacion-los-decretos-vivienda_7043940_0.html",
+          "source": "20minutos",
+          "published": "2026-10-01T20:30:36.000Z"
+        },
+        {
+          "title": "Última hora de la acampada en Sol y los decretos de vivienda, en directo | El apoyo de PNV y Coalición Canaria deja en manos de Junts la aprobación del decreto clave de vivienda - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3lCaHE5dHdKb2JDTzhjdDlfWS1DTktGS3RHU0doQ0t0N0NlTW1tV2ZTVmZWNllpYl9naEtBVzEzVXlrUjA1cUIwNUtHZlNYenRRd3JnY2JtamhNRzlMendETm5HZmFqQ19kQ0xYeUt2Ymw1R2FRLXp3N3BtT1c1Wi12Z3prekE3a3R3bG1HZi3SAZYBQVVfeXFMTWFSUlFaV2VrbkE3WFlGQmdsaEZ6S3pWdWRYSEVpXzByc0hXQWp2TzAyRE40djRkdGJKZ3h2S2UyTTlQTXljYzhYdXA2Uk9mdDZPc25CRm9rZlhYQk83TUZnSGoxVjdUV0Q3eE1oVkVFUldxcjdPMng4SjVpVGdlaURXLVI2anVpQ1JtUS1aNjJCSmtmTExB?oc=5",
+          "source": "Público",
+          "published": "2026-10-01T19:00:44.000Z"
         }
       ]
     },
@@ -110,111 +100,77 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Emiratos investiga \"tentativa terrorista\" en vuelo de Flydubai a Israel",
-          "link": "https://www.dw.com/es/emiratos-investiga-tentativa-terrorista-en-vuelo-de-flydubai-a-israel/a-79497718?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Detienen a británico-iraní por incidente en base aérea de Fairford",
+          "link": "https://www.dw.com/es/detienen-a-británico-iraní-por-incidente-en-base-aérea-de-fairford/a-79508786?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "summary": "El fiscal general de Emiratos Árabes Unidos anunció la apertura de una investigación sobre el \"incidente de seguridad\" a bordo de un vuelo de Flydubai a Israel y pidió \"evitar especulaciones\".",
+          "summary": "El hombre es sospechoso de “preparación de actos terroristas”. Hasta ahora no se han hallado explosivos. Las autoridades advirtieron que las investigaciones son “sumamente complejas”.",
           "sources": [
             "DW",
-            "20minutos Internacional",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
-        },
-        {
-          "title": "Christa Pike, en el corredor de la muerte durante 30 años, sobrevive a su ejecución en Tennessee",
-          "link": "https://www.eldiario.es/internacional/mujer-corredor-muerte-durante-30-anos-sobrevive-ejecucion-tennessee_1_13552257.html",
-          "source": "elDiario.es Internacional",
-          "summary": "Christa Pike era la primera mujer en enfrentar la pena de muerte en ese estado en más de 200 años y recibió dos inyecciones pentobarbital La ejecución comenzó después de que el Tribunal Supremo levantara una suspensión dictada horas antes por un tribunal federal de apelaciones, dejando nuevamente vía libre al estado para aplicar la pena capital. Sin embargo, tras las dos tandas de pentobarbital Pike continuó con vida y los testigos pudieron escuchar su respiración durante casi una hora antes de ser obligados a abandonar el lugar, en un episodio para el que, según los propios periodistas…",
-          "sources": [
-            "elDiario.es Internacional",
-            "BBC Mundo",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
-        },
-        {
-          "title": "Cómo España pasó de construir más casas de las que necesitaba a enfrentar una grave crisis de vivienda",
-          "link": "https://www.bbc.com/mundo/articles/c3y0zx01evpjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "Para muchos expertos, la crisis financiera de 2008, que provocó la desaparición de numerosas empresas constructoras, está en el origen del déficit de vivienda que hoy sufre el país, junto con el aumento de la población.",
-          "sources": [
-            "BBC Mundo",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
-        },
-        {
-          "title": "Christa Pike sigue con vida tras recibir dos inyecciones letales en Tennessee",
-          "link": "https://elpais.com/us/2026-09-30/el-tribunal-supremo-permite-la-ejecucion-de-christa-pike-en-tennessee.html",
-          "source": "El País Internacional",
-          "summary": "El Tribunal Supremo había permitido la ejecución de la mujer horas después de que fuera frenada en el último momento por una corte de apelaciones en Tennessee. Pike ha sido trasladada al hospital para recibir “medidas salvavidas”",
-          "sources": [
             "El País Internacional",
-            "France 24"
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
+          "firstSeen": "2026-10-01T22:07:05.037Z"
         },
         {
-          "title": "Netanyahu afirma que un piloto apuñaló a otro durante un vuelo con destino a Israel y \"aparentemente intentó estrellar el avión\"",
-          "link": "https://www.bbc.com/mundo/articles/cvkgw565d2g4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "Pese a una breve alerta de emergencia que indicaba un posible secuestro, la oficina del primer ministro israelí dijo posteriormente que esa hipótesis había sido descartada.",
+          "title": "¿Quién es Smit Machchhar, el piloto indio apuñalado que según Israel frustró un atentado en un vuelo de Flydubai?",
+          "link": "https://www.france24.com/es/medio-oriente/20261001-qui%C3%A9n-es-smit-machchhar-el-piloto-indio-apu%C3%B1alado-que-seg%C3%BAn-israel-frustr%C3%B3-un-atentado-en-un-vuelo-de-flydubai",
+          "source": "France 24",
+          "summary": "Smit Machchhar, capitán indio de la aerolínea emiratí flydubai, se convirtió en protagonista de un incidente de seguridad aérea después de que su copiloto presuntamente lo apuñalara durante un vuelo entre Dubái y Tel Aviv, en el que viajaban 174 personas. Gravemente herido, Machchhar habría conseguido abrir la puerta de la cabina para permitir la intervención de pasajeros y tripulantes, que redujeron al presunto agresor mientras otros dos pilotos que se encontraban a bordo asumían el control de la aeronave. El Gobierno de Benjamin Netanyahu lo califica como el “héroe” que evitó una tragedia…",
           "sources": [
-            "BBC Mundo",
-            "El País Internacional"
+            "France 24",
+            "BBC Mundo"
           ],
-          "firstSeen": "2026-10-01T12:02:51.098Z"
+          "firstSeen": "2026-10-01T22:07:05.037Z"
         }
       ],
       "items": [
         {
-          "title": "El piloto indio apuñalado en un vuelo con destino a Israel al que califican de héroe",
-          "link": "https://www.bbc.com/mundo/articles/cq0lrl6z5rw1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-01T11:34:07.000Z"
+          "title": "Mujeres en Cisjordania sufren abortos espotáneos por los bloqueos y ataques israelíes",
+          "link": "https://www.france24.com/es/video/20261001-mujeres-en-cisjordania-sufren-abortos-espot%C3%A1neos-por-los-bloqueos-y-ataques-israel%C3%ADes",
+          "source": "France 24",
+          "published": "2026-10-01T21:46:25.000Z"
         },
         {
-          "title": "Tijeretazo de Francia para cuadrar cuentas: congelará el sueldo de funcionarios, de las pensiones más altas y subirá los impuestos",
-          "link": "https://www.20minutos.es/internacional/tijeretazo-francia-para-cuadrar-cuentas-congelara-sueldo-funcionarios-las-pensiones-mas-altas-subira-los-impuestos_7043663_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-01T10:53:25.000Z"
+          "title": "Un ataque con machetes: dos exalumnos entran a una secundaria en México y matan a la subdirectora",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261001-un-ataque-con-machetes-dos-exalumnos-entran-a-una-secundaria-en-m%C3%A9xico-y-matan-a-la-subdirectora",
+          "source": "France 24",
+          "published": "2026-10-01T20:13:26.000Z"
         },
         {
-          "title": "Cómo sobrevivió el vuelo de Flydubai a Tel Aviv a una caída en picado de 5.000 metros en menos de dos minutos",
-          "link": "https://www.eldiario.es/internacional/theguardian/sobrevivio-vuelo-1073-dubai-tel-aviv-caida-picado-5-000-metros-minutos_1_13552756.html",
+          "title": "Angra dos Reis, la ciudad de veraneo de la familia Bolsonaro convertida en bastión de la extrema derecha en Brasil",
+          "link": "https://www.eldiario.es/internacional/angra-reis-ciudad-veraneo-familia-bolsonaro-convertida-bastion-extrema-derecha-brasil_1_13552397.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-01T09:34:38.000Z"
+          "published": "2026-10-01T20:05:12.000Z"
         },
         {
-          "title": "¿Se le acabó la suerte a Trump? Ahora, quién seduce al voto latino",
-          "link": "https://elpais.com/us/2026-10-01/se-le-acabo-la-suerte-a-trump-ahora-quien-seduce-al-voto-latino.html",
-          "source": "El País Internacional",
-          "published": "2026-10-01T09:30:00.000Z"
-        },
-        {
-          "title": "El Pentágono incluye a Elon Musk en el diseño de armas para el futuro",
-          "link": "https://www.dw.com/es/el-pentágono-incluye-a-elon-musk-en-el-diseño-de-armas-para-el-futuro/a-79497699?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Etiopía y Eritrea rompen relaciones diplomáticas en medio de acusaciones",
+          "link": "https://www.dw.com/es/etiopía-y-eritrea-rompen-relaciones-diplomáticas-en-medio-de-acusaciones/a-79508769?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-01T08:52:00.000Z"
+          "published": "2026-10-01T19:59:00.000Z"
         },
         {
-          "title": "Delegación iraní que asistió a la ONU habría sido obligada por Rubio a dejar Estados Unidos",
-          "link": "https://www.dw.com/es/delegación-iraní-que-asistió-a-la-onu-habría-sido-obligada-por-rubio-a-dejar-estados-unidos/a-79496007?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Zelenski desata una crisis diplomática con Corea del Sur por dos prisioneros norcoreanos",
+          "link": "https://www.dw.com/es/zelenski-desata-una-crisis-diplomática-con-corea-del-sur-por-dos-prisioneros-norcoreanos/a-79508238?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-01T07:22:00.000Z"
+          "published": "2026-10-01T19:49:00.000Z"
         },
         {
-          "title": "El Salvador fija la fecha de las elecciones presidenciales de 2027, en las que Bukele buscará un tercer mandato",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261001-el-salvador-fija-la-fecha-de-las-elecciones-presidenciales-de-2027-en-las-que-bukele-buscar%C3%A1-un-tercer-mandato",
-          "source": "France 24",
-          "published": "2026-10-01T06:42:28.000Z"
+          "title": "Trastorno de estrés postraumático en Ucrania: la guerra deja sus huellas en la psiquis",
+          "link": "https://www.dw.com/es/trastorno-de-estrés-postraumático-en-ucrania-la-guerra-deja-sus-huellas-en-la-psiquis/a-79508331?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-01T19:48:00.000Z"
         },
         {
-          "title": "Siete muertos en Ucrania tras una oleada de ataques rusos contra la red energética",
-          "link": "https://www.france24.com/es/europa/20261001-siete-muertos-en-ucrania-tras-una-oleada-de-ataques-rusos-contra-la-red-energ%C3%A9tica",
+          "title": "Informe desde París: la agenda de Milei en la Argentina Week en Francia",
+          "link": "https://www.france24.com/es/video/20261001-informe-desde-par%C3%ADs-la-agenda-de-milei-en-la-argentina-week-en-francia",
           "source": "France 24",
-          "published": "2026-10-01T05:44:25.000Z"
+          "published": "2026-10-01T19:29:50.000Z"
+        },
+        {
+          "title": "Por qué arrestaron al fiscal general en Bolivia días después de que EE.UU. le negara la entrada al país (y qué casos investigaba)",
+          "link": "https://www.bbc.com/mundo/articles/cwlyky680kg8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-01T19:24:43.000Z"
         }
       ]
     }
