@@ -15,7 +15,7 @@ const DAIRY = ['contains_dairy', 'contains_lactose', 'animal_origin'];
 const GLUTEN = ['contains_gluten'];
 
 /**
- * Each entry: keywords (normalized, matched as whole words or word starts),
+ * Each entry: keywords (normalized, matched as whole words, plural allowed),
  * tags and section name (must match the seeded sections).
  * Order matters: the first entry that matches decides the section; tags add up
  * from every matching entry, unless an entry has `stop: true` (ends the search).
@@ -30,19 +30,30 @@ const ENTRIES = [
   // Instant noodles before meat, so "yatekomo pollo" goes to Despensa (it still gets the meat tag).
   { keywords: ['yatekomo', 'ramen', 'noodle', 'fideos orientales'], tags: GLUTEN, section: 'Despensa' },
   { keywords: ['cerveza'], tags: GLUTEN, section: 'Bebidas' },
-  { keywords: ['soja texturizada', 'tofu', 'salsa de soja', 'soja'], tags: ['contains_soy'], section: 'Despensa' },
+  { keywords: ['leche de coco', 'bebida de coco', 'crema de coco'], tags: [], section: 'Despensa', stop: true },
+  { keywords: ['tortilla de patata'], tags: ['contains_egg', 'animal_origin'], section: null },
+  { keywords: ['teriyaki'], tags: ['contains_soy', 'contains_gluten'], section: 'Despensa' },
+  { keywords: ['soja texturizada', 'tofu', 'salsa de soja', 'soja', 'edamame', 'tempeh', 'miso'], tags: ['contains_soy'], section: 'Despensa' },
+  { keywords: ['seitan', 'bulgur', 'cebada', 'centeno', 'espelta', 'hojaldre', 'pasta brick', 'masa de pizza', 'empanadilla', 'rebozado', 'empanado'],
+    tags: GLUTEN, section: 'Despensa' },
+  { keywords: ['bechamel'], tags: [...GLUTEN, ...DAIRY], section: 'Lácteos y huevos' },
+  { keywords: ['pesto'], tags: ['contains_nuts', ...DAIRY], section: 'Despensa' },
+  { keywords: ['hummus'], tags: ['contains_sesame'], section: 'Fruta y verdura' },
 
   // Fruit and vegetables
   {
     keywords: ['manzana', 'platano', 'naranja', 'mandarina', 'pera', 'fresa', 'uva', 'kiwi', 'limon', 'melon', 'sandia', 'piña', 'aguacate',
       'tomate', 'lechuga', 'cebolla', 'ajo', 'patata', 'zanahoria', 'pimiento', 'calabacin', 'berenjena', 'pepino', 'brocoli', 'coliflor',
-      'espinaca', 'champiñon', 'seta', 'puerro', 'calabaza', 'judia verde', 'fruta', 'verdura', 'ensalada', 'perejil', 'cilantro'],
+      'espinaca', 'champiñon', 'seta', 'puerro', 'calabaza', 'judia verde', 'fruta', 'verdura', 'ensalada', 'perejil', 'cilantro',
+      'boniato', 'col', 'repollo', 'apio', 'rabano', 'remolacha', 'guisante', 'cebolleta', 'albahaca', 'jengibre', 'lima', 'rucula', 'canonigo',
+      'alcachofa', 'esparrago', 'nabo', 'chile', 'guindilla', 'hierbabuena', 'menta'],
     tags: [],
     section: 'Fruta y verdura',
   },
 
   // Meat, fish and shellfish
   { keywords: ['jamon', 'chorizo', 'salchichon', 'fuet', 'lomo embuchado', 'bacon', 'panceta', 'sobrasada'], tags: PORK, section: 'Charcutería y quesos' },
+  { keywords: ['chistorra', 'morcilla', 'lacon', 'torrezno'], tags: PORK, section: 'Charcutería y quesos' },
   { keywords: ['pavo loncha', 'pechuga de pavo', 'mortadela', 'salchicha'], tags: MEAT, section: 'Charcutería y quesos' },
   { keywords: ['cerdo', 'costilla', 'secreto', 'presa', 'solomillo de cerdo', 'lomo'], tags: PORK, section: 'Carne' },
   { keywords: ['pollo', 'pavo', 'ternera', 'vacuno', 'cordero', 'carne', 'hamburguesa', 'filete', 'albondiga'], tags: MEAT, section: 'Carne' },
@@ -52,7 +63,7 @@ const ENTRIES = [
 
   // Dairy and eggs
   { keywords: ['huevo'], tags: ['contains_egg', 'animal_origin'], section: 'Lácteos y huevos' },
-  { keywords: ['queso'], tags: DAIRY, section: 'Charcutería y quesos' },
+  { keywords: ['queso', 'mozzarella', 'parmesano', 'feta', 'burrata', 'ricotta', 'mascarpone', 'grana padano'], tags: DAIRY, section: 'Charcutería y quesos' },
   { keywords: ['leche', 'yogur', 'nata', 'mantequilla', 'kefir', 'cuajada', 'natillas', 'flan'], tags: DAIRY, section: 'Lácteos y huevos' },
 
   // Bakery and gluten
@@ -61,27 +72,32 @@ const ENTRIES = [
     tags: GLUTEN, section: 'Despensa' },
 
   // Pantry staples
-  { keywords: ['almendra', 'nuez', 'avellana', 'anacardo', 'pistacho', 'frutos secos'], tags: ['contains_nuts'], section: 'Despensa' },
+  { keywords: ['almendra', 'nuez', 'nueces', 'avellana', 'anacardo', 'pistacho', 'frutos secos'], tags: ['contains_nuts'], section: 'Despensa' },
   { keywords: ['cacahuete'], tags: ['contains_peanuts'], section: 'Despensa' },
   { keywords: ['sesamo', 'tahini'], tags: ['contains_sesame'], section: 'Despensa' },
   { keywords: ['mayonesa'], tags: ['contains_egg', 'animal_origin'], section: 'Despensa' },
   { keywords: ['miel'], tags: ['animal_origin'], section: 'Despensa' },
   { keywords: ['arroz', 'lenteja', 'garbanzo', 'alubia', 'quinoa', 'aceite', 'vinagre', 'sal', 'azucar', 'especia', 'pimienta', 'oregano',
-      'caldo', 'salsa', 'tomate frito', 'chocolate', 'cafe', 'infusion'], tags: [], section: 'Despensa' },
+      'caldo', 'salsa', 'tomate frito', 'chocolate', 'cafe', 'infusion',
+      'pimenton', 'comino', 'curry', 'laurel', 'romero', 'tomillo', 'canela', 'cayena', 'levadura', 'bicarbonato', 'maicena',
+      'mostaza', 'ketchup', 'cacao', 'polenta', 'hielo'], tags: [], section: 'Despensa' },
   { keywords: ['conserva', 'lata', 'maiz'], tags: [], section: 'Conservas' },
 
   // Frozen, drinks, cleaning, hygiene
-  { keywords: ['congelad', 'helado', 'pizza'], tags: [], section: 'Congelados' },
-  { keywords: ['agua', 'refresco', 'zumo', 'vino', 'coca cola', 'refresco de cola', 'bebida'], tags: [], section: 'Bebidas' },
+  { keywords: ['congelado', 'congelada', 'helado', 'pizza'], tags: [], section: 'Congelados' },
+  { keywords: ['agua', 'zumo de limon', 'refresco', 'zumo', 'vino', 'coca cola', 'refresco de cola', 'bebida'], tags: [], section: 'Bebidas' },
   { keywords: ['detergente', 'lavavajillas', 'friegasuelos', 'lejia', 'bayeta', 'estropajo', 'papel de cocina', 'bolsa de basura', 'suavizante'],
     tags: [], section: 'Droguería y limpieza' },
   { keywords: ['champu', 'gel de ducha', 'gel de baño', 'desodorante', 'pasta de dientes', 'dentifrico', 'cepillo', 'papel higienico', 'compresa', 'cuchilla', 'crema hidratante', 'crema corporal'],
     tags: [], section: 'Higiene' },
 ];
 
-/** Word-start match: "pan" matches "pan de molde" but not "panceta" or "champan". */
+/**
+ * Whole-word match, plural allowed: "pan" matches "pan de molde" and "panes",
+ * but not "panceta"; "col" does not match "colacao".
+ */
 function containsKeyword(name, keyword) {
-  return new RegExp(`(^| )${keyword}`).test(name);
+  return new RegExp(`(^| )${normalizeName(keyword)}(s|es)?( |$)`).test(name);
 }
 
 /**

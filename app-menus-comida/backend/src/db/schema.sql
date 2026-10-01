@@ -145,6 +145,7 @@ CREATE TABLE IF NOT EXISTS menus (
   start_date TEXT    NOT NULL,
   days       INTEGER NOT NULL,
   status     TEXT    NOT NULL DEFAULT 'draft', -- draft | active | archived
+  shopping_suggestions TEXT NOT NULL DEFAULT '[]', -- what the AI says to buy for this menu
   created_at TEXT    NOT NULL
 );
 

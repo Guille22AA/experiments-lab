@@ -15,4 +15,19 @@ db.pragma('foreign_keys = ON');
 
 const schema = fs.readFileSync(path.join(import.meta.dirname, 'schema.sql'), 'utf8');
 db.exec(schema);
+migrate();
 seed(db);
+
+/**
+ * Changes to tables that already exist in someone's database.
+ * CREATE TABLE IF NOT EXISTS does not add new columns, so they are added here.
+ * Each step must be safe to run on every start.
+ */
+function migrate() {
+  addColumnIfMissing('menus', 'shopping_suggestions', "TEXT NOT NULL DEFAULT '[]'");
+}
+
+function addColumnIfMissing(table, column, definition) {
+  const exists = db.prepare(`SELECT 1 FROM pragma_table_info(?) WHERE name = ?`).get(table, column);
+  if (!exists) db.exec(`ALTER TABLE ${table} ADD COLUMN ${column} ${definition}`);
+}

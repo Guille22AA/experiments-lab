@@ -849,3 +849,300 @@ h3 {
   font-size: 0.875rem;
   color: var(--warning-text);
 }
+
+/* ---------- Menu ---------- */
+.button-row {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.button-row .button {
+  padding: 0 10px;
+}
+
+.busy-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 24px;
+  text-align: center;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.busy-overlay svg {
+  animation: pulse 1.4s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  50% {
+    transform: scale(1.2);
+    opacity: 0.6;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .busy-overlay svg {
+    animation: none;
+  }
+}
+
+.generate-card {
+  text-align: center;
+}
+
+.generate-card > svg {
+  color: var(--accent);
+}
+
+.stepper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin: 12px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.stepper .icon-button {
+  border: 1px solid var(--border);
+}
+
+.draft-banner {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.notice-card {
+  border-color: var(--warning-text);
+  background: var(--warning-soft);
+  color: var(--warning-text);
+}
+
+.notice-card p {
+  margin-top: 0;
+}
+
+.new-menu-card {
+  text-align: center;
+  margin-top: 24px;
+}
+
+.menu-day {
+  margin-bottom: 20px;
+}
+
+.menu-day.is-past {
+  opacity: 0.65;
+}
+
+.slot-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  margin-bottom: 8px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  text-align: left;
+  cursor: pointer;
+}
+
+.slot-card:hover {
+  border-color: var(--accent);
+}
+
+.slot-meal {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+
+.slot-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.slot-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.slot-meta span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.slot-card.status-cooked .slot-title,
+.slot-card.status-skipped .slot-title {
+  color: var(--text-muted);
+}
+
+.slot-card.status-skipped .slot-title {
+  text-decoration: line-through;
+}
+
+.slot-card.status-cooked .slot-title svg {
+  color: var(--accent);
+}
+
+/* A dish that breaks a restriction must be impossible to miss. */
+.slot-card.has-violations {
+  border: 2px solid var(--danger);
+}
+
+.slot-violation {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  width: 100%;
+  margin-top: 4px;
+  padding: 8px 10px;
+  border-radius: var(--radius-small);
+  background: var(--danger-soft);
+  color: var(--danger);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.slot-violation svg {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.slot-unknown {
+  font-size: 0.8rem;
+  color: var(--warning-text);
+}
+
+.suggestion-list {
+  margin: 0 0 8px;
+  padding-left: 20px;
+}
+
+.suggestion-list li {
+  margin-bottom: 4px;
+}
+
+.card h2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.1rem;
+}
+
+.sheet-subtitle {
+  margin: -4px 0 12px;
+}
+
+.sheet-actions {
+  position: sticky;
+  bottom: calc(-16px - env(safe-area-inset-bottom));
+  margin: 16px -16px 0;
+  padding: 12px 16px calc(16px + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.recipe-detail h3 {
+  margin-top: 16px;
+  font-size: 1rem;
+}
+
+.recipe-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.recipe-facts span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.ingredient-list,
+.step-list {
+  margin: 0;
+  padding-left: 22px;
+}
+
+.ingredient-list li,
+.step-list li {
+  margin-bottom: 6px;
+}
+
+.ingredient-list li.is-bad {
+  color: var(--danger);
+  font-weight: 700;
+}
+
+.choice-list {
+  list-style: none;
+  margin: 12px 0;
+  padding: 0;
+}
+
+.choice-list .card {
+  margin-bottom: 8px;
+}
+
+.choice-list .card p {
+  margin: 4px 0 8px;
+}
+
+.choice-list.compact {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.choice-list.compact li + li {
+  border-top: 1px solid var(--border);
+}
+
+.choice-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-height: var(--tap);
+  padding: 0 14px;
+  border: none;
+  background: var(--surface);
+  text-align: left;
+  cursor: pointer;
+}
+
+.deduction-list {
+  list-style: none;
+  margin: 0 0 12px;
+  padding: 0;
+}
+
+.generate-card h2 {
+  justify-content: center;
+}

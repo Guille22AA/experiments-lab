@@ -3,13 +3,22 @@
 // The AI has no memory of its own: all memory lives in our database.
 // For each task we pick and summarize only what is needed, so we spend few
 // tokens and switching provider loses nothing.
-import { getProfile } from '../db/repositories/profileRepo.js';
 import { listRecentMessages } from '../db/repositories/chatRepo.js';
+import { listRecentDishNames } from '../db/repositories/menuRepo.js';
+import { listPantry } from '../db/repositories/pantryRepo.js';
+import { getProfile } from '../db/repositories/profileRepo.js';
+import { listRecipeSummaries } from '../db/repositories/recipeRepo.js';
+import { daysBetweenDays, todayLocal } from '../lib/dates.js';
 import { CHAT_PROMPT } from './prompts/chatPrompt.js';
+import { ALTERNATIVES_PROMPT, MENU_PROMPT } from './prompts/menuPrompt.js';
 import { ONBOARDING_PROMPT } from './prompts/onboardingPrompt.js';
 
 const CHAT_HISTORY_LIMIT = 10; // last messages sent with each chat question
 const ONBOARDING_HISTORY_LIMIT = 40; // the interview is short; it needs the whole conversation
+const RECIPES_LIMIT = 40; // saved recipes sent when planning
+const RECENT_MENUS = 2; // menus whose dishes should not be repeated
+
+const LEVEL_LABELS = { high: 'mucho', medium: 'medio', low: 'poco', empty: 'se acabó' };
 
 const LABELS = {
   breakfast: 'desayuno', lunch: 'comida', dinner: 'cena', snack: 'merienda',
@@ -72,4 +81,96 @@ function toTurns(messages) {
   }
   if (turns[0]?.role === 'assistant') turns.unshift({ role: 'user', content: 'Hola.' });
   return turns;
+}
+
+/** Pantry as short lines: "Arroz (mucho, desde hace 12 días)". Empty items listed apart. */
+export function summarizePantry() {
+  const today = todayLocal();
+  const items = listPantry();
+  const available = items
+    .filter((item) => item.level !== 'empty')
+    .map((item) => {
+      const days = daysBetweenDays(item.addedAt.slice(0, 10), today);
+      return `- ${item.name} (${LEVEL_LABELS[item.level]}${days >= 7 ? `, desde hace ${days} días` : ''})`;
+    });
+  const finished = items.filter((item) => item.level === 'empty').map((item) => item.name);
+  return [available.length ? available.join('\n') : '(vacía)', finished.length ? `Se acabó: ${finished.join(', ')}` : null]
+    .filter(Boolean)
+    .join('\n');
+}
+
+/** Saved recipes as short lines, plus the products that have a personal linked recipe. */
+function summarizeRecipes() {
+  const recipes = listRecipeSummaries()
+    .sort((a, b) => b.timesCooked - a.timesCooked)
+    .slice(0, RECIPES_LIMIT);
+  if (recipes.length === 0) return { recipes: '(ninguna todavía)', linked: null };
+
+  const lines = recipes.map((r) => {
+    const details = [r.timeMinutes ? `${r.timeMinutes} min` : null, ...r.tags, r.timesCooked ? `cocinada ${r.timesCooked} veces` : null]
+      .filter(Boolean)
+      .join(', ');
+    return `- id ${r.id}: ${r.name}${details ? ` (${details})` : ''}`;
+  });
+
+  const pantryProductIds = new Set(listPantry().filter((i) => i.level !== 'empty').map((i) => i.productId));
+  const linked = recipes
+    .filter((r) => r.linkedProductId && pantryProductIds.has(r.linkedProductId))
+    .map((r) => `- ${r.linkedProductName}: no lo come tal cual, usa la receta id ${r.id} "${r.name}"`);
+
+  return { recipes: lines.join('\n'), linked: linked.length ? linked.join('\n') : null };
+}
+
+/** Joins [title, body, title, body...] pairs, skipping the sections whose body is empty. */
+function sections(pairs) {
+  const parts = [];
+  for (let i = 0; i < pairs.length; i += 2) {
+    if (pairs[i + 1]) parts.push(`${pairs[i]}\n${pairs[i + 1]}`);
+  }
+  return parts.join('\n\n');
+}
+
+/**
+ * Context for planning a menu.
+ * @param {{ days: { date, weekday, isWeekend }[], mealTypes: string[], keptDishes?: string[] }} plan
+ *   keptDishes: dishes already fixed in the menu (when only the remaining days are planned)
+ */
+export function buildMenuContext({ days, mealTypes, keptDishes = [] }) {
+  const { recipes, linked } = summarizeRecipes();
+  const recent = listRecentDishNames(RECENT_MENUS);
+  const plan = [
+    `Comidas: ${mealTypes.map((m) => `${m} (${LABELS[m]})`).join(', ')}`,
+    ...days.map((d) => `- ${d.date} (${d.weekday}${d.isWeekend ? ', fin de semana' : ''})`),
+  ].join('\n');
+
+  const content = sections([
+    '## Perfil del usuario', summarizeProfile(getProfile()),
+    '## Despensa', summarizePantry(),
+    '## Productos con receta personal ligada', linked,
+    '## Saved recipes', recipes,
+    '## Platos de los últimos menús (no repetir)', recent.join(', '),
+    '## Ya planificado en este menú (no repetir)', keptDishes.join(', '),
+    '## A planificar', plan,
+  ]);
+  return { system: MENU_PROMPT, messages: [{ role: 'user', content }] };
+}
+
+/**
+ * Context for proposing alternatives to one dish of the menu.
+ * @param {{ slot: { date, weekday, isWeekend, mealType, title }, menuDishes: string[], request?: string }} options
+ */
+export function buildAlternativesContext({ slot, menuDishes, request }) {
+  const { recipes, linked } = summarizeRecipes();
+  const target = `${LABELS[slot.mealType]} del ${slot.weekday} ${slot.date}${slot.isWeekend ? ' (fin de semana)' : ''}: ahora es "${slot.title}"`;
+
+  const content = sections([
+    '## Perfil del usuario', summarizeProfile(getProfile()),
+    '## Despensa', summarizePantry(),
+    '## Productos con receta personal ligada', linked,
+    '## Saved recipes', recipes,
+    '## Platos ya en el menú (no repetir)', menuDishes.join(', '),
+    '## Plato a cambiar', target,
+    '## Petición del usuario', request,
+  ]);
+  return { system: ALTERNATIVES_PROMPT, messages: [{ role: 'user', content }] };
 }

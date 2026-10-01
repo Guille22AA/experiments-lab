@@ -61,6 +61,18 @@ pantryRoutes.delete('/:id', (req, res) => {
   res.json(item);
 });
 
+// Several levels at once (e.g. after cooking, the user confirms what was used).
+pantryRoutes.post('/levels', (req, res) => {
+  const { changes } = validate(
+    z.object({ changes: z.array(z.object({ id: z.number().int().positive(), level })).min(1).max(100) }),
+    req.body,
+  );
+  runInTransaction(() => {
+    for (const change of changes) if (getPantryItem(change.id)) updatePantryItemLevel(change.id, change.level);
+  });
+  res.json({ updated: changes.length });
+});
+
 pantryRoutes.post('/restore', (req, res) => {
   const body = validate(z.object({ productId: z.number().int().positive(), level, addedAt: z.string() }), req.body);
   res.json(restorePantryItem(body));

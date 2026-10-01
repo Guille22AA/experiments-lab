@@ -2,12 +2,11 @@
 // ALWAYS review the lines, then save. A normal purchase opens a new cycle.
 import { AlertTriangle, Camera, CheckCircle2, X } from 'lucide-react';
 import { useEffect, useRef, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { api } from '../api/client.js';
 import ProductSearch from '../components/pantry/ProductSearch.jsx';
+import { todayIso } from '../lib/dates.js';
 import { prepareTicketFile } from '../lib/files.js';
-
-const todayIso = () => new Date().toLocaleDateString('sv-SE'); // "YYYY-MM-DD" in local time
 let nextKey = 1; // keys for the review lines
 
 /** "2026-09-28" → ISO datetime. Today = now; other days = noon (avoids timezone surprises). */
@@ -17,6 +16,7 @@ function toPurchaseDateTime(day) {
 
 export default function PurchasePage() {
   const fileInput = useRef(null);
+  const navigate = useNavigate();
   const [kind, setKind] = useState('main');
   const [day, setDay] = useState(todayIso());
   const [source, setSource] = useState('manual');
@@ -83,10 +83,24 @@ export default function PurchasePage() {
           price,
         })),
       });
-      setResult(saved);
+      // Is there a menu running? After a small purchase we offer to re-plan its remaining days.
+      const menus = await api.get('/menus/current').catch(() => null);
+      setResult({ ...saved, hasActiveMenu: Boolean(menus?.active) });
     } catch (err) {
       setError(err.message);
     } finally {
+      setSaving(false);
+    }
+  }
+
+  async function replan() {
+    setSaving(true);
+    setError(null);
+    try {
+      await api.post('/menus/current/replan');
+      navigate('/menu');
+    } catch (err) {
+      setError(err.message);
       setSaving(false);
     }
   }
@@ -102,8 +116,21 @@ export default function PurchasePage() {
             ? ` Empieza un ciclo nuevo de ${result.cycleStatus.cycle.plannedDays} días.`
             : ' Es una compra pequeña: el ciclo actual sigue igual.'}
         </p>
-        <p className="muted">Pronto, aquí mismo, te propondré el menú para estos días.</p>
-        <Link to="/despensa" className="button">
+        {result.openedCycle && (
+          <Link to="/menu" className="button">
+            Proponer el menú de estos días
+          </Link>
+        )}
+        {!result.openedCycle && result.hasActiveMenu && (
+          <>
+            <p className="muted">¿Reajusto lo que queda del menú teniendo en cuenta lo que has comprado?</p>
+            <button type="button" className="button" onClick={replan} disabled={saving}>
+              {saving ? 'Reajustando… (unos segundos)' : 'Reajustar el resto del menú'}
+            </button>
+          </>
+        )}
+        {error && <p className="notice error">{error}</p>}
+        <Link to="/despensa" className={result.openedCycle || result.hasActiveMenu ? 'link-button' : 'button'}>
           Ver la despensa
         </Link>
       </div>

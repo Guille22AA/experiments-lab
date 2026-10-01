@@ -8,11 +8,13 @@ import { AiError } from './ai/aiErrors.js';
 import { isAiConfigured } from './ai/aiService.js';
 import { HttpError } from './lib/errors.js';
 import { chatRoutes } from './routes/chatRoutes.js';
+import { menuRoutes } from './routes/menuRoutes.js';
 import { onboardingRoutes } from './routes/onboardingRoutes.js';
 import { pantryRoutes } from './routes/pantryRoutes.js';
 import { productRoutes } from './routes/productRoutes.js';
 import { profileRoutes } from './routes/profileRoutes.js';
 import { purchaseRoutes } from './routes/purchaseRoutes.js';
+import { recipeRoutes } from './routes/recipeRoutes.js';
 
 const app = express();
 app.use(express.json({ limit: '15mb' })); // receipts (images/PDF) arrive as base64
@@ -26,6 +28,8 @@ app.use('/api/chat', chatRoutes);
 app.use('/api/pantry', pantryRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/purchases', purchaseRoutes);
+app.use('/api/menus', menuRoutes);
+app.use('/api/recipes', recipeRoutes);
 
 app.use('/api', (req, res) => {
   res.status(404).json({ error: { message: 'Esa ruta de la API no existe.' } });
