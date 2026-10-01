@@ -14,6 +14,17 @@ import { runInTransaction } from '../db/transaction.js';
 import { suggestedMenuDays } from './cycles.js';
 import { LEVEL_AFTER_PURCHASE } from './pantry.js';
 import { resolveProduct } from './products.js';
+import { setApproxPrice } from '../db/repositories/productRepo.js';
+
+/**
+ * Unit price from a ticket line: "2 ud" for 3,80 € → 1,90 €. Loose products
+ * sold by weight keep the line price (a rough idea of the cost is enough).
+ */
+export function unitPrice(price, quantityText) {
+  if (price == null || price <= 0) return null;
+  const units = Number(String(quantityText ?? '').match(/^(\d+)\s*(ud|uds|u)\b/i)?.[1] ?? 1);
+  return Math.round((price / Math.max(units, 1)) * 100) / 100;
+}
 
 /**
  * @param {{
@@ -49,6 +60,9 @@ export function registerPurchase({ kind, purchasedAt, source, totalPrice = null,
         price: item.price ?? null,
       });
       setPantryLevel(product.id, item.level ?? LEVEL_AFTER_PURCHASE);
+      // Prices are only approximate: the last one seen on a ticket.
+      const price = unitPrice(item.price, item.quantityText);
+      if (price) setApproxPrice(product.id, price);
       boughtProductIds.push(product.id);
     }
 

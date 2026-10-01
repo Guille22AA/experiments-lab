@@ -90,6 +90,10 @@ export default function ShoppingListPage() {
   if (!items) return <p className="muted">Cargando…</p>;
 
   const checkedCount = items.filter((i) => i.checked).length;
+  // Rough idea of the cost: last known prices of what is still to buy.
+  const pending = items.filter((i) => !i.checked);
+  const priced = pending.filter((i) => i.approxPrice != null);
+  const estimate = priced.reduce((sum, i) => sum + i.approxPrice, 0);
 
   return (
     <>
@@ -106,6 +110,12 @@ export default function ShoppingListPage() {
           <div className="list-toolbar">
             <span className="muted small" aria-live="polite">
               {checkedCount} de {items.length} en el carro
+              {priced.length > 0 && (
+                <>
+                  <br />
+                  Unos {estimate.toFixed(2).replace('.', ',')} €{priced.length < pending.length && ` (${pending.length - priced.length} sin precio)`}
+                </>
+              )}
             </span>
             <button type="button" className="button secondary" onClick={() => setExporting(true)}>
               <Share2 size={18} aria-hidden="true" /> Llevar la lista

@@ -21,6 +21,7 @@ function rowToProduct(row) {
     tagsConfirmed: Boolean(row.tags_confirmed),
     sectionId: row.section_id ?? null,
     approxPrice: row.approx_price,
+    offBarcode: row.off_barcode,
   };
 }
 
@@ -73,6 +74,16 @@ export function setProductSection(productId, sectionId, supermarketId = getDefau
   db.prepare(`INSERT INTO product_sections (product_id, supermarket_id, section_id) VALUES (?, ?, ?)
               ON CONFLICT (product_id, supermarket_id) DO UPDATE SET section_id = excluded.section_id`)
     .run(productId, supermarketId, sectionId);
+}
+
+/** Links the product to an Open Food Facts product (null = unlink). */
+export function setProductOffLink(productId, barcode) {
+  db.prepare('UPDATE products SET off_barcode = ? WHERE id = ?').run(barcode, productId);
+}
+
+/** Approximate unit price in euros (null = unknown). */
+export function setApproxPrice(productId, price) {
+  db.prepare('UPDATE products SET approx_price = ? WHERE id = ?').run(price, productId);
 }
 
 /** Remembers another name for the product (e.g. how it is written on the ticket). */

@@ -97,12 +97,13 @@ export default function PantryPage() {
   }
 
   async function saveItem(item, changes) {
-    if (changes.name !== item.name || (changes.sectionId && changes.sectionId !== item.sectionId)) {
-      await api.patch(`/products/${item.productId}`, {
-        ...(changes.name !== item.name && { name: changes.name }),
-        ...(changes.sectionId && changes.sectionId !== item.sectionId && { sectionId: changes.sectionId }),
-      });
-    }
+    // Only what changed is sent.
+    const productChanges = {
+      ...(changes.name !== item.name && { name: changes.name }),
+      ...(changes.sectionId && changes.sectionId !== item.sectionId && { sectionId: changes.sectionId }),
+      ...(changes.approxPrice !== item.approxPrice && { approxPrice: changes.approxPrice }),
+    };
+    if (Object.keys(productChanges).length > 0) await api.patch(`/products/${item.productId}`, productChanges);
     if (changes.level !== item.level) await api.patch(`/pantry/${item.id}`, { level: changes.level });
     await load();
   }

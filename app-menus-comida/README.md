@@ -4,7 +4,7 @@ A personal web app that plans what I cook and what I buy, with an AI assistant t
 
 **The problem:** every week I have to decide what to eat, check what's left at home and write a shopping list. This app does it shopping trip to shopping trip: after each shop it proposes a menu built around what I already have, and it turns whatever is missing into a shopping list sorted by supermarket aisle.
 
-> 🚧 **Work in progress.** It is built in 8 phases ([roadmap](#roadmap)). Phases 1–6 are done.
+> 🚧 **Work in progress.** It is built in 8 phases ([roadmap](#roadmap)). Phases 1–7 are done.
 
 <!-- Screenshots will be added in phase 8 -->
 
@@ -21,10 +21,12 @@ A personal web app that plans what I cook and what I buy, with an AI assistant t
 - **Shopping list by aisle**, in the order I walk the supermarket. Items come from the menu (what is missing), from the pantry ("out → add to list") or by hand, without duplicates. Tap to tick (ticked items drop to the bottom of their aisle); bought products leave the list when the purchase is registered. Export as text (share or copy), `.txt` download, or a printable / PDF version.
 - **Personal recipe book ("cooking memory").** It grows with the AI dishes I cook, the recipes I write, the ones I tell informally ("with the instant noodles my mum buys I make a ramen with textured soy and teriyaki" → a structured recipe, asking only what is essential) and the ones imported from a link (schema.org JSON-LD first, AI only as a fallback). Recipes can be variations of another one or linked to a product, so the planner proposes the recipe instead of the product as it is. Videos are not imported: they are told as text.
 - **Quick feedback instead of stars** after cooking ("loved it", "too slow", "don't propose it again", "make it faster / less spicy…"). The planner uses it, and disliked recipes are filtered out in code.
+- **Is it healthy?** Products can be matched with [Open Food Facts](https://world.openfoodfacts.org) (free, public data): Nutri-Score, processing level (NOVA), sugar/fat/salt and plain-language notes such as "this drink is almost all sugar: about 6 sugar cubes per glass". Its allergens are added to the product's restriction tags. Answers are cached in the database.
+- **Approximate prices**, taken from the receipts (or typed in), to get a rough idea of what the shopping list will cost. No supermarket scraping.
 - **Shopping cycles.** A normal shop starts a new cycle; small top-ups don't. The app learns how many days I usually go between shops.
 - **Works without AI:** if the provider is down or the free quota runs out, everything except the assistant keeps working.
 
-Coming next: nutrition info from Open Food Facts and approximate prices.
+Coming next: design polish, accessibility and screenshots.
 
 ### Design principles
 
@@ -103,7 +105,7 @@ docs/          full spec and data model
 4. ✅ Shopping list by aisle, export (.txt, share, print)
 5. ✅ Recipe book: variations, recipes linked to products, import from text and links, feedback
 6. ✅ Assistant actions with confirmation cards, history and undo
-7. Nutrition info (Open Food Facts) and approximate prices
+7. ✅ Nutrition info (Open Food Facts) and approximate prices
 8. Design polish, accessibility and screenshots
 
 ## Future work

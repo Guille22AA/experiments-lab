@@ -6,8 +6,9 @@ import { nowIso } from '../../lib/json.js';
 import { getDefaultSupermarketId } from './sectionRepo.js';
 
 const SELECT_ITEM = `
-  SELECT i.*, COALESCE(ps.section_id, i.section_id) AS effective_section_id
+  SELECT i.*, COALESCE(ps.section_id, i.section_id) AS effective_section_id, p.approx_price
   FROM shopping_list_items i
+  LEFT JOIN products p ON p.id = i.product_id
   LEFT JOIN product_sections ps ON ps.product_id = i.product_id AND ps.supermarket_id = @supermarketId`;
 
 function rowToItem(row) {
@@ -22,6 +23,7 @@ function rowToItem(row) {
     source: row.source,
     menuId: row.menu_id,
     createdAt: row.created_at,
+    approxPrice: row.approx_price ?? null,
   };
 }
 

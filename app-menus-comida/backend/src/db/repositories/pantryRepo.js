@@ -5,7 +5,7 @@ import { getDefaultSupermarketId } from './sectionRepo.js';
 
 const SELECT_ITEM = `
   SELECT pi.id, pi.product_id, pi.level, pi.added_at, pi.updated_at,
-         p.name, p.tags, s.id AS section_id, s.name AS section_name, s.position AS section_position
+         p.name, p.tags, p.approx_price, p.off_barcode, s.id AS section_id, s.name AS section_name, s.position AS section_position
   FROM pantry_items pi
   JOIN products p ON p.id = pi.product_id
   LEFT JOIN product_sections ps ON ps.product_id = p.id AND ps.supermarket_id = @supermarketId
@@ -17,6 +17,8 @@ function rowToItem(row) {
     productId: row.product_id,
     name: row.name,
     tags: parseJson(row.tags, []),
+    approxPrice: row.approx_price ?? null,
+    offBarcode: row.off_barcode ?? null,
     level: row.level,
     sectionId: row.section_id ?? null,
     sectionName: row.section_name ?? null,

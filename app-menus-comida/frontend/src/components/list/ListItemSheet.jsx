@@ -1,6 +1,7 @@
-// Edit a list item: approximate quantity, or remove it.
+// Edit a list item: approximate quantity, or remove it. Also shows its health info.
 import { Trash2 } from 'lucide-react';
 import { useState } from 'react';
+import ProductHealth from '../products/ProductHealth.jsx';
 import Sheet from '../ui/Sheet.jsx';
 
 export default function ListItemSheet({ item, onSave, onDelete, onClose }) {
@@ -32,6 +33,7 @@ export default function ListItemSheet({ item, onSave, onDelete, onClose }) {
           <Trash2 size={18} aria-hidden="true" /> Quitar de la lista
         </button>
       </form>
+      {item.productId && <ProductHealth productId={item.productId} />}
     </Sheet>
   );
 }
