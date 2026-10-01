@@ -8,9 +8,10 @@
   --surface-2: #efefeb;
   --text: #1c1c1a;
   --text-muted: #5c5c56;
-  --border: #dcdcd5;
-  --accent: #2f7d4f;
-  --accent-hover: #276a42;
+  --border: #dcdcd5; /* decorative separators */
+  --border-strong: #858580; /* outline of form controls: 3:1 (WCAG 1.4.11) */
+  --accent: #2b744a; /* 4.5:1+ on white, background and accent-soft (WCAG AA) */
+  --accent-hover: #235f3c;
   --accent-contrast: #ffffff;
   --accent-soft: #e2f1e7;
   --danger: #b42318;
@@ -39,6 +40,7 @@
     --text: #ececea;
     --text-muted: #a8aba4;
     --border: #343934;
+    --border-strong: #737a73;
     --accent: #62c08a;
     --accent-hover: #7fd2a2;
     --accent-contrast: #0b1a11;
@@ -60,6 +62,7 @@
   --text: #ececea;
   --text-muted: #a8aba4;
   --border: #343934;
+  --border-strong: #737a73;
   --accent: #62c08a;
   --accent-hover: #7fd2a2;
   --accent-contrast: #0b1a11;

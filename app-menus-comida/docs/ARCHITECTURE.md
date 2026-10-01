@@ -94,7 +94,7 @@ Convenciones: listas pequeñas (gustos, utensilios, etiquetas) en columnas JSON 
 - **recipe_feedback**: id, recipe_id, cooked_log_id, verdict (`loved` / `too_slow` / `disliked` / `adjust`), adjustments JSON (`["faster","less_spicy","simpler"]`), note, is_first_time, created_at.
 
 ### Menús
-- **menus**: id, cycle_id, start_date, days, status (`draft` / `active` / `archived`), created_at.
+- **menus**: id, cycle_id, start_date, days, status (`draft` / `active` / `archived`), shopping_suggestions JSON (lo que falta comprar según la IA), created_at.
 - **menu_slots**: id, menu_id, date, meal_type (`breakfast` / `lunch` / `dinner` / `snack`), recipe_id, title (por si no hay receta), status (`planned` / `cooked` / `skipped`), is_leftover, leftover_of_slot_id, batch_group, notes.
 - **cooked_log**: id, recipe_id (nullable), title, menu_slot_id (nullable = fuera de menú), cooked_at.
 

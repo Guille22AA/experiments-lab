@@ -9,6 +9,9 @@ export class ApiError extends Error {
   }
 }
 
+/** Tells the app whether the server can be reached (ConnectionBanner listens). */
+const announceConnection = (online) => window.dispatchEvent(new CustomEvent('app-connection', { detail: online }));
+
 async function request(method, path, body) {
   let response;
   try {
@@ -18,8 +21,12 @@ async function request(method, path, body) {
       body: body === undefined ? undefined : JSON.stringify(body),
     });
   } catch {
+    announceConnection(false);
     throw new ApiError('No se puede conectar con el servidor. ¿Está encendido el PC con la app?', 0);
   }
+  // A 502/504 without JSON comes from the Vite proxy: the backend is down.
+  const backendDown = (response.status === 502 || response.status === 504) && !response.headers.get('content-type')?.includes('json');
+  announceConnection(!backendDown);
 
   if (response.status === 204) return null;
   const data = await response.json().catch(() => null);

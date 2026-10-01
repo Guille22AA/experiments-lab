@@ -2,51 +2,50 @@
 
 A personal web app that plans what I cook and what I buy, with an AI assistant that learns my tastes.
 
-**The problem:** every week I have to decide what to eat, check what's left at home and write a shopping list. This app does it shopping trip to shopping trip: after each shop it proposes a menu built around what I already have, and it turns whatever is missing into a shopping list sorted by supermarket aisle.
+**The problem:** every week I have to decide what to eat, check what's left at home and write a shopping list. This app works shopping trip to shopping trip: after each shop it proposes a menu built around what I already have, and turns whatever is missing into a shopping list sorted by supermarket aisle.
 
-> 🚧 **Work in progress.** It is built in 8 phases ([roadmap](#roadmap)). Phases 1–7 are done.
-
-<!-- Screenshots will be added in phase 8 -->
+<p align="center">
+  <img src="docs/screenshots/menu.png" width="200" alt="Weekly menu with batch cooking and leftovers">
+  <img src="docs/screenshots/dish.png" width="200" alt="Recipe of a dish of the menu">
+  <img src="docs/screenshots/assistant.png" width="200" alt="Assistant proposing changes with confirmation cards">
+  <img src="docs/screenshots/pantry.png" width="200" alt="Pantry grouped by aisle with approximate levels">
+</p>
+<p align="center">
+  <img src="docs/screenshots/list.png" width="200" alt="Shopping list by aisle with estimated cost">
+  <img src="docs/screenshots/recipes.png" width="200" alt="Recipe book with feedback">
+  <img src="docs/screenshots/health.png" width="200" alt="Health info from Open Food Facts">
+</p>
 
 ## Features
 
-- **AI onboarding interview.** A natural chat to learn allergies, tastes, how much I feel like cooking, kitchen equipment… then a summary I can review and edit.
-- **Always-on assistant that can propose changes.** A floating chat on every screen; it can also be opened from a specific dish or recipe ("I'm out of tomato, what can I use instead?"). When I ask for a change ("swap Thursday's dinner for something quicker", "I don't like fish any more", "add eggs to the list", "I made the ramen today") it never touches the data: it returns structured actions, the app checks them in code (restrictions included) and shows a confirmation card. Accepted actions are logged and can be undone.
-- **Editable profile** with a light/dark theme (follows the system by default).
-- **Pantry** grouped by supermarket aisle, with approximate levels (plenty / some / little / out). Tap to lower a level, swipe to remove, with undo.
-- **Receipt reading.** Upload a photo or PDF of the receipt: the AI extracts the products, the app matches them with products it already knows, and I review everything before saving.
-- **Products learned with use.** New products get an aisle and allergen tags from a built-in ingredient dictionary (no AI needed); next time they are recognized, even by the receipt text.
-- **Menus per shopping cycle.** The AI plans the days until the next shop around what is at home, my tastes and the time I have each day (quick on weekdays, longer at weekends), with batch cooking and leftovers. I review the proposal, then change, move, skip or mark dishes as cooked; cooking proposes lowering the pantry.
-- **Dietary restrictions as hard filters.** Every ingredient of every dish is checked in code. Dishes that break a restriction are sent back to the AI to be replaced, and if one still slips through it gets a big red warning. Ingredients with no allergen data are flagged.
-- **Shopping list by aisle**, in the order I walk the supermarket. Items come from the menu (what is missing), from the pantry ("out → add to list") or by hand, without duplicates. Tap to tick (ticked items drop to the bottom of their aisle); bought products leave the list when the purchase is registered. Export as text (share or copy), `.txt` download, or a printable / PDF version.
-- **Personal recipe book ("cooking memory").** It grows with the AI dishes I cook, the recipes I write, the ones I tell informally ("with the instant noodles my mum buys I make a ramen with textured soy and teriyaki" → a structured recipe, asking only what is essential) and the ones imported from a link (schema.org JSON-LD first, AI only as a fallback). Recipes can be variations of another one or linked to a product, so the planner proposes the recipe instead of the product as it is. Videos are not imported: they are told as text.
-- **Quick feedback instead of stars** after cooking ("loved it", "too slow", "don't propose it again", "make it faster / less spicy…"). The planner uses it, and disliked recipes are filtered out in code.
-- **Is it healthy?** Products can be matched with [Open Food Facts](https://world.openfoodfacts.org) (free, public data): Nutri-Score, processing level (NOVA), sugar/fat/salt and plain-language notes such as "this drink is almost all sugar: about 6 sugar cubes per glass". Its allergens are added to the product's restriction tags. Answers are cached in the database.
-- **Approximate prices**, taken from the receipts (or typed in), to get a rough idea of what the shopping list will cost. No supermarket scraping.
-- **Shopping cycles.** A normal shop starts a new cycle; small top-ups don't. The app learns how many days I usually go between shops.
-- **Works without AI:** if the provider is down or the free quota runs out, everything except the assistant keeps working.
+- **Menus per shopping cycle.** The AI plans the days until the next shop around the pantry, my tastes and the time I have each day (quick on weekdays, longer at weekends), with batch cooking and leftovers. Dishes can be changed, moved, skipped or marked as cooked.
+- **Dietary restrictions as hard filters, checked in code** on every ingredient, not just as instructions to the AI. Dishes that break them are sent back to be replaced; unknown ingredients are flagged.
+- **Assistant that proposes, never changes.** A chat on every screen (or about a specific dish) that answers questions like "I'm out of tomato, what can I use?" and, when I ask for changes, returns structured actions shown as confirmation cards. Accepted actions are logged and can be undone.
+- **Pantry and receipts.** Approximate levels instead of exact quantities. A photo or PDF of the receipt is read by the AI, matched with known products and always reviewed before saving.
+- **Shopping list by aisle**, fed by the menu, the pantry or by hand; exported as text, `.txt` or a printable page.
+- **Recipe book that grows with use:** AI dishes I cook, my own recipes, recipes told informally in the chat, or imported from a link (schema.org JSON-LD first, AI only as a fallback). Variations, recipes linked to a product, and quick feedback instead of stars ("too slow", "don't propose it again") that the planner takes into account.
+- **Is it healthy?** Nutri-Score, processing level and plain-language notes from [Open Food Facts](https://world.openfoodfacts.org) ("this drink is almost all sugar"), plus approximate prices from the receipts.
+- **Usable without AI:** if the provider is down or the free quota runs out, everything except the assistant keeps working.
 
-Coming next: design polish, accessibility and screenshots.
+### Design decisions
 
-### Design principles
-
-- **Dietary restrictions are hard filters checked in code**, not just instructions to the AI.
-- **The AI never changes data by itself.** It proposes actions and I confirm them.
-- **The app owns the memory.** Profile, recipes and history live in the database. The AI only gets a short, task-specific context, so switching providers loses nothing.
-- **Zero budget.** Free AI tier, SQLite, runs locally.
+- **The app owns the memory.** Profile, pantry, recipes and history live in SQLite; for each task a `contextBuilder` sends the AI only a short summary. Switching providers loses nothing.
+- **Everything the AI returns is validated with zod** (one retry, then a friendly error). Confirmation cards are written by code, not by the AI, so they say exactly what will happen.
+- **Zero budget:** Gemini's free tier (with a lighter fallback model when the main one is overloaded), SQLite, runs locally.
+- **Accessibility:** WCAG AA colour contrast in light and dark mode (checked), large touch targets, labelled icon buttons, keyboard-friendly dialogs and reduced motion support.
 
 ## Stack
 
 | Part | Tech |
 |---|---|
-| Frontend | React, Vite, React Router, mobile-first CSS with custom properties |
-| Backend | Node.js, Express 5, zod validation |
+| Frontend | React, Vite, React Router, mobile-first CSS with custom properties (light/dark) |
+| Backend | Node.js, Express 5, zod |
 | Database | SQLite (better-sqlite3) behind a small repository layer |
-| AI | Google Gemini (free tier), behind a provider-agnostic `aiService` |
+| AI | Google Gemini (free tier) behind a provider-agnostic `aiService` |
 
 ## Getting started
 
-Requirements: Node.js 22+.
+Requirements: Node.js 22.9+.
 
 ```bash
 npm install
@@ -54,66 +53,56 @@ cp backend/.env.example backend/.env   # then add your GEMINI_API_KEY
 npm run dev
 ```
 
-- PC: open http://localhost:5173
-- **Phone (same Wi-Fi):** Vite prints a `Network` address such as `http://192.168.1.x:5173`. Open it on the phone, and use "Add to home screen" to get an app icon.
+- PC: http://localhost:5173
+- **Phone on the same Wi-Fi:** open the `Network` address Vite prints (e.g. `http://192.168.1.x:5173`) and use "Add to home screen". The phone only talks to Vite, which forwards `/api` to the backend, so the backend stays private to the PC.
 
-The phone only talks to Vite, which forwards `/api` to the backend, so the backend stays private to the PC.
+**Try it with demo data:** `npm run demo` fills a separate database (`backend/data/demo.db`) with a week of menus, a pantry, recipes and a conversation with pending cards. Your real data is not touched.
 
 Production-like run: `npm run build && npm start` (Express serves the built frontend).
 
 ### Environment variables
 
-All of them are documented in [`backend/.env.example`](backend/.env.example). The main ones:
+All documented in [`backend/.env.example`](backend/.env.example):
 
 | Variable | Default | Purpose |
 |---|---|---|
-| `AI_PROVIDER` | `gemini` | Which AI provider to use |
-| `AI_MODEL` | `gemini-flash-latest` | Model name for that provider |
-| `AI_FALLBACK_MODEL` | `gemini-flash-lite-latest` | Model for the automatic retry when the main one is overloaded |
+| `AI_PROVIDER` | `gemini` | AI provider |
+| `AI_MODEL` | `gemini-flash-latest` | Model for that provider |
+| `AI_FALLBACK_MODEL` | `gemini-flash-lite-latest` | Model for the retry when the main one is overloaded |
 | `GEMINI_API_KEY` | — | Free key from [Google AI Studio](https://aistudio.google.com/apikey) |
 | `PORT` / `HOST` | `3001` / `127.0.0.1` | Where the API listens |
 | `DB_PATH` | `./data/app.db` | SQLite file |
 
-API keys live only in `backend/.env`, which is git-ignored. The frontend never sees them.
+API keys live only in `backend/.env` (git-ignored); the frontend never sees them.
 
 ### Switching AI provider
 
-The rest of the app only calls `backend/src/ai/aiService.js`. To add a provider (Claude, Groq, Ollama…):
+The rest of the app only calls `backend/src/ai/aiService.js`. To add Claude, Groq, Ollama…:
 
-1. Create `backend/src/ai/providers/<name>.js` exposing `generate({ system, messages, json, files })`, following [`gemini.js`](backend/src/ai/providers/gemini.js).
+1. Create `backend/src/ai/providers/<name>.js` exposing `generate({ system, messages, json, files })`, like [`gemini.js`](backend/src/ai/providers/gemini.js).
 2. Register it in the `PROVIDERS` map in `aiService.js`.
-3. Set `AI_PROVIDER`, `AI_MODEL` and the provider's key in `.env`.
+3. Set `AI_PROVIDER`, `AI_MODEL` and its key in `.env`.
 
 ## Project structure
 
 ```
 backend/src/
-  ai/          aiService, providers, contextBuilder, prompts, zod schemas
-  domain/      business rules without AI (restrictions, profile…)
-  db/          SQLite connection, schema, repositories (the only place with SQL)
-  routes/      thin REST endpoints
+  ai/       aiService, providers, contextBuilder, prompts, zod schemas
+  domain/   business rules (restrictions, menus, assistant actions…)
+  db/       SQLite connection, schema, migrations, repositories (the only place with SQL)
+  routes/   thin REST endpoints
+  lib/      helpers (Open Food Facts client, safe page fetching, dates…)
 frontend/src/
-  pages/  components/  context/  api/  styles/
-docs/          full spec and data model
+  pages/  components/  context/  hooks/  api/  styles/
+docs/       full spec, data model and screenshots
 ```
-
-## Roadmap
-
-1. ✅ Base project, AI service, chat, onboarding and profile
-2. ✅ Pantry and purchases (receipt reading), shopping cycles
-3. ✅ Menu generation and management, restrictions as hard filters
-4. ✅ Shopping list by aisle, export (.txt, share, print)
-5. ✅ Recipe book: variations, recipes linked to products, import from text and links, feedback
-6. ✅ Assistant actions with confirmation cards, history and undo
-7. ✅ Nutrition info (Open Food Facts) and approximate prices
-8. Design polish, accessibility and screenshots
 
 ## Future work
 
-- **Authentication and multi-user.** There is no login: it is meant for one person on a home network. It must be added before any deployment to the internet.
-- Internet deployment (the config is already environment-based).
+- **Authentication and multi-user.** There is no login: it is meant for one person on a home network, and must be added before any deployment to the internet (along with HTTPS and rate limiting of the AI endpoints).
+- Internet deployment (configuration is already environment-based).
+- With HTTPS: offline shopping list, sharing via the Web Share API on the phone and barcode scanning with the camera.
 - Notifications and reminders.
 - Exact quantities and expiry dates in the pantry.
-- Offline mode for the shopping list.
-- Recipe import from videos (today they are described to the assistant as text).
+- Recipe import from videos (today they are told to the assistant as text).
 - No supermarket scraping, by design: products are entered by hand, from receipts, or learned through use.

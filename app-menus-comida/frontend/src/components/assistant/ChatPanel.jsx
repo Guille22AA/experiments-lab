@@ -6,6 +6,7 @@ import { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import { api } from '../../api/client.js';
 import { screenFor } from '../../constants/labels.js';
+import { useDialogFocus } from '../../hooks/useDialogFocus.js';
 import ActionCard from './ActionCard.jsx';
 import Composer from './Composer.jsx';
 import MessageList from './MessageList.jsx';
@@ -32,12 +33,8 @@ export default function ChatPanel({ onClose, context }) {
       .catch(() => {});
   }, []);
 
-  // Escape closes the panel.
-  useEffect(() => {
-    const onKey = (event) => event.key === 'Escape' && onClose();
-    window.addEventListener('keydown', onKey);
-    return () => window.removeEventListener('keydown', onKey);
-  }, [onClose]);
+  // Focus inside the panel, Escape closes it, focus returns to the button.
+  const dialogRef = useDialogFocus(onClose);
 
   async function send(text) {
     setError(null);
@@ -67,7 +64,7 @@ export default function ChatPanel({ onClose, context }) {
   }
 
   return (
-    <section className="chat-panel" role="dialog" aria-modal="true" aria-label="Asistente">
+    <section ref={dialogRef} className="chat-panel" role="dialog" aria-modal="true" aria-label="Asistente" tabIndex={-1}>
       <header className="app-header">
         <h1>Asistente</h1>
         <div>

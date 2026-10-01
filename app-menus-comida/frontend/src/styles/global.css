@@ -133,7 +133,7 @@ h3 {
 .button.secondary {
   background: var(--surface);
   color: var(--text);
-  border-color: var(--border);
+  border-color: var(--border-strong);
 }
 
 .button.secondary:hover {
@@ -268,7 +268,7 @@ h3 {
 .input {
   min-height: var(--tap);
   padding: 10px 12px;
-  border: 1px solid var(--border);
+  border: 1px solid var(--border-strong);
   border-radius: var(--radius-small);
   background: var(--surface);
   width: 100%;
@@ -305,7 +305,7 @@ h3 {
   gap: 6px;
   min-height: 40px;
   padding: 0 14px;
-  border: 1px solid var(--border);
+  border: 1px solid var(--border-strong);
   border-radius: 999px;
   background: var(--surface);
   cursor: pointer;
@@ -444,7 +444,7 @@ h3 {
   min-height: var(--tap);
   max-height: 140px;
   padding: 12px;
-  border: 1px solid var(--border);
+  border: 1px solid var(--border-strong);
   border-radius: 22px;
   background: var(--bg);
   resize: none;
@@ -636,7 +636,7 @@ h3 {
   gap: 8px;
   min-height: var(--tap);
   padding: 0 12px;
-  border: 1px solid var(--border);
+  border: 1px solid var(--border-strong);
   border-radius: var(--radius-small);
   background: var(--surface);
   color: var(--text-muted);
@@ -771,7 +771,7 @@ h3 {
   min-width: 112px;
   min-height: 40px;
   padding: 0 12px;
-  border: 1px solid var(--border);
+  border: 1px solid var(--border-strong);
   border-radius: 999px;
   background: var(--surface);
   font-size: 0.9rem;
@@ -1182,7 +1182,7 @@ h3 {
   justify-content: center;
   width: 26px;
   height: 26px;
-  border: 2px solid var(--border);
+  border: 2px solid var(--border-strong);
   border-radius: 8px;
   color: var(--accent-contrast);
 }
@@ -1593,14 +1593,14 @@ h3 {
   height: 36px;
   border-radius: 8px;
   font-weight: 800;
-  font-size: 1.1rem;
+  font-size: 1.25rem; /* large bold text: white on E still reads well */
   color: #fff;
 }
 
 .nutriscore-a { background: #038141; }
-.nutriscore-b { background: #85bb2f; }
+.nutriscore-b { background: #85bb2f; color: #1c1c1a; }
 .nutriscore-c { background: #fecb02; color: #1c1c1a; }
-.nutriscore-d { background: #ee8100; }
+.nutriscore-d { background: #ee8100; color: #1c1c1a; }
 .nutriscore-e { background: #e63e11; }
 
 .health-notes {
@@ -1659,4 +1659,87 @@ h3 {
 .candidate .muted.small,
 .candidate > .muted {
   font-size: 0.85rem;
+}
+
+/* ---------- Phase 8: polish ---------- */
+
+/* Dialogs get focus programmatically; the outline is only useful on their controls. */
+.sheet:focus,
+.chat-panel:focus {
+  outline: none;
+}
+
+.connection-banner {
+  position: sticky;
+  top: var(--header-height);
+  z-index: 9;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 10px 16px;
+  background: var(--warning-soft);
+  color: var(--warning-text);
+  font-size: 0.9rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.connection-banner svg {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+/* Desktop: same mobile layout, centred, with the tabs as a compact bar. */
+@media (min-width: 900px) {
+  .app-header {
+    padding: 0 max(16px, calc((100% - 720px) / 2));
+  }
+
+  .bottom-nav {
+    left: 50%;
+    right: auto;
+    bottom: 16px;
+    width: 480px;
+    transform: translateX(-50%);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    box-shadow: var(--shadow);
+    height: var(--nav-height);
+    padding-bottom: 0;
+  }
+
+  .fab {
+    right: max(24px, calc((100% - 720px) / 2 - 84px));
+    bottom: 24px;
+  }
+
+  .toast-area {
+    bottom: calc(var(--nav-height) + 40px);
+  }
+
+  .sheet-backdrop {
+    align-items: center;
+  }
+
+  .sheet {
+    border-radius: var(--radius);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+/* The sheet title stays visible while its content scrolls. */
+.sheet-header {
+  position: sticky;
+  top: -8px;
+  z-index: 1;
+  margin: -8px -16px 0;
+  padding: 8px 16px 0;
+  background: var(--surface);
 }
