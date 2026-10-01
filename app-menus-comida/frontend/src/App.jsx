@@ -5,6 +5,8 @@ import MenuPage from './pages/MenuPage.jsx';
 import OnboardingPage from './pages/OnboardingPage.jsx';
 import PantryPage from './pages/PantryPage.jsx';
 import PurchasePage from './pages/PurchasePage.jsx';
+import RecipeDetailPage from './pages/RecipeDetailPage.jsx';
+import RecipeFormPage from './pages/RecipeFormPage.jsx';
 import RecipesPage from './pages/RecipesPage.jsx';
 import SettingsPage from './pages/SettingsPage.jsx';
 import ShoppingListPage from './pages/ShoppingListPage.jsx';
@@ -43,6 +45,9 @@ export default function App() {
         <Route path="/despensa/compra" element={<PurchasePage />} />
         <Route path="/lista" element={<ShoppingListPage />} />
         <Route path="/recetas" element={<RecipesPage />} />
+        <Route path="/recetas/nueva" element={<RecipeFormPage key="new" />} />
+        <Route path="/recetas/:id" element={<RecipeDetailPage />} />
+        <Route path="/recetas/:id/editar" element={<RecipeFormPage key="edit" />} />
         <Route path="/ajustes" element={<SettingsPage />} />
       </Route>
       <Route path="*" element={<Navigate to="/menu" replace />} />

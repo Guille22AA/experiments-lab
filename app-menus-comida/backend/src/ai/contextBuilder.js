@@ -99,15 +99,42 @@ export function summarizePantry() {
     .join('\n');
 }
 
-/** Saved recipes as short lines, plus the products that have a personal linked recipe. */
+// How the latest feedback of a recipe is explained to the planner.
+const VERDICT_HINTS = {
+  loved: 'LE ENCANTÓ: repítela más',
+  too_slow: 'tarda demasiado: solo en días con tiempo, o propón una versión más rápida',
+  adjust: 'pidió ajustes',
+};
+const ADJUSTMENT_LABELS = {
+  faster: 'más rápida', simpler: 'más sencilla', less_spicy: 'menos picante',
+  more_spicy: 'más picante', lighter: 'más ligera', bigger: 'más cantidad',
+};
+
+/**
+ * Saved recipes as short lines with the user's feedback, the ones NOT to
+ * propose, and the products that have a personal linked recipe.
+ */
 function summarizeRecipes() {
-  const recipes = listRecipeSummaries()
-    .sort((a, b) => b.timesCooked - a.timesCooked)
+  const all = listRecipeSummaries();
+  const disliked = all.filter((r) => r.lastVerdict === 'disliked').map((r) => r.name);
+  // Favourites and the most cooked first, so they survive the limit.
+  const recipes = all
+    .filter((r) => r.lastVerdict !== 'disliked')
+    .sort((a, b) => b.isFavorite - a.isFavorite || b.timesCooked - a.timesCooked)
     .slice(0, RECIPES_LIMIT);
-  if (recipes.length === 0) return { recipes: '(ninguna todavía)', linked: null };
 
   const lines = recipes.map((r) => {
-    const details = [r.timeMinutes ? `${r.timeMinutes} min` : null, ...r.tags, r.timesCooked ? `cocinada ${r.timesCooked} veces` : null]
+    const feedback = r.lastVerdict
+      ? [VERDICT_HINTS[r.lastVerdict], ...r.lastAdjustments.map((a) => ADJUSTMENT_LABELS[a])].filter(Boolean).join(': ')
+      : null;
+    const details = [
+      r.timeMinutes ? `${r.timeMinutes} min` : null,
+      ...r.tags,
+      r.isFavorite ? 'favorita' : null,
+      r.parentName ? `variación de "${r.parentName}"` : null,
+      r.timesCooked ? `cocinada ${r.timesCooked} veces` : null,
+      feedback,
+    ]
       .filter(Boolean)
       .join(', ');
     return `- id ${r.id}: ${r.name}${details ? ` (${details})` : ''}`;
@@ -118,7 +145,11 @@ function summarizeRecipes() {
     .filter((r) => r.linkedProductId && pantryProductIds.has(r.linkedProductId))
     .map((r) => `- ${r.linkedProductName}: no lo come tal cual, usa la receta id ${r.id} "${r.name}"`);
 
-  return { recipes: lines.join('\n'), linked: linked.length ? linked.join('\n') : null };
+  return {
+    recipes: lines.length ? lines.join('\n') : '(ninguna todavía)',
+    disliked: disliked.length ? disliked.join(', ') : null,
+    linked: linked.length ? linked.join('\n') : null,
+  };
 }
 
 /** Joins [title, body, title, body...] pairs, skipping the sections whose body is empty. */
@@ -136,7 +167,7 @@ function sections(pairs) {
  *   keptDishes: dishes already fixed in the menu (when only the remaining days are planned)
  */
 export function buildMenuContext({ days, mealTypes, keptDishes = [] }) {
-  const { recipes, linked } = summarizeRecipes();
+  const { recipes, disliked, linked } = summarizeRecipes();
   const recent = listRecentDishNames(RECENT_MENUS);
   const plan = [
     `Comidas: ${mealTypes.map((m) => `${m} (${LABELS[m]})`).join(', ')}`,
@@ -148,6 +179,7 @@ export function buildMenuContext({ days, mealTypes, keptDishes = [] }) {
     '## Despensa', summarizePantry(),
     '## Productos con receta personal ligada', linked,
     '## Saved recipes', recipes,
+    '## NO proponer (no le gustaron)', disliked,
     '## Platos de los últimos menús (no repetir)', recent.join(', '),
     '## Ya planificado en este menú (no repetir)', keptDishes.join(', '),
     '## A planificar', plan,
@@ -160,7 +192,7 @@ export function buildMenuContext({ days, mealTypes, keptDishes = [] }) {
  * @param {{ slot: { date, weekday, isWeekend, mealType, title }, menuDishes: string[], request?: string }} options
  */
 export function buildAlternativesContext({ slot, menuDishes, request }) {
-  const { recipes, linked } = summarizeRecipes();
+  const { recipes, disliked, linked } = summarizeRecipes();
   const target = `${LABELS[slot.mealType]} del ${slot.weekday} ${slot.date}${slot.isWeekend ? ' (fin de semana)' : ''}: ahora es "${slot.title}"`;
 
   const content = sections([
@@ -168,6 +200,7 @@ export function buildAlternativesContext({ slot, menuDishes, request }) {
     '## Despensa', summarizePantry(),
     '## Productos con receta personal ligada', linked,
     '## Saved recipes', recipes,
+    '## NO proponer (no le gustaron)', disliked,
     '## Platos ya en el menú (no repetir)', menuDishes.join(', '),
     '## Plato a cambiar', target,
     '## Petición del usuario', request,

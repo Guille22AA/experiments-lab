@@ -32,10 +32,18 @@ import { getPantryItemByProduct } from '../db/repositories/pantryRepo.js';
 import { findProductByName } from '../db/repositories/productRepo.js';
 import { getProfile } from '../db/repositories/profileRepo.js';
 import { getCurrentCycle, setCyclePlannedDays } from '../db/repositories/purchaseRepo.js';
-import { createRecipe, deleteOrphanSuggestedRecipes, getRecipe, markRecipeSaved } from '../db/repositories/recipeRepo.js';
+import {
+  countCooked,
+  createRecipe,
+  deleteOrphanSuggestedRecipes,
+  getRecipe,
+  listRecipeSummaries,
+  markRecipeSaved,
+} from '../db/repositories/recipeRepo.js';
 import { runInTransaction } from '../db/transaction.js';
 import { addDays, daysBetweenDays, listDays, todayLocal } from '../lib/dates.js';
 import { HttpError } from '../lib/errors.js';
+import { normalizeName } from '../lib/text.js';
 import { MEAL_TYPES } from './profile.js';
 import { checkIngredients } from './restrictionCheck.js';
 
@@ -88,9 +96,15 @@ function cleanPlan(plan, days, mealTypes) {
 
 /** dishKey → violations, for the dishes that break a restriction. */
 function findViolations(dishes, restrictions) {
+  // Recipes the user said "no la propongas más" are rejected like a restriction.
+  const disliked = new Set(listRecipeSummaries().filter((r) => r.lastVerdict === 'disliked').map((r) => normalizeName(r.name)));
+
   const violating = new Map();
   for (const [key, dish] of dishes) {
     const { violations } = checkIngredients(ingredientsOf(dish), restrictions);
+    if (disliked.has(normalizeName(dish.existingRecipe?.name ?? dish.name))) {
+      violations.push({ ingredient: dish.name, restriction: 'the user disliked this recipe' });
+    }
     if (violations.length > 0) violating.set(key, violations);
   }
   return violating;
@@ -112,7 +126,7 @@ async function replaceViolatingDishes(context, plan, violating) {
       { role: 'assistant', content: JSON.stringify({ dishes: [...plan.dishes.values()].map((d) => ({ key: d.key, name: d.name })) }) },
       {
         role: 'user',
-        content: `These dishes break the user's restrictions:\n${problems}\nReturn ONLY {"dishes": [...]} with one replacement for each, keeping the same "key" and avoiding those ingredients.`,
+        content: `These dishes cannot be used (restrictions or dislikes):\n${problems}\nReturn ONLY {"dishes": [...]} with one different replacement for each, keeping the same "key".`,
       },
     ],
     schema: dishListSchema,
@@ -358,17 +372,20 @@ export function setSlotStatus(slotId, status) {
     if (slot.status === 'cooked' && status !== 'cooked') deleteCookedForSlot(slotId);
     const updated = updateSlot(slotId, { status });
     let deduction = [];
+    let cookedLogId = null;
     if (status === 'cooked' && slot.status !== 'cooked') {
       // Leftovers are eaten, not cooked: nothing to log or take from the pantry.
       if (!slot.isLeftover) {
-        logCooked({ recipeId: slot.recipeId, title: slot.title, menuSlotId: slotId });
+        cookedLogId = logCooked({ recipeId: slot.recipeId, title: slot.title, menuSlotId: slotId });
         if (slot.recipeId) {
           markRecipeSaved(slot.recipeId);
           deduction = proposePantryDeduction(slot.recipeId);
         }
       }
     }
-    return { slot: updated, deduction };
+    // cookedLogId + recipeId let the screen ask for feedback right after cooking.
+    const isFirstTime = cookedLogId && slot.recipeId ? countCooked(slot.recipeId) === 1 : false;
+    return { slot: updated, deduction, cookedLogId, recipeId: cookedLogId ? slot.recipeId : null, isFirstTime };
   });
 }
 
@@ -395,11 +412,11 @@ export async function proposeAlternatives(slotId, request) {
   });
 
   const restrictions = getProfile().restrictions;
-  const alternatives = result.dishes
-    .map(prepareDish)
-    .filter(Boolean)
+  const prepared = new Map(result.dishes.map(prepareDish).filter(Boolean).map((dish) => [dish.key, dish]));
+  const rejected = findViolations(prepared, restrictions); // restrictions + disliked recipes
+  const alternatives = [...prepared.values()]
+    .filter((dish) => !rejected.has(dish.key)) // hard filter: never offered
     .map((dish) => ({ dish, check: checkIngredients(ingredientsOf(dish), restrictions) }))
-    .filter(({ check }) => check.violations.length === 0) // hard filter: never offered
     .map(({ dish, check }) => ({
       ...dish,
       name: dish.existingRecipe?.name ?? dish.name,
@@ -449,11 +466,4 @@ export function replaceSlotDish(slotId, { recipeId, dish }) {
     deleteOrphanSuggestedRecipes();
     return getSlot(slotId);
   });
-}
-
-/** Full recipe of a slot, with its restriction check (for the detail screen). */
-export function getRecipeWithCheck(recipeId) {
-  const recipe = getRecipe(recipeId);
-  if (!recipe) throw new HttpError(404, 'Esa receta no existe.');
-  return { ...recipe, check: checkIngredients(recipe.ingredients, getProfile().restrictions) };
 }

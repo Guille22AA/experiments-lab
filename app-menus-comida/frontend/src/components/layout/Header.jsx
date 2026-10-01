@@ -1,13 +1,13 @@
 import { ArrowLeft, Settings } from 'lucide-react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import { SCREENS } from '../../constants/labels.js';
+import { screenFor } from '../../constants/labels.js';
 
 const TAB_PATHS = ['/menu', '/despensa', '/lista', '/recetas'];
 
 export default function Header() {
   const { pathname } = useLocation();
   const navigate = useNavigate();
-  const title = SCREENS[pathname]?.label ?? 'Despensa y menús';
+  const title = screenFor(pathname)?.label ?? 'Despensa y menús';
   const isTab = TAB_PATHS.includes(pathname);
 
   return (

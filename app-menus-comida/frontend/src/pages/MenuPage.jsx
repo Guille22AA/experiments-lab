@@ -3,7 +3,7 @@ import { CalendarDays, Minus, Plus, ShoppingCart, Sparkles } from 'lucide-react'
 import { useCallback, useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { api } from '../api/client.js';
-import DeductionSheet from '../components/menu/DeductionSheet.jsx';
+import AfterCooking from '../components/recipes/AfterCooking.jsx';
 import MenuDays from '../components/menu/MenuDays.jsx';
 import SlotSheet from '../components/menu/SlotSheet.jsx';
 import CycleCard from '../components/pantry/CycleCard.jsx';
@@ -68,7 +68,7 @@ export default function MenuPage() {
   const [busy, setBusy] = useState(null); // text shown while the AI works
   const [error, setError] = useState(null);
   const [openSlot, setOpenSlot] = useState(null);
-  const [deduction, setDeduction] = useState(null);
+  const [cooked, setCooked] = useState(null); // after cooking: feedback + pantry
 
   const applyState = useCallback((next) => {
     setState(next);
@@ -204,20 +204,11 @@ export default function MenuPage() {
           editable={!draft}
           onStateChange={applyState}
           onSlotChange={load}
-          onCooked={setDeduction}
+          onCooked={setCooked}
           onClose={() => setOpenSlot(null)}
         />
       )}
-      {deduction && (
-        <DeductionSheet
-          proposals={deduction}
-          onDone={(count) => {
-            setDeduction(null);
-            if (count > 0) showToast('Despensa actualizada');
-          }}
-          onClose={() => setDeduction(null)}
-        />
-      )}
+      {cooked && <AfterCooking cooked={cooked} onFinish={() => setCooked(null)} />}
     </>
   );
 }

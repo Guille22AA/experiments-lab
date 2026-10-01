@@ -1263,3 +1263,206 @@ h3 {
     margin-bottom: 3pt;
   }
 }
+
+/* ---------- Recipes ---------- */
+.section-gap {
+  margin-top: 16px;
+}
+
+.recipes-search {
+  margin: 12px 0;
+}
+
+.filter-chips {
+  margin-bottom: 12px;
+}
+
+.recipe-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 8px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  text-decoration: none;
+}
+
+.recipe-card:hover {
+  border-color: var(--accent);
+}
+
+.recipe-card-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+}
+
+.star,
+.is-favorite svg {
+  color: #e0a800;
+  fill: #e0a800;
+}
+
+.verdict-tag {
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  background: var(--surface-2);
+}
+
+.verdict-tag.verdict-loved {
+  background: var(--accent-soft);
+  color: var(--text);
+}
+
+.verdict-tag.verdict-disliked {
+  background: var(--danger-soft);
+  color: var(--danger);
+}
+
+.verdict-tag.verdict-too_slow,
+.verdict-tag.verdict-adjust {
+  background: var(--warning-soft);
+  color: var(--warning-text);
+}
+
+.recipe-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.recipe-head h2 {
+  font-size: 1.4rem;
+  margin-top: 6px;
+}
+
+.recipe-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  margin-bottom: 12px;
+}
+
+.recipe-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.linked-product {
+  margin-bottom: 16px;
+}
+
+.feedback-list {
+  margin: 8px 0 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.feedback-list li {
+  margin-bottom: 8px;
+}
+
+.recipe-form .ingredient-row,
+.recipe-form .step-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.recipe-form .ingredient-row .input {
+  flex: 2;
+  min-width: 0;
+}
+
+.recipe-form .ingredient-row .input.quantity {
+  flex: 1;
+}
+
+.recipe-form .step-row textarea {
+  flex: 1;
+  min-width: 0;
+  resize: vertical;
+}
+
+.step-number {
+  flex-shrink: 0;
+  width: 24px;
+  padding-top: 12px;
+  font-weight: 700;
+  color: var(--accent);
+  text-align: center;
+}
+
+.plain-fieldset {
+  border: none;
+  margin: 0 0 16px;
+  padding: 0;
+}
+
+.plain-fieldset legend {
+  margin-bottom: 8px;
+  padding: 0;
+}
+
+.link-button svg {
+  vertical-align: -2px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.import-field {
+  margin-top: 16px;
+}
+
+.segmented button svg {
+  vertical-align: -3px;
+}
+
+/* ---------- Feedback ---------- */
+.first-time {
+  margin: 0 0 12px;
+}
+
+.verdict-options {
+  display: grid;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.verdict {
+  min-height: var(--tap);
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-small);
+  background: var(--surface);
+  text-align: left;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.verdict[aria-checked='true'] {
+  border: 2px solid var(--accent);
+  background: var(--accent-soft);
+}
+
+.verdict-disliked[aria-checked='true'] {
+  border-color: var(--danger);
+  background: var(--danger-soft);
+}

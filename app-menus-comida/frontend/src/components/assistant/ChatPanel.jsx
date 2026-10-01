@@ -4,13 +4,13 @@ import { Trash2, X } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import { api } from '../../api/client.js';
-import { SCREENS } from '../../constants/labels.js';
+import { screenFor } from '../../constants/labels.js';
 import Composer from './Composer.jsx';
 import MessageList from './MessageList.jsx';
 
 export default function ChatPanel({ onClose }) {
   const { pathname } = useLocation();
-  const screen = SCREENS[pathname];
+  const screen = screenFor(pathname);
 
   const [messages, setMessages] = useState([]);
   const [pending, setPending] = useState(false);

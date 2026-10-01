@@ -1,56 +1,12 @@
 // Detail of a menu dish: the recipe and what can be done with it
 // (mark as cooked or skipped, change it for another dish, move it).
-import { AlertTriangle, ArrowRightLeft, Check, Clock, RefreshCw, SkipForward, Sparkles, Undo2 } from 'lucide-react';
+import { ArrowRightLeft, Check, RefreshCw, SkipForward, Sparkles, Undo2 } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { api } from '../../api/client.js';
 import { MEAL_TYPE_LABELS } from '../../constants/labels.js';
 import { dayLabel } from '../../lib/dates.js';
+import RecipeBody from '../recipes/RecipeBody.jsx';
 import Sheet from '../ui/Sheet.jsx';
-
-const DIFFICULTY_LABELS = { easy: 'Fácil', medium: 'Media', hard: 'Difícil' };
-
-function RecipeDetail({ recipe }) {
-  const badIngredients = new Set(recipe.check.violations.map((v) => v.ingredient));
-  return (
-    <div className="recipe-detail">
-      {recipe.description && <p>{recipe.description}</p>}
-      <p className="recipe-facts muted small">
-        {recipe.timeMinutes && (
-          <span>
-            <Clock size={14} aria-hidden="true" /> {recipe.timeMinutes} min
-          </span>
-        )}
-        {recipe.difficulty && <span>{DIFFICULTY_LABELS[recipe.difficulty]}</span>}
-        {recipe.servings && <span>{recipe.servings === 1 ? '1 ración' : `${recipe.servings} raciones`}</span>}
-      </p>
-      {recipe.check.violations.length > 0 && (
-        <p className="notice error">
-          <AlertTriangle size={16} aria-hidden="true" /> No cumple tus restricciones:{' '}
-          {recipe.check.violations.map((v) => `${v.ingredient} (${v.restriction})`).join(', ')}
-        </p>
-      )}
-      <h3>Ingredientes</h3>
-      <ul className="ingredient-list">
-        {recipe.ingredients.map((ingredient) => (
-          <li key={ingredient.id} className={badIngredients.has(ingredient.name) ? 'is-bad' : ''}>
-            {ingredient.name}
-            {ingredient.quantityText && <span className="muted"> · {ingredient.quantityText}</span>}
-            {ingredient.optional && <span className="muted"> (opcional)</span>}
-          </li>
-        ))}
-      </ul>
-      {recipe.check.unknown.length > 0 && (
-        <p className="muted small">Sin datos de alérgenos: {recipe.check.unknown.join(', ')}. Revísalos si te importa.</p>
-      )}
-      <h3>Pasos</h3>
-      <ol className="step-list">
-        {recipe.steps.map((step, index) => (
-          <li key={index}>{step}</li>
-        ))}
-      </ol>
-    </div>
-  );
-}
 
 /** Change the dish: AI alternatives or one of the saved recipes. */
 function ChangeDish({ slot, onReplaced }) {
@@ -179,7 +135,8 @@ function MoveDish({ slot, view, onMoved }) {
 
 /**
  * @param {{ slot, view, editable: boolean, onStateChange: (state) => void, onSlotChange: () => void,
- *           onCooked: (deduction) => void, onClose: () => void }} props
+ *           onCooked: (result) => void, onClose: () => void }} props
+ *   onCooked receives { recipeId, cookedLogId, isFirstTime, deduction } to ask for feedback
  *   editable = false for a draft (it can only be looked at until accepted)
  *   onStateChange receives the new menu state after change/move; onSlotChange asks to reload it
  */
@@ -199,7 +156,7 @@ export default function SlotSheet({ slot, view, editable, onStateChange, onSlotC
     try {
       const result = await api.patch(`/menus/slots/${slot.id}`, { status });
       onSlotChange();
-      if (status === 'cooked' && result.deduction.length > 0) onCooked(result.deduction);
+      if (status === 'cooked' && (result.recipeId || result.deduction.length > 0)) onCooked({ ...result, title: slot.title });
       onClose();
     } catch (err) {
       setError(err.message);
@@ -221,7 +178,7 @@ export default function SlotSheet({ slot, view, editable, onStateChange, onSlotC
 
       {mode === 'detail' && (
         <>
-          {recipe ? <RecipeDetail recipe={recipe} /> : !error && <p className="muted">Cargando receta…</p>}
+          {recipe ? <RecipeBody recipe={recipe} /> : !error && <p className="muted">Cargando receta…</p>}
           {error && <p className="notice error">{error}</p>}
 
           {editable && (
