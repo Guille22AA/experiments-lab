@@ -4,6 +4,7 @@ import { useProfile } from './context/ProfileContext.jsx';
 import MenuPage from './pages/MenuPage.jsx';
 import OnboardingPage from './pages/OnboardingPage.jsx';
 import PantryPage from './pages/PantryPage.jsx';
+import PurchasePage from './pages/PurchasePage.jsx';
 import RecipesPage from './pages/RecipesPage.jsx';
 import SettingsPage from './pages/SettingsPage.jsx';
 import ShoppingListPage from './pages/ShoppingListPage.jsx';
@@ -39,6 +40,7 @@ export default function App() {
       <Route element={needsOnboarding ? <Navigate to="/bienvenida" replace /> : <Layout />}>
         <Route path="/menu" element={<MenuPage />} />
         <Route path="/despensa" element={<PantryPage />} />
+        <Route path="/despensa/compra" element={<PurchasePage />} />
         <Route path="/lista" element={<ShoppingListPage />} />
         <Route path="/recetas" element={<RecipesPage />} />
         <Route path="/ajustes" element={<SettingsPage />} />

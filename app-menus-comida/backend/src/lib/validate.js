@@ -1,4 +1,8 @@
+import { z } from 'zod';
 import { HttpError } from './errors.js';
+
+// Validation messages in Spanish (they can reach the UI).
+z.config(z.locales.es());
 
 /**
  * Validates request data with a zod schema.

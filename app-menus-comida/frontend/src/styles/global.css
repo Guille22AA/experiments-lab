@@ -117,6 +117,7 @@ h3 {
   background: var(--accent);
   color: var(--accent-contrast);
   font-weight: 600;
+  text-decoration: none; /* also used on links */
   cursor: pointer;
 }
 
@@ -504,4 +505,347 @@ h3 {
   text-decoration: underline;
   min-height: var(--tap);
   cursor: pointer;
+}
+
+/* ---------- Small helpers ---------- */
+.small {
+  font-size: 0.875rem;
+}
+
+.center {
+  text-align: center;
+}
+
+.hint {
+  text-align: center;
+  font-size: 0.85rem;
+  margin-top: 16px;
+}
+
+.header-title {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: -8px;
+}
+
+.header-title h1 {
+  margin-left: 8px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* ---------- Toast ---------- */
+.toast-area {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: calc(var(--nav-height) + env(safe-area-inset-bottom) + 88px);
+  z-index: 40;
+  display: flex;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.toast {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  max-width: 480px;
+  padding: 12px 16px;
+  border-radius: var(--radius-small);
+  background: var(--text);
+  color: var(--bg);
+  box-shadow: var(--shadow-strong);
+  pointer-events: auto;
+}
+
+.toast button {
+  min-height: 40px;
+  border: none;
+  background: none;
+  color: var(--bg);
+  font-weight: 700;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* ---------- Bottom sheet ---------- */
+.sheet-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 35;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  background: rgb(0 0 0 / 0.45);
+}
+
+.sheet {
+  width: 100%;
+  max-width: 560px;
+  max-height: 90dvh;
+  overflow-y: auto;
+  padding: 8px 16px calc(16px + env(safe-area-inset-bottom));
+  border-radius: var(--radius) var(--radius) 0 0;
+  background: var(--surface);
+}
+
+.sheet-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sheet-header h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.sheet-secondary {
+  margin-top: 8px;
+}
+
+/* ---------- Pantry ---------- */
+.cycle-card .cycle-title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.cycle-card .muted {
+  margin: 4px 0 12px;
+}
+
+.product-search {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: var(--tap);
+  padding: 0 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-small);
+  background: var(--surface);
+  color: var(--text-muted);
+}
+
+.search-box input {
+  flex: 1;
+  min-width: 0;
+  min-height: var(--tap);
+  border: none;
+  background: transparent;
+  color: var(--text);
+  outline: none;
+}
+
+.search-box:focus-within {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.suggestions {
+  list-style: none;
+  margin: 4px 0 0;
+  padding: 4px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-small);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.suggestions button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-height: var(--tap);
+  padding: 0 12px;
+  border: none;
+  border-radius: 8px;
+  background: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.suggestions button:hover {
+  background: var(--surface-2);
+}
+
+.suggestions .add-new {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.pantry-section {
+  margin-bottom: 16px;
+}
+
+.section-title {
+  margin: 0 0 6px 4px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+
+.item-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--surface);
+}
+
+.item-list > li + li {
+  border-top: 1px solid var(--border);
+}
+
+.swipe-row {
+  position: relative;
+  overflow: hidden;
+}
+
+.swipe-row-delete {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+  padding-right: 20px;
+  background: var(--danger);
+  color: #fff;
+  font-weight: 600;
+}
+
+.swipe-row-content {
+  position: relative;
+  background: var(--surface);
+  touch-action: pan-y; /* the browser scrolls vertically, we handle horizontal swipes */
+}
+
+.pantry-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 56px;
+  padding: 4px 8px 4px 4px;
+}
+
+.pantry-item-name {
+  flex: 1;
+  min-height: var(--tap);
+  padding: 0 12px;
+  border: none;
+  background: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.pantry-item.is-empty .pantry-item-name {
+  color: var(--text-muted);
+  text-decoration: line-through;
+}
+
+.level-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 112px;
+  min-height: 40px;
+  padding: 0 12px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.level-bars {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 14px;
+}
+
+.level-bars span {
+  width: 5px;
+  border-radius: 2px;
+  background: var(--border);
+}
+
+.level-bars span:nth-child(1) { height: 6px; }
+.level-bars span:nth-child(2) { height: 10px; }
+.level-bars span:nth-child(3) { height: 14px; }
+
+.level-bars span.on {
+  background: var(--accent);
+}
+
+.level-low .level-bars span.on {
+  background: var(--warning-text);
+}
+
+.level-empty {
+  border-color: var(--danger);
+  color: var(--danger);
+}
+
+/* ---------- Purchase review ---------- */
+.review-list {
+  list-style: none;
+  margin: 8px 0;
+  padding: 0;
+}
+
+.review-line {
+  padding: 12px 0;
+  border-top: 1px solid var(--border);
+}
+
+.review-line-top {
+  display: flex;
+  gap: 4px;
+}
+
+.review-line-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.review-line-meta select {
+  flex: 1;
+  min-width: 0;
+}
+
+.raw-text {
+  margin: 6px 0 0;
+}
+
+.warning-line {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 6px 0 0;
+  font-size: 0.875rem;
+  color: var(--warning-text);
 }

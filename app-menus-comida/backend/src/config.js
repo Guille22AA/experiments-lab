@@ -14,6 +14,8 @@ export const config = {
   ai: {
     provider: (process.env.AI_PROVIDER || 'gemini').toLowerCase(),
     model: process.env.AI_MODEL || 'gemini-flash-latest',
+    // Used for the retry when the main model is overloaded. Empty = retry with the same model.
+    fallbackModel: process.env.AI_FALLBACK_MODEL ?? 'gemini-flash-lite-latest',
     geminiApiKey: process.env.GEMINI_API_KEY || '',
   },
 };

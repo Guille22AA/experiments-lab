@@ -2,26 +2,27 @@
 //
 // The rest of the app calls `generateText()` or `generateJson()` and never
 // knows which provider is behind them. The provider and the model are chosen
-// with AI_PROVIDER and AI_MODEL in backend/.env.
+// with AI_PROVIDER and AI_MODEL in backend/.env (AI_FALLBACK_MODEL is used
+// when the main model is overloaded).
 import { config } from '../config.js';
 import { AiError } from './aiErrors.js';
 import { createGeminiProvider } from './providers/gemini.js';
 
-// Registered providers: name → factory that returns { generate } or null if
-// it is not configured. New providers (claude, groq, ollama) go here.
+// Registered providers: name → factory(model) that returns { generate }, or
+// null if it is not configured. New providers (claude, groq, ollama) go here.
 const PROVIDERS = {
-  gemini: () =>
-    config.ai.geminiApiKey ? createGeminiProvider({ apiKey: config.ai.geminiApiKey, model: config.ai.model }) : null,
+  gemini: (model) => (config.ai.geminiApiKey ? createGeminiProvider({ apiKey: config.ai.geminiApiKey, model }) : null),
 };
 
-let provider; // created on first use
+const providers = new Map(); // model → provider instance, created on first use
 
-function getProvider() {
-  if (provider === undefined) {
+function getProvider(model = config.ai.model) {
+  if (!providers.has(model)) {
     const factory = PROVIDERS[config.ai.provider];
     if (!factory) console.warn(`[ai] Unknown AI_PROVIDER "${config.ai.provider}".`);
-    provider = factory ? factory() : null;
+    providers.set(model, factory ? factory(model) : null);
   }
+  const provider = providers.get(model);
   if (!provider) throw new AiError('not_configured');
   return provider;
 }
@@ -36,9 +37,29 @@ export function isAiConfigured() {
   }
 }
 
+const UNAVAILABLE_RETRY_DELAY_MS = 2500;
+
+/**
+ * Calls the provider. "Unavailable" errors (overloaded model, network blip) are
+ * usually gone in seconds, so they get one retry after a short pause, using the
+ * fallback model if there is one (a lighter model is rarely overloaded too).
+ * Rate-limit errors are NOT retried: retrying would only waste free quota.
+ */
+async function callProvider(request) {
+  try {
+    return await getProvider().generate(request);
+  } catch (error) {
+    if (!(error instanceof AiError) || error.code !== 'unavailable') throw error;
+    const retryModel = config.ai.fallbackModel || config.ai.model;
+    console.warn(`[ai] Provider unavailable, retrying once with ${retryModel}…`);
+    await new Promise((resolve) => setTimeout(resolve, UNAVAILABLE_RETRY_DELAY_MS));
+    return getProvider(retryModel).generate(request);
+  }
+}
+
 /** Plain text answer (e.g. a chat reply). */
 export async function generateText({ system, messages, files }) {
-  return logErrors(() => getProvider().generate({ system, messages, files }));
+  return logErrors(() => callProvider({ system, messages, files }));
 }
 
 /**
@@ -48,7 +69,7 @@ export async function generateText({ system, messages, files }) {
  */
 export async function generateJson({ system, messages, schema, files }) {
   return logErrors(async () => {
-    const first = await getProvider().generate({ system, messages, files, json: true });
+    const first = await callProvider({ system, messages, files, json: true });
     const firstResult = parseAndValidate(first, schema);
     if (firstResult.ok) return firstResult.data;
 
@@ -61,7 +82,7 @@ export async function generateJson({ system, messages, schema, files }) {
         content: `Your previous answer was not valid for the required JSON format (${firstResult.problem}). Answer again with ONLY the corrected JSON.`,
       },
     ];
-    const second = await getProvider().generate({ system, messages: retryMessages, files, json: true });
+    const second = await callProvider({ system, messages: retryMessages, files, json: true });
     const secondResult = parseAndValidate(second, schema);
     if (secondResult.ok) return secondResult.data;
 

@@ -4,7 +4,7 @@ A personal web app that plans what I cook and what I buy, with an AI assistant t
 
 **The problem:** every week I have to decide what to eat, check what's left at home and write a shopping list. This app does it shopping trip to shopping trip: after each shop it proposes a menu built around what I already have, and it turns whatever is missing into a shopping list sorted by supermarket aisle.
 
-> 🚧 **Work in progress.** It is built in 8 phases ([roadmap](#roadmap)). Phase 1 is done.
+> 🚧 **Work in progress.** It is built in 8 phases ([roadmap](#roadmap)). Phases 1–2 are done.
 
 <!-- Screenshots will be added in phase 8 -->
 
@@ -13,9 +13,13 @@ A personal web app that plans what I cook and what I buy, with an AI assistant t
 - **AI onboarding interview.** A natural chat to learn allergies, tastes, how much I feel like cooking, kitchen equipment… then a summary I can review and edit.
 - **Always-on assistant.** A floating chat on every screen that knows which screen it was opened from.
 - **Editable profile** with a light/dark theme (follows the system by default).
+- **Pantry** grouped by supermarket aisle, with approximate levels (plenty / some / little / out). Tap to lower a level, swipe to remove, with undo.
+- **Receipt reading.** Upload a photo or PDF of the receipt: the AI extracts the products, the app matches them with products it already knows, and I review everything before saving.
+- **Products learned with use.** New products get an aisle and allergen tags from a built-in ingredient dictionary (no AI needed); next time they are recognized, even by the receipt text.
+- **Shopping cycles.** A normal shop starts a new cycle; small top-ups don't. The app learns how many days I usually go between shops.
 - **Works without AI:** if the provider is down or the free quota runs out, everything except the assistant keeps working.
 
-Coming next: pantry with approximate levels, receipt reading (photo/PDF), menus per shopping cycle, a shopping list by aisle with export, a personal recipe book, assistant actions with confirmation and undo, and nutrition info from Open Food Facts.
+Coming next: menus per shopping cycle, a shopping list by aisle with export, a personal recipe book, assistant actions with confirmation and undo, and nutrition info from Open Food Facts.
 
 ### Design principles
 
@@ -58,6 +62,7 @@ All of them are documented in [`backend/.env.example`](backend/.env.example). Th
 |---|---|---|
 | `AI_PROVIDER` | `gemini` | Which AI provider to use |
 | `AI_MODEL` | `gemini-flash-latest` | Model name for that provider |
+| `AI_FALLBACK_MODEL` | `gemini-flash-lite-latest` | Model for the automatic retry when the main one is overloaded |
 | `GEMINI_API_KEY` | — | Free key from [Google AI Studio](https://aistudio.google.com/apikey) |
 | `PORT` / `HOST` | `3001` / `127.0.0.1` | Where the API listens |
 | `DB_PATH` | `./data/app.db` | SQLite file |
@@ -88,7 +93,7 @@ docs/          full spec and data model
 ## Roadmap
 
 1. ✅ Base project, AI service, chat, onboarding and profile
-2. Pantry and purchases (receipt reading), shopping cycles
+2. ✅ Pantry and purchases (receipt reading), shopping cycles
 3. Menu generation and management, restrictions as hard filters
 4. Shopping list by aisle, export (.txt, share, print)
 5. Recipe book: variations, recipes linked to products, import from text and links

@@ -9,10 +9,13 @@ import { isAiConfigured } from './ai/aiService.js';
 import { HttpError } from './lib/errors.js';
 import { chatRoutes } from './routes/chatRoutes.js';
 import { onboardingRoutes } from './routes/onboardingRoutes.js';
+import { pantryRoutes } from './routes/pantryRoutes.js';
+import { productRoutes } from './routes/productRoutes.js';
 import { profileRoutes } from './routes/profileRoutes.js';
+import { purchaseRoutes } from './routes/purchaseRoutes.js';
 
 const app = express();
-app.use(express.json({ limit: '10mb' })); // tickets (images/PDF) will arrive as base64
+app.use(express.json({ limit: '15mb' })); // receipts (images/PDF) arrive as base64
 
 app.get('/api/health', (req, res) => {
   res.json({ ok: true, ai: { configured: isAiConfigured(), provider: config.ai.provider, model: config.ai.model } });
@@ -20,6 +23,9 @@ app.get('/api/health', (req, res) => {
 app.use('/api/profile', profileRoutes);
 app.use('/api/onboarding', onboardingRoutes);
 app.use('/api/chat', chatRoutes);
+app.use('/api/pantry', pantryRoutes);
+app.use('/api/products', productRoutes);
+app.use('/api/purchases', purchaseRoutes);
 
 app.use('/api', (req, res) => {
   res.status(404).json({ error: { message: 'Esa ruta de la API no existe.' } });
@@ -29,6 +35,17 @@ app.use('/api', (req, res) => {
 if (fs.existsSync(config.frontendDist)) {
   app.use(express.static(config.frontendDist));
   app.get('/{*path}', (req, res) => res.sendFile(path.join(config.frontendDist, 'index.html')));
+} else {
+  // Development: the app is served by Vite, not here. Point lost visitors to it.
+  app.get('/', (req, res) => {
+    res
+      .type('html')
+      .send(
+        '<p style="font:18px system-ui;padding:24px">Esto es la API de la app, no la app.<br>' +
+          'Ábrela en <a href="http://localhost:5173">http://localhost:5173</a> ' +
+          '(desde el móvil, con la IP del PC y el puerto 5173).</p>',
+      );
+  });
 }
 
 // Central error handler: every error ends up here as { error: { code?, message } }.
@@ -39,6 +56,9 @@ app.use((error, req, res, next) => {
   }
   if (error instanceof HttpError) {
     return res.status(error.status).json({ error: { message: error.message } });
+  }
+  if (error.type === 'entity.too.large') {
+    return res.status(413).json({ error: { message: 'El archivo es demasiado grande (máximo unos 10 MB).' } });
   }
   if (error.type === 'entity.parse.failed') {
     return res.status(400).json({ error: { message: 'El cuerpo de la petición no es JSON válido.' } });
