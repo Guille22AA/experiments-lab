@@ -30,6 +30,8 @@ async function request(method, path, body) {
 
   if (response.status === 204) return null;
   const data = await response.json().catch(() => null);
+  // Session missing or expired: the AuthGate shows the login screen.
+  if (response.status === 401 && data?.error?.code === 'unauthorized') window.dispatchEvent(new Event('app-unauthorized'));
   if (!response.ok) {
     throw new ApiError(data?.error?.message ?? 'Algo ha fallado. Inténtalo de nuevo.', response.status, data?.error?.code);
   }

@@ -220,3 +220,20 @@ CREATE TABLE IF NOT EXISTS assistant_actions (
   created_at      TEXT NOT NULL,
   resolved_at     TEXT
 );
+
+-- ---------- Access (single user: only a password) ----------
+CREATE TABLE IF NOT EXISTS auth (
+  id            INTEGER PRIMARY KEY CHECK (id = 1),
+  password_hash TEXT NOT NULL, -- scrypt, never the password itself
+  updated_at    TEXT NOT NULL
+);
+
+-- One row per logged-in device. Only a hash of the token is stored, so a
+-- copy of the database does not let anyone log in.
+CREATE TABLE IF NOT EXISTS sessions (
+  token_hash   TEXT PRIMARY KEY,
+  created_at   TEXT NOT NULL,
+  expires_at   TEXT NOT NULL,
+  last_seen_at TEXT NOT NULL,
+  user_agent   TEXT
+);

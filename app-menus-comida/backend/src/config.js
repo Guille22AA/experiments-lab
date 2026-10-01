@@ -11,6 +11,16 @@ export const config = {
   // Built frontend, served by Express in production (`npm run build` at the project root).
   frontendDist: path.resolve(backendRoot, '../frontend/dist'),
 
+  auth: {
+    // Password protection. Only turn it off for the demo or tests.
+    required: process.env.AUTH_REQUIRED !== 'false',
+    sessionDays: Number(process.env.SESSION_DAYS) || 90,
+    // true when the app is served over HTTPS (on the internet): cookies are then only sent encrypted.
+    secureCookies: process.env.COOKIE_SECURE === 'true',
+    // true behind a reverse proxy (Caddy, Nginx...), so the real client IP is used for the login limit.
+    trustProxy: process.env.TRUST_PROXY === 'true',
+  },
+
   ai: {
     provider: (process.env.AI_PROVIDER || 'gemini').toLowerCase(),
     model: process.env.AI_MODEL || 'gemini-flash-latest',

@@ -7,6 +7,8 @@ import './db/connection.js'; // opens the database and creates the tables
 import { AiError } from './ai/aiErrors.js';
 import { isAiConfigured } from './ai/aiService.js';
 import { HttpError } from './lib/errors.js';
+import { requireAuth, sameOriginOnly, securityHeaders } from './lib/security.js';
+import { authRoutes } from './routes/authRoutes.js';
 import { chatRoutes } from './routes/chatRoutes.js';
 import { menuRoutes } from './routes/menuRoutes.js';
 import { onboardingRoutes } from './routes/onboardingRoutes.js';
@@ -18,11 +20,20 @@ import { recipeRoutes } from './routes/recipeRoutes.js';
 import { shoppingListRoutes } from './routes/shoppingListRoutes.js';
 
 const app = express();
+if (config.auth.trustProxy) app.set('trust proxy', 1); // real client IP behind Caddy/Nginx
+app.disable('x-powered-by');
+app.use(securityHeaders);
 app.use(express.json({ limit: '15mb' })); // receipts (images/PDF) arrive as base64
+app.use('/api', sameOriginOnly);
 
+// Public: health check and access (create password / log in).
 app.get('/api/health', (req, res) => {
   res.json({ ok: true, ai: { configured: isAiConfigured(), provider: config.ai.provider, model: config.ai.model } });
 });
+app.use('/api/auth', authRoutes);
+
+// Everything else needs a logged-in device.
+app.use('/api', requireAuth);
 app.use('/api/profile', profileRoutes);
 app.use('/api/onboarding', onboardingRoutes);
 app.use('/api/chat', chatRoutes);
@@ -76,4 +87,5 @@ app.use((error, req, res, next) => {
 app.listen(config.port, config.host, () => {
   console.log(`API listening on http://${config.host}:${config.port}`);
   if (!isAiConfigured()) console.warn('[ai] No API key: the assistant is disabled until GEMINI_API_KEY is set in backend/.env');
+  if (!config.auth.required) console.warn('[auth] AUTH_REQUIRED=false: the app has NO password. Never expose it like this.');
 });

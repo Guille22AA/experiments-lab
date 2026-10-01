@@ -2,6 +2,7 @@ import { RotateCcw } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { api } from '../api/client.js';
 import ActionHistory from '../components/assistant/ActionHistory.jsx';
+import SecuritySettings from '../components/auth/SecuritySettings.jsx';
 import ProfileForm from '../components/profile/ProfileForm.jsx';
 import { THEME_LABELS } from '../constants/labels.js';
 import { useProfile } from '../context/ProfileContext.jsx';
@@ -48,6 +49,11 @@ export default function SettingsPage() {
         <h2>Cambios del asistente</h2>
         <p className="muted">Lo que has aceptado en el chat. Puedes deshacerlo.</p>
         <ActionHistory />
+      </section>
+
+      <section className="card">
+        <h2>Seguridad</h2>
+        <SecuritySettings />
       </section>
 
       <section className="card">

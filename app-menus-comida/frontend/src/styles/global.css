@@ -1743,3 +1743,29 @@ h3 {
   padding: 8px 16px 0;
   background: var(--surface);
 }
+
+/* ---------- Access (login) ---------- */
+.auth-screen h1 {
+  margin: 0;
+}
+
+.auth-screen > p {
+  max-width: 360px;
+  margin: 0;
+}
+
+.auth-form {
+  width: 100%;
+  max-width: 360px;
+  text-align: left;
+}
+
+.password-input {
+  display: flex;
+  gap: 4px;
+}
+
+.password-input .input {
+  flex: 1;
+  min-width: 0;
+}

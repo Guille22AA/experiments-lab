@@ -25,6 +25,7 @@ A personal web app that plans what I cook and what I buy, with an AI assistant t
 - **Shopping list by aisle**, fed by the menu, the pantry or by hand; exported as text, `.txt` or a printable page.
 - **Recipe book that grows with use:** AI dishes I cook, my own recipes, recipes told informally in the chat, or imported from a link (schema.org JSON-LD first, AI only as a fallback). Variations, recipes linked to a product, and quick feedback instead of stars ("too slow", "don't propose it again") that the planner takes into account.
 - **Is it healthy?** Nutri-Score, processing level and plain-language notes from [Open Food Facts](https://world.openfoodfacts.org) ("this drink is almost all sugar"), plus approximate prices from the receipts.
+- **Password protected.** Single user: the password is created the first time, stored with scrypt, and each device keeps a 90-day session (httpOnly cookie). Login attempts are limited, changes must come from the app itself (CSRF check) and basic security headers are set. Forgot it? `npm run reset-password` on the PC.
 - **Usable without AI:** if the provider is down or the free quota runs out, everything except the assistant keeps working.
 
 ### Design decisions
@@ -72,6 +73,8 @@ All documented in [`backend/.env.example`](backend/.env.example):
 | `GEMINI_API_KEY` | — | Free key from [Google AI Studio](https://aistudio.google.com/apikey) |
 | `PORT` / `HOST` | `3001` / `127.0.0.1` | Where the API listens |
 | `DB_PATH` | `./data/app.db` | SQLite file |
+| `AUTH_REQUIRED` | `true` | Ask for the password (only `false` for local demos) |
+| `COOKIE_SECURE` / `TRUST_PROXY` | `false` | Set to `true` when served over HTTPS behind a reverse proxy |
 
 API keys live only in `backend/.env` (git-ignored); the frontend never sees them.
 
@@ -99,7 +102,7 @@ docs/       full spec, data model and screenshots
 
 ## Future work
 
-- **Authentication and multi-user.** There is no login: it is meant for one person on a home network, and must be added before any deployment to the internet (along with HTTPS and rate limiting of the AI endpoints).
+- **Multi-user.** Today there is one user with a password. Before an internet deployment: HTTPS and rate limiting of the AI endpoints.
 - Internet deployment (configuration is already environment-based).
 - With HTTPS: offline shopping list, sharing via the Web Share API on the phone and barcode scanning with the camera.
 - Notifications and reminders.

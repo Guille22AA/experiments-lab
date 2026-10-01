@@ -11,7 +11,8 @@
     "build": "npm run build -w frontend",
     "start": "npm run start -w backend",
     "demo": "node backend/scripts/demoData.js && npm run demo:start",
-    "demo:start": "concurrently -n api,web -c blue,green \"npm run demo -w backend\" \"npm run dev -w frontend\""
+    "demo:start": "concurrently -n api,web -c blue,green \"npm run demo -w backend\" \"npm run dev -w frontend\"",
+    "reset-password": "node --env-file-if-exists=backend/.env backend/scripts/resetPassword.js"
   },
   "devDependencies": {
     "concurrently": "^9.2.4"
