@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T11:34:04.909Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-02T17:01:36.695Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -21,6 +21,19 @@
           "firstSeen": "2026-10-01T22:07:05.037Z"
         },
         {
+          "title": "El Congreso tumba el ‘decreto-trampa’ de vivienda",
+          "link": "https://diariosocialista.net/2026/10/02/el-congreso-tumba-el-decreto-trampa-de-vivienda/",
+          "source": "Diario Socialista",
+          "summary": "PSOE y Sumar ofrecen un histórico regalo fiscal a los rentistas a cambio de “parches” temporales, pero Junts, PP, Vox y UPN lo derriban por electoralismo.",
+          "sources": [
+            "Diario Socialista",
+            "El País",
+            "Europa Press",
+            "El Salto"
+          ],
+          "firstSeen": "2026-10-02T17:01:36.695Z"
+        },
+        {
           "title": "Moncloa difunde un registro de llamadas para intentar contrarrestar a Juan Vivas: \"Todas fueron atendidas\"",
           "link": "https://www.20minutos.es/nacional/moncloa-difunde-un-registro-nueve-llamadas-para-desmontar-version-vivas-todas-fueron-diligentemente-atendidas_7043652_0.html",
           "source": "20minutos",
@@ -33,6 +46,18 @@
           "firstSeen": "2026-10-01T22:07:05.037Z"
         },
         {
+          "title": "Sánchez, a los grupos que han tumbado los decretos: “Las historia les juzgará antes de lo que creen y con más contundencia de la que imaginan”",
+          "link": "https://elpais.com/espana/2026-10-02/sanchez-a-los-grupos-que-han-tumbado-los-decretos-de-vivienda-las-historia-les-juzgara-antes-de-lo-que-creen-y-con-mas-contundencia-de-la-que-imaginan.html",
+          "source": "El País",
+          "summary": "El presidente del Gobierno subió al estrado del Congreso de los Diputados minutos antes de que comenzara la votación para dar un último empujón a las normas, que terminaron cayendo",
+          "sources": [
+            "El País",
+            "elDiario.es",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-02T17:01:36.695Z"
+        },
+        {
           "title": "Netanyahu dice que el copiloto era un \"suicida islamista radical\" que quería \"otro 11-S\"",
           "link": "https://www.20minutos.es/internacional/netanyahu-asegura-que-fontanero-israeli-que-tomo-los-mandos-avion-flydubai-evito-otro-11-s_7043776_0.html",
           "source": "20minutos",
@@ -42,78 +67,56 @@
             "Europa Press"
           ],
           "firstSeen": "2026-10-01T22:07:05.037Z"
+        }
+      ],
+      "items": [
+        {
+          "title": "Reacciones a los decretos de vivienda y las acampadas en directo | Los acampados en Sol debaten el futuro de las protestas: “Aguantaremos lo que sea necesario”",
+          "link": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html",
+          "source": "El País",
+          "published": "2026-10-02T16:56:12.000Z"
         },
         {
-          "title": "Sánchez valora convocar elecciones el 29 de noviembre",
-          "link": "https://diariosocialista.net/2026/10/02/sanchez-valora-convocar-elecciones-el-29-de-noviembre/",
-          "source": "Diario Socialista",
-          "summary": "El Gobierno baraja las elecciones anticipadas tras el vuelco de Junts contra los decretos “de vivienda”. Mientras, la acampada de Sol crece y se prepara para una gran movilización este fin de semana.",
-          "sources": [
-            "Diario Socialista",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-02T11:34:04.909Z"
+          "title": "Sí que era la hora de la verdad",
+          "link": "https://www.eldiario.es/opinion/zona-critica/si-hora_129_13557633.html",
+          "source": "elDiario.es",
+          "published": "2026-10-02T16:38:31.000Z"
+        },
+        {
+          "title": "FOTOS | Caras de decepción y llaves en alto en la calle y abrazos en el Congreso: las imágenes de la jornada",
+          "link": "https://www.eldiario.es/politica/fotos-caras-decepcion-llaves-alto-calle-abrazos-congreso-imagenes-jornada_3_13557950.html",
+          "source": "elDiario.es",
+          "published": "2026-10-02T16:24:52.000Z"
+        },
+        {
+          "title": "Sindicatos de estudiantes continuarán con las movilizaciones tras el fracaso de su reunión con el Gobierno francés",
+          "link": "https://www.europapress.es/internacional/noticia-sindicatos-estudiantes-continuaran-movilizaciones-fracaso-reunion-gobierno-frances-20261002175257.html",
+          "source": "Europa Press",
+          "published": "2026-10-02T15:52:57.000Z"
         },
         {
           "title": "Última hora de la votación de los decretos sobre vivienda en el Congreso, en directo | - Diario Público",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG5HVG1MVXF2THpOamtlYkY0eERZc0hmZUZxSS1WV0gxTWpHRW5idWdFNTZJVk8tZVdHZGhGQUV2bHprMjhLNVRqSVRsdGFPTkdKMmpGRU5vWkJaMnlReXE1N2RydFRqQUo1RXBZY2dxa1JWR0theUVVRDhWek9wTHJuTDM3RGIyN25PbTRQV2RTa21SclRENEcwVTNUbTDSAaQBQVVfeXFMTm1sVUQzakhsY0ZXS3duWjJreG5od2JfaC1xRGlRUWZUWHItR2pkOEJZLUlHOVJEMkFuREVGbXdKRHlPOHBZTC14NnA5NjZ1cFRmQ1MzT3poTUk5YnhrM3NVTzEydjBGaGFOU2piY1NWVnpPa2dXcnN3Zk1iWThUbmZDZXRHeVM3RGRXTFZDMUtGcnBHbmF6QkttZG1ZTVZCMnowMVk?oc=5",
           "source": "Público",
-          "summary": "Última hora de la votación de los decretos sobre vivienda en el Congreso, en directo | Diario Público",
-          "sources": [
-            "Público",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-02T11:34:04.909Z"
-        }
-      ],
-      "items": [
-        {
-          "title": "Votación de los decretos de vivienda y las acampadas, en directo | El Gobierno asume el no de Junts: “Votan en contra porque entre su clientela están los especuladores”",
-          "link": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-02T11:32:26.000Z"
+          "published": "2026-10-02T15:52:16.000Z"
         },
         {
-          "title": "El decreto “de vivienda” esconde un regalo fiscal a los caseros: deducción del 100%",
-          "link": "https://diariosocialista.net/2026/10/02/el-decreto-de-vivienda-esconde-un-regalo-fiscal-a-los-caseros-deduccion-del-100/",
-          "source": "Diario Socialista",
-          "published": "2026-10-02T11:29:20.000Z"
-        },
-        {
-          "title": "La jueza eleva al TSJM el recurso de Ayuso por la acampada de Sol por falta de competencia",
-          "link": "https://www.europapress.es/madrid/noticia-jueza-eleva-tsjm-recurso-ayuso-acampada-sol-falta-competencia-20261002131725.html",
-          "source": "Europa Press",
-          "published": "2026-10-02T11:17:25.000Z"
-        },
-        {
-          "title": "De temer por su alquiler a estrenar casa con un bebé en camino: Jocelyn, Julio y familia reciben la llave 5.000 de EMVS en Madrid",
-          "link": "https://www.20minutos.es/madrid/temer-por-su-alquiler-estrenar-casa-canaveral-con-un-bebe-camino-jocelyn-julio-familia-reciben-llave-5-000-emvs_7044160_0.html",
+          "title": "Activistas lanzan octavillas tras decaer los dos decretos de vivienda: \"Los fondos buitres gobiernan el Congreso\"",
+          "link": "https://www.20minutos.es/nacional/activistas-lanzan-octavillas-hemiciclo-tras-decaer-los-dos-decretos-vivienda-los-fondos-buitres-gobiernan-congreso_7044294_0.html",
           "source": "20minutos",
-          "published": "2026-10-02T11:15:42.000Z"
+          "published": "2026-10-02T15:51:57.000Z"
         },
         {
-          "title": "El debate de los decretos se convierte en un juicio demoledor contra Junts",
-          "link": "https://elpais.com/espana/2026-10-02/el-debate-de-los-decretos-se-convierte-en-un-juicio-demoledor-contra-junts.html",
+          "title": "Europa libera reservas de diésel para abaratarlo y evitar que Trump vete las exportaciones",
+          "link": "https://elpais.com/internacional/2026-10-02/europa-libera-reservas-diesel-para-rebajar-su-precio-y-evitar-el-veto-de-trump-a-las-exportaciones.html",
           "source": "El País",
-          "published": "2026-10-02T11:12:54.000Z"
+          "published": "2026-10-02T15:49:19.000Z"
         },
         {
-          "title": "'Horizonte' se convierte en líder de audiencia por primera vez en Cuatro y supera a 'La Revuelta' y 'El Hormiguero' gracias a Ayuso",
-          "link": "https://www.20minutos.es/television/horizonte-se-convierte-lider-audiencia-por-primera-vez-cuatro-supera-revuelta-hormiguero-gracias-ayuso_7044174_0.html",
+          "title": "Desahucian a una familia con dos menores en Vitoria mientras se debatían los decretos de vivienda en el Congreso",
+          "link": "https://www.20minutos.es/pais-vasco/desahucian-una-familia-con-dos-menores-vitoria-mientras-se-debatian-los-decretos-vivienda-congreso_7044323_0.html",
           "source": "20minutos",
-          "published": "2026-10-02T11:09:54.000Z"
-        },
-        {
-          "title": "Junts presenta un texto alternativo a los decretos sobre vivienda: “No aceptamos chantajes de los extremos”",
-          "link": "https://elpais.com/espana/catalunya/2026-10-02/junts-presenta-un-texto-alternativo-para-salvar-in-extremis-un-acuerdo-sobre-vivienda.html",
-          "source": "El País",
-          "published": "2026-10-02T10:58:30.000Z"
-        },
-        {
-          "title": "Junts ignora la última petición del Gobierno y mantiene su 'no' a los decretos de vivienda",
-          "link": "https://www.eldiario.es/politica/junts-ignora-ultima-peticion-gobierno-mantiene-no-decretos-vivienda-plantear-nuevas-medidas_1_13556502.html",
-          "source": "elDiario.es",
-          "published": "2026-10-02T10:43:00.000Z"
+          "published": "2026-10-02T15:40:04.000Z"
         }
       ]
     },
@@ -180,52 +183,52 @@
       ],
       "items": [
         {
-          "title": "\"No iba a permitir que los demás murieran\": el capitán del vuelo de Dubái a Israel relata el ataque de su copiloto en la cabina",
-          "link": "https://www.bbc.com/mundo/articles/c6eq8qqr7v89o?at_medium=RSS&at_campaign=rss",
+          "title": "El fiscal que investiga al asesor ultra Fernando Cerimedo acaba detenido por una supuesta acusación de la DEA",
+          "link": "https://www.eldiario.es/internacional/ultraderecha-fernando-cerimedo-rodrigo-paz-javier-milei_1_13557512.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-02T16:10:39.000Z"
+        },
+        {
+          "title": "El Parlamento de España vota en contra de los dos decretos sobre vivienda propuestos por el gobierno de Pedro Sánchez",
+          "link": "https://www.bbc.com/mundo/articles/cqj9klj2zy29o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-02T10:43:59.000Z"
+          "published": "2026-10-02T15:30:15.000Z"
         },
         {
-          "title": "Zelenski insiste en su estrategia y pide más presión sobre Putin con ayuda militar para Ucrania y nuevas sanciones",
-          "link": "https://www.20minutos.es/internacional/zelenski-insiste-su-estrategia-pide-mas-presion-sobre-putin-con-ayuda-militar-para-ucrania-nuevas-sanciones_7044050_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-02T08:17:11.000Z"
-        },
-        {
-          "title": "Seúl exige disculpas a Ucrania por romper acuerdo de confidencialidad",
-          "link": "https://www.dw.com/es/seúl-exige-disculpas-a-ucrania-por-romper-acuerdo-de-confidencialidad/a-79509701?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-02T04:11:00.000Z"
-        },
-        {
-          "title": "El voto del odio marca las elecciones presidenciales en Brasil",
-          "link": "https://elpais.com/america/2026-10-02/el-voto-del-odio-marca-las-elecciones-presidenciales-en-brasil.html",
-          "source": "El País Internacional",
-          "published": "2026-10-02T04:00:00.000Z"
-        },
-        {
-          "title": "Macarena se queda en casa: primer desahucio paralizado por los ‘decretos Maricarmen’ en España",
-          "link": "https://www.france24.com/es/europa/20261002-macarena-se-queda-en-casa-primer-desahucio-paralizado-por-los-decretos-maricarmen-en-espa%C3%B1a",
+          "title": "‘Voces de debajo de los escombros’: relatos de Gaza a París",
+          "link": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261002-voces-de-debajo-de-los-escombros-relatos-de-gaza-a-par%C3%ADs",
           "source": "France 24",
-          "published": "2026-10-02T03:32:28.000Z"
+          "published": "2026-10-02T15:27:18.000Z"
         },
         {
-          "title": "Zelenski a EL PAÍS, ante la nueva ofensiva rusa contra Kiev: “Putin no teme a los europeos”",
-          "link": "https://elpais.com/internacional/2026-10-02/zelenski-a-el-pais-ante-la-nueva-ofensiva-rusa-contra-kiev-putin-no-teme-a-los-europeos.html",
-          "source": "El País Internacional",
-          "published": "2026-10-02T03:30:01.000Z"
+          "title": "España: Congreso rechaza decretos para afrontar crisis de la vivienda",
+          "link": "https://www.dw.com/es/españa-congreso-rechaza-decretos-para-afrontar-crisis-de-la-vivienda/a-79522931?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-02T14:58:00.000Z"
         },
         {
-          "title": "El aterrizaje del avión en Arabia Saudí muestra los límites de su cooperación con Israel",
-          "link": "https://elpais.com/internacional/2026-10-02/el-aterrizaje-del-avion-en-arabia-saudi-muestra-los-limites-de-su-cooperacion-con-israel.html",
-          "source": "El País Internacional",
-          "published": "2026-10-02T03:30:01.000Z"
+          "title": "\"Lo que Trump ha construído\": 'Time Magazine'",
+          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261002-lo-que-trump-ha-constru%C3%ADdo-time-magazine",
+          "source": "France 24",
+          "published": "2026-10-02T14:53:40.000Z"
         },
         {
-          "title": "Sociedades pantalla, empresas de Kirguistán y criptomonedas: el entramado fantasma del Kremlin para evadir las sanciones",
-          "link": "https://elpais.com/internacional/2026-10-02/sociedades-pantalla-empresas-de-kirguistan-y-criptomonedas-el-entramado-fantasma-del-kremlin-para-evadir-las-sanciones.html",
-          "source": "El País Internacional",
-          "published": "2026-10-02T03:30:01.000Z"
+          "title": "\"No iba a dejar que otros murieran\": el piloto indio revela detalles del ataque en el vuelo de Flydubai",
+          "link": "https://www.france24.com/es/medio-oriente/20261002-no-iba-a-dejar-que-otros-murieran-el-piloto-indio-revela-detalles-del-ataque-en-el-vuelo-de-flydubai",
+          "source": "France 24",
+          "published": "2026-10-02T14:46:54.000Z"
+        },
+        {
+          "title": "Ceuta: denuncias de violencia y abandono entre los migrantes",
+          "link": "https://www.france24.com/es/programas/enlace/20261002-ceuta-denuncias-de-violencia-y-abandono-entre-los-migrantes",
+          "source": "France 24",
+          "published": "2026-10-02T14:11:51.000Z"
+        },
+        {
+          "title": "\"Tenemos miedo a perder la vida aquí\": los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
+          "link": "https://www.bbc.com/mundo/articles/c8046w1kgpgwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-02T14:03:19.000Z"
         }
       ]
     }
