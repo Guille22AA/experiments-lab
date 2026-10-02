@@ -61,6 +61,8 @@ npm run dev
 
 Production-like run: `npm run build && npm start` (Express serves the built frontend).
 
+**Deploying to the internet for free:** [`docs/DEPLOY.md`](docs/DEPLOY.md) (Spanish) sets it up on Google Cloud's always-free e2-micro with one script ([`deploy/setup-server.sh`](deploy/setup-server.sh)): Caddy for automatic HTTPS, a DuckDNS name, a systemd service and daily SQLite backups.
+
 ### Environment variables
 
 All documented in [`backend/.env.example`](backend/.env.example):
@@ -103,7 +105,6 @@ docs/       full spec, data model and screenshots
 ## Future work
 
 - **Multi-user.** Today there is one user with a password. Before an internet deployment: HTTPS and rate limiting of the AI endpoints.
-- Internet deployment (configuration is already environment-based).
 - With HTTPS: offline shopping list, sharing via the Web Share API on the phone and barcode scanning with the camera.
 - Notifications and reminders.
 - Exact quantities and expiry dates in the pantry.
