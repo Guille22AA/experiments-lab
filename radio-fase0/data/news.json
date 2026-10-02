@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-01T22:07:05.037Z",
-  "edition": "mañana",
+  "updatedAt": "2026-10-02T11:34:04.909Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
@@ -42,56 +42,78 @@
             "Europa Press"
           ],
           "firstSeen": "2026-10-01T22:07:05.037Z"
+        },
+        {
+          "title": "Sánchez valora convocar elecciones el 29 de noviembre",
+          "link": "https://diariosocialista.net/2026/10/02/sanchez-valora-convocar-elecciones-el-29-de-noviembre/",
+          "source": "Diario Socialista",
+          "summary": "El Gobierno baraja las elecciones anticipadas tras el vuelco de Junts contra los decretos “de vivienda”. Mientras, la acampada de Sol crece y se prepara para una gran movilización este fin de semana.",
+          "sources": [
+            "Diario Socialista",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-02T11:34:04.909Z"
+        },
+        {
+          "title": "Última hora de la votación de los decretos sobre vivienda en el Congreso, en directo | - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG5HVG1MVXF2THpOamtlYkY0eERZc0hmZUZxSS1WV0gxTWpHRW5idWdFNTZJVk8tZVdHZGhGQUV2bHprMjhLNVRqSVRsdGFPTkdKMmpGRU5vWkJaMnlReXE1N2RydFRqQUo1RXBZY2dxa1JWR0theUVVRDhWek9wTHJuTDM3RGIyN25PbTRQV2RTa21SclRENEcwVTNUbTDSAaQBQVVfeXFMTm1sVUQzakhsY0ZXS3duWjJreG5od2JfaC1xRGlRUWZUWHItR2pkOEJZLUlHOVJEMkFuREVGbXdKRHlPOHBZTC14NnA5NjZ1cFRmQ1MzT3poTUk5YnhrM3NVTzEydjBGaGFOU2piY1NWVnpPa2dXcnN3Zk1iWThUbmZDZXRHeVM3RGRXTFZDMUtGcnBHbmF6QkttZG1ZTVZCMnowMVk?oc=5",
+          "source": "Público",
+          "summary": "Última hora de la votación de los decretos sobre vivienda en el Congreso, en directo | Diario Público",
+          "sources": [
+            "Público",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-02T11:34:04.909Z"
         }
       ],
       "items": [
         {
-          "title": "Acampadas en España por la vivienda, en directo | El Gobierno mantiene los decretos y reta a PP, Vox y Junts a “retratarse” en la votación",
-          "link": "https://elpais.com/espana/2026-10-01/acampadas-en-espana-por-la-vivienda-en-directo.html",
+          "title": "Votación de los decretos de vivienda y las acampadas, en directo | El Gobierno asume el no de Junts: “Votan en contra porque entre su clientela están los especuladores”",
+          "link": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html",
           "source": "El País",
-          "published": "2026-10-01T21:58:43.000Z"
+          "published": "2026-10-02T11:32:26.000Z"
         },
         {
-          "title": "El Gobierno acuerda no retirar ninguno de los decretos de vivienda tras el rechazo de Junts: \"España no puede esperar más\"",
-          "link": "https://www.eldiario.es/politica/gobierno-acuerda-no-retirar-decretos-vivienda-rechazo-junts-espana-no-esperar_1_13555448.html",
-          "source": "elDiario.es",
-          "published": "2026-10-01T21:34:55.000Z"
+          "title": "El decreto “de vivienda” esconde un regalo fiscal a los caseros: deducción del 100%",
+          "link": "https://diariosocialista.net/2026/10/02/el-decreto-de-vivienda-esconde-un-regalo-fiscal-a-los-caseros-deduccion-del-100/",
+          "source": "Diario Socialista",
+          "published": "2026-10-02T11:29:20.000Z"
         },
         {
-          "title": "Trump desliza que el copiloto del vuelo de Flydubai estaría relacionado con Irán y amenaza a Teherán con un ataque \"muy fuerte\"",
-          "link": "https://www.20minutos.es/internacional/trump-desliza-que-copiloto-vuelo-tel-aviv-estaria-relacionado-con-iran-amenaza-teheran-con-un-ataque-muy-fuerte_7043955_0.html",
-          "source": "20minutos",
-          "published": "2026-10-01T21:27:29.000Z"
-        },
-        {
-          "title": "Ayuso ve en la acampada de Sol un complot para perpetuar a Sánchez: “Se nos ha colado un dictador”",
-          "link": "https://elpais.com/espana/madrid/2026-10-01/ayuso-ve-en-la-acampada-de-sol-un-complot-para-perpetuar-a-sanchez-se-nos-ha-colado-un-dictador.html",
-          "source": "El País",
-          "published": "2026-10-01T21:05:13.000Z"
-        },
-        {
-          "title": "Junts rechaza los decretos de vivienda del Gobierno y pide su retirada",
-          "link": "https://www.europapress.es/catalunya/noticia-av-junts-rechaza-decretos-vivienda-gobierno-pide-retirada-20261001223258.html",
+          "title": "La jueza eleva al TSJM el recurso de Ayuso por la acampada de Sol por falta de competencia",
+          "link": "https://www.europapress.es/madrid/noticia-jueza-eleva-tsjm-recurso-ayuso-acampada-sol-falta-competencia-20261002131725.html",
           "source": "Europa Press",
-          "published": "2026-10-01T20:32:58.000Z"
+          "published": "2026-10-02T11:17:25.000Z"
         },
         {
-          "title": "La mayoría del PP de Ayuso en la Asamblea veta la comisión de investigación sobre Madrid Network",
-          "link": "https://www.eldiario.es/madrid/mayoria-pp-ayuso-asamblea-veta-comision-investigacion-madrid-network_1_13554263.html",
-          "source": "elDiario.es",
-          "published": "2026-10-01T20:32:30.000Z"
-        },
-        {
-          "title": "Miles de personas alzan la voz con cacerolas en mano frente a los ayuntamientos y exigen la convalidación de los dos decretos",
-          "link": "https://www.20minutos.es/nacional/miles-personas-alzan-voz-con-cacerolas-mano-frente-los-ayuntamientos-exigen-convalidacion-los-decretos-vivienda_7043940_0.html",
+          "title": "De temer por su alquiler a estrenar casa con un bebé en camino: Jocelyn, Julio y familia reciben la llave 5.000 de EMVS en Madrid",
+          "link": "https://www.20minutos.es/madrid/temer-por-su-alquiler-estrenar-casa-canaveral-con-un-bebe-camino-jocelyn-julio-familia-reciben-llave-5-000-emvs_7044160_0.html",
           "source": "20minutos",
-          "published": "2026-10-01T20:30:36.000Z"
+          "published": "2026-10-02T11:15:42.000Z"
         },
         {
-          "title": "Última hora de la acampada en Sol y los decretos de vivienda, en directo | El apoyo de PNV y Coalición Canaria deja en manos de Junts la aprobación del decreto clave de vivienda - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3lCaHE5dHdKb2JDTzhjdDlfWS1DTktGS3RHU0doQ0t0N0NlTW1tV2ZTVmZWNllpYl9naEtBVzEzVXlrUjA1cUIwNUtHZlNYenRRd3JnY2JtamhNRzlMendETm5HZmFqQ19kQ0xYeUt2Ymw1R2FRLXp3N3BtT1c1Wi12Z3prekE3a3R3bG1HZi3SAZYBQVVfeXFMTWFSUlFaV2VrbkE3WFlGQmdsaEZ6S3pWdWRYSEVpXzByc0hXQWp2TzAyRE40djRkdGJKZ3h2S2UyTTlQTXljYzhYdXA2Uk9mdDZPc25CRm9rZlhYQk83TUZnSGoxVjdUV0Q3eE1oVkVFUldxcjdPMng4SjVpVGdlaURXLVI2anVpQ1JtUS1aNjJCSmtmTExB?oc=5",
-          "source": "Público",
-          "published": "2026-10-01T19:00:44.000Z"
+          "title": "El debate de los decretos se convierte en un juicio demoledor contra Junts",
+          "link": "https://elpais.com/espana/2026-10-02/el-debate-de-los-decretos-se-convierte-en-un-juicio-demoledor-contra-junts.html",
+          "source": "El País",
+          "published": "2026-10-02T11:12:54.000Z"
+        },
+        {
+          "title": "'Horizonte' se convierte en líder de audiencia por primera vez en Cuatro y supera a 'La Revuelta' y 'El Hormiguero' gracias a Ayuso",
+          "link": "https://www.20minutos.es/television/horizonte-se-convierte-lider-audiencia-por-primera-vez-cuatro-supera-revuelta-hormiguero-gracias-ayuso_7044174_0.html",
+          "source": "20minutos",
+          "published": "2026-10-02T11:09:54.000Z"
+        },
+        {
+          "title": "Junts presenta un texto alternativo a los decretos sobre vivienda: “No aceptamos chantajes de los extremos”",
+          "link": "https://elpais.com/espana/catalunya/2026-10-02/junts-presenta-un-texto-alternativo-para-salvar-in-extremis-un-acuerdo-sobre-vivienda.html",
+          "source": "El País",
+          "published": "2026-10-02T10:58:30.000Z"
+        },
+        {
+          "title": "Junts ignora la última petición del Gobierno y mantiene su 'no' a los decretos de vivienda",
+          "link": "https://www.eldiario.es/politica/junts-ignora-ultima-peticion-gobierno-mantiene-no-decretos-vivienda-plantear-nuevas-medidas_1_13556502.html",
+          "source": "elDiario.es",
+          "published": "2026-10-02T10:43:00.000Z"
         }
       ]
     },
@@ -121,56 +143,89 @@
             "BBC Mundo"
           ],
           "firstSeen": "2026-10-01T22:07:05.037Z"
+        },
+        {
+          "title": "Al menos 40 profesores heridos y casi 2.000 detenidos por las protestas estudiantiles en Francia",
+          "link": "https://www.20minutos.es/internacional/menos-40-profesores-heridos-casi-2-000-detenidos-por-las-protestas-estudiantiles-francia_7044158_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El ministro de educación francés considera que \"la gente joven necesita sentirse escuchada\", y ve necesario \"buscar soluciones muy concretas a nivel local\".",
+          "sources": [
+            "20minutos Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-02T11:34:04.909Z"
+        },
+        {
+          "title": "Protestas estudiantiles en Francia: \"Tú rompes, tus padres pagan\", reclama el Gobierno",
+          "link": "https://www.dw.com/es/protestas-estudiantiles-en-francia-tú-rompes-tus-padres-pagan-reclama-el-gobierno/a-79512770?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Casi 400 escuelas de secundaria están cerradas en Francia, tras una semana de protestas estudiantiles que dejaron decenas de empleados educativos heridos, unos 2.000 arrestados y daños materiales, según las autoridades.",
+          "sources": [
+            "DW",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-02T11:34:04.909Z"
+        },
+        {
+          "title": "Ucrania emplea contra Rusia su primer misil balístico táctico FP-7",
+          "link": "https://www.dw.com/es/ucrania-emplea-contra-rusia-su-primer-misil-balístico-táctico-fp-7/a-79509462?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "El misil FP-7, fabricado en Ucrania, es capaz de transportar 200 kilos de explosivos y está diseñado para alcanzar objetivos situados a 250 kilómetros de distancia.",
+          "sources": [
+            "DW",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-02T11:34:04.909Z"
         }
       ],
       "items": [
         {
-          "title": "Mujeres en Cisjordania sufren abortos espotáneos por los bloqueos y ataques israelíes",
-          "link": "https://www.france24.com/es/video/20261001-mujeres-en-cisjordania-sufren-abortos-espot%C3%A1neos-por-los-bloqueos-y-ataques-israel%C3%ADes",
-          "source": "France 24",
-          "published": "2026-10-01T21:46:25.000Z"
-        },
-        {
-          "title": "Un ataque con machetes: dos exalumnos entran a una secundaria en México y matan a la subdirectora",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261001-un-ataque-con-machetes-dos-exalumnos-entran-a-una-secundaria-en-m%C3%A9xico-y-matan-a-la-subdirectora",
-          "source": "France 24",
-          "published": "2026-10-01T20:13:26.000Z"
-        },
-        {
-          "title": "Angra dos Reis, la ciudad de veraneo de la familia Bolsonaro convertida en bastión de la extrema derecha en Brasil",
-          "link": "https://www.eldiario.es/internacional/angra-reis-ciudad-veraneo-familia-bolsonaro-convertida-bastion-extrema-derecha-brasil_1_13552397.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-01T20:05:12.000Z"
-        },
-        {
-          "title": "Etiopía y Eritrea rompen relaciones diplomáticas en medio de acusaciones",
-          "link": "https://www.dw.com/es/etiopía-y-eritrea-rompen-relaciones-diplomáticas-en-medio-de-acusaciones/a-79508769?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-01T19:59:00.000Z"
-        },
-        {
-          "title": "Zelenski desata una crisis diplomática con Corea del Sur por dos prisioneros norcoreanos",
-          "link": "https://www.dw.com/es/zelenski-desata-una-crisis-diplomática-con-corea-del-sur-por-dos-prisioneros-norcoreanos/a-79508238?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-01T19:49:00.000Z"
-        },
-        {
-          "title": "Trastorno de estrés postraumático en Ucrania: la guerra deja sus huellas en la psiquis",
-          "link": "https://www.dw.com/es/trastorno-de-estrés-postraumático-en-ucrania-la-guerra-deja-sus-huellas-en-la-psiquis/a-79508331?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-01T19:48:00.000Z"
-        },
-        {
-          "title": "Informe desde París: la agenda de Milei en la Argentina Week en Francia",
-          "link": "https://www.france24.com/es/video/20261001-informe-desde-par%C3%ADs-la-agenda-de-milei-en-la-argentina-week-en-francia",
-          "source": "France 24",
-          "published": "2026-10-01T19:29:50.000Z"
-        },
-        {
-          "title": "Por qué arrestaron al fiscal general en Bolivia días después de que EE.UU. le negara la entrada al país (y qué casos investigaba)",
-          "link": "https://www.bbc.com/mundo/articles/cwlyky680kg8o?at_medium=RSS&at_campaign=rss",
+          "title": "\"No iba a permitir que los demás murieran\": el capitán del vuelo de Dubái a Israel relata el ataque de su copiloto en la cabina",
+          "link": "https://www.bbc.com/mundo/articles/c6eq8qqr7v89o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-01T19:24:43.000Z"
+          "published": "2026-10-02T10:43:59.000Z"
+        },
+        {
+          "title": "Zelenski insiste en su estrategia y pide más presión sobre Putin con ayuda militar para Ucrania y nuevas sanciones",
+          "link": "https://www.20minutos.es/internacional/zelenski-insiste-su-estrategia-pide-mas-presion-sobre-putin-con-ayuda-militar-para-ucrania-nuevas-sanciones_7044050_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-02T08:17:11.000Z"
+        },
+        {
+          "title": "Seúl exige disculpas a Ucrania por romper acuerdo de confidencialidad",
+          "link": "https://www.dw.com/es/seúl-exige-disculpas-a-ucrania-por-romper-acuerdo-de-confidencialidad/a-79509701?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-02T04:11:00.000Z"
+        },
+        {
+          "title": "El voto del odio marca las elecciones presidenciales en Brasil",
+          "link": "https://elpais.com/america/2026-10-02/el-voto-del-odio-marca-las-elecciones-presidenciales-en-brasil.html",
+          "source": "El País Internacional",
+          "published": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "title": "Macarena se queda en casa: primer desahucio paralizado por los ‘decretos Maricarmen’ en España",
+          "link": "https://www.france24.com/es/europa/20261002-macarena-se-queda-en-casa-primer-desahucio-paralizado-por-los-decretos-maricarmen-en-espa%C3%B1a",
+          "source": "France 24",
+          "published": "2026-10-02T03:32:28.000Z"
+        },
+        {
+          "title": "Zelenski a EL PAÍS, ante la nueva ofensiva rusa contra Kiev: “Putin no teme a los europeos”",
+          "link": "https://elpais.com/internacional/2026-10-02/zelenski-a-el-pais-ante-la-nueva-ofensiva-rusa-contra-kiev-putin-no-teme-a-los-europeos.html",
+          "source": "El País Internacional",
+          "published": "2026-10-02T03:30:01.000Z"
+        },
+        {
+          "title": "El aterrizaje del avión en Arabia Saudí muestra los límites de su cooperación con Israel",
+          "link": "https://elpais.com/internacional/2026-10-02/el-aterrizaje-del-avion-en-arabia-saudi-muestra-los-limites-de-su-cooperacion-con-israel.html",
+          "source": "El País Internacional",
+          "published": "2026-10-02T03:30:01.000Z"
+        },
+        {
+          "title": "Sociedades pantalla, empresas de Kirguistán y criptomonedas: el entramado fantasma del Kremlin para evadir las sanciones",
+          "link": "https://elpais.com/internacional/2026-10-02/sociedades-pantalla-empresas-de-kirguistan-y-criptomonedas-el-entramado-fantasma-del-kremlin-para-evadir-las-sanciones.html",
+          "source": "El País Internacional",
+          "published": "2026-10-02T03:30:01.000Z"
         }
       ]
     }
