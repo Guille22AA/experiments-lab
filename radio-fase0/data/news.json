@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T17:01:36.695Z",
+  "updatedAt": "2026-10-02T21:34:46.221Z",
   "edition": "tarde",
   "sections": [
     {
@@ -34,6 +34,19 @@
           "firstSeen": "2026-10-02T17:01:36.695Z"
         },
         {
+          "title": "Feijóo reta a Sánchez a convocar elecciones tras el revés de los decretos: “Estamos preparados”",
+          "link": "https://elpais.com/espana/2026-10-02/feijoo-reta-a-sanchez-a-convocar-elecciones-tras-el-reves-de-los-decretos-estamos-preparados.html",
+          "source": "El País",
+          "summary": "El líder popular aprovecha el rechazo parlamentario a las medidas del Ejecutivo para sostener que Sánchez y su Gobierno no tienen “ni las Cortes ni las calles”",
+          "sources": [
+            "El País",
+            "20minutos",
+            "Europa Press",
+            "Diario Socialista"
+          ],
+          "firstSeen": "2026-10-02T21:34:46.221Z"
+        },
+        {
           "title": "Moncloa difunde un registro de llamadas para intentar contrarrestar a Juan Vivas: \"Todas fueron atendidas\"",
           "link": "https://www.20minutos.es/nacional/moncloa-difunde-un-registro-nueve-llamadas-para-desmontar-version-vivas-todas-fueron-diligentemente-atendidas_7043652_0.html",
           "source": "20minutos",
@@ -56,67 +69,56 @@
             "20minutos"
           ],
           "firstSeen": "2026-10-02T17:01:36.695Z"
-        },
-        {
-          "title": "Netanyahu dice que el copiloto era un \"suicida islamista radical\" que quería \"otro 11-S\"",
-          "link": "https://www.20minutos.es/internacional/netanyahu-asegura-que-fontanero-israeli-que-tomo-los-mandos-avion-flydubai-evito-otro-11-s_7043776_0.html",
-          "source": "20minutos",
-          "summary": "El primer ministro israelí sostiene que el atacante estaba adoctrinado en el islamismo radical y pretendía estrellar el avión. Cinco pasajeros serán propuestos para una condecoración por su actuación durante el incidente.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-01T22:07:05.037Z"
         }
       ],
       "items": [
         {
-          "title": "Reacciones a los decretos de vivienda y las acampadas en directo | Los acampados en Sol debaten el futuro de las protestas: “Aguantaremos lo que sea necesario”",
-          "link": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html",
+          "title": "Los acampados en Sol deciden quedarse aunque parte del Sindicato de Inquilinas anuncia su salida progresiva",
+          "link": "https://elpais.com/espana/madrid/2026-10-02/el-sindicato-de-inquilinas-anuncia-que-parte-de-la-militancia-deja-la-acampada-de-sol.html",
           "source": "El País",
-          "published": "2026-10-02T16:56:12.000Z"
+          "published": "2026-10-02T20:28:45.000Z"
         },
         {
-          "title": "Sí que era la hora de la verdad",
-          "link": "https://www.eldiario.es/opinion/zona-critica/si-hora_129_13557633.html",
+          "title": "Verónica Hidalgo se pronuncia tras hallarse droga en su congelador: \"No estoy imputada ni investigada\"",
+          "link": "https://www.20minutos.es/gente/veronica-hidalgo-se-pronuncia-tras-hallarse-droga-su-congelador-no-estoy-imputada-ni-investigada_7044392_0.html",
+          "source": "20minutos",
+          "published": "2026-10-02T20:27:34.000Z"
+        },
+        {
+          "title": "La marcha por la vivienda en Sevilla o cómo la izquierda reclama la revancha a PP y Vox tras su victoria en las andaluzas",
+          "link": "https://www.eldiario.es/sevilla/marcha-vivienda-sevilla-izquierda-reclama-revancha-pp-vox-victoria-andaluzas_1_13558416.html",
           "source": "elDiario.es",
-          "published": "2026-10-02T16:38:31.000Z"
+          "published": "2026-10-02T20:17:32.000Z"
         },
         {
-          "title": "FOTOS | Caras de decepción y llaves en alto en la calle y abrazos en el Congreso: las imágenes de la jornada",
-          "link": "https://www.eldiario.es/politica/fotos-caras-decepcion-llaves-alto-calle-abrazos-congreso-imagenes-jornada_3_13557950.html",
+          "title": "Inundaciones en Madrigueras tras una tromba de agua en esta parte de Albacete",
+          "link": "https://www.eldiario.es/castilla-la-mancha/provincias/albacete/inundaciones-madrigueras-tromba-agua-parte-albacete_1_13558437.html",
           "source": "elDiario.es",
-          "published": "2026-10-02T16:24:52.000Z"
+          "published": "2026-10-02T19:54:14.000Z"
         },
         {
-          "title": "Sindicatos de estudiantes continuarán con las movilizaciones tras el fracaso de su reunión con el Gobierno francés",
-          "link": "https://www.europapress.es/internacional/noticia-sindicatos-estudiantes-continuaran-movilizaciones-fracaso-reunion-gobierno-frances-20261002175257.html",
-          "source": "Europa Press",
-          "published": "2026-10-02T15:52:57.000Z"
+          "title": "Miles de personas convierten las calles vascas en un clamor por el derecho a la vivienda y en contra de la clase política",
+          "link": "https://www.eldiario.es/euskadi/miles-personas-convierten-calles-vascas-clamor-derecho-vivienda-clase-politica_1_13557761.html",
+          "source": "elDiario.es",
+          "published": "2026-10-02T19:51:10.000Z"
         },
         {
-          "title": "Última hora de la votación de los decretos sobre vivienda en el Congreso, en directo | - Diario Público",
+          "title": "El presunto asesino de la diputada británica Widdecombe planeaba un ataque terrorista contra el ultra Farage",
+          "link": "https://elpais.com/internacional/2026-10-02/el-presunto-asesino-de-la-diputada-britanica-widdecombe-planeaba-un-ataque-terrorista-conta-el-ultra-farage.html",
+          "source": "El País",
+          "published": "2026-10-02T19:50:22.000Z"
+        },
+        {
+          "title": "La opción de Mónica García vuelve a tomar fuerza como candidata de Sumar a las generales",
+          "link": "https://www.eldiario.es/politica/opcion-monica-garcia-vuelve-fuerza-candidata-sumar-generales_1_13558330.html",
+          "source": "elDiario.es",
+          "published": "2026-10-02T18:49:13.000Z"
+        },
+        {
+          "title": "Última hora de la votación de los decretos sobre vivienda en el Congreso, en directo | - publico.es",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG5HVG1MVXF2THpOamtlYkY0eERZc0hmZUZxSS1WV0gxTWpHRW5idWdFNTZJVk8tZVdHZGhGQUV2bHprMjhLNVRqSVRsdGFPTkdKMmpGRU5vWkJaMnlReXE1N2RydFRqQUo1RXBZY2dxa1JWR0theUVVRDhWek9wTHJuTDM3RGIyN25PbTRQV2RTa21SclRENEcwVTNUbTDSAaQBQVVfeXFMTm1sVUQzakhsY0ZXS3duWjJreG5od2JfaC1xRGlRUWZUWHItR2pkOEJZLUlHOVJEMkFuREVGbXdKRHlPOHBZTC14NnA5NjZ1cFRmQ1MzT3poTUk5YnhrM3NVTzEydjBGaGFOU2piY1NWVnpPa2dXcnN3Zk1iWThUbmZDZXRHeVM3RGRXTFZDMUtGcnBHbmF6QkttZG1ZTVZCMnowMVk?oc=5",
           "source": "Público",
-          "published": "2026-10-02T15:52:16.000Z"
-        },
-        {
-          "title": "Activistas lanzan octavillas tras decaer los dos decretos de vivienda: \"Los fondos buitres gobiernan el Congreso\"",
-          "link": "https://www.20minutos.es/nacional/activistas-lanzan-octavillas-hemiciclo-tras-decaer-los-dos-decretos-vivienda-los-fondos-buitres-gobiernan-congreso_7044294_0.html",
-          "source": "20minutos",
-          "published": "2026-10-02T15:51:57.000Z"
-        },
-        {
-          "title": "Europa libera reservas de diésel para abaratarlo y evitar que Trump vete las exportaciones",
-          "link": "https://elpais.com/internacional/2026-10-02/europa-libera-reservas-diesel-para-rebajar-su-precio-y-evitar-el-veto-de-trump-a-las-exportaciones.html",
-          "source": "El País",
-          "published": "2026-10-02T15:49:19.000Z"
-        },
-        {
-          "title": "Desahucian a una familia con dos menores en Vitoria mientras se debatían los decretos de vivienda en el Congreso",
-          "link": "https://www.20minutos.es/pais-vasco/desahucian-una-familia-con-dos-menores-vitoria-mientras-se-debatian-los-decretos-vivienda-congreso_7044323_0.html",
-          "source": "20minutos",
-          "published": "2026-10-02T15:40:04.000Z"
+          "published": "2026-10-02T18:45:54.000Z"
         }
       ]
     },
@@ -137,6 +139,18 @@
           "firstSeen": "2026-10-01T22:07:05.037Z"
         },
         {
+          "title": "Al menos 40 profesores heridos y casi 2.000 detenidos por las protestas estudiantiles en Francia",
+          "link": "https://www.20minutos.es/internacional/menos-40-profesores-heridos-casi-2-000-detenidos-por-las-protestas-estudiantiles-francia_7044158_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El ministro de educación francés considera que \"la gente joven necesita sentirse escuchada\", y ve necesario \"buscar soluciones muy concretas a nivel local\".",
+          "sources": [
+            "20minutos Internacional",
+            "elDiario.es Internacional",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-02T11:34:04.909Z"
+        },
+        {
           "title": "¿Quién es Smit Machchhar, el piloto indio apuñalado que según Israel frustró un atentado en un vuelo de Flydubai?",
           "link": "https://www.france24.com/es/medio-oriente/20261001-qui%C3%A9n-es-smit-machchhar-el-piloto-indio-apu%C3%B1alado-que-seg%C3%BAn-israel-frustr%C3%B3-un-atentado-en-un-vuelo-de-flydubai",
           "source": "France 24",
@@ -146,17 +160,6 @@
             "BBC Mundo"
           ],
           "firstSeen": "2026-10-01T22:07:05.037Z"
-        },
-        {
-          "title": "Al menos 40 profesores heridos y casi 2.000 detenidos por las protestas estudiantiles en Francia",
-          "link": "https://www.20minutos.es/internacional/menos-40-profesores-heridos-casi-2-000-detenidos-por-las-protestas-estudiantiles-francia_7044158_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El ministro de educación francés considera que \"la gente joven necesita sentirse escuchada\", y ve necesario \"buscar soluciones muy concretas a nivel local\".",
-          "sources": [
-            "20minutos Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-02T11:34:04.909Z"
         },
         {
           "title": "Protestas estudiantiles en Francia: \"Tú rompes, tus padres pagan\", reclama el Gobierno",
@@ -183,52 +186,52 @@
       ],
       "items": [
         {
-          "title": "El fiscal que investiga al asesor ultra Fernando Cerimedo acaba detenido por una supuesta acusación de la DEA",
-          "link": "https://www.eldiario.es/internacional/ultraderecha-fernando-cerimedo-rodrigo-paz-javier-milei_1_13557512.html",
+          "title": "¿Lula o Bolsonaro?: Brasil vota bajo la sombra de una interferencia de Trump",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261002-lula-o-bolsonaro-brasil-vota-bajo-la-sombra-de-una-interferencia-de-trump",
+          "source": "France 24",
+          "published": "2026-10-02T21:26:40.000Z"
+        },
+        {
+          "title": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos",
+          "link": "https://www.bbc.com/mundo/articles/cx7vp55l3rz2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-02T21:25:22.000Z"
+        },
+        {
+          "title": "¿Qué es el \"pasaporte dorado\" anunciado por Argentina para nacionalizar inversores extranjeros?",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261002-qu%C3%A9-es-el-pasaporte-dorado-anunciado-por-argentina-para-nacionalizar-inversores-extranjeros",
+          "source": "France 24",
+          "published": "2026-10-02T20:51:29.000Z"
+        },
+        {
+          "title": "¿Cuál es la gravedad de la situación energética en los países del G7?",
+          "link": "https://www.france24.com/es/video/20261002-cu%C3%A1l-es-la-gravedad-de-la-situaci%C3%B3n-energ%C3%A9tica-en-los-pa%C3%ADses-del-g7",
+          "source": "France 24",
+          "published": "2026-10-02T20:48:48.000Z"
+        },
+        {
+          "title": "España: se mantiene la acampada en Madrid tras rechazo del Congreso a decretos de vivienda",
+          "link": "https://www.france24.com/es/video/20261002-espa%C3%B1a-se-mantiene-la-acampada-en-madrid-tras-rechazo-del-congreso-a-decretos-de-vivienda",
+          "source": "France 24",
+          "published": "2026-10-02T20:44:57.000Z"
+        },
+        {
+          "title": "Brasil: lobby de las armas en Santa Catarina se resiste a las restricciones de Lula",
+          "link": "https://www.france24.com/es/video/20261002-brasil-lobby-de-las-armas-en-santa-catarina-se-resiste-a-las-restricciones-de-lula",
+          "source": "France 24",
+          "published": "2026-10-02T20:44:53.000Z"
+        },
+        {
+          "title": "Lula se la juega en el estado que predice los resultados de las elecciones: \"El bolsonarismo se ha infiltrado en la periferia\"",
+          "link": "https://www.eldiario.es/internacional/lula-juega-predice-resultados-elecciones-bolsonarismo-infiltrado-periferia_1_13557008.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-02T16:10:39.000Z"
+          "published": "2026-10-02T20:38:22.000Z"
         },
         {
-          "title": "El Parlamento de España vota en contra de los dos decretos sobre vivienda propuestos por el gobierno de Pedro Sánchez",
-          "link": "https://www.bbc.com/mundo/articles/cqj9klj2zy29o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-02T15:30:15.000Z"
-        },
-        {
-          "title": "‘Voces de debajo de los escombros’: relatos de Gaza a París",
-          "link": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261002-voces-de-debajo-de-los-escombros-relatos-de-gaza-a-par%C3%ADs",
-          "source": "France 24",
-          "published": "2026-10-02T15:27:18.000Z"
-        },
-        {
-          "title": "España: Congreso rechaza decretos para afrontar crisis de la vivienda",
-          "link": "https://www.dw.com/es/españa-congreso-rechaza-decretos-para-afrontar-crisis-de-la-vivienda/a-79522931?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-02T14:58:00.000Z"
-        },
-        {
-          "title": "\"Lo que Trump ha construído\": 'Time Magazine'",
-          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261002-lo-que-trump-ha-constru%C3%ADdo-time-magazine",
-          "source": "France 24",
-          "published": "2026-10-02T14:53:40.000Z"
-        },
-        {
-          "title": "\"No iba a dejar que otros murieran\": el piloto indio revela detalles del ataque en el vuelo de Flydubai",
-          "link": "https://www.france24.com/es/medio-oriente/20261002-no-iba-a-dejar-que-otros-murieran-el-piloto-indio-revela-detalles-del-ataque-en-el-vuelo-de-flydubai",
-          "source": "France 24",
-          "published": "2026-10-02T14:46:54.000Z"
-        },
-        {
-          "title": "Ceuta: denuncias de violencia y abandono entre los migrantes",
-          "link": "https://www.france24.com/es/programas/enlace/20261002-ceuta-denuncias-de-violencia-y-abandono-entre-los-migrantes",
-          "source": "France 24",
-          "published": "2026-10-02T14:11:51.000Z"
-        },
-        {
-          "title": "\"Tenemos miedo a perder la vida aquí\": los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
-          "link": "https://www.bbc.com/mundo/articles/c8046w1kgpgwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-02T14:03:19.000Z"
+          "title": "Putin eleva con la amenaza nuclear la retórica bélica contra Europa en su estrategia por expandir el miedo",
+          "link": "https://www.eldiario.es/internacional/putin-eleva-amenaza-nuclear-retorica-belica-europa-estrategia-expandir-miedo_1_13555850.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-02T20:38:22.000Z"
         }
       ]
     }
