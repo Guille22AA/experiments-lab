@@ -49,12 +49,15 @@ def _sin_cache(respuesta):
 def api_estado():
     estado = storage.cargar_estado()
 
+    candidatos_estado = estado.get("candidatos", {})
+
     wallets = {}
     for nombre in estado["wallets"]:
         datos = estado["wallets"][nombre]
         total, seguro, loteria = bot.valor_wallet(estado, nombre)
         invertido = seguro + loteria
         objetivo = datos["ajustes"]["reparto"]
+        abiertas = {p["simbolo"] for p in datos["posiciones"]}
 
         posiciones = []
         for p in datos["posiciones"]:
@@ -109,6 +112,11 @@ def api_estado():
             ],
             "historial": storage.leer_operaciones(nombre, limite=50),
             "grafica": storage.leer_saldos(nombre, limite=500),
+            "candidatos": [
+                {**c, "en_cartera": c["simbolo"] in abiertas}
+                for c in candidatos_estado.get(nombre, [])
+            ],
+            "candidatos_actualizado": candidatos_estado.get("actualizado"),
         }
 
     return jsonify({
@@ -234,6 +242,17 @@ def api_ajustes(wallet):
             if recortado:
                 avisos.append(config.texto("ajuste_max_posiciones", valor=valor))
             ajustes["max_posiciones"] = valor
+
+        # Filtros de entrada del escáner: cambian según la wallet (cripto
+        # tiene mcap, bróker no), así que solo se tocan los que ya existen
+        # en los ajustes de esta wallet.
+        for campo in ajustes:
+            if not campo.startswith("filtro_") or campo not in entrada:
+                continue
+            valor, recortado = _validar(campo, abs(float(entrada[campo])), config.LIMITES[campo])
+            if recortado:
+                avisos.append(config.texto("ajuste_campo", campo=campo, valor=valor))
+            ajustes[campo] = valor
 
         storage.guardar_estado(estado)
 

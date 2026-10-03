@@ -170,6 +170,25 @@ def ajustes_por_defecto(wallet):
         # 13,50 € cada una. Por debajo de eso el mínimo de 5 € las bloquearía.
         "max_posiciones":        4,
         "max_por_posicion":   0.30,
+
+        # Filtros de entrada del escáner. Antes vivían fijos en
+        # FILTROS_LOTERIA; ahora son ajustes editables desde el panel, para
+        # que se pueda ver y tocar exactamente qué hace que algo entre —
+        # necesario para poder replicar la entrada a mano, con dinero real,
+        # sabiendo el motivo. Descartan lo obviamente malo, no predicen nada.
+        **({
+            "filtro_mcap_minimo":      20_000_000.0,  # nada microscópico
+            "filtro_mcap_maximo":   3_000_000_000.0,  # si ya es gigante, no queda recorrido
+            "filtro_volumen_minimo":    1_000_000.0,  # que se pueda entrar y salir
+            "filtro_ratio_vol_mcap":          0.05,   # actividad real, no volumen fantasma
+            "filtro_subida_min":               3.0,   # algo se está moviendo
+            "filtro_subida_max":              40.0,   # si ya voló, no se persigue
+        } if wallet == "crypto" else {
+            "filtro_volumen_minimo":      500_000.0,
+            "filtro_ratio_vol_medio":         1.5,    # volumen por encima de su media
+            "filtro_subida_min":              2.0,
+            "filtro_subida_max":             20.0,
+        }),
     }
 
 
@@ -195,6 +214,13 @@ LIMITES = {
     "aportacion_dias":     (1, 365),
     "interes_anual":       (0.0, 0.20),
     "cuarentena_dias":     (0, 90),
+    "filtro_mcap_minimo":    (0.0, 1_000_000_000.0),
+    "filtro_mcap_maximo":    (1_000_000.0, 100_000_000_000.0),
+    "filtro_volumen_minimo": (0.0, 1_000_000_000.0),
+    "filtro_ratio_vol_mcap": (0.0, 2.0),
+    "filtro_ratio_vol_medio":(0.1, 10.0),
+    "filtro_subida_min":     (0.0, 100.0),
+    "filtro_subida_max":     (0.0, 300.0),
 }
 
 # --- Deslizamiento (slippage) -----------------------------------------
@@ -260,24 +286,9 @@ UNIVERSO_LOTERIA = {
     ]},
 }
 
-# --- Filtros de entrada del cubo lotería -------------------------------
-# Descartan lo obviamente malo. No predicen: solo miden lo que ya pasó.
-FILTROS_LOTERIA = {
-    "crypto": {
-        "mcap_minimo":      20_000_000,   # nada microscópico
-        "mcap_maximo":   3_000_000_000,   # si ya es gigante, no queda recorrido
-        "volumen_minimo":    1_000_000,   # que se pueda entrar y salir
-        "ratio_vol_mcap":          0.05,  # actividad real, no volumen fantasma
-        "subida_min":               3.0,  # algo se está moviendo
-        "subida_max":              40.0,  # si ya voló, no se persigue
-    },
-    "broker": {
-        "volumen_minimo":      500_000,
-        "ratio_vol_medio":         1.5,   # volumen por encima de su media
-        "subida_min":              2.0,
-        "subida_max":             20.0,
-    },
-}
+# Los filtros de entrada en sí (mcap, volumen, subida mínima/máxima...) ya
+# no están aquí fijos: son ajustes editables por wallet, ver
+# ajustes_por_defecto() más arriba y config.LIMITES para sus rangos.
 
 # --- Reglas de salida del cubo lotería ---------------------------------
 # Aquí es donde se gana o se pierde de verdad. Valores fijos a propósito:

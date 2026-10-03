@@ -46,7 +46,7 @@ def _mercado_cripto():
 
 def candidatos_cripto(estado):
     """Devuelve la lista de monedas que pasan todos los filtros, mejor primero."""
-    f = config.FILTROS_LOTERIA["crypto"]
+    f = estado["wallets"]["crypto"]["ajustes"]
     seguros = {a["id"] for a in config.activos_de(estado, "crypto")}
     salida = []
 
@@ -61,13 +61,13 @@ def candidatos_cripto(estado):
                 continue
             if moneda["id"] in seguros:          # no duplicar el cubo seguro
                 continue
-            if not (f["mcap_minimo"] <= mcap <= f["mcap_maximo"]):
+            if not (f["filtro_mcap_minimo"] <= mcap <= f["filtro_mcap_maximo"]):
                 continue
-            if volumen < f["volumen_minimo"]:
+            if volumen < f["filtro_volumen_minimo"]:
                 continue
-            if volumen / mcap < f["ratio_vol_mcap"]:
+            if volumen / mcap < f["filtro_ratio_vol_mcap"]:
                 continue
-            if not (f["subida_min"] <= cambio <= f["subida_max"]):
+            if not (f["filtro_subida_min"] <= cambio <= f["filtro_subida_max"]):
                 continue
 
             salida.append({
@@ -113,8 +113,8 @@ def _descarga(tickers, periodo="1mo"):
     )
 
 
-def candidatos_broker(cambio_usd_eur):
-    f = config.FILTROS_LOTERIA["broker"]
+def candidatos_broker(estado, cambio_usd_eur):
+    f = estado["wallets"]["broker"]["ajustes"]
     tickers = config.UNIVERSO_LOTERIA["broker"]["tickers"]
     datos = _descarga(tickers)
     salida = []
@@ -133,11 +133,11 @@ def candidatos_broker(cambio_usd_eur):
             cambio = ((cierre / anterior) - 1) * 100
             ratio = volumen / volumen_medio
 
-            if volumen < f["volumen_minimo"]:
+            if volumen < f["filtro_volumen_minimo"]:
                 continue
-            if ratio < f["ratio_vol_medio"]:
+            if ratio < f["filtro_ratio_vol_medio"]:
                 continue
-            if not (f["subida_min"] <= cambio <= f["subida_max"]):
+            if not (f["filtro_subida_min"] <= cambio <= f["filtro_subida_max"]):
                 continue
 
             salida.append({

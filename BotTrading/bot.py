@@ -136,11 +136,20 @@ def buscar_candidatos(estado):
     if strategy.mercado_abierto("broker"):
         try:
             cambio = prices._cambio_eur_usd()
-            resultado["broker"] = scanner.candidatos_broker(cambio)
+            resultado["broker"] = scanner.candidatos_broker(estado, cambio)
             log.info("Escaneo bróker: %d candidatos pasan los filtros.",
                      len(resultado["broker"]))
         except Exception as e:
             log.warning("Fallo escaneando bróker: %s", e)
+
+    # Se guarda lo que ha visto el escáner, compre o no el bot (por falta de
+    # hueco o efectivo): así el panel puede enseñar justo lo que haría falta
+    # para replicar la entrada a mano, con dinero real.
+    estado["candidatos"] = {
+        "crypto": resultado["crypto"][:15],
+        "broker": resultado["broker"][:15],
+        "actualizado": storage.ahora(),
+    }
 
     return resultado
 

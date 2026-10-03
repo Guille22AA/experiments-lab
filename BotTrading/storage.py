@@ -84,6 +84,7 @@ def estado_inicial():
         "bot_activo": True,
         "wallets": wallets,
         "precios": {},                  # último precio conocido por símbolo
+        "candidatos": {"crypto": [], "broker": [], "actualizado": None},
     }
 
 
@@ -106,6 +107,7 @@ def migrar(estado):
     Rellena lo que falte al abrir un estado guardado por una versión
     anterior. Así se puede actualizar el bot sin borrar el historial.
     """
+    estado.setdefault("candidatos", {"crypto": [], "broker": [], "actualizado": None})
     for wallet, datos in estado.get("wallets", {}).items():
         datos.setdefault("intereses", 0.0)
         datos.setdefault("deslizamiento", 0.0)

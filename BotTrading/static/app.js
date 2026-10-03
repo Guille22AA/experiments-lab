@@ -31,6 +31,13 @@ const TEXTOS = {
       activo: "ACTIVO", cubo: "CUBO", puesto: "PUESTO", valeAhora: "VALE AHORA", resultado: "RESULTADO",
     },
     precios: { sinDatos: "sin datos" },
+    candidatos: {
+      vacio: "Sin candidatos todavía. Se actualiza cada hora.",
+      nota: "Esto es justo lo que ve el escáner ahora mismo: podrías replicar estas entradas a mano, con dinero real, con estos mismos números.",
+      activo: "ACTIVO", precio: "PRECIO", cambio: "24 H", actividad: "ACTIVIDAD",
+      enCartera: "ya en cartera",
+      actualizado: cuando => `Actualizado ${cuando}`,
+    },
     wallet: {
       independiente: "wallet independiente",
       activosBoton: "Activos", activosAria: n => `Activos vigilados en ${n}`,
@@ -39,6 +46,7 @@ const TEXTOS = {
       sobreAportado: a => `sobre ${a} aportados`,
       reparto: "REPARTO ACTUAL", resumen: "RESUMEN", evolucion: "EVOLUCIÓN",
       historialTitulo: "HISTORIAL", posicionesTitulo: "POSICIONES ABIERTAS", preciosTitulo: "PRECIOS VIGILADOS",
+      candidatosTitulo: "CANDIDATOS DEL SATÉLITE AHORA MISMO",
       efectivoNucleo: "Efectivo · cubo seguro", efectivoSatelite: "Efectivo · cubo lotería",
       comisiones: "Comisiones pagadas", intereses: "Intereses del efectivo",
       deslizamiento: "Deslizamiento pagado", plusvalias: "Plusvalías realizadas",
@@ -67,6 +75,9 @@ const TEXTOS = {
       dineroNuevo: "Dinero nuevo y efectivo", avanzados: "Ajustes avanzados del cubo lotería",
       notaAvanzados: "Estas son las reglas de salida. Aquí es donde se gana o se pierde de " +
                      "verdad: entrar es fácil, salir a tiempo es el problema.",
+      filtrosEntrada: "Filtros de entrada del escáner",
+      notaFiltros: "Esto decide qué cuenta como candidato en «Candidatos del satélite ahora " +
+                   "mismo». Tócalos y verás cambiar la lista en el próximo escaneo.",
       porDefecto: "Volver a los valores por defecto", cancelar: "Cancelar", guardar: "Guardar",
       confirmarDefecto: "¿Devolver todos los ajustes de esta wallet a sus valores por defecto?",
       rangoFueraDeRango: "Hay valores fuera de rango",
@@ -106,6 +117,20 @@ const TEXTOS = {
         ayuda: "Cuántas posiciones puede tener abiertas el cubo lotería a la vez." },
       maxPorPosicion: { etiqueta: "Tamaño máximo por apuesta",
         ayuda: "Cuánto del cubo lotería puede ir a una sola apuesta. Bajo aguanta más fallos seguidos." },
+      filtroMcapMinimo: { etiqueta: "Capitalización mínima",
+        ayuda: "Por debajo de esto se descarta por microscópico: ni liquidez ni recorrido real." },
+      filtroMcapMaximo: { etiqueta: "Capitalización máxima",
+        ayuda: "Por encima de esto ya es demasiado grande: no queda margen de subida real." },
+      filtroVolumenMinimo: { etiqueta: "Volumen mínimo en 24 h",
+        ayuda: "Que se pueda entrar y salir sin mover el precio tú mismo." },
+      filtroRatioVolMcap: { etiqueta: "Actividad mínima (volumen / capitalización)",
+        ayuda: "Volumen real respecto a su tamaño, no volumen fantasma." },
+      filtroRatioVolMedio: { etiqueta: "Volumen sobre su media",
+        ayuda: "Cuánto por encima de lo normal tiene que estar el volumen de hoy." },
+      filtroSubidaMin: { etiqueta: "Subida mínima en 24 h",
+        ayuda: "Por debajo de esto no se considera que algo se esté moviendo." },
+      filtroSubidaMax: { etiqueta: "Subida máxima en 24 h",
+        ayuda: "Por encima de esto ya ha volado: perseguirlo es comprar lo más caro del momento." },
     },
     activosModal: {
       placeholderId: "id de CoinGecko o ticker de Yahoo", placeholderNombre: "Nombre",
@@ -152,6 +177,13 @@ const TEXTOS = {
       activo: "ASSET", cubo: "BUCKET", puesto: "PUT IN", valeAhora: "WORTH NOW", resultado: "RESULT",
     },
     precios: { sinDatos: "no data" },
+    candidatos: {
+      vacio: "No candidates yet. Updates once an hour.",
+      nota: "This is exactly what the scanner sees right now: you could replicate these entries by hand, with real money, using these same numbers.",
+      activo: "ASSET", precio: "PRICE", cambio: "24H", actividad: "ACTIVITY",
+      enCartera: "already held",
+      actualizado: cuando => `Updated ${cuando}`,
+    },
     wallet: {
       independiente: "independent wallet",
       activosBoton: "Assets", activosAria: n => `Assets watched in ${n}`,
@@ -160,6 +192,7 @@ const TEXTOS = {
       sobreAportado: a => `out of ${a} contributed`,
       reparto: "CURRENT ALLOCATION", resumen: "SUMMARY", evolucion: "PERFORMANCE",
       historialTitulo: "HISTORY", posicionesTitulo: "OPEN POSITIONS", preciosTitulo: "WATCHED PRICES",
+      candidatosTitulo: "SATELLITE CANDIDATES RIGHT NOW",
       efectivoNucleo: "Cash · core bucket", efectivoSatelite: "Cash · satellite bucket",
       comisiones: "Fees paid", intereses: "Interest earned",
       deslizamiento: "Slippage paid", plusvalias: "Realized gains",
@@ -188,6 +221,9 @@ const TEXTOS = {
       dineroNuevo: "New money and cash", avanzados: "Advanced satellite bucket settings",
       notaAvanzados: "These are the exit rules. This is where you really win or lose: getting " +
                      "in is easy, getting out in time is the hard part.",
+      filtrosEntrada: "Scanner entry filters",
+      notaFiltros: "This decides what counts as a candidate in \"Satellite candidates right " +
+                   "now\". Tweak them and you'll see the list change on the next scan.",
       porDefecto: "Reset to defaults", cancelar: "Cancel", guardar: "Save",
       confirmarDefecto: "Reset all of this wallet's settings to their defaults?",
       rangoFueraDeRango: "Some values are out of range",
@@ -227,6 +263,20 @@ const TEXTOS = {
         ayuda: "How many positions the satellite bucket can hold open at once." },
       maxPorPosicion: { etiqueta: "Maximum size per bet",
         ayuda: "How much of the satellite bucket can go into a single bet. Lower survives more losing streaks in a row." },
+      filtroMcapMinimo: { etiqueta: "Minimum market cap",
+        ayuda: "Below this it's discarded as microscopic: no real liquidity or room to run." },
+      filtroMcapMaximo: { etiqueta: "Maximum market cap",
+        ayuda: "Above this it's already too big: no real upside room left." },
+      filtroVolumenMinimo: { etiqueta: "Minimum 24h volume",
+        ayuda: "Enough to get in and out without moving the price yourself." },
+      filtroRatioVolMcap: { etiqueta: "Minimum activity (volume / market cap)",
+        ayuda: "Real volume relative to its size, not phantom volume." },
+      filtroRatioVolMedio: { etiqueta: "Volume over its average",
+        ayuda: "How far above normal today's volume has to be." },
+      filtroSubidaMin: { etiqueta: "Minimum 24h move",
+        ayuda: "Below this, it's not considered to be moving at all." },
+      filtroSubidaMax: { etiqueta: "Maximum 24h move",
+        ayuda: "Above this it's already flown: chasing it means buying the most expensive moment." },
     },
     activosModal: {
       placeholderId: "CoinGecko id or Yahoo ticker", placeholderNombre: "Name",
@@ -410,6 +460,22 @@ function tablaPrecios(w) {
   return `<div class="marco"><table><tbody>${filas}</tbody></table></div>`;
 }
 
+function tablaCandidatos(w) {
+  if (!w.candidatos.length) {
+    return `<div class="marco"><div class="vacio">${T.candidatos.vacio}</div></div>`;
+  }
+  const filas = w.candidatos.map(c => `<tr>
+      <td>${c.simbolo}${c.en_cartera ? ` <span class="neutro">· ${T.candidatos.enCartera}</span>` : ""}</td>
+      <td class="der num">${eur(c.precio)}</td>
+      <td class="der">${marca(c.cambio, pct(c.cambio))}</td>
+      <td class="der num">${c.actividad.toFixed(2)}x</td>
+    </tr>`).join("");
+  return `<div class="marco scroll"><table><thead><tr>
+      <th>${T.candidatos.activo}</th><th class="der">${T.candidatos.precio}</th>
+      <th class="der">${T.candidatos.cambio}</th><th class="der">${T.candidatos.actividad}</th>
+    </tr></thead><tbody>${filas}</tbody></table></div>`;
+}
+
 function pintarWallet(clave, w) {
   const s = signo(w.resultado);
   const pctRes = w.aportado ? (w.resultado / w.aportado) * 100 : 0;
@@ -423,10 +489,16 @@ function pintarWallet(clave, w) {
       <div class="cabecera-dcha">
         <span class="etiqueta">${T.wallet.independiente}</span>
         <button class="engranaje" data-activos="${clave}" title="${T.wallet.activosBoton}" aria-label="${T.wallet.activosAria(NOMBRES[clave])}">
-          <svg viewBox="0 0 16 16" aria-hidden="true"><rect x="2" y="3.2" width="12" height="1.8" rx="0.9"/><rect x="2" y="7.1" width="12" height="1.8" rx="0.9"/><rect x="2" y="11" width="12" height="1.8" rx="0.9"/></svg>
+          <svg viewBox="0 0 16 16" aria-hidden="true" style="fill:none;stroke:currentColor;stroke-width:1.3">
+            <circle cx="6.1" cy="6.1" r="4.3"/><circle cx="9.9" cy="9.9" r="4.3"/>
+          </svg>
         </button>
         <button class="engranaje" data-ajustes="${clave}" title="${T.wallet.ajustesBoton}" aria-label="${T.wallet.ajustesAria(NOMBRES[clave])}">
-          <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 5.2a2.8 2.8 0 100 5.6 2.8 2.8 0 000-5.6zm0 4.4a1.6 1.6 0 110-3.2 1.6 1.6 0 010 3.2z"/><path d="M13.9 9.3l-1-.6a5.9 5.9 0 000-1.4l1-.6a.6.6 0 00.2-.8l-1.2-2a.6.6 0 00-.8-.2l-1 .6a5.6 5.6 0 00-1.2-.7v-1.2a.6.6 0 00-.6-.6h-2.4a.6.6 0 00-.6.6v1.2c-.4.2-.8.4-1.2.7l-1-.6a.6.6 0 00-.8.2l-1.2 2a.6.6 0 00.2.8l1 .6a5.9 5.9 0 000 1.4l-1 .6a.6.6 0 00-.2.8l1.2 2a.6.6 0 00.8.2l1-.6c.4.3.8.5 1.2.7v1.2c0 .3.3.6.6.6h2.4a.6.6 0 00.6-.6v-1.2c.4-.2.8-.4 1.2-.7l1 .6a.6.6 0 00.8-.2l1.2-2a.6.6 0 00-.2-.8z"/></svg>
+          <svg viewBox="0 0 16 16" aria-hidden="true" style="fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round">
+            <line x1="2" y1="4" x2="14" y2="4"/><circle cx="10" cy="4" r="1.6" style="fill:currentColor;stroke:none"/>
+            <line x1="2" y1="8" x2="14" y2="8"/><circle cx="5.3" cy="8" r="1.6" style="fill:currentColor;stroke:none"/>
+            <line x1="2" y1="12" x2="14" y2="12"/><circle cx="11" cy="12" r="1.6" style="fill:currentColor;stroke:none"/>
+          </svg>
         </button>
       </div>
     </header>
@@ -503,6 +575,13 @@ function pintarWallet(clave, w) {
           ${tablaPrecios(w)}
         </div>
       </div>
+    </div>
+
+    <div class="bloque">
+      <h3>${T.wallet.candidatosTitulo}</h3>
+      <p class="modal-nota">${T.candidatos.nota}</p>
+      ${tablaCandidatos(w)}
+      ${w.candidatos_actualizado ? `<div class="aviso">${T.candidatos.actualizado(fechaHora(w.candidatos_actualizado))}</div>` : ""}
     </div>
   `;
 }
@@ -650,6 +729,45 @@ const CAMPOS_AVANZADOS = [
     desde: a => a.max_por_posicion * 100 },
 ];
 
+// Los filtros de entrada cambian según la wallet: cripto tiene capitalización,
+// bróker no la tiene y en cambio mira el volumen contra su propia media.
+function camposFiltros(wallet) {
+  const subida = [
+    { campo: "filtro_subida_min", etiqueta: T.campos.filtroSubidaMin.etiqueta, sufijo: "%",
+      min: 0, max: 100, paso: 1, ayuda: T.campos.filtroSubidaMin.ayuda,
+      desde: a => a.filtro_subida_min },
+    { campo: "filtro_subida_max", etiqueta: T.campos.filtroSubidaMax.etiqueta, sufijo: "%",
+      min: 0, max: 300, paso: 1, ayuda: T.campos.filtroSubidaMax.ayuda,
+      desde: a => a.filtro_subida_max },
+  ];
+  if (wallet === "crypto") {
+    return [
+      { campo: "filtro_mcap_minimo", etiqueta: T.campos.filtroMcapMinimo.etiqueta, sufijo: "€",
+        min: 0, max: 1000000000, paso: 1000000, ayuda: T.campos.filtroMcapMinimo.ayuda,
+        desde: a => a.filtro_mcap_minimo },
+      { campo: "filtro_mcap_maximo", etiqueta: T.campos.filtroMcapMaximo.etiqueta, sufijo: "€",
+        min: 1000000, max: 100000000000, paso: 100000000, ayuda: T.campos.filtroMcapMaximo.ayuda,
+        desde: a => a.filtro_mcap_maximo },
+      { campo: "filtro_volumen_minimo", etiqueta: T.campos.filtroVolumenMinimo.etiqueta, sufijo: "€",
+        min: 0, max: 1000000000, paso: 100000, ayuda: T.campos.filtroVolumenMinimo.ayuda,
+        desde: a => a.filtro_volumen_minimo },
+      { campo: "filtro_ratio_vol_mcap", etiqueta: T.campos.filtroRatioVolMcap.etiqueta, sufijo: "",
+        min: 0, max: 2, paso: 0.01, ayuda: T.campos.filtroRatioVolMcap.ayuda,
+        desde: a => a.filtro_ratio_vol_mcap },
+      ...subida,
+    ];
+  }
+  return [
+    { campo: "filtro_volumen_minimo", etiqueta: T.campos.filtroVolumenMinimo.etiqueta, sufijo: "€",
+      min: 0, max: 1000000000, paso: 100000, ayuda: T.campos.filtroVolumenMinimo.ayuda,
+      desde: a => a.filtro_volumen_minimo },
+    { campo: "filtro_ratio_vol_medio", etiqueta: T.campos.filtroRatioVolMedio.etiqueta, sufijo: "x",
+      min: 0.1, max: 10, paso: 0.1, ayuda: T.campos.filtroRatioVolMedio.ayuda,
+      desde: a => a.filtro_ratio_vol_medio },
+    ...subida,
+  ];
+}
+
 function fila(def, ajustes) {
   const rango = T.ajustesModal.rango(def.min, def.max, def.sufijo);
   // Si por lo que sea faltara el ajuste, se muestra el mínimo en vez de
@@ -711,6 +829,12 @@ async function abrirAjustes(wallet) {
           <summary>${T.ajustesModal.avanzados}</summary>
           <p class="modal-nota">${T.ajustesModal.notaAvanzados}</p>
           ${CAMPOS_AVANZADOS.map(d => fila(d, ajustes)).join("")}
+        </details>
+
+        <details class="avanzado">
+          <summary>${T.ajustesModal.filtrosEntrada}</summary>
+          <p class="modal-nota">${T.ajustesModal.notaFiltros}</p>
+          ${camposFiltros(wallet).map(d => fila(d, ajustes)).join("")}
         </details>
 
         <div class="modal-aviso" id="aviso-reparto" style="display:none"></div>
