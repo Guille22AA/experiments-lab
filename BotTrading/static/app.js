@@ -1,4 +1,255 @@
-const NOMBRES = { crypto: "CRIPTO", broker: "BRÓKER" };
+/* El idioma activo lo decide IDIOMA, una constante global que el HTML
+   define antes de cargar este archivo (ver templates/index.html), a partir
+   de config.idioma() en el backend. Así un único archivo sirve la copia en
+   español y la copia vendible en inglés, sin tocar nada aquí. */
+const TEXTOS = {
+  es: {
+    nombres: { crypto: "CRIPTO", broker: "BRÓKER" },
+    cabecera: {
+      parar: "Parar bot", activar: "Activar bot",
+      sinConexion: "sin conexión con el bot",
+      botActivo: "bot activo", botParado: "bot parado",
+      ultimaLectura: "últ. lectura ", dosWallets: "las dos wallets · ",
+      errorPrefijo: "La última lectura falló en parte — ",
+      ariaParar: "Parar el bot", ariaActivar: "Activar el bot",
+    },
+    grafica: {
+      vacio: "Sin datos suficientes todavía.<br>La curva aparece tras unas cuantas lecturas.",
+      lecturas: "lecturas", compararMantener: "--- comprar y mantener", minimo: "mín ",
+    },
+    cubos: {
+      vacio: "Todo en efectivo · el bot aún no ha invertido nada",
+      nucleo: "Seguro", satelite: "Lotería", objetivo: "objetivo",
+    },
+    historial: {
+      vacio: "Sin operaciones todavía.<br>El bot solo está observando precios.",
+      compra: "Compra", venta: "Venta",
+      hora: "HORA", tipo: "TIPO", activo: "ACTIVO", importe: "IMPORTE", resultado: "RESULTADO",
+    },
+    posiciones: {
+      vacio: "Sin posiciones abiertas.",
+      activo: "ACTIVO", cubo: "CUBO", puesto: "PUESTO", valeAhora: "VALE AHORA", resultado: "RESULTADO",
+    },
+    precios: { sinDatos: "sin datos" },
+    wallet: {
+      independiente: "wallet independiente",
+      activosBoton: "Activos", activosAria: n => `Activos vigilados en ${n}`,
+      ajustesBoton: "Ajustes", ajustesAria: n => `Ajustes de ${n}`,
+      diagTitulo: "Esta configuración no puede funcionar del todo",
+      sobreAportado: a => `sobre ${a} aportados`,
+      reparto: "REPARTO ACTUAL", resumen: "RESUMEN", evolucion: "EVOLUCIÓN",
+      historialTitulo: "HISTORIAL", posicionesTitulo: "POSICIONES ABIERTAS", preciosTitulo: "PRECIOS VIGILADOS",
+      efectivoNucleo: "Efectivo · cubo seguro", efectivoSatelite: "Efectivo · cubo lotería",
+      comisiones: "Comisiones pagadas", intereses: "Intereses del efectivo",
+      deslizamiento: "Deslizamiento pagado", plusvalias: "Plusvalías realizadas",
+      impuesto: "Impuesto estimado", aciertosFallos: "Aciertos / fallos · lotería",
+      reponerEtiqueta: "Cubo lotería: ", reponerObjetivo: o => ` de ${o} objetivo`,
+      reponerLlevas: "Llevas ", reponerAviso: " repuestos a mano en este cubo.\n            El bot nunca lo rellena solo.",
+      reponerBoton: "Reponer…",
+      comparativaTxt: "Frente a comprar y no tocar nada:\n          ",
+      comparativaAviso: (total, ref) => `El bot lleva ${total}; sin hacer nada tendrías\n          ${ref}. Con pocas semanas esto no significa nada todavía.`,
+      bolsaCerrada: "La bolsa cierra de noche y fines de semana: la curva se queda plana, no es un fallo.",
+    },
+    reponerPrompt: {
+      texto: "¿Cuánto quieres pasar del cubo seguro al cubo lotería?\n\n" +
+             "Sale de tu dinero estable y es dinero que puedes perder entero.\n",
+      minimo: "Mínimo en esta wallet: ", disponible: "  ·  disponible: ",
+      importe: "\n\nImporte en euros:", error: "No se pudo reponer: ",
+    },
+    ajustesModal: {
+      errorCarga: "No se pudieron cargar los ajustes.\n\n",
+      errorCargaSufijo: "\n\nSi pone 404, el server.py es de una versión anterior: " +
+                        "para el bot con parar.bat y vuelve a arrancarlo.",
+      respuestaError: "El servidor respondió ", sinAjustes: "El servidor no devolvió ajustes",
+      titulo: n => `Ajustes · ${n}`, cerrar: "Cerrar",
+      nota: "Los valores por defecto son un punto de partida razonable, no los mejores: " +
+            "nadie los conoce. Cámbialos solo cuando tus datos te den un motivo.",
+      dineroNuevo: "Dinero nuevo y efectivo", avanzados: "Ajustes avanzados del cubo lotería",
+      notaAvanzados: "Estas son las reglas de salida. Aquí es donde se gana o se pierde de " +
+                     "verdad: entrar es fácil, salir a tiempo es el problema.",
+      porDefecto: "Volver a los valores por defecto", cancelar: "Cancelar", guardar: "Guardar",
+      confirmarDefecto: "¿Devolver todos los ajustes de esta wallet a sus valores por defecto?",
+      rangoFueraDeRango: "Hay valores fuera de rango",
+      rango: (min, max, sufijo) => `Entre ${min} y ${max}${sufijo}.`,
+      avisoCapado: (pct, total, apuesta, minima) =>
+        `Con ${pct} % de ${total}, cada apuesta sería de ${apuesta}, por debajo de la orden ` +
+        `mínima de ${minima} en esta wallet. El cubo se quedaría en efectivo sin comprar nada.`,
+      avisoSubirReparto: "Subir el reparto NO mete dinero en el cubo lotería. " +
+                         "Para eso está el botón «Reponer…».",
+      avisoBajarReparto: "Bajar el reparto hará que el bot venda parte del cubo " +
+                         "lotería en el próximo ciclo.",
+      avisoCobertura: (n, t, cobertura) =>
+        `Con ${n} apuestas de como mucho ${t} % cada una, el cubo lotería solo llegaría a ` +
+        `invertir el ${cobertura} % de su dinero. El resto se quedaría siempre en efectivo.`,
+    },
+    campos: {
+      repartoLoteria: { etiqueta: "Reparto del cubo lotería",
+        ayuda: "Cuánto de esta wallet se juega en lo arriesgado. El resto va al cubo seguro." },
+      umbralRebalanceo: { etiqueta: "Margen antes de rebalancear",
+        ayuda: "Cuánto tiene que desviarse algo antes de que el bot actúe. Cuanto más bajo, más opera y más comisiones paga." },
+      aportacionImporte: { etiqueta: "Aportación periódica",
+        ayuda: "Dinero nuevo que entra cada cierto tiempo, como un plan de inversión. Va entero al cubo seguro. En 0 está desactivada." },
+      aportacionDias: { etiqueta: "Cada cuántos días", ayuda: "30 equivale a una aportación mensual." },
+      interesAnual: { etiqueta: "Interés del efectivo parado",
+        ayuda: "Lo que renta al año el dinero sin invertir, como una cuenta remunerada. Se abona de forma continua." },
+      stopPerdida: { etiqueta: "Stop de pérdida",
+        ayuda: "Si una apuesta cae este porcentaje desde tu precio de entrada, se vende. Más ajustado te saca en cualquier bajón normal." },
+      caidaDesdeMaximo: { etiqueta: "Salida por desplome",
+        ayuda: "Si algo subió y luego cae esto desde su máximo, se sale aunque siga en ganancias." },
+      objetivoParcial: { etiqueta: "Multiplicador de recogida",
+        ayuda: "Al alcanzar este múltiplo se vende una parte. Con 2x recuperas lo puesto y el resto corre gratis." },
+      fraccionParcial: { etiqueta: "Cuánto se recoge ahí",
+        ayuda: "Qué porcentaje de la posición se vende al alcanzar el múltiplo." },
+      cuarentenaDias: { etiqueta: "Cuarentena tras cerrar",
+        ayuda: "Días que un activo queda vetado tras venderse. Evita recomprar lo que acaba de saltar por stop. En 0 está desactivada." },
+      maxPosiciones: { etiqueta: "Apuestas simultáneas",
+        ayuda: "Cuántas posiciones puede tener abiertas el cubo lotería a la vez." },
+      maxPorPosicion: { etiqueta: "Tamaño máximo por apuesta",
+        ayuda: "Cuánto del cubo lotería puede ir a una sola apuesta. Bajo aguanta más fallos seguidos." },
+    },
+    activosModal: {
+      placeholderId: "id de CoinGecko o ticker de Yahoo", placeholderNombre: "Nombre",
+      quitar: "Quitar", quitarActivo: "Quitar activo",
+      errorCarga: "No se pudieron cargar los activos.\n\n",
+      errorCargaSufijo: "\n\nSi pone 404, el server.py es de una versión anterior: " +
+                        "para el bot con parar.bat y vuelve a arrancarlo.",
+      sinActivos: "El servidor no devolvió activos",
+      titulo: n => `Activos vigilados · ${n}`,
+      nota: "Son los activos del cubo seguro: el bot reparte el dinero entre ellos según su " +
+            "peso y vigila que no se desvíen. El identificador es el id de CoinGecko para " +
+            "cripto (p. ej. «cardano») o el ticker de Yahoo Finance para bróker (p. ej. «AAPL»). " +
+            "No se puede quitar uno con una posición abierta.",
+      anadir: "+ Añadir activo",
+      confirmarDefecto: n => `¿Devolver ${n} a sus activos por defecto?`,
+      minimoUno: "Tiene que quedar al menos un activo.",
+    },
+  },
+  en: {
+    nombres: { crypto: "CRYPTO", broker: "BROKER" },
+    cabecera: {
+      parar: "Stop bot", activar: "Start bot",
+      sinConexion: "no connection to the bot",
+      botActivo: "bot running", botParado: "bot stopped",
+      ultimaLectura: "last read ", dosWallets: "both wallets · ",
+      errorPrefijo: "The last read partly failed — ",
+      ariaParar: "Stop the bot", ariaActivar: "Start the bot",
+    },
+    grafica: {
+      vacio: "Not enough data yet.<br>The chart appears after a few readings.",
+      lecturas: "readings", compararMantener: "--- buy and hold", minimo: "min ",
+    },
+    cubos: {
+      vacio: "All in cash · the bot hasn't invested anything yet",
+      nucleo: "Core", satelite: "Satellite", objetivo: "target",
+    },
+    historial: {
+      vacio: "No trades yet.<br>The bot is only watching prices.",
+      compra: "Buy", venta: "Sell",
+      hora: "TIME", tipo: "TYPE", activo: "ASSET", importe: "AMOUNT", resultado: "RESULT",
+    },
+    posiciones: {
+      vacio: "No open positions.",
+      activo: "ASSET", cubo: "BUCKET", puesto: "PUT IN", valeAhora: "WORTH NOW", resultado: "RESULT",
+    },
+    precios: { sinDatos: "no data" },
+    wallet: {
+      independiente: "independent wallet",
+      activosBoton: "Assets", activosAria: n => `Assets watched in ${n}`,
+      ajustesBoton: "Settings", ajustesAria: n => `Settings for ${n}`,
+      diagTitulo: "This configuration can't fully work",
+      sobreAportado: a => `out of ${a} contributed`,
+      reparto: "CURRENT ALLOCATION", resumen: "SUMMARY", evolucion: "PERFORMANCE",
+      historialTitulo: "HISTORY", posicionesTitulo: "OPEN POSITIONS", preciosTitulo: "WATCHED PRICES",
+      efectivoNucleo: "Cash · core bucket", efectivoSatelite: "Cash · satellite bucket",
+      comisiones: "Fees paid", intereses: "Interest earned",
+      deslizamiento: "Slippage paid", plusvalias: "Realized gains",
+      impuesto: "Estimated tax", aciertosFallos: "Wins / losses · satellite",
+      reponerEtiqueta: "Satellite bucket: ", reponerObjetivo: o => ` of ${o} target`,
+      reponerLlevas: "You've topped up ", reponerAviso: " into this bucket by hand.\n            The bot never refills it on its own.",
+      reponerBoton: "Top up…",
+      comparativaTxt: "Versus buying and holding:\n          ",
+      comparativaAviso: (total, ref) => `The bot has ${total}; doing nothing you'd have\n          ${ref}. After just a few weeks this doesn't mean much yet.`,
+      bolsaCerrada: "The market closes overnight and on weekends: the line goes flat, that's not a bug.",
+    },
+    reponerPrompt: {
+      texto: "How much do you want to move from the core bucket to the satellite bucket?\n\n" +
+             "It comes out of your stable money, and it's money you could lose entirely.\n",
+      minimo: "Minimum in this wallet: ", disponible: "  ·  available: ",
+      importe: "\n\nAmount in euros:", error: "Couldn't top up: ",
+    },
+    ajustesModal: {
+      errorCarga: "Couldn't load the settings.\n\n",
+      errorCargaSufijo: "\n\nIf it says 404, server.py is from an older version: " +
+                        "stop the bot with parar.bat and start it again.",
+      respuestaError: "The server responded ", sinAjustes: "The server didn't return any settings",
+      titulo: n => `Settings · ${n}`, cerrar: "Close",
+      nota: "The defaults are a reasonable starting point, not the best ones — nobody knows " +
+            "those. Only change them when your own data gives you a reason to.",
+      dineroNuevo: "New money and cash", avanzados: "Advanced satellite bucket settings",
+      notaAvanzados: "These are the exit rules. This is where you really win or lose: getting " +
+                     "in is easy, getting out in time is the hard part.",
+      porDefecto: "Reset to defaults", cancelar: "Cancel", guardar: "Save",
+      confirmarDefecto: "Reset all of this wallet's settings to their defaults?",
+      rangoFueraDeRango: "Some values are out of range",
+      rango: (min, max, sufijo) => `Between ${min} and ${max}${sufijo}.`,
+      avisoCapado: (pct, total, apuesta, minima) =>
+        `With ${pct}% of ${total}, each bet would be ${apuesta}, below the minimum order of ` +
+        `${minima} in this wallet. The bucket would stay in cash without buying anything.`,
+      avisoSubirReparto: "Raising the allocation does NOT put money into the satellite bucket. " +
+                         "That's what the \"Top up…\" button is for.",
+      avisoBajarReparto: "Lowering the allocation will make the bot sell part of the " +
+                         "satellite bucket on the next cycle.",
+      avisoCobertura: (n, t, cobertura) =>
+        `With ${n} bets of at most ${t}% each, the satellite bucket would only ever invest ` +
+        `${cobertura}% of its money. The rest would always stay in cash.`,
+    },
+    campos: {
+      repartoLoteria: { etiqueta: "Satellite bucket allocation",
+        ayuda: "How much of this wallet is put into the risky side. The rest goes to the core bucket." },
+      umbralRebalanceo: { etiqueta: "Margin before rebalancing",
+        ayuda: "How far something has to drift before the bot acts. Lower means it trades more and pays more fees." },
+      aportacionImporte: { etiqueta: "Recurring contribution",
+        ayuda: "New money added on a schedule, like a recurring investment plan. It all goes to the core bucket. At 0 it's disabled." },
+      aportacionDias: { etiqueta: "Every how many days", ayuda: "30 is roughly a monthly contribution." },
+      interesAnual: { etiqueta: "Interest on idle cash",
+        ayuda: "What the uninvested cash earns per year, like an interest-bearing account. It accrues continuously." },
+      stopPerdida: { etiqueta: "Stop loss",
+        ayuda: "If a bet falls this percentage from your entry price, it's sold. Tighter means you get stopped out by any normal dip." },
+      caidaDesdeMaximo: { etiqueta: "Drawdown exit",
+        ayuda: "If something rose and then falls this much from its peak, it exits even if it's still in profit." },
+      objetivoParcial: { etiqueta: "Profit-taking multiple",
+        ayuda: "When this multiple is reached, part of the position is sold. At 2x you recover your stake and the rest runs for free." },
+      fraccionParcial: { etiqueta: "How much is taken then",
+        ayuda: "What percentage of the position is sold once the multiple is reached." },
+      cuarentenaDias: { etiqueta: "Quarantine after closing",
+        ayuda: "Days an asset stays blocked after being sold. Stops the bot from immediately rebuying something that just got stopped out. At 0 it's disabled." },
+      maxPosiciones: { etiqueta: "Simultaneous bets",
+        ayuda: "How many positions the satellite bucket can hold open at once." },
+      maxPorPosicion: { etiqueta: "Maximum size per bet",
+        ayuda: "How much of the satellite bucket can go into a single bet. Lower survives more losing streaks in a row." },
+    },
+    activosModal: {
+      placeholderId: "CoinGecko id or Yahoo ticker", placeholderNombre: "Name",
+      quitar: "Remove", quitarActivo: "Remove asset",
+      errorCarga: "Couldn't load the assets.\n\n",
+      errorCargaSufijo: "\n\nIf it says 404, server.py is from an older version: " +
+                        "stop the bot with parar.bat and start it again.",
+      sinActivos: "The server didn't return any assets",
+      titulo: n => `Watched assets · ${n}`,
+      nota: "These are the core bucket's assets: the bot splits the money between them by " +
+            "weight and keeps them from drifting. The identifier is the CoinGecko id for " +
+            "crypto (e.g. \"cardano\") or the Yahoo Finance ticker for broker assets " +
+            "(e.g. \"AAPL\"). You can't remove one that has an open position.",
+      anadir: "+ Add asset",
+      confirmarDefecto: n => `Reset ${n} to its default assets?`,
+      minimoUno: "At least one asset has to remain.",
+    },
+  },
+};
+
+const T = TEXTOS[typeof IDIOMA !== "undefined" ? IDIOMA : "es"];
+const LOCALE = T === TEXTOS.en ? "en-US" : "es-ES";
+const NOMBRES = T.nombres;
 
 const ICONO = {
   pausa: '<svg viewBox="0 0 12 12" aria-hidden="true"><rect x="2" y="1.5" width="3" height="9" rx="0.7"/><rect x="7" y="1.5" width="3" height="9" rx="0.7"/></svg>',
@@ -8,7 +259,7 @@ const ICONO = {
 const eur = n =>
   n === null || n === undefined
     ? "—"
-    : n.toLocaleString("es-ES", { style: "currency", currency: "EUR", maximumFractionDigits: 2 });
+    : n.toLocaleString(LOCALE, { style: "currency", currency: "EUR", maximumFractionDigits: 2 });
 
 const pct = n => (n === null || n === undefined ? "—" : n.toFixed(1) + "%");
 
@@ -27,20 +278,18 @@ function marca(n, texto) {
 }
 
 const hora = iso => !iso ? "—" :
-  new Date(iso).toLocaleTimeString("es-ES", { hour: "2-digit", minute: "2-digit" });
+  new Date(iso).toLocaleTimeString(LOCALE, { hour: "2-digit", minute: "2-digit" });
 
 const fecha = iso => !iso ? "" :
-  new Date(iso).toLocaleDateString("es-ES", { day: "2-digit", month: "2-digit" });
+  new Date(iso).toLocaleDateString(LOCALE, { day: "2-digit", month: "2-digit" });
 
 const fechaHora = iso => !iso ? "—" :
-  new Date(iso).toLocaleString("es-ES", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
+  new Date(iso).toLocaleString(LOCALE, { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
 
 /* --- Gráfica en SVG, sin librerías --------------------------------- */
 function grafica(puntos, id) {
   if (!puntos || puntos.length < 2) {
-    return `<div class="marco"><div class="vacio">
-      Sin datos suficientes todavía.<br>La curva aparece tras unas cuantas lecturas.
-    </div></div>`;
+    return `<div class="marco"><div class="vacio">${T.grafica.vacio}</div></div>`;
   }
 
   const v = puntos.map(p => p.total);
@@ -91,9 +340,9 @@ function grafica(puntos, id) {
       <circle cx="${ultimo[0].toFixed(1)}" cy="${ultimo[1].toFixed(1)}" r="3.2" fill="${color}"></circle>
     </svg>
     <div class="pie-grafica">
-      <span>${v.length} lecturas</span>
-      ${hayRef ? '<span class="ref-leyenda">--- comprar y mantener</span>'
-               : `<span>mín ${eur(min)}</span>`}
+      <span>${v.length} ${T.grafica.lecturas}</span>
+      ${hayRef ? `<span class="ref-leyenda">${T.grafica.compararMantener}</span>`
+               : `<span>${T.grafica.minimo}${eur(min)}</span>`}
       <span>${marca(dif, pct(difPct))}</span>
     </div>
   </div>`;
@@ -103,7 +352,7 @@ function barraCubos(w) {
   const invertido = w.seguro + w.loteria;
   if (!invertido) {
     return `<div class="cubos"><i class="b-vacio"></i></div>
-      <div class="leyenda">Todo en efectivo · el bot aún no ha invertido nada</div>`;
+      <div class="leyenda">${T.cubos.vacio}</div>`;
   }
   const s = (w.seguro / invertido) * 100;
   const l = (w.loteria / invertido) * 100;
@@ -112,50 +361,51 @@ function barraCubos(w) {
       <i class="b-loteria" style="width:${l}%"></i>
     </div>
     <div class="leyenda">
-      <span><i class="marca seguro"></i>Seguro <b>${pct(s)}</b> · objetivo ${pct(w.reparto_objetivo.seguro)}</span>
-      <span><i class="marca loteria"></i>Lotería <b>${pct(l)}</b> · objetivo ${pct(w.reparto_objetivo.loteria)}</span>
+      <span><i class="marca seguro"></i>${T.cubos.nucleo} <b>${pct(s)}</b> · ${T.cubos.objetivo} ${pct(w.reparto_objetivo.seguro)}</span>
+      <span><i class="marca loteria"></i>${T.cubos.satelite} <b>${pct(l)}</b> · ${T.cubos.objetivo} ${pct(w.reparto_objetivo.loteria)}</span>
     </div>`;
 }
 
 function tablaHistorial(w) {
   if (!w.historial.length) {
-    return `<div class="marco"><div class="vacio">
-      Sin operaciones todavía.<br>El bot solo está observando precios.
-    </div></div>`;
+    return `<div class="marco"><div class="vacio">${T.historial.vacio}</div></div>`;
   }
   const filas = w.historial.map(o => `<tr class="${o.tipo}" title="${o.motivo || ""}">
       <td class="num"><span class="fecha">${fecha(o.ts)}</span>${hora(o.ts)}</td>
-      <td>${o.tipo === "compra" ? "Compra" : "Venta"}</td>
+      <td>${o.tipo === "compra" ? T.historial.compra : T.historial.venta}</td>
       <td>${o.simbolo}</td>
       <td class="der num">${eur(o.importe)}</td>
       <td class="der">${o.tipo === "venta" && o.pl_pct !== null ? marca(o.pl_pct, pct(o.pl_pct)) : ""}</td>
     </tr>
     <tr class="motivo-fila"><td colspan="5" class="motivo">${o.motivo || ""}</td></tr>`).join("");
   return `<div class="marco scroll"><table><thead><tr>
-      <th>HORA</th><th>TIPO</th><th>ACTIVO</th><th class="der">IMPORTE</th><th class="der">RESULTADO</th>
+      <th>${T.historial.hora}</th><th>${T.historial.tipo}</th><th>${T.historial.activo}</th>
+      <th class="der">${T.historial.importe}</th><th class="der">${T.historial.resultado}</th>
     </tr></thead><tbody>${filas}</tbody></table></div>`;
 }
 
 function tablaPosiciones(w) {
   if (!w.posiciones.length) {
-    return `<div class="marco"><div class="vacio">Sin posiciones abiertas.</div></div>`;
+    return `<div class="marco"><div class="vacio">${T.posiciones.vacio}</div></div>`;
   }
   const filas = w.posiciones.map(p => `<tr>
       <td>${p.simbolo}</td>
-      <td>${p.cubo === "loteria" ? "Lotería" : "Seguro"}</td>
+      <td>${p.cubo === "loteria" ? T.cubos.satelite : T.cubos.nucleo}</td>
       <td class="der num">${eur(p.importe)}</td>
       <td class="der num">${eur(p.valor_actual)}</td>
       <td class="der">${marca(p.pl_pct, pct(p.pl_pct))}</td>
     </tr>`).join("");
   return `<div class="marco"><table><thead><tr>
-      <th>ACTIVO</th><th>CUBO</th><th class="der">PUESTO</th><th class="der">VALE AHORA</th><th class="der">RESULTADO</th>
+      <th>${T.posiciones.activo}</th><th>${T.posiciones.cubo}</th>
+      <th class="der">${T.posiciones.puesto}</th><th class="der">${T.posiciones.valeAhora}</th>
+      <th class="der">${T.posiciones.resultado}</th>
     </tr></thead><tbody>${filas}</tbody></table></div>`;
 }
 
 function tablaPrecios(w) {
   const filas = w.activos.map(a => `<tr>
       <td>${a.nombre}</td>
-      <td class="der num">${a.precio ? eur(a.precio) : '<span class="neutro">sin datos</span>'}</td>
+      <td class="der num">${a.precio ? eur(a.precio) : `<span class="neutro">${T.precios.sinDatos}</span>`}</td>
     </tr>`).join("");
   return `<div class="marco"><table><tbody>${filas}</tbody></table></div>`;
 }
@@ -164,18 +414,18 @@ function pintarWallet(clave, w) {
   const s = signo(w.resultado);
   const pctRes = w.aportado ? (w.resultado / w.aportado) * 100 : 0;
   const cerrado = clave === "broker"
-    ? '<div class="aviso">La bolsa cierra de noche y fines de semana: la curva se queda plana, no es un fallo.</div>'
+    ? `<div class="aviso">${T.wallet.bolsaCerrada}</div>`
     : "";
 
   return `
     <header>
       <h2><span class="pip"></span>${NOMBRES[clave]}</h2>
       <div class="cabecera-dcha">
-        <span class="etiqueta">wallet independiente</span>
-        <button class="engranaje" data-activos="${clave}" title="Activos" aria-label="Activos vigilados en ${NOMBRES[clave]}">
+        <span class="etiqueta">${T.wallet.independiente}</span>
+        <button class="engranaje" data-activos="${clave}" title="${T.wallet.activosBoton}" aria-label="${T.wallet.activosAria(NOMBRES[clave])}">
           <svg viewBox="0 0 16 16" aria-hidden="true"><rect x="2" y="3.2" width="12" height="1.8" rx="0.9"/><rect x="2" y="7.1" width="12" height="1.8" rx="0.9"/><rect x="2" y="11" width="12" height="1.8" rx="0.9"/></svg>
         </button>
-        <button class="engranaje" data-ajustes="${clave}" title="Ajustes" aria-label="Ajustes de ${NOMBRES[clave]}">
+        <button class="engranaje" data-ajustes="${clave}" title="${T.wallet.ajustesBoton}" aria-label="${T.wallet.ajustesAria(NOMBRES[clave])}">
           <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 5.2a2.8 2.8 0 100 5.6 2.8 2.8 0 000-5.6zm0 4.4a1.6 1.6 0 110-3.2 1.6 1.6 0 010 3.2z"/><path d="M13.9 9.3l-1-.6a5.9 5.9 0 000-1.4l1-.6a.6.6 0 00.2-.8l-1.2-2a.6.6 0 00-.8-.2l-1 .6a5.6 5.6 0 00-1.2-.7v-1.2a.6.6 0 00-.6-.6h-2.4a.6.6 0 00-.6.6v1.2c-.4.2-.8.4-1.2.7l-1-.6a.6.6 0 00-.8.2l-1.2 2a.6.6 0 00.2.8l1 .6a5.9 5.9 0 000 1.4l-1 .6a.6.6 0 00-.2.8l1.2 2a.6.6 0 00.8.2l1-.6c.4.3.8.5 1.2.7v1.2c0 .3.3.6.6.6h2.4a.6.6 0 00.6-.6v-1.2c.4-.2.8-.4 1.2-.7l1 .6a.6.6 0 00.8-.2l1.2-2a.6.6 0 00-.2-.8z"/></svg>
         </button>
       </div>
@@ -184,62 +434,59 @@ function pintarWallet(clave, w) {
     <div class="total num ${s.clase}">${eur(w.total)}</div>
     <div class="resultado">
       ${marca(w.resultado, `${eur(w.resultado)} (${pct(pctRes)})`)}
-      <span class="neutro">sobre ${eur(w.aportado)} aportados</span>
+      <span class="neutro">${T.wallet.sobreAportado(eur(w.aportado))}</span>
     </div>
 
     ${(w.diagnostico || []).length ? `
       <div class="diagnostico">
-        <div class="diag-titulo">Esta configuración no puede funcionar del todo</div>
+        <div class="diag-titulo">${T.wallet.diagTitulo}</div>
         ${w.diagnostico.map(t => `<div class="diag-linea">${t}</div>`).join("")}
       </div>` : ""}
 
     <div class="bloque">
-      <h3>REPARTO ACTUAL</h3>
+      <h3>${T.wallet.reparto}</h3>
       ${barraCubos(w)}
     </div>
 
     <div class="bloque">
-      <h3>RESUMEN</h3>
+      <h3>${T.wallet.resumen}</h3>
       <div class="cifras">
-        <div class="cifra"><span>Efectivo · cubo seguro</span><strong class="num">${eur(w.efectivo_seguro)}</strong></div>
-        <div class="cifra"><span>Efectivo · cubo lotería</span><strong class="num">${eur(w.efectivo_loteria)}</strong></div>
-        <div class="cifra"><span>Comisiones pagadas</span><strong class="num baja">${eur(w.comisiones)}</strong></div>
-        <div class="cifra"><span>Intereses del efectivo</span><strong class="num sube">${eur(w.intereses)}</strong></div>
-        <div class="cifra"><span>Deslizamiento pagado</span><strong class="num baja">${eur(w.deslizamiento)}</strong></div>
-        <div class="cifra"><span>Plusvalías realizadas</span><strong class="num">${marca(w.plusvalias, eur(w.plusvalias))}</strong></div>
-        <div class="cifra"><span>Impuesto estimado</span><strong class="num baja">${eur(w.impuesto)}</strong></div>
-        <div class="cifra"><span>Aciertos / fallos · lotería</span><strong class="num"><span class="sube">${w.aciertos}</span> / <span class="baja">${w.fallos}</span></strong></div>
+        <div class="cifra"><span>${T.wallet.efectivoNucleo}</span><strong class="num">${eur(w.efectivo_seguro)}</strong></div>
+        <div class="cifra"><span>${T.wallet.efectivoSatelite}</span><strong class="num">${eur(w.efectivo_loteria)}</strong></div>
+        <div class="cifra"><span>${T.wallet.comisiones}</span><strong class="num baja">${eur(w.comisiones)}</strong></div>
+        <div class="cifra"><span>${T.wallet.intereses}</span><strong class="num sube">${eur(w.intereses)}</strong></div>
+        <div class="cifra"><span>${T.wallet.deslizamiento}</span><strong class="num baja">${eur(w.deslizamiento)}</strong></div>
+        <div class="cifra"><span>${T.wallet.plusvalias}</span><strong class="num">${marca(w.plusvalias, eur(w.plusvalias))}</strong></div>
+        <div class="cifra"><span>${T.wallet.impuesto}</span><strong class="num baja">${eur(w.impuesto)}</strong></div>
+        <div class="cifra"><span>${T.wallet.aciertosFallos}</span><strong class="num"><span class="sube">${w.aciertos}</span> / <span class="baja">${w.fallos}</span></strong></div>
       </div>
       <div class="reponer">
         <div>
-          <div class="reponer-txt">Cubo lotería: <b class="num">${eur(w.loteria)}</b>
-            de ${eur(w.total * w.reparto_objetivo.loteria / 100)} objetivo</div>
-          <div class="reponer-aviso">Llevas <b class="num">${eur(w.repuesto)}</b> repuestos a mano en este cubo.
-            El bot nunca lo rellena solo.</div>
+          <div class="reponer-txt">${T.wallet.reponerEtiqueta}<b class="num">${eur(w.loteria)}</b>${T.wallet.reponerObjetivo(eur(w.total * w.reparto_objetivo.loteria / 100))}</div>
+          <div class="reponer-aviso">${T.wallet.reponerLlevas}<b class="num">${eur(w.repuesto)}</b>${T.wallet.reponerAviso}</div>
         </div>
-        <button class="btn-reponer" data-wallet="${clave}">Reponer…</button>
+        <button class="btn-reponer" data-wallet="${clave}">${T.wallet.reponerBoton}</button>
       </div>
     </div>
 
     ${w.referencia ? `
     <div class="comparativa">
       <div>
-        <div class="comp-txt">Frente a comprar y no tocar nada:
+        <div class="comp-txt">${T.wallet.comparativaTxt}
           <b>${marca(w.total - w.referencia, eur(w.total - w.referencia))}</b></div>
-        <div class="comp-aviso">El bot lleva ${eur(w.total)}; sin hacer nada tendrías
-          ${eur(w.referencia)}. Con pocas semanas esto no significa nada todavía.</div>
+        <div class="comp-aviso">${T.wallet.comparativaAviso(eur(w.total), eur(w.referencia))}</div>
       </div>
     </div>` : ""}
 
     <div class="bloque">
       <div class="paralelo">
         <div>
-          <h3>EVOLUCIÓN</h3>
+          <h3>${T.wallet.evolucion}</h3>
           ${grafica(w.grafica, clave)}
           ${cerrado}
         </div>
         <div>
-          <h3>HISTORIAL</h3>
+          <h3>${T.wallet.historialTitulo}</h3>
           ${tablaHistorial(w)}
         </div>
       </div>
@@ -248,11 +495,11 @@ function pintarWallet(clave, w) {
     <div class="bloque">
       <div class="paralelo">
         <div>
-          <h3>POSICIONES ABIERTAS</h3>
+          <h3>${T.wallet.posicionesTitulo}</h3>
           ${tablaPosiciones(w)}
         </div>
         <div>
-          <h3>PRECIOS VIGILADOS</h3>
+          <h3>${T.wallet.preciosTitulo}</h3>
           ${tablaPrecios(w)}
         </div>
       </div>
@@ -268,7 +515,7 @@ async function refrescar() {
     datos = await (await fetch("/api/estado")).json();
   } catch (e) {
     document.getElementById("estado-bot").innerHTML =
-      '<span class="punto off"></span>sin conexión con el bot';
+      `<span class="punto off"></span>${T.cabecera.sinConexion}`;
     return;
   }
 
@@ -278,25 +525,25 @@ async function refrescar() {
   document.getElementById("conjunto").innerHTML =
     `<span class="${s.clase}">${eur(datos.total_conjunto)}</span>`;
   document.getElementById("conjunto-detalle").innerHTML =
-    `las dos wallets · ${marca(dif, eur(dif))}`;
+    `${T.cabecera.dosWallets}${marca(dif, eur(dif))}`;
 
   const activo = datos.bot_activo;
   document.getElementById("estado-bot").innerHTML =
-    `<span class="punto ${activo ? "" : "off"}"></span>${activo ? "bot activo" : "bot parado"}`;
-  document.getElementById("ultima").textContent = "últ. lectura " + fechaHora(datos.ultima_consulta);
+    `<span class="punto ${activo ? "" : "off"}"></span>${activo ? T.cabecera.botActivo : T.cabecera.botParado}`;
+  document.getElementById("ultima").textContent = T.cabecera.ultimaLectura + fechaHora(datos.ultima_consulta);
 
   const btn = document.getElementById("interruptor");
   btn.innerHTML = activo
-    ? ICONO.pausa + "<span>Parar bot</span>"
-    : ICONO.play + "<span>Activar bot</span>";
+    ? ICONO.pausa + `<span>${T.cabecera.parar}</span>`
+    : ICONO.play + `<span>${T.cabecera.activar}</span>`;
   btn.dataset.activo = activo;
   btn.classList.toggle("en-marcha", activo);
-  btn.setAttribute("aria-label", activo ? "Parar el bot" : "Activar el bot");
+  btn.setAttribute("aria-label", activo ? T.cabecera.ariaParar : T.cabecera.ariaActivar);
 
   const err = document.getElementById("error");
   if (datos.ultimo_error) {
     err.style.display = "block";
-    err.textContent = "La última lectura falló en parte — " + datos.ultimo_error;
+    err.textContent = T.cabecera.errorPrefijo + datos.ultimo_error;
   } else {
     err.style.display = "none";
   }
@@ -314,11 +561,10 @@ document.addEventListener("click", async ev => {
   const wd = ULTIMO_ESTADO ? ULTIMO_ESTADO.wallets[wallet] : null;
   const minima = wd ? wd.orden_minima : 5;
   const texto = prompt(
-    "¿Cuánto quieres pasar del cubo seguro al cubo lotería?\n\n" +
-    "Sale de tu dinero estable y es dinero que puedes perder entero.\n" +
-    `Mínimo en esta wallet: ${minima.toFixed(0)} €` +
-    (wd ? `  ·  disponible: ${wd.seguro.toFixed(2)} €` : "") +
-    "\n\nImporte en euros:", Math.max(minima, 0).toFixed(0));
+    T.reponerPrompt.texto +
+    T.reponerPrompt.minimo + `${minima.toFixed(0)} €` +
+    (wd ? `${T.reponerPrompt.disponible}${wd.seguro.toFixed(2)} €` : "") +
+    T.reponerPrompt.importe, Math.max(minima, 0).toFixed(0));
   if (!texto) return;
   const importe = parseFloat(texto.replace(",", "."));
   if (!(importe > 0)) return;
@@ -328,7 +574,7 @@ document.addEventListener("click", async ev => {
     body: JSON.stringify({ wallet, importe }),
   });
   const res = await r.json();
-  if (res.error) alert("No se pudo reponer: " + res.error);
+  if (res.error) alert(T.reponerPrompt.error + res.error);
   refrescar();
 });
 
@@ -358,66 +604,54 @@ setInterval(refrescar, 5000);
 /* ==================== PANEL DE AJUSTES ==================== */
 
 const CAMPOS_BASICOS = [
-  { campo: "reparto_loteria", etiqueta: "Reparto del cubo lotería", sufijo: "%",
-    min: 0, max: 40, paso: 1,
-    ayuda: "Cuánto de esta wallet se juega en lo arriesgado. El resto va al cubo seguro.",
+  { campo: "reparto_loteria", etiqueta: T.campos.repartoLoteria.etiqueta, sufijo: "%",
+    min: 0, max: 40, paso: 1, ayuda: T.campos.repartoLoteria.ayuda,
     desde: a => a.reparto.loteria * 100 },
-  { campo: "umbral_rebalanceo", etiqueta: "Margen antes de rebalancear", sufijo: "%",
-    min: 1, max: 30, paso: 1,
-    ayuda: "Cuánto tiene que desviarse algo antes de que el bot actúe. Cuanto más bajo, más opera y más comisiones paga.",
+  { campo: "umbral_rebalanceo", etiqueta: T.campos.umbralRebalanceo.etiqueta, sufijo: "%",
+    min: 1, max: 30, paso: 1, ayuda: T.campos.umbralRebalanceo.ayuda,
     desde: a => a.umbral_rebalanceo * 100 },
 ];
 
 const CAMPOS_APORTACION = [
-  { campo: "aportacion_importe", etiqueta: "Aportación periódica", sufijo: "€",
-    min: 0, max: 100000, paso: 5,
-    ayuda: "Dinero nuevo que entra cada cierto tiempo, como un plan de inversión. Va entero al cubo seguro. En 0 está desactivada.",
+  { campo: "aportacion_importe", etiqueta: T.campos.aportacionImporte.etiqueta, sufijo: "€",
+    min: 0, max: 100000, paso: 5, ayuda: T.campos.aportacionImporte.ayuda,
     desde: a => a.aportacion_importe },
-  { campo: "aportacion_dias", etiqueta: "Cada cuántos días", sufijo: "d",
-    min: 1, max: 365, paso: 1,
-    ayuda: "30 equivale a una aportación mensual.",
+  { campo: "aportacion_dias", etiqueta: T.campos.aportacionDias.etiqueta, sufijo: "d",
+    min: 1, max: 365, paso: 1, ayuda: T.campos.aportacionDias.ayuda,
     desde: a => a.aportacion_dias },
-  { campo: "interes_anual", etiqueta: "Interés del efectivo parado", sufijo: "%",
-    min: 0, max: 20, paso: 0.1,
-    ayuda: "Lo que renta al año el dinero sin invertir, como una cuenta remunerada. Se abona de forma continua.",
+  { campo: "interes_anual", etiqueta: T.campos.interesAnual.etiqueta, sufijo: "%",
+    min: 0, max: 20, paso: 0.1, ayuda: T.campos.interesAnual.ayuda,
     desde: a => +(a.interes_anual * 100).toFixed(2) },
 ];
 
 // Los dos primeros son caídas: se piden en positivo y se guardan en negativo,
 // así no hay que escribir signos menos en ningún campo.
 const CAMPOS_AVANZADOS = [
-  { campo: "stop_perdida", etiqueta: "Stop de pérdida", sufijo: "%", magnitud: true,
-    min: 5, max: 80, paso: 1,
-    ayuda: "Si una apuesta cae este porcentaje desde tu precio de entrada, se vende. Más ajustado te saca en cualquier bajón normal.",
+  { campo: "stop_perdida", etiqueta: T.campos.stopPerdida.etiqueta, sufijo: "%", magnitud: true,
+    min: 5, max: 80, paso: 1, ayuda: T.campos.stopPerdida.ayuda,
     desde: a => Math.abs(a.stop_perdida) },
-  { campo: "caida_desde_maximo", etiqueta: "Salida por desplome", sufijo: "%", magnitud: true,
-    min: 10, max: 90, paso: 1,
-    ayuda: "Si algo subió y luego cae esto desde su máximo, se sale aunque siga en ganancias.",
+  { campo: "caida_desde_maximo", etiqueta: T.campos.caidaDesdeMaximo.etiqueta, sufijo: "%", magnitud: true,
+    min: 10, max: 90, paso: 1, ayuda: T.campos.caidaDesdeMaximo.ayuda,
     desde: a => Math.abs(a.caida_desde_maximo) },
-  { campo: "objetivo_parcial", etiqueta: "Multiplicador de recogida", sufijo: "x",
-    min: 1.2, max: 10, paso: 0.1,
-    ayuda: "Al alcanzar este múltiplo se vende una parte. Con 2x recuperas lo puesto y el resto corre gratis.",
+  { campo: "objetivo_parcial", etiqueta: T.campos.objetivoParcial.etiqueta, sufijo: "x",
+    min: 1.2, max: 10, paso: 0.1, ayuda: T.campos.objetivoParcial.ayuda,
     desde: a => a.objetivo_parcial },
-  { campo: "fraccion_parcial", etiqueta: "Cuánto se recoge ahí", sufijo: "%",
-    min: 10, max: 100, paso: 5,
-    ayuda: "Qué porcentaje de la posición se vende al alcanzar el múltiplo.",
+  { campo: "fraccion_parcial", etiqueta: T.campos.fraccionParcial.etiqueta, sufijo: "%",
+    min: 10, max: 100, paso: 5, ayuda: T.campos.fraccionParcial.ayuda,
     desde: a => a.fraccion_parcial * 100 },
-  { campo: "cuarentena_dias", etiqueta: "Cuarentena tras cerrar", sufijo: "d",
-    min: 0, max: 90, paso: 1,
-    ayuda: "Días que un activo queda vetado tras venderse. Evita recomprar lo que acaba de saltar por stop. En 0 está desactivada.",
+  { campo: "cuarentena_dias", etiqueta: T.campos.cuarentenaDias.etiqueta, sufijo: "d",
+    min: 0, max: 90, paso: 1, ayuda: T.campos.cuarentenaDias.ayuda,
     desde: a => a.cuarentena_dias },
-  { campo: "max_posiciones", etiqueta: "Apuestas simultáneas", sufijo: "",
-    min: 1, max: 20, paso: 1,
-    ayuda: "Cuántas posiciones puede tener abiertas el cubo lotería a la vez.",
+  { campo: "max_posiciones", etiqueta: T.campos.maxPosiciones.etiqueta, sufijo: "",
+    min: 1, max: 20, paso: 1, ayuda: T.campos.maxPosiciones.ayuda,
     desde: a => a.max_posiciones },
-  { campo: "max_por_posicion", etiqueta: "Tamaño máximo por apuesta", sufijo: "%",
-    min: 5, max: 100, paso: 5,
-    ayuda: "Cuánto del cubo lotería puede ir a una sola apuesta. Bajo aguanta más fallos seguidos.",
+  { campo: "max_por_posicion", etiqueta: T.campos.maxPorPosicion.etiqueta, sufijo: "%",
+    min: 5, max: 100, paso: 5, ayuda: T.campos.maxPorPosicion.ayuda,
     desde: a => a.max_por_posicion * 100 },
 ];
 
 function fila(def, ajustes) {
-  const rango = `Entre ${def.min} y ${def.max}${def.sufijo}.`;
+  const rango = T.ajustesModal.rango(def.min, def.max, def.sufijo);
   // Si por lo que sea faltara el ajuste, se muestra el mínimo en vez de
   // dejar el campo vacío, que impediría guardar sin explicar por qué.
   let valor;
@@ -442,13 +676,11 @@ async function abrirAjustes(wallet) {
   let ajustes;
   try {
     const r = await fetch(`/api/ajustes/${wallet}`);
-    if (!r.ok) throw new Error("El servidor respondió " + r.status);
+    if (!r.ok) throw new Error(T.ajustesModal.respuestaError + r.status);
     ({ ajustes } = await r.json());
-    if (!ajustes) throw new Error("El servidor no devolvió ajustes");
+    if (!ajustes) throw new Error(T.ajustesModal.sinAjustes);
   } catch (e) {
-    alert("No se pudieron cargar los ajustes.\n\n" + e.message +
-          "\n\nSi pone 404, el server.py es de una versión anterior: " +
-          "para el bot con parar.bat y vuelve a arrancarlo.");
+    alert(T.ajustesModal.errorCarga + e.message + T.ajustesModal.errorCargaSufijo);
     return;
   }
 
@@ -460,36 +692,34 @@ async function abrirAjustes(wallet) {
     "position:fixed;inset:0;z-index:9999;display:flex;align-items:center;" +
     "justify-content:center;padding:24px;background:rgba(5,6,14,.72)";
   fondo.innerHTML = `
-    <div class="modal" role="dialog" aria-label="Ajustes de ${NOMBRES[wallet]}">
+    <div class="modal" role="dialog" aria-label="${T.ajustesModal.titulo(NOMBRES[wallet])}">
       <div class="modal-cabecera">
-        <h3>Ajustes · ${NOMBRES[wallet]}</h3>
-        <button class="cerrar" aria-label="Cerrar">✕</button>
+        <h3>${T.ajustesModal.titulo(NOMBRES[wallet])}</h3>
+        <button class="cerrar" aria-label="${T.ajustesModal.cerrar}">✕</button>
       </div>
       <div class="modal-cuerpo">
-        <p class="modal-nota">Los valores por defecto son un punto de partida razonable,
-        no los mejores: nadie los conoce. Cámbialos solo cuando tus datos te den un motivo.</p>
+        <p class="modal-nota">${T.ajustesModal.nota}</p>
 
         ${CAMPOS_BASICOS.map(d => fila(d, ajustes)).join("")}
 
         <details class="avanzado">
-          <summary>Dinero nuevo y efectivo</summary>
+          <summary>${T.ajustesModal.dineroNuevo}</summary>
           ${CAMPOS_APORTACION.map(d => fila(d, ajustes)).join("")}
         </details>
 
         <details class="avanzado">
-          <summary>Ajustes avanzados del cubo lotería</summary>
-          <p class="modal-nota">Estas son las reglas de salida. Aquí es donde se gana o
-          se pierde de verdad: entrar es fácil, salir a tiempo es el problema.</p>
+          <summary>${T.ajustesModal.avanzados}</summary>
+          <p class="modal-nota">${T.ajustesModal.notaAvanzados}</p>
           ${CAMPOS_AVANZADOS.map(d => fila(d, ajustes)).join("")}
         </details>
 
         <div class="modal-aviso" id="aviso-reparto" style="display:none"></div>
       </div>
       <div class="modal-pie">
-        <button class="por-defecto">Volver a los valores por defecto</button>
+        <button class="por-defecto">${T.ajustesModal.porDefecto}</button>
         <div class="modal-acciones">
-          <button class="cancelar">Cancelar</button>
-          <button class="guardar destacado">Guardar</button>
+          <button class="cancelar">${T.ajustesModal.cancelar}</button>
+          <button class="guardar destacado">${T.ajustesModal.guardar}</button>
         </div>
       </div>
     </div>`;
@@ -520,17 +750,13 @@ async function abrirAjustes(wallet) {
       const apuesta = total * (nuevo / 100) * tam;
       if (apuesta < minima) {
         // Lo importante: decir por qué no va a pasar nada, con números.
-        mensajes.push(`Con ${nuevo} % de ${eur(total)}, cada apuesta sería de ` +
-          `${eur(apuesta)}, por debajo de la orden mínima de ${eur(minima)} en esta ` +
-          `wallet. El cubo se quedaría en efectivo sin comprar nada.`);
+        mensajes.push(T.ajustesModal.avisoCapado(nuevo, eur(total), eur(apuesta), eur(minima)));
       }
     }
     if (!isNaN(nuevo) && nuevo > original) {
-      mensajes.push("Subir el reparto NO mete dinero en el cubo lotería. " +
-        "Para eso está el botón «Reponer…».");
+      mensajes.push(T.ajustesModal.avisoSubirReparto);
     } else if (!isNaN(nuevo) && nuevo < original) {
-      mensajes.push("Bajar el reparto hará que el bot venda parte del cubo " +
-        "lotería en el próximo ciclo.");
+      mensajes.push(T.ajustesModal.avisoBajarReparto);
     }
 
     aviso.style.display = mensajes.length ? "block" : "none";
@@ -545,7 +771,7 @@ async function abrirAjustes(wallet) {
   modal.querySelector(".cancelar").onclick = cerrar;
 
   modal.querySelector(".por-defecto").onclick = async () => {
-    if (!confirm("¿Devolver todos los ajustes de esta wallet a sus valores por defecto?")) return;
+    if (!confirm(T.ajustesModal.confirmarDefecto)) return;
     await fetch(`/api/ajustes/${wallet}/defecto`, { method: "POST" });
     cerrar(); refrescar();
   };
@@ -565,7 +791,7 @@ async function abrirAjustes(wallet) {
       if (mal) malos++;
     });
     botonGuardar.disabled = malos > 0;
-    botonGuardar.title = malos ? "Hay valores fuera de rango" : "";
+    botonGuardar.title = malos ? T.ajustesModal.rangoFueraDeRango : "";
   }
   // El atributo min de HTML marca el campo como inválido, pero no impide
   // teclear ni bajar con las flechas. Hay que sujetarlo desde aquí.
@@ -630,9 +856,7 @@ async function abrirAjustes(wallet) {
     const cobertura = n * t;
     if (!isNaN(cobertura) && cobertura < 100) {
       aviso.style.display = "block";
-      aviso.textContent = `Con ${n} apuestas de como mucho ${t} % cada una, ` +
-        `el cubo lotería solo llegaría a invertir el ${cobertura.toFixed(0)} % de su dinero. ` +
-        `El resto se quedaría siempre en efectivo.`;
+      aviso.textContent = T.ajustesModal.avisoCobertura(n, t, cobertura.toFixed(0));
     }
   };
   ["max_posiciones", "max_por_posicion"].forEach(n => {
@@ -656,10 +880,10 @@ document.addEventListener("click", ev => {
 function filaActivo(a = {}) {
   return `<div class="activos-fila">
     <input class="simbolo" type="text" placeholder="BTC" maxlength="10" value="${a.simbolo || ""}">
-    <input class="id-fuente" type="text" placeholder="id de CoinGecko o ticker de Yahoo" value="${a.id || ""}">
-    <input class="nombre" type="text" placeholder="Nombre" value="${a.nombre || ""}">
+    <input class="id-fuente" type="text" placeholder="${T.activosModal.placeholderId}" value="${a.id || ""}">
+    <input class="nombre" type="text" placeholder="${T.activosModal.placeholderNombre}" value="${a.nombre || ""}">
     <input class="peso" type="number" min="0.1" max="10" step="0.1" value="${a.peso ?? 1}">
-    <button class="activos-quitar" type="button" title="Quitar" aria-label="Quitar activo">✕</button>
+    <button class="activos-quitar" type="button" title="${T.activosModal.quitar}" aria-label="${T.activosModal.quitarActivo}">✕</button>
   </div>`;
 }
 
@@ -667,13 +891,11 @@ async function abrirActivos(wallet) {
   let activos;
   try {
     const r = await fetch(`/api/activos/${wallet}`);
-    if (!r.ok) throw new Error("El servidor respondió " + r.status);
+    if (!r.ok) throw new Error(T.ajustesModal.respuestaError + r.status);
     ({ activos } = await r.json());
-    if (!activos) throw new Error("El servidor no devolvió activos");
+    if (!activos) throw new Error(T.activosModal.sinActivos);
   } catch (e) {
-    alert("No se pudieron cargar los activos.\n\n" + e.message +
-          "\n\nSi pone 404, el server.py es de una versión anterior: " +
-          "para el bot con parar.bat y vuelve a arrancarlo.");
+    alert(T.activosModal.errorCarga + e.message + T.activosModal.errorCargaSufijo);
     return;
   }
 
@@ -683,27 +905,24 @@ async function abrirActivos(wallet) {
     "position:fixed;inset:0;z-index:9999;display:flex;align-items:center;" +
     "justify-content:center;padding:24px;background:rgba(5,6,14,.72)";
   fondo.innerHTML = `
-    <div class="modal" role="dialog" aria-label="Activos de ${NOMBRES[wallet]}">
+    <div class="modal" role="dialog" aria-label="${T.activosModal.titulo(NOMBRES[wallet])}">
       <div class="modal-cabecera">
-        <h3>Activos vigilados · ${NOMBRES[wallet]}</h3>
-        <button class="cerrar" aria-label="Cerrar">✕</button>
+        <h3>${T.activosModal.titulo(NOMBRES[wallet])}</h3>
+        <button class="cerrar" aria-label="${T.ajustesModal.cerrar}">✕</button>
       </div>
       <div class="modal-cuerpo">
-        <p class="modal-nota">Son los activos del cubo seguro: el bot reparte el dinero entre
-        ellos según su peso y vigila que no se desvíen. El identificador es el id de CoinGecko
-        para cripto (p. ej. «cardano») o el ticker de Yahoo Finance para bróker (p. ej. «AAPL»).
-        No se puede quitar uno con una posición abierta.</p>
+        <p class="modal-nota">${T.activosModal.nota}</p>
         <div class="activos-lista">
           ${activos.map(a => filaActivo(a)).join("")}
         </div>
-        <button type="button" class="activos-anadir">+ Añadir activo</button>
+        <button type="button" class="activos-anadir">${T.activosModal.anadir}</button>
         <div class="modal-aviso" id="aviso-activos" style="display:none"></div>
       </div>
       <div class="modal-pie">
-        <button class="por-defecto">Volver a los valores por defecto</button>
+        <button class="por-defecto">${T.ajustesModal.porDefecto}</button>
         <div class="modal-acciones">
-          <button class="cancelar">Cancelar</button>
-          <button class="guardar destacado">Guardar</button>
+          <button class="cancelar">${T.ajustesModal.cancelar}</button>
+          <button class="guardar destacado">${T.ajustesModal.guardar}</button>
         </div>
       </div>
     </div>`;
@@ -734,7 +953,7 @@ async function abrirActivos(wallet) {
   modal.querySelector(".cancelar").onclick = cerrar;
 
   modal.querySelector(".por-defecto").onclick = async () => {
-    if (!confirm(`¿Devolver ${NOMBRES[wallet]} a sus activos por defecto?`)) return;
+    if (!confirm(T.activosModal.confirmarDefecto(NOMBRES[wallet]))) return;
     const res = await (await fetch(`/api/activos/${wallet}/defecto`, { method: "POST" })).json();
     if (res.error) { mostrarError(res.error); return; }
     cerrar(); refrescar();
@@ -742,7 +961,7 @@ async function abrirActivos(wallet) {
 
   modal.querySelector(".guardar").onclick = async ev => {
     const filas = [...lista.querySelectorAll(".activos-fila")];
-    if (!filas.length) { mostrarError("Tiene que quedar al menos un activo."); return; }
+    if (!filas.length) { mostrarError(T.activosModal.minimoUno); return; }
 
     const datos = filas.map(f => ({
       simbolo: f.querySelector(".simbolo").value,

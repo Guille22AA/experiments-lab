@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+licencias.db
+servidor.log

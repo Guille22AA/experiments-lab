@@ -2,11 +2,22 @@
 Configuración central. Todo lo que se puede tocar sin entrar en el resto del código.
 Paso 1: solo seguimiento de precios. Todavía no hay lógica de compra/venta.
 """
+import sys
 from pathlib import Path
+
+import textos
 
 # --- Rutas -------------------------------------------------------------
 # Por defecto los datos van a una carpeta "data" dentro del proyecto.
-PROJECT_DIR = Path(__file__).resolve().parent
+#
+# Empaquetado con PyInstaller (--onefile): __file__ apuntaría a la carpeta
+# temporal donde se descomprime el .exe en cada arranque, que se borra al
+# cerrar. data/ tiene que vivir junto al .exe de verdad para sobrevivir a un
+# reinicio, de ahí mirar sys.executable cuando sys.frozen está activo.
+if getattr(sys, "frozen", False):
+    PROJECT_DIR = Path(sys.executable).resolve().parent
+else:
+    PROJECT_DIR = Path(__file__).resolve().parent
 DATA_DIR = PROJECT_DIR / "data"
 
 STATE_FILE = DATA_DIR / "estado.json"
@@ -14,6 +25,31 @@ BACKUP_DIR = DATA_DIR / "backups"
 DB_FILE = DATA_DIR / "historial.sqlite"
 LOG_DIR = DATA_DIR / "logs"
 COINGECKO_KEY_FILE = DATA_DIR / "coingecko_key.txt"
+LICENCIA_FILE = DATA_DIR / "licencia.txt"
+LICENCIA_ESTADO_FILE = DATA_DIR / "licencia_estado.json"
+IDIOMA_FILE = DATA_DIR / "idioma.txt"
+
+# --- Idioma --------------------------------------------------------------
+# "es" si no se dice lo contrario: así la copia personal no cambia nunca.
+# Para preparar una copia vendible en inglés: escribir "en" en
+# data/idioma.txt antes de empaquetar. No hay selector en el panel todavía
+# a propósito — un ajuste más si algún día hace falta, no antes.
+def idioma():
+    try:
+        # "utf-8-sig" y no "utf-8": el Bloc de notas y PowerShell
+        # (Out-File -Encoding utf8) escriben con BOM por defecto en Windows,
+        # y un BOM sin quitar hacía que "en" no coincidiera con nada y se
+        # quedara siempre en español en silencio.
+        valor = IDIOMA_FILE.read_text(encoding="utf-8-sig").strip().lower()
+        return valor if valor in ("es", "en") else "es"
+    except OSError:
+        return "es"
+
+
+def texto(clave, **kw):
+    """Busca una plantilla de texto en textos.TEXTOS en el idioma activo."""
+    plantilla = textos.TEXTOS[idioma()][clave]
+    return plantilla.format(**kw) if kw else plantilla
 
 # --- Moneda ------------------------------------------------------------
 # Todo se normaliza a euros para poder sumar los dos lados.
@@ -27,7 +63,7 @@ MONEDA = "EUR"
 # intentando sin clave (por si CoinGecko vuelve a permitirlo).
 def coingecko_api_key():
     try:
-        return COINGECKO_KEY_FILE.read_text(encoding="utf-8").strip()
+        return COINGECKO_KEY_FILE.read_text(encoding="utf-8-sig").strip()
     except OSError:
         return ""
 
@@ -39,6 +75,18 @@ def cabeceras_coingecko():
     if clave:
         cabeceras["x-cg-demo-api-key"] = clave
     return cabeceras
+
+# --- Licencia (opcional, solo para copias vendidas) ---------------------
+# Vacío = desactivado: la copia de Guille, y cualquier clon sin esto
+# configurado, arrancan igual que siempre, sin pedir nada. Para vender una
+# copia: poner aquí la URL del servidor de licencias (proyecto aparte,
+# "BotTrading-licencias") antes de empaquetarla, y que el comprador ponga su
+# clave en data/licencia.txt. Ver licencias.py.
+SERVIDOR_LICENCIAS = ""
+# Si el servidor no responde (red caída, servidor de pago sin pagar ese mes…)
+# se concede este margen desde la última comprobación válida, para no dejar
+# tirado a un comprador legítimo por un corte puntual.
+LICENCIA_GRACIA_DIAS = 7
 
 # --- Activos que vigila el bot ----------------------------------------
 # "id" es lo que usa la fuente de precios. "simbolo" es lo que se ve en pantalla.

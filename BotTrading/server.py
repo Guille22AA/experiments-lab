@@ -12,6 +12,7 @@ import prices
 import scanner
 import storage
 import strategy
+import textos
 
 log = logging.getLogger("bot")
 
@@ -32,7 +33,9 @@ def _version_estatica():
 
 @app.route("/")
 def inicio():
-    return render_template("index.html", v=_version_estatica())
+    idioma = config.idioma()
+    return render_template("index.html", v=_version_estatica(),
+                           idioma=idioma, textos=textos.TEXTOS[idioma])
 
 
 @app.after_request
@@ -138,7 +141,7 @@ def _validar(clave, valor, limites):
 def api_ajustes(wallet):
     estado = storage.cargar_estado()
     if wallet not in estado["wallets"]:
-        return jsonify({"error": "wallet desconocida"}), 400
+        return jsonify({"error": config.texto("wallet_desconocida")}), 400
 
     if request.method == "GET":
         return jsonify({
@@ -160,7 +163,7 @@ def api_ajustes(wallet):
                 "reparto_loteria", abs(float(entrada["reparto_loteria"])) / 100,
                 config.LIMITES["reparto_loteria"])
             if recortado:
-                avisos.append(f"El reparto de lotería se ajustó a {valor*100:.0f} %.")
+                avisos.append(config.texto("ajuste_reparto", valor=valor * 100))
             ajustes["reparto"] = {"loteria": valor, "seguro": 1 - valor}
 
         # Porcentajes que la interfaz manda en entero y aquí se guardan en tanto por uno.
@@ -171,7 +174,7 @@ def api_ajustes(wallet):
                 valor, recortado = _validar(
                     clave, abs(float(entrada[campo])) / 100, config.LIMITES[clave])
                 if recortado:
-                    avisos.append(f"«{campo}» se ajustó a {valor*100:.0f} %.")
+                    avisos.append(config.texto("ajuste_campo_pct", campo=campo, valor=valor * 100))
                 ajustes[clave] = valor
 
         # Estos dos son caídas: siempre negativos, venga como venga el dato.
@@ -181,7 +184,7 @@ def api_ajustes(wallet):
                 valor, recortado = _validar(
                     campo, -abs(float(entrada[campo])), config.LIMITES[campo])
                 if recortado:
-                    avisos.append(f"«{campo}» se ajustó a {abs(valor):.0f} %.")
+                    avisos.append(config.texto("ajuste_campo_pct", campo=campo, valor=abs(valor)))
                 ajustes[campo] = valor
 
         if "objetivo_parcial" in entrada:
@@ -189,7 +192,7 @@ def api_ajustes(wallet):
                 "objetivo_parcial", abs(float(entrada["objetivo_parcial"])),
                 config.LIMITES["objetivo_parcial"])
             if recortado:
-                avisos.append(f"El multiplicador se ajustó a {valor}x.")
+                avisos.append(config.texto("ajuste_multiplicador", valor=valor))
             ajustes["objetivo_parcial"] = valor
 
         if "aportacion_importe" in entrada:
@@ -197,7 +200,7 @@ def api_ajustes(wallet):
                 "aportacion_importe", abs(float(entrada["aportacion_importe"])),
                 config.LIMITES["aportacion_importe"])
             if recortado:
-                avisos.append(f"La aportación se ajustó a {valor:.2f} €.")
+                avisos.append(config.texto("ajuste_aportacion", valor=valor))
             ajustes["aportacion_importe"] = valor
 
         if "aportacion_dias" in entrada:
@@ -205,7 +208,7 @@ def api_ajustes(wallet):
                 "aportacion_dias", abs(int(entrada["aportacion_dias"])),
                 config.LIMITES["aportacion_dias"])
             if recortado:
-                avisos.append(f"La frecuencia se ajustó a {valor} días.")
+                avisos.append(config.texto("ajuste_frecuencia", valor=valor))
             ajustes["aportacion_dias"] = valor
 
         if "interes_anual" in entrada:
@@ -213,7 +216,7 @@ def api_ajustes(wallet):
                 "interes_anual", abs(float(entrada["interes_anual"])) / 100,
                 config.LIMITES["interes_anual"])
             if recortado:
-                avisos.append(f"El interés se ajustó a {valor*100:.2f} %.")
+                avisos.append(config.texto("ajuste_interes", valor=valor * 100))
             ajustes["interes_anual"] = valor
 
         if "cuarentena_dias" in entrada:
@@ -221,7 +224,7 @@ def api_ajustes(wallet):
                 "cuarentena_dias", abs(int(entrada["cuarentena_dias"])),
                 config.LIMITES["cuarentena_dias"])
             if recortado:
-                avisos.append(f"La cuarentena se ajustó a {valor} días.")
+                avisos.append(config.texto("ajuste_cuarentena", valor=valor))
             ajustes["cuarentena_dias"] = valor
 
         if "max_posiciones" in entrada:
@@ -229,7 +232,7 @@ def api_ajustes(wallet):
                 "max_posiciones", abs(int(entrada["max_posiciones"])),
                 config.LIMITES["max_posiciones"])
             if recortado:
-                avisos.append(f"El máximo de posiciones se ajustó a {valor}.")
+                avisos.append(config.texto("ajuste_max_posiciones", valor=valor))
             ajustes["max_posiciones"] = valor
 
         storage.guardar_estado(estado)
@@ -243,7 +246,7 @@ def api_ajustes_defecto(wallet):
     with bot.candado:
         estado = storage.cargar_estado()
         if wallet not in estado["wallets"]:
-            return jsonify({"error": "wallet desconocida"}), 400
+            return jsonify({"error": config.texto("wallet_desconocida")}), 400
         estado["wallets"][wallet]["ajustes"] = config.ajustes_por_defecto(wallet)
         storage.guardar_estado(estado)
     log.info("[%s] Ajustes devueltos a los valores por defecto.", wallet)
@@ -267,7 +270,7 @@ def _normalizar_activos(wallet, datos_wallet, entrada):
     Devuelve (lista_normalizada, None) o (None, "mensaje de error").
     """
     if not isinstance(entrada, list) or not entrada:
-        return None, "la lista de activos no puede quedar vacía"
+        return None, config.texto("activos_lista_vacia")
 
     actuales = {a["simbolo"]: a for a in datos_wallet["activos"]}
     nuevos = []
@@ -277,9 +280,9 @@ def _normalizar_activos(wallet, datos_wallet, entrada):
         simbolo = str(fila.get("simbolo", "")).strip().upper()
         id_fuente = str(fila.get("id", "")).strip()
         if not simbolo or not id_fuente:
-            return None, "cada activo necesita símbolo e identificador"
+            return None, config.texto("activos_falta_campo")
         if simbolo in vistos:
-            return None, f"el símbolo {simbolo} está repetido"
+            return None, config.texto("activos_simbolo_repetido", simbolo=simbolo)
         vistos.add(simbolo)
 
         nombre = str(fila.get("nombre") or simbolo).strip()
@@ -290,7 +293,7 @@ def _normalizar_activos(wallet, datos_wallet, entrada):
         previo = actuales.get(simbolo)
         if not previo or previo["id"] != id_fuente:
             if not _id_valido(wallet, id_fuente):
-                return None, f"no se encontró precio para «{id_fuente}»; revisa el identificador"
+                return None, config.texto("activos_id_invalido", id_fuente=id_fuente)
 
         nuevos.append({"simbolo": simbolo, "id": id_fuente, "nombre": nombre,
                        "cubo": "seguro", "peso": peso})
@@ -302,8 +305,7 @@ def _normalizar_activos(wallet, datos_wallet, entrada):
             continue
         posicion = strategy.buscar_posicion(datos_wallet, simbolo)
         if posicion and posicion["cantidad"] > 0:
-            return None, (f"no se puede quitar {simbolo}: tiene una posición abierta. "
-                          f"Véndela o espera a que el bot la cierre, y vuelve a intentarlo.")
+            return None, config.texto("activos_no_se_puede_quitar", simbolo=simbolo)
 
     return nuevos, None
 
@@ -312,7 +314,7 @@ def _normalizar_activos(wallet, datos_wallet, entrada):
 def api_activos(wallet):
     estado = storage.cargar_estado()
     if wallet not in estado["wallets"]:
-        return jsonify({"error": "wallet desconocida"}), 400
+        return jsonify({"error": config.texto("wallet_desconocida")}), 400
 
     if request.method == "GET":
         return jsonify({
@@ -339,7 +341,7 @@ def api_activos_defecto(wallet):
     with bot.candado:
         estado = storage.cargar_estado()
         if wallet not in estado["wallets"]:
-            return jsonify({"error": "wallet desconocida"}), 400
+            return jsonify({"error": config.texto("wallet_desconocida")}), 400
         datos_wallet = estado["wallets"][wallet]
         nuevos, error = _normalizar_activos(
             wallet, datos_wallet, [dict(a) for a in config.ACTIVOS[wallet]])
@@ -364,25 +366,24 @@ def api_reponer():
     with bot.candado:
         estado = storage.cargar_estado()
         if wallet not in estado["wallets"]:
-            return jsonify({"error": "wallet desconocida"}), 400
+            return jsonify({"error": config.texto("wallet_desconocida")}), 400
 
         w = estado["wallets"][wallet]
         disponible = strategy.valor_cubo(estado, wallet, "seguro")
         minima = strategy.orden_minima(wallet)
         if importe <= 0:
-            return jsonify({"error": "el importe debe ser mayor que cero"}), 400
+            return jsonify({"error": config.texto("reponer_importe_invalido")}), 400
         if importe > disponible:
             return jsonify({
-                "error": f"solo hay {disponible:.2f} € en el cubo seguro"}), 400
+                "error": config.texto("reponer_sin_fondos", disponible=disponible)}), 400
         if importe < minima:
             return jsonify({
-                "error": f"en esta wallet la orden mínima es de {minima:.0f} € "
-                         f"(la comisión se comería una más pequeña)"}), 400
+                "error": config.texto("reponer_bajo_minimo", minima=minima)}), 400
 
         # El cubo seguro está invertido, así que hay que vender para sacar
         # el efectivo. Se recorta proporcionalmente de cada posición.
         if not strategy.liberar_efectivo_seguro(estado, wallet, importe):
-            return jsonify({"error": "no se pudo liberar ese importe"}), 400
+            return jsonify({"error": config.texto("reponer_fallo_liberar")}), 400
 
         importe = min(importe, w["efectivo"]["seguro"])
         w["efectivo"]["seguro"] -= importe

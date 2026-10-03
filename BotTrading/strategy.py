@@ -269,8 +269,8 @@ def recortar_loteria(estado, wallet):
         if parte >= valor * 0.9:
             parte = valor
         if parte >= config.OPERACION_MINIMA or parte >= valor:
-            motivo = ("cierre del cubo lotería" if objetivo <= 0
-                      else "recogida de ganancias: el cubo lotería creció de más")
+            motivo = (config.texto("motivo_cierre_loteria") if objetivo <= 0
+                      else config.texto("motivo_recogida_ganancias"))
             vender(estado, wallet, posicion["simbolo"], parte, motivo)
 
     # Lo liberado por esas ventas se traslada al cubo seguro.
@@ -312,12 +312,12 @@ def ajustar_seguro(estado, wallet):
     for simbolo, diferencia, es_nueva in sorted(ordenes, key=lambda o: -o[1]):
         if diferencia > 0:
             vender(estado, wallet, simbolo, diferencia,
-                   "rebalanceo: subió por encima de su peso")
+                   config.texto("motivo_rebalanceo_sube"))
         else:
             importe = min(-diferencia, datos["efectivo"]["seguro"])
             if importe >= config.OPERACION_MINIMA:
-                motivo = ("inversión inicial del cubo seguro" if es_nueva
-                          else "rebalanceo: bajó por debajo de su peso")
+                motivo = (config.texto("motivo_inversion_inicial") if es_nueva
+                          else config.texto("motivo_rebalanceo_baja"))
                 comprar(estado, wallet, simbolo, "seguro", importe, motivo)
 
 
@@ -396,13 +396,13 @@ def revisar_salidas(estado, wallet):
         # 1. Stop de pérdida: se corta y no se discute.
         if desde_entrada <= reglas["stop_perdida"]:
             vender(estado, wallet, posicion["simbolo"], valor,
-                   f"stop de pérdida ({desde_entrada:+.0f} %)")
+                   config.texto("motivo_stop_perdida", desde_entrada=desde_entrada))
             continue
 
         # 2. Desplome desde el máximo: subió y se dio la vuelta.
         if desde_maximo <= reglas["caida_desde_maximo"]:
             vender(estado, wallet, posicion["simbolo"], valor,
-                   f"se desplomó {desde_maximo:.0f} % desde su máximo")
+                   config.texto("motivo_desplome", desde_maximo=desde_maximo))
             continue
 
         # 3. Toma de beneficios: al doblar, se recoge la mitad.
@@ -411,7 +411,7 @@ def revisar_salidas(estado, wallet):
            precio >= posicion["precio_entrada"] * reglas["objetivo_parcial"]:
             if vender(estado, wallet, posicion["simbolo"],
                       valor * reglas["fraccion_parcial"],
-                      f"toma de beneficios: alcanzó {reglas['objetivo_parcial']:.0f}x"):
+                      config.texto("motivo_toma_beneficios", objetivo=reglas["objetivo_parcial"])):
                 posicion["parcial_hecho"] = True
 
 
@@ -468,8 +468,8 @@ def abrir_posiciones(estado, wallet, candidatos):
             "precio": candidato["precio"], "wallet": wallet, "ts": storage.ahora(),
         }
         importe = min(tamano, datos["efectivo"]["loteria"])
-        motivo = (f"entrada: volumen {candidato['actividad']:.1f}x, "
-                  f"{candidato['cambio']:+.0f} % en 24 h")
+        motivo = config.texto("motivo_entrada", actividad=candidato["actividad"],
+                              cambio=candidato["cambio"])
         if comprar(estado, wallet, candidato["simbolo"], "loteria",
                    importe, motivo, id_fuente=candidato.get("id")):
             ya_tengo.add(candidato["simbolo"])
@@ -583,10 +583,8 @@ def diagnostico(estado, wallet):
         if menor < minima:
             necesita = math.ceil(minima * pesos
                                  / min(x.get("peso", 1) for x in activos))
-            avisos.append(
-                f"El cubo seguro no puede comprar: le tocarían {menor:.0f} € por "
-                f"activo y la orden mínima aquí es de {minima:.0f} €. Harían falta "
-                f"unos {necesita:.0f} € en esta wallet.")
+            avisos.append(config.texto("diag_seguro_no_compra",
+                                       menor=menor, minima=minima, necesita=necesita))
 
     # ¿Puede rebalancear?
     trade = presupuesto * a["umbral_rebalanceo"]
@@ -595,29 +593,23 @@ def diagnostico(estado, wallet):
         # sería peor que no sugerir nada.
         necesario = math.ceil(minima / presupuesto * 100)
         limite = config.LIMITES["umbral_rebalanceo"][1] * 100
-        arreglo = (f"Subiendo el margen al {necesario:.0f} % sí actuaría."
+        arreglo = (config.texto("diag_margen_subir", necesario=necesario)
                    if necesario <= limite else
-                   f"Ni con el margen máximo del {limite:.0f} % llegaría: "
-                   f"esta wallet necesita más capital.")
-        avisos.append(
-            f"El rebalanceo nunca se ejecutará: un desvío del "
-            f"{a['umbral_rebalanceo']*100:.0f} % son {trade:.0f} € y la orden mínima "
-            f"es de {minima:.0f} €. {arreglo}")
+                   config.texto("diag_margen_imposible", limite=limite))
+        avisos.append(config.texto(
+            "diag_rebalanceo_nunca", umbral=a["umbral_rebalanceo"] * 100,
+            trade=trade, minima=minima, arreglo=arreglo))
 
     # ¿Puede apostar el cubo lotería?
     objetivo_lot = total * a["reparto"]["loteria"]
     if objetivo_lot > 0:
         apuesta = objetivo_lot * a["max_por_posicion"]
         if apuesta < minima:
-            avisos.append(
-                f"El cubo lotería no puede abrir posiciones: cada apuesta sería de "
-                f"{apuesta:.0f} € y la orden mínima es de {minima:.0f} €. Con estas "
-                f"comisiones el cubo necesitaría al menos "
-                f"{minima / a['max_por_posicion']:.0f} €.")
+            avisos.append(config.texto(
+                "diag_loteria_no_abre", apuesta=apuesta, minima=minima,
+                necesario=minima / a["max_por_posicion"]))
         elif valor_cubo(estado, wallet, "loteria") < minima:
-            avisos.append(
-                "El cubo lotería está vacío. El bot no lo rellena solo: usa "
-                "«Reponer…» para pasarle dinero desde el cubo seguro.")
+            avisos.append(config.texto("diag_loteria_vacio"))
 
     return avisos
 

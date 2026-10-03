@@ -14,6 +14,7 @@ import webbrowser
 
 import bot
 import config
+import licencias
 import server
 import storage
 
@@ -34,6 +35,13 @@ def main():
     log = storage.configurar_logs()
 
     url = f"http://{config.HOST}:{config.PUERTO}"
+
+    ok, motivo = licencias.comprobar()
+    if not ok:
+        log.error("No se arranca: %s", motivo)
+        if not silencioso:
+            print(f"\nNo se puede arrancar: {motivo}\n")
+        return
 
     if ya_esta_corriendo():
         log.warning("Ya hay una copia del bot en marcha. No se arranca otra.")

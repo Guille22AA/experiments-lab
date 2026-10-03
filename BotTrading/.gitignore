@@ -4,3 +4,8 @@ __pycache__/
 
 # Estado, historial, backups, logs y la clave de CoinGecko: todo local, nunca a git.
 data/
+
+# Salida de PyInstaller: el .exe pesa ~50 MB y se reconstruye a partir de
+# BotTrading.spec (ese sí se versiona, ver EMPAQUETAR.md).
+build/
+dist/

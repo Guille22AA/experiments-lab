@@ -92,13 +92,13 @@ def leer_todos(estado):
     try:
         precios["crypto"] = precios_cripto(estado)
     except Exception as e:
-        errores.append(f"cripto: {e}")
+        errores.append(config.texto("error_cripto", e=e))
         log.error("Fallo leyendo precios de cripto: %s", e)
 
     try:
         precios["broker"] = precios_broker(estado)
     except Exception as e:
-        errores.append(f"bróker: {e}")
+        errores.append(config.texto("error_broker", e=e))
         log.error("Fallo leyendo precios de bróker: %s", e)
 
     return precios, errores
