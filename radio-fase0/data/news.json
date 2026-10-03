@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T15:24:36.133Z",
+  "updatedAt": "2026-10-03T20:20:20.534Z",
   "edition": "tarde",
   "sections": [
     {
@@ -16,7 +16,8 @@
             "El Salto",
             "20minutos",
             "Europa Press",
-            "elDiario.es"
+            "elDiario.es",
+            "El País"
           ],
           "firstSeen": "2026-10-03T10:48:05.401Z"
         },
@@ -56,52 +57,52 @@
       ],
       "items": [
         {
-          "title": "Decenas de miles de personas toman València en una marcha reprimida con gases",
-          "link": "https://www.elsaltodiario.com/vivienda/decenas-miles-personas-toman-valencia-vivienda-una-marcha-multitudinaria-reprimida-gases?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-03T14:48:00.000Z"
-        },
-        {
-          "title": "Reacciones a los decretos de vivienda y las acampadas en directo | Una marcha masiva en Madrid por la vivienda llama a una huelga general: “Ya no hay vuelta atrás”",
+          "title": "Reacciones a los decretos de vivienda y las acampadas en directo | Miles de manifestantes recorren Málaga y Zaragoza, mientras en Valencia comienza una acampada",
           "link": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
           "source": "El País",
-          "published": "2026-10-03T14:44:23.000Z"
+          "published": "2026-10-03T20:16:04.000Z"
         },
         {
-          "title": "Las imágenes de la masiva movilización por la vivienda en toda España",
-          "link": "https://www.eldiario.es/politica/imagenes-masiva-movilizacion-vivienda-espana_3_13559540.html",
+          "title": "Agua hasta las rodillas en el Casco Viejo y cortes de luz en el teatro Arriaga de Bilbao por las fuertes lluvias",
+          "link": "https://www.eldiario.es/euskadi/agua-rodillas-casco-viejo-cortes-luz-teatro-arriaga-bilbao-fuertes-lluvias_1_13559972.html",
           "source": "elDiario.es",
-          "published": "2026-10-03T14:41:35.000Z"
+          "published": "2026-10-03T19:10:31.000Z"
         },
         {
-          "title": "El movimiento de vivienda no baja el ritmo y llama a la huelga general con una movilización masiva",
-          "link": "https://www.elsaltodiario.com/politica/movimiento-vivienda-no-baja-ritmo-llama-huelga-general-una-movilizacion-masiva?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-03T13:56:00.000Z"
-        },
-        {
-          "title": "Las manifestaciones por la vivienda recorren Madrid y varias ciudades españolas, en imágenes",
-          "link": "https://elpais.com/espana/2026-10-03/las-manifestaciones-por-la-vivienda-recorren-madrid-y-varias-ciudades-espanolas-en-imagenes.html",
+          "title": "Svetlana Tijanóvskaya: “Si dejamos que Ucrania pierda la guerra, la pregunta será quién es el siguiente”",
+          "link": "https://elpais.com/internacional/2026-10-03/svetlana-tijanovskaya-si-dejamos-que-ucrania-pierda-la-guerra-la-pregunta-sera-quien-es-el-siguiente.html",
           "source": "El País",
-          "published": "2026-10-03T13:21:19.000Z"
+          "published": "2026-10-03T18:23:20.000Z"
         },
         {
-          "title": "Feijóo pide a Sánchez que no \"amague\" más y convoque elecciones: \"España tiene derecho a decidir\"",
-          "link": "https://www.20minutos.es/nacional/feijoo-pide-sanchez-no-amague-mas-convoque-elecciones-espana-derecho-decidir_7044469_0.html",
+          "title": "Máis de 20.000 persoas desbordan Vigo na maior manifestación de Galiza pola vivenda",
+          "link": "https://www.elsaltodiario.com/vivienda/mais-20-000-persoas-desbordan-vigo-na-maior-manifestacion-galiza-pola-vivenda?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-03T18:16:00.000Z"
+        },
+        {
+          "title": "La indignación por la vivienda inunda Madrid: \"No puede ser que el sueldo sea el 70% del alquiler; no nos dan los números\"",
+          "link": "https://www.20minutos.es/nacional/indignacion-por-vivienda-inunda-madrid-no-puede-ser-que-sueldo-sea-70-alquiler-no-nos-dan-los-numeros_7044486_0.html",
           "source": "20minutos",
-          "published": "2026-10-03T13:11:41.000Z"
+          "published": "2026-10-03T17:50:51.000Z"
         },
         {
-          "title": "Aplazada la manifestación por la vivienda en Barcelona ante el alto riesgo meteorológico",
-          "link": "https://www.eldiario.es/catalunya/sindicat-llogateres-aplaza-manifestacion-vivienda-barcelona-alto-riesgo-meteorologico_1_13559477.html",
+          "title": "Los coches de empresa lastran al eléctrico: los particulares compran ya un 25%, las compañías solo un 10%",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-03/los-coches-de-empresa-lastran-al-electrico-los-particulares-compran-ya-un-25-las-companias-solo-un-10.html",
+          "source": "El País",
+          "published": "2026-10-03T17:46:19.000Z"
+        },
+        {
+          "title": "La protesta por el derecho a la vivienda deriva en una acampada en el centro de València",
+          "link": "https://www.eldiario.es/comunitat-valenciana/protesta-derecho-vivienda-deriva-acampada-centro-valencia_1_13559924.html",
           "source": "elDiario.es",
-          "published": "2026-10-03T12:24:30.000Z"
+          "published": "2026-10-03T17:41:51.000Z"
         },
         {
-          "title": "Incidentes con la Policía al romper un grupo de manifestantes por la vivienda el cordón que rodea Les Arts",
-          "link": "https://www.europapress.es/comunitat-valenciana/noticia-incidentes-policia-romper-grupo-manifestantes-vivienda-cordon-rodea-les-arts-20261003141816.html",
-          "source": "Europa Press",
-          "published": "2026-10-03T12:18:16.000Z"
+          "title": "La calle adelanta por la izquierda a los partidos: quién capitalizará la indignación por la vivienda - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2w3ZnNfYVZra204TXhHSHJ0djdjd2k3R1dOamdfWXAtUVlTYjd1QXNKdlJUUjd3UnBWSkNOZFExbzhGZWtNU1VodGg3d2RtUXlybnBWUUJEXzBNLXFiQW1PNnVKSWQzYjNlenhPN1MyYXRMM0pSWFRvVTRRai1XcTZKY2hfTUoyV2RuQ0dIODV0b3ZsYkhsd0RzSEFSOUlIYnROeXJDZw?oc=5",
+          "source": "Público",
+          "published": "2026-10-03T17:30:00.000Z"
         }
       ]
     },
@@ -120,6 +121,18 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-10-03T10:48:05.401Z"
+        },
+        {
+          "title": "Rusia insta a extranjeros y diplomáticos a abandonar Kiev en el tercer día de ataques contra puentes",
+          "link": "https://www.france24.com/es/europa/20261003-rusia-insta-a-extranjeros-y-diplom%C3%A1ticos-a-abandonar-kiev-en-el-tercer-d%C3%ADa-de-ataques-contra-puentes",
+          "source": "France 24",
+          "summary": "Los puentes que cruzan el río Dniéper se han convertido en el más reciente blanco de los ataques rusos en Kiev, mientras el ministerio de Asuntos Exteriores ruso pide a los extranjeros que abandonen la capital ucraniana. El presidente Volodímir Zelenski señala informes de inteligencia que evidencian una \"nueva doctrina\" ordenada por su homólogo ruso, Vladimir Putin, para bombardear \"carreteras, escuelas y hospitales\". Mientras, Donald Trump busca que el acuerdo de paz para finalizar la guerra en Ucrania incluya pactos petroleros con Moscú, según 'The New York Times'.",
+          "sources": [
+            "France 24",
+            "El País Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-10-03T20:20:20.534Z"
         },
         {
           "title": "Emiratos Árabes constata que el piloto del vuelo a Tel Aviv pretendía cometer una “acción terrorista”",
@@ -146,52 +159,52 @@
       ],
       "items": [
         {
+          "title": "El partido conservador Lista Unida gana las generales en Letonia, según los sondeos",
+          "link": "https://elpais.com/internacional/2026-10-03/el-partido-conservador-lista-unida-gana-las-generales-en-letonia-segun-los-sondeos.html",
+          "source": "El País Internacional",
+          "published": "2026-10-03T20:15:56.000Z"
+        },
+        {
+          "title": "La Policía de París declara las protestas estudiantiles \"fuera de control\"",
+          "link": "https://www.france24.com/es/francia/20261003-la-polic%C3%ADa-de-par%C3%ADs-declara-las-protestas-estudiantiles-fuera-de-control",
+          "source": "France 24",
+          "published": "2026-10-03T20:12:30.000Z"
+        },
+        {
+          "title": "En directo: los hutíes afirman haber atacado las instalaciones de Aramco en Riad con misiles y drones",
+          "link": "https://www.france24.com/es/medio-oriente/20261003-en-directo-los-hut%C3%ADes-afirman-haber-atacado-las-instalaciones-de-aramco-en-riad-con-misiles-y-drones",
+          "source": "France 24",
+          "published": "2026-10-03T19:59:22.000Z"
+        },
+        {
           "title": "Al menos cinco muertos por un ataque israelí en Ciudad de Gaza",
           "link": "https://elpais.com/internacional/2026-10-03/varios-muertos-por-un-ataque-israeli-en-ciudad-de-gaza.html",
           "source": "El País Internacional",
-          "published": "2026-10-03T14:32:58.000Z"
+          "published": "2026-10-03T19:36:51.000Z"
         },
         {
-          "title": "Brasil, Trump y el futuro geopolítico de América: ¿qué está en juego?",
-          "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261003-brasil-trump-y-el-futuro-geopol%C3%ADtico-de-am%C3%A9rica-qu%C3%A9-est%C3%A1-en-juego",
+          "title": "Luis Miller: \"Españoles están pidiendo leyes más intervencionistas y radicales sobre la vivienda\"",
+          "link": "https://www.france24.com/es/video/20261003-luis-miller-espa%C3%B1oles-est%C3%A1n-pidiendo-leyes-m%C3%A1s-intervencionistas-y-radicales-sobre-la-vivienda",
           "source": "France 24",
-          "published": "2026-10-03T13:54:04.000Z"
+          "published": "2026-10-03T19:02:09.000Z"
         },
         {
-          "title": "Rusia bombardea cuatro puentes clave en Kiev y siembra el caos",
-          "link": "https://elpais.com/internacional/2026-10-03/rusia-bombardea-cuatro-puentes-clave-en-kiev-y-siembra-el-caos.html",
-          "source": "El País Internacional",
-          "published": "2026-10-03T13:37:17.000Z"
-        },
-        {
-          "title": "España vuelve a las calles por la vivienda con llamados a una huelga general",
-          "link": "https://www.france24.com/es/europa/20261003-espa%C3%B1a-vuelve-a-las-calles-por-la-vivienda-con-llamados-a-una-huelga-general",
+          "title": "¿A quién apoya la \"clase C\" en Brasil? Los cambios en la intención de voto de la clase media",
+          "link": "https://www.france24.com/es/video/20261003-a-qui%C3%A9n-apoya-la-clase-c-en-brasil-los-cambios-en-la-intenci%C3%B3n-de-voto-de-la-clase-media",
           "source": "France 24",
-          "published": "2026-10-03T13:03:36.000Z"
+          "published": "2026-10-03T19:00:48.000Z"
         },
         {
-          "title": "Multitudinaria manifestación en Madrid y otras cincuenta ciudades españolas por la crisis de vivienda en España",
-          "link": "https://www.dw.com/es/multitudinaria-manifestación-en-madrid-y-otras-cincuenta-ciudades-españolas-por-la-crisis-de-vivienda-en-españa/a-79531441?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-03T13:03:00.000Z"
+          "title": "Informe desde Sarajevo: Bosnia-Herzegovina va a las urnas dividida entre EE. UU. y la UE",
+          "link": "https://www.france24.com/es/video/20261003-informe-desde-sarajevo-bosnia-herzegovina-va-a-las-urnas-dividida-entre-ee-uu-y-la-ue",
+          "source": "France 24",
+          "published": "2026-10-03T18:53:25.000Z"
         },
         {
-          "title": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en EE.UU.",
-          "link": "https://www.bbc.com/mundo/articles/c3x2z2rq1759o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-03T12:22:44.000Z"
-        },
-        {
-          "title": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
-          "link": "https://www.bbc.com/mundo/articles/cm89zwqvnj72o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-03T12:20:18.000Z"
-        },
-        {
-          "title": "La ministra Ana Redondo acusa a PP, Vox y Junts de ser \"una derecha despiadada\": \"Dieron la espalda a su electorado\"",
-          "link": "https://www.20minutos.es/internacional/ministra-ana-redondo-acusa-pp-vox-junts-ser-una-derecha-despiadada-dieron-espalda-su-electorado_7044444_0.html",
+          "title": "La inusual petición que Xi Jinping hizo en su último viaje oficial a EEUU y que alimenta los rumores sobre su salud",
+          "link": "https://www.20minutos.es/internacional/inusual-peticion-xi-jinping-hizo-ultimo-viaje-oficial-eeuu-alimenta-rumores-salud_7044521_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-03T10:54:18.000Z"
+          "published": "2026-10-03T18:48:48.000Z"
         }
       ]
     }
