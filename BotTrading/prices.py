@@ -20,9 +20,9 @@ COINGECKO = "https://api.coingecko.com/api/v3/simple/price"
 TIMEOUT = 15
 
 
-def precios_cripto():
+def precios_cripto(estado):
     """Devuelve {simbolo: precio_en_euros}."""
-    activos = config.ACTIVOS["crypto"]
+    activos = config.activos_de(estado, "crypto")
     ids = ",".join(a["id"] for a in activos)
     respuesta = requests.get(
         COINGECKO,
@@ -52,11 +52,11 @@ def _cambio_eur_usd():
     return float(datos["Close"].iloc[-1])
 
 
-def precios_broker():
+def precios_broker(estado):
     """Devuelve {simbolo: precio_en_euros}."""
     cambio = _cambio_eur_usd()
     resultado = {}
-    for activo in config.ACTIVOS["broker"]:
+    for activo in config.activos_de(estado, "broker"):
         try:
             datos = yf.Ticker(activo["id"]).history(period="5d", interval="1d")
             if datos.empty:
@@ -69,7 +69,19 @@ def precios_broker():
     return resultado
 
 
-def leer_todos():
+def verificar_id_broker(ticker):
+    """
+    Comprueba que un ticker de Yahoo Finance devuelve precio, antes de dejar
+    que el usuario lo añada a su lista de activos desde el panel.
+    """
+    try:
+        datos = yf.Ticker(ticker).history(period="5d", interval="1d")
+        return not datos.empty
+    except Exception:
+        return False
+
+
+def leer_todos(estado):
     """
     Devuelve (precios, errores).
     precios = {"crypto": {...}, "broker": {...}}
@@ -78,13 +90,13 @@ def leer_todos():
     errores = []
 
     try:
-        precios["crypto"] = precios_cripto()
+        precios["crypto"] = precios_cripto(estado)
     except Exception as e:
         errores.append(f"cripto: {e}")
         log.error("Fallo leyendo precios de cripto: %s", e)
 
     try:
-        precios["broker"] = precios_broker()
+        precios["broker"] = precios_broker(estado)
     except Exception as e:
         errores.append(f"bróker: {e}")
         log.error("Fallo leyendo precios de bróker: %s", e)

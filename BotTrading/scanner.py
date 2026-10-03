@@ -44,10 +44,10 @@ def _mercado_cripto():
     return respuesta.json()
 
 
-def candidatos_cripto():
+def candidatos_cripto(estado):
     """Devuelve la lista de monedas que pasan todos los filtros, mejor primero."""
     f = config.FILTROS_LOTERIA["crypto"]
-    seguros = {a["id"] for a in config.ACTIVOS["crypto"]}
+    seguros = {a["id"] for a in config.activos_de(estado, "crypto")}
     salida = []
 
     for moneda in _mercado_cripto():

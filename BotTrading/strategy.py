@@ -289,7 +289,7 @@ def ajustar_seguro(estado, wallet):
     No predice nada, solo mantiene el reparto decidido.
     """
     datos = estado["wallets"][wallet]
-    activos = [a for a in config.activos_de(wallet, "seguro")
+    activos = [a for a in config.activos_de(estado, wallet, "seguro")
                if precio_de(estado, a["simbolo"]) is not None]
     if not activos:
         return
@@ -575,7 +575,7 @@ def diagnostico(estado, wallet):
         return avisos
 
     # ¿Puede comprar el cubo seguro?
-    activos = config.activos_de(wallet, "seguro")
+    activos = config.activos_de(estado, wallet, "seguro")
     presupuesto = total * a["reparto"]["seguro"]
     if activos:
         pesos = sum(x.get("peso", 1) for x in activos)
@@ -635,7 +635,7 @@ def actualizar_referencia(estado, wallet):
     datos = estado["wallets"][wallet]
     ref = datos.setdefault("referencia", {"posiciones": {}, "aportado": 0.0})
 
-    activos = [a for a in config.activos_de(wallet, "seguro")
+    activos = [a for a in config.activos_de(estado, wallet, "seguro")
                if precio_de(estado, a["simbolo"])]
     if not activos:
         return
@@ -674,7 +674,7 @@ def valor_referencia(estado, wallet):
 def ejecutar(estado, wallet, candidatos=None):
     if not mercado_abierto(wallet):
         return
-    if not any(precio_de(estado, a["simbolo"]) for a in config.ACTIVOS[wallet]):
+    if not any(precio_de(estado, a["simbolo"]) for a in config.activos_de(estado, wallet)):
         log.warning("[%s] Sin precios válidos, no se opera este ciclo.", wallet)
         return
 

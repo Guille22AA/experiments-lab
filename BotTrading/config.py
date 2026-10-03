@@ -65,8 +65,17 @@ ACTIVOS = {
 }
 
 
-def activos_de(wallet, cubo):
-    return [a for a in ACTIVOS[wallet] if a["cubo"] == cubo]
+def activos_de(estado, wallet, cubo=None):
+    """
+    La lista viva de activos de una wallet. Vive en estado, no aquí: el
+    usuario puede añadir, quitar o repesar activos desde el panel. ACTIVOS de
+    arriba se queda solo como valor de fábrica (estado nuevo y "restaurar
+    por defecto").
+    """
+    activos = estado["wallets"][wallet]["activos"]
+    if cubo is None:
+        return activos
+    return [a for a in activos if a["cubo"] == cubo]
 
 # --- Capital simulado inicial -----------------------------------------
 # Dinero ficticio. No tiene nada que ver con dinero real.

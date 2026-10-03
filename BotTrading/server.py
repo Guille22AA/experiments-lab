@@ -8,6 +8,8 @@ from flask import Flask, jsonify, render_template, request
 
 import bot
 import config
+import prices
+import scanner
 import storage
 import strategy
 
@@ -100,7 +102,7 @@ def api_estado():
                     **activo,
                     "precio": estado["precios"].get(activo["simbolo"], {}).get("precio"),
                 }
-                for activo in config.ACTIVOS[nombre]
+                for activo in config.activos_de(estado, nombre)
             ],
             "historial": storage.leer_operaciones(nombre, limite=50),
             "grafica": storage.leer_saldos(nombre, limite=500),
@@ -246,6 +248,107 @@ def api_ajustes_defecto(wallet):
         storage.guardar_estado(estado)
     log.info("[%s] Ajustes devueltos a los valores por defecto.", wallet)
     return jsonify({"ok": True})
+
+
+LIMITES_ACTIVO = {"peso": (0.1, 10.0)}
+
+
+def _id_valido(wallet, id_fuente):
+    """Comprueba que la fuente de precios reconoce ese id antes de guardarlo."""
+    if wallet == "crypto":
+        return bool(scanner.precios_cripto_por_id([id_fuente]))
+    return prices.verificar_id_broker(id_fuente)
+
+
+def _normalizar_activos(wallet, datos_wallet, entrada):
+    """
+    Valida y normaliza la lista de activos que llega del panel. Todo o nada:
+    si algo falla, no se devuelve nada y se explica el motivo.
+    Devuelve (lista_normalizada, None) o (None, "mensaje de error").
+    """
+    if not isinstance(entrada, list) or not entrada:
+        return None, "la lista de activos no puede quedar vacía"
+
+    actuales = {a["simbolo"]: a for a in datos_wallet["activos"]}
+    nuevos = []
+    vistos = set()
+
+    for fila in entrada:
+        simbolo = str(fila.get("simbolo", "")).strip().upper()
+        id_fuente = str(fila.get("id", "")).strip()
+        if not simbolo or not id_fuente:
+            return None, "cada activo necesita símbolo e identificador"
+        if simbolo in vistos:
+            return None, f"el símbolo {simbolo} está repetido"
+        vistos.add(simbolo)
+
+        nombre = str(fila.get("nombre") or simbolo).strip()
+        peso, _ = _validar("peso", float(fila.get("peso", 1) or 1), LIMITES_ACTIVO["peso"])
+
+        # Solo hay que comprobar el precio si el activo es nuevo o ha
+        # cambiado de identificador: si no, ya sabíamos que funcionaba.
+        previo = actuales.get(simbolo)
+        if not previo or previo["id"] != id_fuente:
+            if not _id_valido(wallet, id_fuente):
+                return None, f"no se encontró precio para «{id_fuente}»; revisa el identificador"
+
+        nuevos.append({"simbolo": simbolo, "id": id_fuente, "nombre": nombre,
+                       "cubo": "seguro", "peso": peso})
+
+    # Los símbolos que desaparecen de la lista no pueden tener posición abierta:
+    # el bot nunca vende nada por su cuenta sin que lo pida el usuario.
+    for simbolo, activo in actuales.items():
+        if simbolo in vistos:
+            continue
+        posicion = strategy.buscar_posicion(datos_wallet, simbolo)
+        if posicion and posicion["cantidad"] > 0:
+            return None, (f"no se puede quitar {simbolo}: tiene una posición abierta. "
+                          f"Véndela o espera a que el bot la cierre, y vuelve a intentarlo.")
+
+    return nuevos, None
+
+
+@app.route("/api/activos/<wallet>", methods=["GET", "POST"])
+def api_activos(wallet):
+    estado = storage.cargar_estado()
+    if wallet not in estado["wallets"]:
+        return jsonify({"error": "wallet desconocida"}), 400
+
+    if request.method == "GET":
+        return jsonify({
+            "activos": estado["wallets"][wallet]["activos"],
+            "defecto": config.ACTIVOS[wallet],
+        })
+
+    with bot.candado:
+        estado = storage.cargar_estado()
+        datos_wallet = estado["wallets"][wallet]
+        nuevos, error = _normalizar_activos(wallet, datos_wallet, (request.json or {}).get("activos"))
+        if error:
+            return jsonify({"error": error}), 400
+        datos_wallet["activos"] = nuevos
+        storage.guardar_estado(estado)
+
+    log.info("[%s] Lista de activos actualizada: %s", wallet,
+             [a["simbolo"] for a in nuevos])
+    return jsonify({"ok": True, "activos": nuevos})
+
+
+@app.route("/api/activos/<wallet>/defecto", methods=["POST"])
+def api_activos_defecto(wallet):
+    with bot.candado:
+        estado = storage.cargar_estado()
+        if wallet not in estado["wallets"]:
+            return jsonify({"error": "wallet desconocida"}), 400
+        datos_wallet = estado["wallets"][wallet]
+        nuevos, error = _normalizar_activos(
+            wallet, datos_wallet, [dict(a) for a in config.ACTIVOS[wallet]])
+        if error:
+            return jsonify({"error": error}), 400
+        datos_wallet["activos"] = nuevos
+        storage.guardar_estado(estado)
+    log.info("[%s] Activos devueltos a los valores por defecto.", wallet)
+    return jsonify({"ok": True, "activos": nuevos})
 
 
 @app.route("/api/reponer", methods=["POST"])

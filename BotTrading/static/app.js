@@ -172,6 +172,9 @@ function pintarWallet(clave, w) {
       <h2><span class="pip"></span>${NOMBRES[clave]}</h2>
       <div class="cabecera-dcha">
         <span class="etiqueta">wallet independiente</span>
+        <button class="engranaje" data-activos="${clave}" title="Activos" aria-label="Activos vigilados en ${NOMBRES[clave]}">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><rect x="2" y="3.2" width="12" height="1.8" rx="0.9"/><rect x="2" y="7.1" width="12" height="1.8" rx="0.9"/><rect x="2" y="11" width="12" height="1.8" rx="0.9"/></svg>
+        </button>
         <button class="engranaje" data-ajustes="${clave}" title="Ajustes" aria-label="Ajustes de ${NOMBRES[clave]}">
           <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 5.2a2.8 2.8 0 100 5.6 2.8 2.8 0 000-5.6zm0 4.4a1.6 1.6 0 110-3.2 1.6 1.6 0 010 3.2z"/><path d="M13.9 9.3l-1-.6a5.9 5.9 0 000-1.4l1-.6a.6.6 0 00.2-.8l-1.2-2a.6.6 0 00-.8-.2l-1 .6a5.6 5.6 0 00-1.2-.7v-1.2a.6.6 0 00-.6-.6h-2.4a.6.6 0 00-.6.6v1.2c-.4.2-.8.4-1.2.7l-1-.6a.6.6 0 00-.8.2l-1.2 2a.6.6 0 00.2.8l1 .6a5.9 5.9 0 000 1.4l-1 .6a.6.6 0 00-.2.8l1.2 2a.6.6 0 00.8.2l1-.6c.4.3.8.5 1.2.7v1.2c0 .3.3.6.6.6h2.4a.6.6 0 00.6-.6v-1.2c.4-.2.8-.4 1.2-.7l1 .6a.6.6 0 00.8-.2l1.2-2a.6.6 0 00-.2-.8z"/></svg>
         </button>
@@ -645,4 +648,133 @@ async function abrirAjustes(wallet) {
 document.addEventListener("click", ev => {
   const boton = ev.target.closest("[data-ajustes]");
   if (boton) abrirAjustes(boton.dataset.ajustes);
+});
+
+
+/* ==================== PANEL DE ACTIVOS (cubo seguro) ==================== */
+
+function filaActivo(a = {}) {
+  return `<div class="activos-fila">
+    <input class="simbolo" type="text" placeholder="BTC" maxlength="10" value="${a.simbolo || ""}">
+    <input class="id-fuente" type="text" placeholder="id de CoinGecko o ticker de Yahoo" value="${a.id || ""}">
+    <input class="nombre" type="text" placeholder="Nombre" value="${a.nombre || ""}">
+    <input class="peso" type="number" min="0.1" max="10" step="0.1" value="${a.peso ?? 1}">
+    <button class="activos-quitar" type="button" title="Quitar" aria-label="Quitar activo">✕</button>
+  </div>`;
+}
+
+async function abrirActivos(wallet) {
+  let activos;
+  try {
+    const r = await fetch(`/api/activos/${wallet}`);
+    if (!r.ok) throw new Error("El servidor respondió " + r.status);
+    ({ activos } = await r.json());
+    if (!activos) throw new Error("El servidor no devolvió activos");
+  } catch (e) {
+    alert("No se pudieron cargar los activos.\n\n" + e.message +
+          "\n\nSi pone 404, el server.py es de una versión anterior: " +
+          "para el bot con parar.bat y vuelve a arrancarlo.");
+    return;
+  }
+
+  const fondo = document.createElement("div");
+  fondo.className = "modal-fondo";
+  fondo.style.cssText =
+    "position:fixed;inset:0;z-index:9999;display:flex;align-items:center;" +
+    "justify-content:center;padding:24px;background:rgba(5,6,14,.72)";
+  fondo.innerHTML = `
+    <div class="modal" role="dialog" aria-label="Activos de ${NOMBRES[wallet]}">
+      <div class="modal-cabecera">
+        <h3>Activos vigilados · ${NOMBRES[wallet]}</h3>
+        <button class="cerrar" aria-label="Cerrar">✕</button>
+      </div>
+      <div class="modal-cuerpo">
+        <p class="modal-nota">Son los activos del cubo seguro: el bot reparte el dinero entre
+        ellos según su peso y vigila que no se desvíen. El identificador es el id de CoinGecko
+        para cripto (p. ej. «cardano») o el ticker de Yahoo Finance para bróker (p. ej. «AAPL»).
+        No se puede quitar uno con una posición abierta.</p>
+        <div class="activos-lista">
+          ${activos.map(a => filaActivo(a)).join("")}
+        </div>
+        <button type="button" class="activos-anadir">+ Añadir activo</button>
+        <div class="modal-aviso" id="aviso-activos" style="display:none"></div>
+      </div>
+      <div class="modal-pie">
+        <button class="por-defecto">Volver a los valores por defecto</button>
+        <div class="modal-acciones">
+          <button class="cancelar">Cancelar</button>
+          <button class="guardar destacado">Guardar</button>
+        </div>
+      </div>
+    </div>`;
+
+  document.body.appendChild(fondo);
+  const modal = fondo.querySelector(".modal");
+  modal.style.cssText =
+    "background:#14162a;color:#e9eaf6;border:1px solid #292c4c;border-radius:5px;" +
+    "width:min(620px,100%);max-height:88vh;display:flex;flex-direction:column";
+  const cerrar = () => fondo.remove();
+  const lista = modal.querySelector(".activos-lista");
+  const aviso = modal.querySelector("#aviso-activos");
+
+  const mostrarError = msg => { aviso.style.display = "block"; aviso.textContent = msg; };
+  const ocultarError = () => { aviso.style.display = "none"; };
+
+  lista.addEventListener("click", ev => {
+    const boton = ev.target.closest(".activos-quitar");
+    if (boton) boton.closest(".activos-fila").remove();
+  });
+
+  modal.querySelector(".activos-anadir").onclick = () => {
+    lista.insertAdjacentHTML("beforeend", filaActivo());
+  };
+
+  fondo.addEventListener("click", e => { if (e.target === fondo) cerrar(); });
+  modal.querySelector(".cerrar").onclick = cerrar;
+  modal.querySelector(".cancelar").onclick = cerrar;
+
+  modal.querySelector(".por-defecto").onclick = async () => {
+    if (!confirm(`¿Devolver ${NOMBRES[wallet]} a sus activos por defecto?`)) return;
+    const res = await (await fetch(`/api/activos/${wallet}/defecto`, { method: "POST" })).json();
+    if (res.error) { mostrarError(res.error); return; }
+    cerrar(); refrescar();
+  };
+
+  modal.querySelector(".guardar").onclick = async ev => {
+    const filas = [...lista.querySelectorAll(".activos-fila")];
+    if (!filas.length) { mostrarError("Tiene que quedar al menos un activo."); return; }
+
+    const datos = filas.map(f => ({
+      simbolo: f.querySelector(".simbolo").value,
+      id: f.querySelector(".id-fuente").value,
+      nombre: f.querySelector(".nombre").value,
+      peso: parseFloat(f.querySelector(".peso").value) || 1,
+    }));
+
+    ev.target.disabled = true;
+    ocultarError();
+    let res;
+    try {
+      res = await (await fetch(`/api/activos/${wallet}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ activos: datos }),
+      })).json();
+    } finally {
+      ev.target.disabled = false;
+    }
+    // Si algo no vale (id que no existe, símbolo repetido, posición abierta…)
+    // se deja el modal abierto con el motivo, en vez de cerrar y perder lo escrito.
+    if (res.error) { mostrarError(res.error); return; }
+    cerrar(); refrescar();
+  };
+
+  document.addEventListener("keydown", function esc(e) {
+    if (e.key === "Escape") { cerrar(); document.removeEventListener("keydown", esc); }
+  });
+}
+
+document.addEventListener("click", ev => {
+  const boton = ev.target.closest("[data-activos]");
+  if (boton) abrirActivos(boton.dataset.activos);
 });

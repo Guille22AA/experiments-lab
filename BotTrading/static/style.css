@@ -450,6 +450,34 @@ tr.compra td, tr.venta td { border-bottom: none; }
   font-size: 12px; color: var(--loteria); line-height: 1.5;
 }
 
+.activos-lista { display: flex; flex-direction: column; }
+.activos-fila {
+  display: flex; align-items: center; gap: 8px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--hairline-2);
+}
+.activos-fila:last-child { border-bottom: none; }
+.activos-fila input {
+  padding: 7px 9px; font-family: var(--mono); font-size: 12.5px;
+  background: var(--fondo); color: var(--texto);
+  border: 1px solid var(--hairline); border-radius: 3px;
+}
+.activos-fila input:focus { outline: none; border-color: var(--seguro); }
+.activos-fila input.simbolo { width: 60px; text-transform: uppercase; }
+.activos-fila input.id-fuente { flex: 1 1 130px; min-width: 0; }
+.activos-fila input.nombre { flex: 1 1 110px; min-width: 0; }
+.activos-fila input.peso { width: 54px; text-align: right; }
+.activos-quitar {
+  border: none; background: transparent; color: var(--tenue);
+  font-size: 15px; padding: 4px 6px; flex-shrink: 0;
+}
+.activos-quitar:hover { color: var(--rojo); }
+.activos-anadir {
+  margin-top: 12px; font-size: 12px; color: var(--tenue);
+  border-color: transparent;
+}
+.activos-anadir:hover { color: var(--texto); border-color: var(--hairline); }
+
 .modal-pie {
   display: flex; align-items: center; justify-content: space-between;
   gap: 12px; padding: 14px 20px;

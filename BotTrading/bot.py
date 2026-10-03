@@ -127,7 +127,7 @@ def buscar_candidatos(estado):
     estado["ultimo_escaneo"] = storage.ahora()
 
     try:
-        resultado["crypto"] = scanner.candidatos_cripto()
+        resultado["crypto"] = scanner.candidatos_cripto(estado)
         log.info("Escaneo cripto: %d candidatos pasan los filtros.",
                  len(resultado["crypto"]))
     except Exception as e:
@@ -147,7 +147,7 @@ def buscar_candidatos(estado):
 
 def un_ciclo(estado):
     """Una vuelta completa: leer precios, actualizar estado, guardar."""
-    lecturas, errores = prices.leer_todos()
+    lecturas, errores = prices.leer_todos(estado)
 
     for wallet, precios_wallet in lecturas.items():
         for simbolo, precio in precios_wallet.items():

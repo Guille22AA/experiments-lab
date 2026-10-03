@@ -64,6 +64,7 @@ def estado_inicial():
             },
             "aportado": capital,        # lo que "he metido" yo
             "repuesto": 0.0,            # acumulado de reposiciones manuales
+            "activos": [dict(a) for a in config.ACTIVOS[wallet]],  # copia, no la constante
             "posiciones": [],           # todavía vacío en el paso 1
             "comisiones": 0.0,
             "aciertos": 0,
@@ -112,6 +113,7 @@ def migrar(estado):
         datos.setdefault("referencia", {"posiciones": {}, "aportado": 0.0})
         datos.setdefault("ultima_aportacion", None)
         datos.setdefault("ultimo_interes", None)
+        datos.setdefault("activos", [dict(a) for a in config.ACTIVOS[wallet]])
         defecto = config.ajustes_por_defecto(wallet)
         ajustes = datos.setdefault("ajustes", {})
         for clave, valor in defecto.items():
