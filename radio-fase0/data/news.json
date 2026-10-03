@@ -1,124 +1,94 @@
 {
-  "date": "2026-10-02",
-  "updatedAt": "2026-10-02T21:34:46.221Z",
-  "edition": "tarde",
+  "date": "2026-10-03",
+  "updatedAt": "2026-10-03T10:48:05.401Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El Gobierno mantiene la votación de los textos: \"Ha llegado la hora de que se retraten\"",
-          "link": "https://www.20minutos.es/nacional/gobierno-mantiene-votacion-los-decretos-pese-amenaza-junts-ha-llegado-hora-que-se-retraten_7043958_0.html",
-          "source": "20minutos",
-          "summary": "Junts ha anunciado que no apoyará los decretos de vivienda si el Gobierno no los retira y los renegocia. El decreto de prórroga de los alquileres era el único que tenía opciones de convalidarse, pero Moncloa mantiene los dos y apela a que los grupos se \"retraten\".",
+          "title": "Decenas de miles de personas colapsan Madrid hacia la huelga general de vivienda",
+          "link": "https://www.elsaltodiario.com/politica/manifestaciones-masivas-derecho-vivienda?utm_source=feed",
+          "source": "El Salto",
+          "summary": "El fracaso de la vía parlamentaria no ha frenado a un movimiento de vivienda que sigue acumulando fuerzas en todo el Estado. Este fin de semana están convocadas las marchas de Madrid y L'Hospitalet-Barcelona. Temas principal: Política Leer artículo completo",
           "sources": [
-            "20minutos",
-            "Europa Press",
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-10-01T22:07:05.037Z"
-        },
-        {
-          "title": "El Congreso tumba el ‘decreto-trampa’ de vivienda",
-          "link": "https://diariosocialista.net/2026/10/02/el-congreso-tumba-el-decreto-trampa-de-vivienda/",
-          "source": "Diario Socialista",
-          "summary": "PSOE y Sumar ofrecen un histórico regalo fiscal a los rentistas a cambio de “parches” temporales, pero Junts, PP, Vox y UPN lo derriban por electoralismo.",
-          "sources": [
-            "Diario Socialista",
-            "El País",
-            "Europa Press",
-            "El Salto"
-          ],
-          "firstSeen": "2026-10-02T17:01:36.695Z"
-        },
-        {
-          "title": "Feijóo reta a Sánchez a convocar elecciones tras el revés de los decretos: “Estamos preparados”",
-          "link": "https://elpais.com/espana/2026-10-02/feijoo-reta-a-sanchez-a-convocar-elecciones-tras-el-reves-de-los-decretos-estamos-preparados.html",
-          "source": "El País",
-          "summary": "El líder popular aprovecha el rechazo parlamentario a las medidas del Ejecutivo para sostener que Sánchez y su Gobierno no tienen “ni las Cortes ni las calles”",
-          "sources": [
-            "El País",
-            "20minutos",
-            "Europa Press",
-            "Diario Socialista"
-          ],
-          "firstSeen": "2026-10-02T21:34:46.221Z"
-        },
-        {
-          "title": "Moncloa difunde un registro de llamadas para intentar contrarrestar a Juan Vivas: \"Todas fueron atendidas\"",
-          "link": "https://www.20minutos.es/nacional/moncloa-difunde-un-registro-nueve-llamadas-para-desmontar-version-vivas-todas-fueron-diligentemente-atendidas_7043652_0.html",
-          "source": "20minutos",
-          "summary": "El Gobierno sostiene que Vivas no pidió hablar con Sánchez hasta el día 30 y que los ocho intentos que denuncia no aparecen en sus registros. El presidente ceutí insiste en su versión y advierte de que también tiene un registro para demostrarla.",
-          "sources": [
-            "20minutos",
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-01T22:07:05.037Z"
-        },
-        {
-          "title": "Sánchez, a los grupos que han tumbado los decretos: “Las historia les juzgará antes de lo que creen y con más contundencia de la que imaginan”",
-          "link": "https://elpais.com/espana/2026-10-02/sanchez-a-los-grupos-que-han-tumbado-los-decretos-de-vivienda-las-historia-les-juzgara-antes-de-lo-que-creen-y-con-mas-contundencia-de-la-que-imaginan.html",
-          "source": "El País",
-          "summary": "El presidente del Gobierno subió al estrado del Congreso de los Diputados minutos antes de que comenzara la votación para dar un último empujón a las normas, que terminaron cayendo",
-          "sources": [
-            "El País",
-            "elDiario.es",
+            "El Salto",
             "20minutos"
           ],
-          "firstSeen": "2026-10-02T17:01:36.695Z"
+          "firstSeen": "2026-10-03T10:48:05.401Z"
+        },
+        {
+          "title": "La mayoría social apoya la huelga general por la vivienda y la intervención del alquiler",
+          "link": "https://diariosocialista.net/2026/10/03/la-mayoria-social-apoya-la-huelga-general-por-la-vivienda-y-la-intervencion-del-alquiler/",
+          "source": "Diario Socialista",
+          "summary": "El 73% de la población respaldaría un paro general por la vivienda y más de dos tercios de la sociedad abogan por limitar los precios aunque implique pérdida de rentabilidad para el casero, incluso la mitad de los votantes del PP y Vox.",
+          "sources": [
+            "Diario Socialista",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-03T10:48:05.401Z"
+        },
+        {
+          "title": "Sánchez mide el alcance del malestar social contra la derecha para decidir si convoca ya elecciones",
+          "link": "https://elpais.com/espana/2026-10-03/sanchez-mide-el-alcance-del-malestar-social-contra-la-derecha-para-decidir-si-convoca-ya-elecciones.html",
+          "source": "El País",
+          "summary": "El presidente evalúa sondeos y espera a observar la fuerza de la manifestación sobre la vivienda para ver si el lunes disuelve",
+          "sources": [
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-03T10:48:05.401Z"
         }
       ],
       "items": [
         {
-          "title": "Los acampados en Sol deciden quedarse aunque parte del Sindicato de Inquilinas anuncia su salida progresiva",
-          "link": "https://elpais.com/espana/madrid/2026-10-02/el-sindicato-de-inquilinas-anuncia-que-parte-de-la-militancia-deja-la-acampada-de-sol.html",
+          "title": "Las manifestaciones por la vivienda recorren Madrid y varias ciudades españolas, en imágenes",
+          "link": "https://elpais.com/espana/2026-10-03/las-manifestaciones-por-la-vivienda-recorren-madrid-y-varias-ciudades-espanolas-en-imagenes.html",
           "source": "El País",
-          "published": "2026-10-02T20:28:45.000Z"
+          "published": "2026-10-03T10:46:59.000Z"
         },
         {
-          "title": "Verónica Hidalgo se pronuncia tras hallarse droga en su congelador: \"No estoy imputada ni investigada\"",
-          "link": "https://www.20minutos.es/gente/veronica-hidalgo-se-pronuncia-tras-hallarse-droga-su-congelador-no-estoy-imputada-ni-investigada_7044392_0.html",
+          "title": "Reacciones a los decretos de vivienda y las acampadas en directo | Las protestas por la vivienda recorren España con llamadas a una huelga general “gobierne quien gobierne”",
+          "link": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
+          "source": "El País",
+          "published": "2026-10-03T10:46:33.000Z"
+        },
+        {
+          "title": "Sindicato de Inquilinas dice que la huelga general será \"pronto\" y avisa: \"Ahora empieza la legislatura de la vivienda\"",
+          "link": "https://www.europapress.es/nacional/noticia-sindicato-inquilinas-dice-huelga-general-sera-pronto-avisa-ahora-empieza-legislatura-vivienda-20261003124043.html",
+          "source": "Europa Press",
+          "published": "2026-10-03T10:40:43.000Z"
+        },
+        {
+          "title": "El Gobierno francés prepara un recorte de 43.000 millones",
+          "link": "https://diariosocialista.net/2026/10/03/el-gobierno-frances-prepara-un-recorte-de-43-000-millones/",
+          "source": "Diario Socialista",
+          "published": "2026-10-03T10:28:15.000Z"
+        },
+        {
+          "title": "Qué ha pasado con el Sindicato de Inquilinas en la acampada y qué viene ahora: claves de las movilizaciones de Sol",
+          "link": "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
+          "source": "elDiario.es",
+          "published": "2026-10-03T10:16:06.000Z"
+        },
+        {
+          "title": "Miles de personas se movilizan contra la especulación inmobiliaria en Valencia y llaman a la huelga general",
+          "link": "https://www.eldiario.es/comunitat-valenciana/miles-personas-movilizan-valencia-especulacion-inmobiliaria-llamamiento-huelga-general_1_13559153.html",
+          "source": "elDiario.es",
+          "published": "2026-10-03T10:11:43.000Z"
+        },
+        {
+          "title": "Un detenido y un herido tras otra noche de conflictos en la playa del Trampolín de Ceuta",
+          "link": "https://www.20minutos.es/ceuta/un-detenido-un-herido-tras-otra-noche-conflictos-playa-trampolin-ceuta_7044435_0.html",
           "source": "20minutos",
-          "published": "2026-10-02T20:27:34.000Z"
+          "published": "2026-10-03T09:50:18.000Z"
         },
         {
-          "title": "La marcha por la vivienda en Sevilla o cómo la izquierda reclama la revancha a PP y Vox tras su victoria en las andaluzas",
-          "link": "https://www.eldiario.es/sevilla/marcha-vivienda-sevilla-izquierda-reclama-revancha-pp-vox-victoria-andaluzas_1_13558416.html",
-          "source": "elDiario.es",
-          "published": "2026-10-02T20:17:32.000Z"
-        },
-        {
-          "title": "Inundaciones en Madrigueras tras una tromba de agua en esta parte de Albacete",
-          "link": "https://www.eldiario.es/castilla-la-mancha/provincias/albacete/inundaciones-madrigueras-tromba-agua-parte-albacete_1_13558437.html",
-          "source": "elDiario.es",
-          "published": "2026-10-02T19:54:14.000Z"
-        },
-        {
-          "title": "Miles de personas convierten las calles vascas en un clamor por el derecho a la vivienda y en contra de la clase política",
-          "link": "https://www.eldiario.es/euskadi/miles-personas-convierten-calles-vascas-clamor-derecho-vivienda-clase-politica_1_13557761.html",
-          "source": "elDiario.es",
-          "published": "2026-10-02T19:51:10.000Z"
-        },
-        {
-          "title": "El presunto asesino de la diputada británica Widdecombe planeaba un ataque terrorista contra el ultra Farage",
-          "link": "https://elpais.com/internacional/2026-10-02/el-presunto-asesino-de-la-diputada-britanica-widdecombe-planeaba-un-ataque-terrorista-conta-el-ultra-farage.html",
-          "source": "El País",
-          "published": "2026-10-02T19:50:22.000Z"
-        },
-        {
-          "title": "La opción de Mónica García vuelve a tomar fuerza como candidata de Sumar a las generales",
-          "link": "https://www.eldiario.es/politica/opcion-monica-garcia-vuelve-fuerza-candidata-sumar-generales_1_13558330.html",
-          "source": "elDiario.es",
-          "published": "2026-10-02T18:49:13.000Z"
-        },
-        {
-          "title": "Última hora de la votación de los decretos sobre vivienda en el Congreso, en directo | - publico.es",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG5HVG1MVXF2THpOamtlYkY0eERZc0hmZUZxSS1WV0gxTWpHRW5idWdFNTZJVk8tZVdHZGhGQUV2bHprMjhLNVRqSVRsdGFPTkdKMmpGRU5vWkJaMnlReXE1N2RydFRqQUo1RXBZY2dxa1JWR0theUVVRDhWek9wTHJuTDM3RGIyN25PbTRQV2RTa21SclRENEcwVTNUbTDSAaQBQVVfeXFMTm1sVUQzakhsY0ZXS3duWjJreG5od2JfaC1xRGlRUWZUWHItR2pkOEJZLUlHOVJEMkFuREVGbXdKRHlPOHBZTC14NnA5NjZ1cFRmQ1MzT3poTUk5YnhrM3NVTzEydjBGaGFOU2piY1NWVnpPa2dXcnN3Zk1iWThUbmZDZXRHeVM3RGRXTFZDMUtGcnBHbmF6QkttZG1ZTVZCMnowMVk?oc=5",
-          "source": "Público",
-          "published": "2026-10-02T18:45:54.000Z"
+          "title": "Mínguez asegura que el PSOE \"siempre\" está dispuesto negociar tras caer los decretos de vivienda",
+          "link": "https://www.europapress.es/catalunya/noticia-minguez-asegura-psoe-siempre-dispuesto-negociar-caer-decretos-vivienda-20261003114503.html",
+          "source": "Europa Press",
+          "published": "2026-10-03T09:45:03.000Z"
         }
       ]
     },
@@ -127,111 +97,76 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Detienen a británico-iraní por incidente en base aérea de Fairford",
-          "link": "https://www.dw.com/es/detienen-a-británico-iraní-por-incidente-en-base-aérea-de-fairford/a-79508786?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El hombre es sospechoso de “preparación de actos terroristas”. Hasta ahora no se han hallado explosivos. Las autoridades advirtieron que las investigaciones son “sumamente complejas”.",
+          "title": "Lituania cierra temporalmente el espacio aéreo del aeropuerto de Vilna por la presencia posible de un dron",
+          "link": "https://www.eldiario.es/internacional/lituania-cierra-temporalmente-espacio-aereo-aeropuerto-vilna-presencia-posible-dron_1_13558921.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El incidente ha llevado a la intervención de cazas de la OTAN desplegados en la región del mar Báltico Activados dos cazas españoles en Rumanía tras detectarse un dron cerca de la frontera con Ucrania La posible presencia de un dron desconocido este sábado sobre Lituania llevó al cierre temporal del espacio aéreo del aeropuerto de Vilna, la capital lituana, en un incidente que llevó a la intervención de cazas de la OTAN desplegados en la región del mar Báltico. Según dijo Vilmantas Vitkauskas, responsable del Centro Nacional para la Gestión de Crisis (NKMC) de Lituania, en unas declaraciones…",
           "sources": [
-            "DW",
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-01T22:07:05.037Z"
-        },
-        {
-          "title": "Al menos 40 profesores heridos y casi 2.000 detenidos por las protestas estudiantiles en Francia",
-          "link": "https://www.20minutos.es/internacional/menos-40-profesores-heridos-casi-2-000-detenidos-por-las-protestas-estudiantiles-francia_7044158_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El ministro de educación francés considera que \"la gente joven necesita sentirse escuchada\", y ve necesario \"buscar soluciones muy concretas a nivel local\".",
-          "sources": [
-            "20minutos Internacional",
             "elDiario.es Internacional",
             "El País Internacional"
           ],
-          "firstSeen": "2026-10-02T11:34:04.909Z"
+          "firstSeen": "2026-10-03T10:48:05.401Z"
         },
         {
-          "title": "¿Quién es Smit Machchhar, el piloto indio apuñalado que según Israel frustró un atentado en un vuelo de Flydubai?",
-          "link": "https://www.france24.com/es/medio-oriente/20261001-qui%C3%A9n-es-smit-machchhar-el-piloto-indio-apu%C3%B1alado-que-seg%C3%BAn-israel-frustr%C3%B3-un-atentado-en-un-vuelo-de-flydubai",
-          "source": "France 24",
-          "summary": "Smit Machchhar, capitán indio de la aerolínea emiratí flydubai, se convirtió en protagonista de un incidente de seguridad aérea después de que su copiloto presuntamente lo apuñalara durante un vuelo entre Dubái y Tel Aviv, en el que viajaban 174 personas. Gravemente herido, Machchhar habría conseguido abrir la puerta de la cabina para permitir la intervención de pasajeros y tripulantes, que redujeron al presunto agresor mientras otros dos pilotos que se encontraban a bordo asumían el control de la aeronave. El Gobierno de Benjamin Netanyahu lo califica como el “héroe” que evitó una tragedia…",
+          "title": "Emiratos Árabes constata que el piloto del vuelo a Tel Aviv pretendía cometer una “acción terrorista”",
+          "link": "https://elpais.com/internacional/2026-10-03/emiratos-arabes-constata-que-el-piloto-del-vuelo-a-tel-aviv-pretendia-cometer-un-acto-terrorista.html",
+          "source": "El País Internacional",
+          "summary": "La Fiscalía, que investiga el incidente, señala que el arrestado atacó al comandante con una hacha pequeña. Netanyahu amenaza: “Si fue enviado por alguien, pagará un precio muy alto”",
           "sources": [
-            "France 24",
-            "BBC Mundo"
+            "El País Internacional",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-01T22:07:05.037Z"
-        },
-        {
-          "title": "Protestas estudiantiles en Francia: \"Tú rompes, tus padres pagan\", reclama el Gobierno",
-          "link": "https://www.dw.com/es/protestas-estudiantiles-en-francia-tú-rompes-tus-padres-pagan-reclama-el-gobierno/a-79512770?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Casi 400 escuelas de secundaria están cerradas en Francia, tras una semana de protestas estudiantiles que dejaron decenas de empleados educativos heridos, unos 2.000 arrestados y daños materiales, según las autoridades.",
-          "sources": [
-            "DW",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-02T11:34:04.909Z"
-        },
-        {
-          "title": "Ucrania emplea contra Rusia su primer misil balístico táctico FP-7",
-          "link": "https://www.dw.com/es/ucrania-emplea-contra-rusia-su-primer-misil-balístico-táctico-fp-7/a-79509462?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El misil FP-7, fabricado en Ucrania, es capaz de transportar 200 kilos de explosivos y está diseñado para alcanzar objetivos situados a 250 kilómetros de distancia.",
-          "sources": [
-            "DW",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-02T11:34:04.909Z"
+          "firstSeen": "2026-10-03T10:48:05.401Z"
         }
       ],
       "items": [
         {
-          "title": "¿Lula o Bolsonaro?: Brasil vota bajo la sombra de una interferencia de Trump",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261002-lula-o-bolsonaro-brasil-vota-bajo-la-sombra-de-una-interferencia-de-trump",
-          "source": "France 24",
-          "published": "2026-10-02T21:26:40.000Z"
+          "title": "El trasfondo geopolítico de las elecciones brasileñas",
+          "link": "https://elpais.com/america/2026-10-03/el-trasfondo-geopolitico-de-las-elecciones-brasilenas.html",
+          "source": "El País Internacional",
+          "published": "2026-10-03T09:30:00.000Z"
         },
         {
-          "title": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos",
-          "link": "https://www.bbc.com/mundo/articles/cx7vp55l3rz2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-02T21:25:22.000Z"
+          "title": "Letonia celebra elecciones generales en medio de preocupaciones por la seguridad nacional y el aumento del coste de la vida",
+          "link": "https://www.dw.com/es/letonia-celebra-elecciones-generales-en-medio-de-preocupaciones-por-la-seguridad-nacional-y-el-aumento-del-coste-de-la-vida/a-79528089?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-03T08:19:00.000Z"
         },
         {
-          "title": "¿Qué es el \"pasaporte dorado\" anunciado por Argentina para nacionalizar inversores extranjeros?",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261002-qu%C3%A9-es-el-pasaporte-dorado-anunciado-por-argentina-para-nacionalizar-inversores-extranjeros",
-          "source": "France 24",
-          "published": "2026-10-02T20:51:29.000Z"
+          "title": "El copiloto del vuelo de Flydubai atacó con un hacha de emergencia al piloto para cometer \"un acto terrorista\"",
+          "link": "https://www.20minutos.es/internacional/copiloto-vuelo-flydubai-ataco-con-un-hacha-emergencia-piloto-para-cometer-un-acto-terrorista_7044415_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-03T07:42:52.000Z"
         },
         {
-          "title": "¿Cuál es la gravedad de la situación energética en los países del G7?",
-          "link": "https://www.france24.com/es/video/20261002-cu%C3%A1l-es-la-gravedad-de-la-situaci%C3%B3n-energ%C3%A9tica-en-los-pa%C3%ADses-del-g7",
-          "source": "France 24",
-          "published": "2026-10-02T20:48:48.000Z"
+          "title": "Drones, ciberataques o desinformación: Europa no está preparada para la \"guerra total\", aunque haga creer que sí",
+          "link": "https://www.20minutos.es/internacional/drones-ciberataques-desinformacion-europa-no-esta-preparada-para-guerra-total-aunque-haga-creer-que-si_7042018_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-03T06:46:15.000Z"
         },
         {
-          "title": "España: se mantiene la acampada en Madrid tras rechazo del Congreso a decretos de vivienda",
-          "link": "https://www.france24.com/es/video/20261002-espa%C3%B1a-se-mantiene-la-acampada-en-madrid-tras-rechazo-del-congreso-a-decretos-de-vivienda",
-          "source": "France 24",
-          "published": "2026-10-02T20:44:57.000Z"
+          "title": "Rusia ataca otro importante puente en la capital de Ucrania despúes de haberlo hecho también ayer",
+          "link": "https://www.dw.com/es/rusia-ataca-otro-importante-puente-en-la-capital-de-ucrania-despúes-de-haberlo-hecho-también-ayer/a-79527500?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-03T06:44:00.000Z"
         },
         {
-          "title": "Brasil: lobby de las armas en Santa Catarina se resiste a las restricciones de Lula",
-          "link": "https://www.france24.com/es/video/20261002-brasil-lobby-de-las-armas-en-santa-catarina-se-resiste-a-las-restricciones-de-lula",
-          "source": "France 24",
-          "published": "2026-10-02T20:44:53.000Z"
+          "title": "Ambientalistas alertan sobre riesgos para la protección de bosques e indígenas tras las elecciones en Brasil",
+          "link": "https://www.dw.com/es/ambientalistas-alertan-sobre-riesgos-para-la-protección-de-bosques-e-indígenas-tras-las-elecciones-en-brasil/a-79525985?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-03T06:15:00.000Z"
         },
         {
-          "title": "Lula se la juega en el estado que predice los resultados de las elecciones: \"El bolsonarismo se ha infiltrado en la periferia\"",
-          "link": "https://www.eldiario.es/internacional/lula-juega-predice-resultados-elecciones-bolsonarismo-infiltrado-periferia_1_13557008.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-02T20:38:22.000Z"
+          "title": "El adelanto electoral de la socialista Frederiksen... y cómo puede ser un mal espejo en el que se mire Sánchez",
+          "link": "https://www.20minutos.es/internacional/adelanto-electoral-socialista-frederiksen-como-puede-ser-un-mal-espejo-que-se-mire-sanchez_7044149_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-03T06:08:12.000Z"
         },
         {
-          "title": "Putin eleva con la amenaza nuclear la retórica bélica contra Europa en su estrategia por expandir el miedo",
-          "link": "https://www.eldiario.es/internacional/putin-eleva-amenaza-nuclear-retorica-belica-europa-estrategia-expandir-miedo_1_13555850.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-02T20:38:22.000Z"
+          "title": "Aterriza en Tel Aviv el primer vuelo israelí tras ataque en avión de Flydubai",
+          "link": "https://www.dw.com/es/aterriza-en-tel-aviv-el-primer-vuelo-israelí-tras-ataque-en-avión-de-flydubai/a-79526652?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-03T04:43:00.000Z"
         }
       ]
     }
