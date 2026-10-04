@@ -1,108 +1,72 @@
 {
-  "date": "2026-10-03",
-  "updatedAt": "2026-10-03T20:20:20.534Z",
-  "edition": "tarde",
+  "date": "2026-10-04",
+  "updatedAt": "2026-10-04T11:30:28.161Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Decenas de miles de personas colapsan Madrid hacia la huelga general de vivienda",
-          "link": "https://www.elsaltodiario.com/politica/manifestaciones-masivas-derecho-vivienda?utm_source=feed",
-          "source": "El Salto",
-          "summary": "El fracaso de la vía parlamentaria no ha frenado a un movimiento de vivienda que sigue acumulando fuerzas en todo el Estado. Este fin de semana están convocadas las marchas de Madrid y L'Hospitalet-Barcelona. Temas principal: Política Leer artículo completo",
-          "sources": [
-            "El Salto",
-            "20minutos",
-            "Europa Press",
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-10-03T10:48:05.401Z"
-        },
-        {
-          "title": "La mayoría social apoya la huelga general por la vivienda y la intervención del alquiler",
-          "link": "https://diariosocialista.net/2026/10/03/la-mayoria-social-apoya-la-huelga-general-por-la-vivienda-y-la-intervencion-del-alquiler/",
-          "source": "Diario Socialista",
-          "summary": "El 73% de la población respaldaría un paro general por la vivienda y más de dos tercios de la sociedad abogan por limitar los precios aunque implique pérdida de rentabilidad para el casero, incluso la mitad de los votantes del PP y Vox.",
-          "sources": [
-            "Diario Socialista",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-03T10:48:05.401Z"
-        },
-        {
-          "title": "Sánchez mide el alcance del malestar social contra la derecha para decidir si convoca ya elecciones",
-          "link": "https://elpais.com/espana/2026-10-03/sanchez-mide-el-alcance-del-malestar-social-contra-la-derecha-para-decidir-si-convoca-ya-elecciones.html",
-          "source": "El País",
-          "summary": "El presidente evalúa sondeos y espera a observar la fuerza de la manifestación sobre la vivienda para ver si el lunes disuelve",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-03T10:48:05.401Z"
-        },
-        {
-          "title": "Suspendida la manifestación de este sábado en Barcelona y L'Hospitalet ante la llegada del 'minihuracán mediterráneo'",
-          "link": "https://www.20minutos.es/cataluna/barcelona/crisis-vivienda-suspendida-manifestacion-sabado-tarde-barcelona-l-hospitalet-minihuracan-mediterraneo-lluvias_7044472_0.html",
+          "title": "La Policía inicia el desalojo del asentamiento de la playa del Trampolín en Ceuta",
+          "link": "https://www.20minutos.es/ceuta/policia-nacional-inicia-desalojo-asentamiento-playa-trampolin-ceuta_7044540_0.html",
           "source": "20minutos",
-          "summary": "Las entidades convocantes de la manifestación a favor de la vivienda prevista para este sábado por la tarde en Barcelona y L'Hospitalet de Llobregat han decidido suspender l...",
+          "summary": "En el emplazamiento viven más de 3.000 migrantes. En el efectivo intervienen un gran número de efectivos humanos y materiales.",
           "sources": [
             "20minutos",
-            "Europa Press"
+            "elDiario.es"
           ],
-          "firstSeen": "2026-10-03T15:24:36.133Z"
+          "firstSeen": "2026-10-04T11:30:28.161Z"
         }
       ],
       "items": [
         {
-          "title": "Reacciones a los decretos de vivienda y las acampadas en directo | Miles de manifestantes recorren Málaga y Zaragoza, mientras en Valencia comienza una acampada",
-          "link": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-03T20:16:04.000Z"
-        },
-        {
-          "title": "Agua hasta las rodillas en el Casco Viejo y cortes de luz en el teatro Arriaga de Bilbao por las fuertes lluvias",
-          "link": "https://www.eldiario.es/euskadi/agua-rodillas-casco-viejo-cortes-luz-teatro-arriaga-bilbao-fuertes-lluvias_1_13559972.html",
-          "source": "elDiario.es",
-          "published": "2026-10-03T19:10:31.000Z"
-        },
-        {
-          "title": "Svetlana Tijanóvskaya: “Si dejamos que Ucrania pierda la guerra, la pregunta será quién es el siguiente”",
-          "link": "https://elpais.com/internacional/2026-10-03/svetlana-tijanovskaya-si-dejamos-que-ucrania-pierda-la-guerra-la-pregunta-sera-quien-es-el-siguiente.html",
-          "source": "El País",
-          "published": "2026-10-03T18:23:20.000Z"
-        },
-        {
-          "title": "Máis de 20.000 persoas desbordan Vigo na maior manifestación de Galiza pola vivenda",
-          "link": "https://www.elsaltodiario.com/vivienda/mais-20-000-persoas-desbordan-vigo-na-maior-manifestacion-galiza-pola-vivenda?utm_source=feed",
+          "title": "Brasil comienza una elección trascendental para América: cuatro años más de Lula o el regreso de los Bolsonaro",
+          "link": "https://www.elsaltodiario.com/brasil/brasil-comienza-una-eleccion-trascendental-america-cuatro-anos-lula-regreso-bolsonaro?utm_source=feed",
           "source": "El Salto",
-          "published": "2026-10-03T18:16:00.000Z"
+          "published": "2026-10-04T11:11:00.000Z"
         },
         {
-          "title": "La indignación por la vivienda inunda Madrid: \"No puede ser que el sueldo sea el 70% del alquiler; no nos dan los números\"",
-          "link": "https://www.20minutos.es/nacional/indignacion-por-vivienda-inunda-madrid-no-puede-ser-que-sueldo-sea-70-alquiler-no-nos-dan-los-numeros_7044486_0.html",
-          "source": "20minutos",
-          "published": "2026-10-03T17:50:51.000Z"
+          "title": "Podemos pide al Gobierno un decreto de vivienda cada mes y afirma que la gente \"quiere soluciones, no elecciones\"",
+          "link": "https://www.europapress.es/nacional/noticia-podemos-pide-gobierno-decreto-vivienda-cada-mes-afirma-gente-quiere-soluciones-no-elecciones-20261004124744.html",
+          "source": "Europa Press",
+          "published": "2026-10-04T10:47:44.000Z"
         },
         {
-          "title": "Los coches de empresa lastran al eléctrico: los particulares compran ya un 25%, las compañías solo un 10%",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-03/los-coches-de-empresa-lastran-al-electrico-los-particulares-compran-ya-un-25-las-companias-solo-un-10.html",
+          "title": "La furia del agua golpea l’Hospitalet: “Salí del coche por la ventana y me fui nadando”",
+          "link": "https://elpais.com/espana/catalunya/2026-10-04/la-furia-del-agua-golpea-lhospitalet-sali-del-coche-por-la-ventana-y-me-fui-nadando.html",
           "source": "El País",
-          "published": "2026-10-03T17:46:19.000Z"
+          "published": "2026-10-04T10:20:00.000Z"
         },
         {
-          "title": "La protesta por el derecho a la vivienda deriva en una acampada en el centro de València",
-          "link": "https://www.eldiario.es/comunitat-valenciana/protesta-derecho-vivienda-deriva-acampada-centro-valencia_1_13559924.html",
+          "title": "Bilbao cifra en 200 los percances causados por la tromba de agua del sábado, con inundaciones y balsas",
+          "link": "https://www.eldiario.es/euskadi/bilbao-cifra-200-percances-causados-tromba-agua-sabado-inundaciones-balsas_1_13560537.html",
           "source": "elDiario.es",
-          "published": "2026-10-03T17:41:51.000Z"
+          "published": "2026-10-04T09:36:47.000Z"
         },
         {
-          "title": "La calle adelanta por la izquierda a los partidos: quién capitalizará la indignación por la vivienda - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2w3ZnNfYVZra204TXhHSHJ0djdjd2k3R1dOamdfWXAtUVlTYjd1QXNKdlJUUjd3UnBWSkNOZFExbzhGZWtNU1VodGg3d2RtUXlybnBWUUJEXzBNLXFiQW1PNnVKSWQzYjNlenhPN1MyYXRMM0pSWFRvVTRRai1XcTZKY2hfTUoyV2RuQ0dIODV0b3ZsYkhsd0RzSEFSOUlIYnROeXJDZw?oc=5",
-          "source": "Público",
-          "published": "2026-10-03T17:30:00.000Z"
+          "title": "Aliança pasaría de 2 a 30 diputados en Catalunya y disputaría el primer puesto al PSC en escaños",
+          "link": "https://www.eldiario.es/catalunya/alianca-pasaria-2-30-diputados-catalunya-disputaria-primer-puesto-psc-escanos_1_13560346.html",
+          "source": "elDiario.es",
+          "published": "2026-10-04T08:34:28.000Z"
+        },
+        {
+          "title": "La Policía agrede a un fotógrafo de El Salto en la carga contra una manifestación antifascista en Sevilla",
+          "link": "https://www.elsaltodiario.com/sevilla/policia-carga-una-manifestacion-antifascista-sevilla-agrede-un-fotografo-salto?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-04T08:00:00.000Z"
+        },
+        {
+          "title": "\"Al 70% habrá elecciones anticipadas\"",
+          "link": "https://www.eldiario.es/escolar/70-habra-elecciones-anticipadas_132_13560329.html",
+          "source": "elDiario.es",
+          "published": "2026-10-04T07:34:28.000Z"
+        },
+        {
+          "title": "El PP pide endurecer penas por atentado y desobediencia a la Policía y crear una Fiscalía especial para estos delitos",
+          "link": "https://www.europapress.es/nacional/noticia-pp-pide-endurecer-penas-atentado-desobediencia-policia-crear-fiscalia-especial-delitos-20261004092957.html",
+          "source": "Europa Press",
+          "published": "2026-10-04T07:29:57.000Z"
         }
       ]
     },
@@ -111,100 +75,65 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Lituania cierra temporalmente el espacio aéreo del aeropuerto de Vilna por la presencia posible de un dron",
-          "link": "https://www.eldiario.es/internacional/lituania-cierra-temporalmente-espacio-aereo-aeropuerto-vilna-presencia-posible-dron_1_13558921.html",
-          "source": "elDiario.es Internacional",
-          "summary": "El incidente ha llevado a la intervención de cazas de la OTAN desplegados en la región del mar Báltico Activados dos cazas españoles en Rumanía tras detectarse un dron cerca de la frontera con Ucrania La posible presencia de un dron desconocido este sábado sobre Lituania llevó al cierre temporal del espacio aéreo del aeropuerto de Vilna, la capital lituana, en un incidente que llevó a la intervención de cazas de la OTAN desplegados en la región del mar Báltico. Según dijo Vilmantas Vitkauskas, responsable del Centro Nacional para la Gestión de Crisis (NKMC) de Lituania, en unas declaraciones…",
+          "title": "Israel lanza ataque contra líder de Hamás en Gaza y causa cinco muertos",
+          "link": "https://www.dw.com/es/israel-lanza-ataque-contra-líder-de-hamás-en-gaza-y-causa-cinco-muertos/a-79533796?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "El mando militar no informó de inmediato si en el bombardeo logró eliminar a su objetivo, el dirigente palestino Ali al-Amudi.",
           "sources": [
-            "elDiario.es Internacional",
-            "El País Internacional",
-            "20minutos Internacional"
+            "DW",
+            "El País Internacional"
           ],
-          "firstSeen": "2026-10-03T10:48:05.401Z"
-        },
-        {
-          "title": "Rusia insta a extranjeros y diplomáticos a abandonar Kiev en el tercer día de ataques contra puentes",
-          "link": "https://www.france24.com/es/europa/20261003-rusia-insta-a-extranjeros-y-diplom%C3%A1ticos-a-abandonar-kiev-en-el-tercer-d%C3%ADa-de-ataques-contra-puentes",
-          "source": "France 24",
-          "summary": "Los puentes que cruzan el río Dniéper se han convertido en el más reciente blanco de los ataques rusos en Kiev, mientras el ministerio de Asuntos Exteriores ruso pide a los extranjeros que abandonen la capital ucraniana. El presidente Volodímir Zelenski señala informes de inteligencia que evidencian una \"nueva doctrina\" ordenada por su homólogo ruso, Vladimir Putin, para bombardear \"carreteras, escuelas y hospitales\". Mientras, Donald Trump busca que el acuerdo de paz para finalizar la guerra en Ucrania incluya pactos petroleros con Moscú, según 'The New York Times'.",
-          "sources": [
-            "France 24",
-            "El País Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-10-03T20:20:20.534Z"
-        },
-        {
-          "title": "Emiratos Árabes constata que el piloto del vuelo a Tel Aviv pretendía cometer una “acción terrorista”",
-          "link": "https://elpais.com/internacional/2026-10-03/emiratos-arabes-constata-que-el-piloto-del-vuelo-a-tel-aviv-pretendia-cometer-un-acto-terrorista.html",
-          "source": "El País Internacional",
-          "summary": "La Fiscalía, que investiga el incidente, señala que el arrestado atacó al comandante con una hacha pequeña. Netanyahu amenaza: “Si fue enviado por alguien, pagará un precio muy alto”",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-03T10:48:05.401Z"
-        },
-        {
-          "title": "EAU concluye que el copiloto del vuelo de Flydubai intentó \"un ataque terrorista\"",
-          "link": "https://www.france24.com/es/medio-oriente/20261003-eau-concluye-que-el-copiloto-del-vuelo-de-flydubai-intent%C3%B3-un-ataque-terrorista",
-          "source": "France 24",
-          "summary": "El copiloto del vuelo FZ1073 de Flydubai ha sido identificado como Hamam al-Hammami, un ciudadano de Omán que tenía prohibido volar en su país debido a sospechas de radicalización, según revelan medios como la agencia AP, el canal saudí Al Arabiya y medios como 'CNN'. El fiscal general emiratí, Hamad Saif Al Shamsi, aseguró que al-Hammami pretendía ejecutar un \"acto terrorista\", tras agredir al capitán con un hacha e intentar tomar el control de la aeronave.",
-          "sources": [
-            "France 24",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-03T15:24:36.133Z"
+          "firstSeen": "2026-10-04T11:30:28.161Z"
         }
       ],
       "items": [
         {
-          "title": "El partido conservador Lista Unida gana las generales en Letonia, según los sondeos",
+          "title": "El FBI detiene a tres estudiantes de la Universidad de Alabama por amenazar de muerte a Donald Trump: \"Tiene que morir\"",
+          "link": "https://www.20minutos.es/internacional/fbi-detiene-estudiantes-universidad-alabama-amenazar-muerte-donald-trump-tiene-morir_7044573_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-04T10:32:12.000Z"
+        },
+        {
+          "title": "Friedrich Merz pide a Vladimir Putin desde Kiev, adonde viajó hoy por sorpresa, que pare \"esta guerra sin sentido\"",
+          "link": "https://www.dw.com/es/friedrich-merz-pide-a-vladimir-putin-desde-kiev-adonde-viajó-hoy-por-sorpresa-que-pare-esta-guerra-sin-sentido/a-79536922?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-04T10:20:00.000Z"
+        },
+        {
+          "title": "Lista Unida gana las elecciones en Letonia y apunta a una coalición favorable a Ucrania",
           "link": "https://elpais.com/internacional/2026-10-03/el-partido-conservador-lista-unida-gana-las-generales-en-letonia-segun-los-sondeos.html",
           "source": "El País Internacional",
-          "published": "2026-10-03T20:15:56.000Z"
+          "published": "2026-10-04T09:38:25.000Z"
         },
         {
-          "title": "La Policía de París declara las protestas estudiantiles \"fuera de control\"",
-          "link": "https://www.france24.com/es/francia/20261003-la-polic%C3%ADa-de-par%C3%ADs-declara-las-protestas-estudiantiles-fuera-de-control",
-          "source": "France 24",
-          "published": "2026-10-03T20:12:30.000Z"
-        },
-        {
-          "title": "En directo: los hutíes afirman haber atacado las instalaciones de Aramco en Riad con misiles y drones",
-          "link": "https://www.france24.com/es/medio-oriente/20261003-en-directo-los-hut%C3%ADes-afirman-haber-atacado-las-instalaciones-de-aramco-en-riad-con-misiles-y-drones",
-          "source": "France 24",
-          "published": "2026-10-03T19:59:22.000Z"
-        },
-        {
-          "title": "Al menos cinco muertos por un ataque israelí en Ciudad de Gaza",
-          "link": "https://elpais.com/internacional/2026-10-03/varios-muertos-por-un-ataque-israeli-en-ciudad-de-gaza.html",
-          "source": "El País Internacional",
-          "published": "2026-10-03T19:36:51.000Z"
-        },
-        {
-          "title": "Luis Miller: \"Españoles están pidiendo leyes más intervencionistas y radicales sobre la vivienda\"",
-          "link": "https://www.france24.com/es/video/20261003-luis-miller-espa%C3%B1oles-est%C3%A1n-pidiendo-leyes-m%C3%A1s-intervencionistas-y-radicales-sobre-la-vivienda",
-          "source": "France 24",
-          "published": "2026-10-03T19:02:09.000Z"
-        },
-        {
-          "title": "¿A quién apoya la \"clase C\" en Brasil? Los cambios en la intención de voto de la clase media",
-          "link": "https://www.france24.com/es/video/20261003-a-qui%C3%A9n-apoya-la-clase-c-en-brasil-los-cambios-en-la-intenci%C3%B3n-de-voto-de-la-clase-media",
-          "source": "France 24",
-          "published": "2026-10-03T19:00:48.000Z"
-        },
-        {
-          "title": "Informe desde Sarajevo: Bosnia-Herzegovina va a las urnas dividida entre EE. UU. y la UE",
-          "link": "https://www.france24.com/es/video/20261003-informe-desde-sarajevo-bosnia-herzegovina-va-a-las-urnas-dividida-entre-ee-uu-y-la-ue",
-          "source": "France 24",
-          "published": "2026-10-03T18:53:25.000Z"
-        },
-        {
-          "title": "La inusual petición que Xi Jinping hizo en su último viaje oficial a EEUU y que alimenta los rumores sobre su salud",
-          "link": "https://www.20minutos.es/internacional/inusual-peticion-xi-jinping-hizo-ultimo-viaje-oficial-eeuu-alimenta-rumores-salud_7044521_0.html",
+          "title": "Merz visita por sorpresa Ucrania para concluir la entrega de más armas entre las amenazas de Rusia: \"Corre un riesgo mortal\"",
+          "link": "https://www.20minutos.es/internacional/merz-visita-por-sorpresa-ucrania-para-concluir-entrega-mas-armas-entre-las-amenazas-rusia-corre-un-riesgo-mortal_7044560_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-03T18:48:48.000Z"
+          "published": "2026-10-04T09:32:00.000Z"
+        },
+        {
+          "title": "Reino Unido quiere ser como Canadá: socio estratégico... y un 'regreso a medias' a la UE",
+          "link": "https://www.20minutos.es/internacional/reino-unido-quiere-ser-como-canada-socio-estrategico-un-regreso-medias-ue_7043040_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-04T07:11:17.000Z"
+        },
+        {
+          "title": "La historia de Kaliningrado: cómo se convirtió en exclave de Rusia junto al Báltico y por qué Putin ve esencial protegerlo",
+          "link": "https://www.20minutos.es/internacional/historia-kaliningrado-como-se-convirtio-exclave-rusia-junto-baltico-por-que-putin-ve-esencial-protegerlo_7044240_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-04T06:37:31.000Z"
+        },
+        {
+          "title": "Friedrich Merz llega a la capital de Ucrania para una visita no anunciada en plena escalada de ataques rusos",
+          "link": "https://www.dw.com/es/friedrich-merz-llega-a-la-capital-de-ucrania-para-una-visita-no-anunciada-en-plena-escalada-de-ataques-rusos/a-79535165?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-04T06:17:00.000Z"
+        },
+        {
+          "title": "Cheques de 5.000 dólares y un número personal filtrado: ¿un impulso electoral desesperado de Trump?",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261004-cheques-de-5-000-d%C3%B3lares-y-un-n%C3%BAmero-personal-filtrado-un-impulso-electoral-desesperado-de-trump",
+          "source": "France 24",
+          "published": "2026-10-04T04:00:51.000Z"
         }
       ]
     }
