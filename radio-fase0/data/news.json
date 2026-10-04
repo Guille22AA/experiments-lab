@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T16:09:04.986Z",
+  "updatedAt": "2026-10-04T20:38:22.872Z",
   "edition": "tarde",
   "sections": [
     {
@@ -15,7 +15,8 @@
           "sources": [
             "Europa Press",
             "20minutos",
-            "elDiario.es"
+            "elDiario.es",
+            "Público"
           ],
           "firstSeen": "2026-10-04T16:09:04.986Z"
         },
@@ -33,52 +34,52 @@
       ],
       "items": [
         {
-          "title": "Elecciones en Brasil 2026, en vivo | Lula: “Veremos qué Brasil eligió el pueblo”. Bolsonaro: “Brasil no aguanta más”",
-          "link": "https://elpais.com/america/2026-10-04/elecciones-en-brasil-2026-en-vivo.html",
+          "title": "Cierran los colegios electorales en Brasil",
+          "link": "https://www.europapress.es/internacional/noticia-cierran-colegios-electorales-brasil-20261004220736.html",
+          "source": "Europa Press",
+          "published": "2026-10-04T20:07:36.000Z"
+        },
+        {
+          "title": "Moncloa prepara el adelanto electoral y el rescate de los decretos de vivienda que tumbó la derecha",
+          "link": "https://www.eldiario.es/politica/moncloa-prepara-adelanto-electoral-rescate-decretos-vivienda-tumbo-derecha_1_13561276.html",
+          "source": "elDiario.es",
+          "published": "2026-10-04T19:36:10.000Z"
+        },
+        {
+          "title": "Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso",
+          "link": "https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html",
           "source": "El País",
-          "published": "2026-10-04T16:06:36.000Z"
+          "published": "2026-10-04T19:22:32.000Z"
+        },
+        {
+          "title": "Masiva manifestación en Murcia contra el problema de la vivienda: “No toleramos ni un desahucio más”",
+          "link": "https://www.eldiario.es/murcia/sociedad/masiva-manifestacion-murcia-problema-vivienda-no-toleramos-desahucio_1_13561273.html",
+          "source": "elDiario.es",
+          "published": "2026-10-04T18:03:54.000Z"
+        },
+        {
+          "title": "Corea del Norte afirma haber desarrollado misiles \"pilotados por IA\" que \"no hay manera de esquivar\"",
+          "link": "https://www.20minutos.es/internacional/corea-norte-afirma-haber-desarrolado-misiles-pilotados-inteligencia-artificial-no-manera-esquivar_7044658_0.html",
+          "source": "20minutos",
+          "published": "2026-10-04T17:42:23.000Z"
+        },
+        {
+          "title": "Unos 60 detenidos en Moscú en un acto del Partido Comunista que desembocó en una protesta contra Putin",
+          "link": "https://www.eldiario.es/internacional/60-detenidos-moscu-acto-partido-comunista-desemboco-protesta-putin_1_13561208.html",
+          "source": "elDiario.es",
+          "published": "2026-10-04T16:53:17.000Z"
+        },
+        {
+          "title": "Por qué el precio del petróleo se mantiene estancado en los 100 dólares",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/por-que-petroleo-se-mantiene-estancado-los-100-dolares_7044647_0.html",
+          "source": "20minutos",
+          "published": "2026-10-04T16:41:19.000Z"
         },
         {
           "title": "Sol no afloja y se prepara para resistir hasta la huelga general: “Estamos motivados y cada vez más organizados”",
           "link": "https://www.eldiario.es/madrid/sol-no-afloja-prepara-resistir-huelga-general-motivados-vez-organizados_1_13561117.html",
           "source": "elDiario.es",
           "published": "2026-10-04T16:02:10.000Z"
-        },
-        {
-          "title": "Los detenidos por los altercados en la manifestación por la vivienda en València pasan este lunes a disposición judicial",
-          "link": "https://www.europapress.es/comunitat-valenciana/noticia-detenidos-altercados-manifestacion-vivienda-valencia-pasan-lunes-disposicion-judicial-20261004180032.html",
-          "source": "Europa Press",
-          "published": "2026-10-04T16:00:32.000Z"
-        },
-        {
-          "title": "Las marchas andaluzas por la vivienda cierran un fin de semana de protestas con concentraciones en Almería y Córdoba",
-          "link": "https://www.eldiario.es/andalucia/marchas-andaluzas-vivienda-cierran-semana-protestas-concentraciones-almeria-cordoba_1_13560340.html",
-          "source": "elDiario.es",
-          "published": "2026-10-04T15:34:51.000Z"
-        },
-        {
-          "title": "La izquierda alternativa gana tiempo y fija para el 17 de octubre el lanzamiento del Frente Amplio y su líder para las generales",
-          "link": "https://elpais.com/espana/2026-10-04/la-izquierda-alternativa-gana-tiempo-y-fija-para-el-17-de-octubre-el-lanzamiento-del-frente-amplio-y-su-lider-para-las-generales.html",
-          "source": "El País",
-          "published": "2026-10-04T14:26:01.000Z"
-        },
-        {
-          "title": "Las agendas de Sánchez y el Rey complican que el presidente convoque elecciones el lunes",
-          "link": "https://www.20minutos.es/nacional/las-agendas-sanchez-rey-complican-que-presidente-convoque-elecciones-lunes_7044608_0.html",
-          "source": "20minutos",
-          "published": "2026-10-04T14:06:42.000Z"
-        },
-        {
-          "title": "La Policía Local de Santander identifica a más participantes en la acampada por la vivienda entre reproches ciudadanos",
-          "link": "https://www.eldiario.es/cantabria/policia-local-santander-identifica-participantes-acampada-vivienda-reproches-ciudadanos_1_13560792.html",
-          "source": "elDiario.es",
-          "published": "2026-10-04T14:02:00.000Z"
-        },
-        {
-          "title": "Sánchez prosigue sus contactos para decidir si convoca elecciones y el PP aprieta: \"Pedro, no te lo pienses más, hazlo\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-prosigue-contactos-para-decidir-si-convoca-elecciones-pp-aprieta-pedro-no-pienses-mas-hazlo_7044605_0.html",
-          "source": "20minutos",
-          "published": "2026-10-04T13:19:50.000Z"
         }
       ]
     },
@@ -96,56 +97,78 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-10-04T11:30:28.161Z"
+        },
+        {
+          "title": "El resultado de las elecciones en Bosnia-Herzegovina aleja su entrada en la Unión Europea",
+          "link": "https://elpais.com/internacional/2026-10-04/el-resultado-de-las-elecciones-en-bosnia-herzegovina-aleja-su-entrada-en-la-union-europea.html",
+          "source": "El País Internacional",
+          "summary": "El partido del hombre fuerte de la República Srpska, el prorruso Milorad Dodik, asegura su presencia en la presidencia tripartita del país",
+          "sources": [
+            "El País Internacional",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-04T20:38:22.872Z"
+        },
+        {
+          "title": "Friedrich Merz, desde Kiev, pide a Vladimir Putin \"poner fin a la guerra sin sentido\"",
+          "link": "https://www.france24.com/es/video/20261004-friedrich-merz-desde-kiev-pide-a-vladimir-putin-poner-fin-a-la-guerra-sin-sentido",
+          "source": "France 24",
+          "summary": "La guerra en Ucrania vuelve a poner en la mira a la infraestructura civil y cultural. La Academia Nacional de Ciencias de Ucrania, en Kiev, fue recientemente alcanzada por un ataque ruso que dejó víctimas y daños significativos. Durante una visita al lugar, el canciller alemán Friedrich Merz pidió a Moscú que detenga los ataques y avance hacia el fin de la guerra. Sin embargo, los bombardeos continúan, incluyendo nuevos ataques contra infraestructuras estratégicas. Desde Kiev, el presidente Volodímir Zelenski calificó a Rusia como un país “bárbaro”, aunque destacó el respaldo de \"aliados…",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-10-04T20:38:22.872Z"
         }
       ],
       "items": [
         {
-          "title": "Zelenski: Estados Unidos quiere nuevas negociaciones trilaterales con Rusia",
-          "link": "https://www.dw.com/es/zelenski-estados-unidos-quiere-nuevas-negociaciones-trilaterales-con-rusia/a-79538573?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-04T15:48:00.000Z"
-        },
-        {
-          "title": "Elecciones en Letonia: Kulbergs se impone en las urnas con un discurso firme contra Rusia",
-          "link": "https://www.france24.com/es/video/20261004-elecciones-en-letonia-kulbergs-se-impone-en-las-urnas-con-un-discurso-firme-contra-rusia",
+          "title": "Informe desde Río de Janeiro: cierran las urnas en Brasil y empieza el conteo de votos",
+          "link": "https://www.france24.com/es/video/20261004-informe-desde-r%C3%ADo-de-janeiro-cierran-las-urnas-en-brasil-y-empieza-el-conteo-de-votos",
           "source": "France 24",
-          "published": "2026-10-04T15:41:33.000Z"
+          "published": "2026-10-04T20:33:15.000Z"
         },
         {
-          "title": "Informe desde Saravejo: jornada electoral avanza con baja participación en Bosnia-Herzegovina",
-          "link": "https://www.france24.com/es/video/20261004-informe-desde-saravejo-jornada-electoral-avanza-con-baja-participaci%C3%B3n-en-bosnia-herzegovina",
-          "source": "France 24",
-          "published": "2026-10-04T15:37:34.000Z"
-        },
-        {
-          "title": "Elecciones en Bosnia-Herzegovina: la adhesión a la Unión Europea en juego",
-          "link": "https://www.france24.com/es/video/20261004-elecciones-en-bosnia-herzegovina-la-adhesi%C3%B3n-a-la-uni%C3%B3n-europea-en-juego",
-          "source": "France 24",
-          "published": "2026-10-04T15:32:46.000Z"
-        },
-        {
-          "title": "Lista Unida gana las elecciones en Letonia y apunta a una coalición favorable a Ucrania",
-          "link": "https://elpais.com/internacional/2026-10-03/el-partido-conservador-lista-unida-gana-las-generales-en-letonia-segun-los-sondeos.html",
+          "title": "Brasil decide su futuro entre Lula y Bolsonaro, un estadista desgastado y el hijo de un ultra",
+          "link": "https://elpais.com/america/2026-10-04/brasil-decide-su-futuro-entre-lula-y-bolsonaro-un-estadista-desgastado-y-un-hijo-de-papa-ultra.html",
           "source": "El País Internacional",
-          "published": "2026-10-04T15:07:05.000Z"
+          "published": "2026-10-04T20:19:43.000Z"
         },
         {
-          "title": "España: dos muertos y un desaparecido tras récord de lluvias en Cataluña",
-          "link": "https://www.france24.com/es/europa/20261004-espa%C3%B1a-dos-muertos-y-un-desaparecido-tras-r%C3%A9cord-de-lluvias-en-catalu%C3%B1a",
+          "title": "Un santuario, ruinas milenarias y piscinas históricas: por qué Israel extiende la ocupación de Palestina a la arqueología",
+          "link": "https://www.eldiario.es/internacional/santuario-ruinas-milenarias-piscinas-historicas-israel-extiende-ocupacion-palestina-arqueologia_1_13482784.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-04T20:11:24.000Z"
+        },
+        {
+          "title": "Odense, el laboratorio de Dinamarca donde Europa ensaya la guerra con drones",
+          "link": "https://www.eldiario.es/internacional/odense-laboratorio-dinamarca-europa-ensaya-guerra-drones_1_13549115.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-04T20:11:23.000Z"
+        },
+        {
+          "title": "Bosnia: la izquierda y los nacionalistas lideran las elecciones a la presidencia tripartita",
+          "link": "https://www.france24.com/es/europa/20261004-bosnia-la-izquierda-y-los-nacionalistas-lideran-las-elecciones-a-la-presidencia-tripartita",
           "source": "France 24",
-          "published": "2026-10-04T14:49:28.000Z"
+          "published": "2026-10-04T19:42:06.000Z"
         },
         {
-          "title": "Steinmeier en su último discurso con motivo del Día de la Unidad Alemana: \"Nuestra democracia no está en venta\"",
-          "link": "https://www.dw.com/es/steinmeier-en-su-último-discurso-con-motivo-del-día-de-la-unidad-alemana-nuestra-democracia-no-está-en-venta/a-79536843?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Ejército de Etiopía patrulla las calles de la capital del Tigré",
+          "link": "https://www.dw.com/es/ejército-de-etiopía-patrulla-las-calles-de-la-capital-del-tigré/a-79539823?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-04T14:38:00.000Z"
+          "published": "2026-10-04T19:37:00.000Z"
         },
         {
-          "title": "Legislativas en Letonia: gana el partido proeuropeo del primer ministro y avanzan los populistas",
-          "link": "https://www.france24.com/es/europa/20261004-legislativas-en-letonia-gana-el-partido-proeuropeo-del-primer-ministro-y-avanzan-los-populistas",
+          "title": "El congreso del Partido Verde británico aprueba una moción que equipara sionismo con racismo",
+          "link": "https://elpais.com/internacional/2026-10-04/el-congreso-del-partido-verde-britanico-aprueba-una-mocion-que-equipara-sionismo-con-racismo.html",
+          "source": "El País Internacional",
+          "published": "2026-10-04T19:33:36.000Z"
+        },
+        {
+          "title": "Nueva renuncia en OpenAI: ¿La industria de la IA está ignorando las advertencias?",
+          "link": "https://www.france24.com/es/video/20261004-nueva-renuncia-en-openai-la-industria-de-la-ia-est%C3%A1-ignorando-las-advertencias",
           "source": "France 24",
-          "published": "2026-10-04T13:39:27.000Z"
+          "published": "2026-10-04T19:33:29.000Z"
         }
       ]
     }
