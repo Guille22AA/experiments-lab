@@ -1,23 +1,27 @@
 {
-  "date": "2026-10-05",
-  "updatedAt": "2026-10-05T13:00:14.007Z",
-  "edition": "mediodía",
+  "date": "2026-10-06",
+  "updatedAt": "2026-10-05T23:28:27.434Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El Consejo de Ministros aprobará mañana unos decretos de vivienda similares a los que cayeron para que los vote la Diputación Permanente",
-          "link": "https://elpais.com/espana/2026-10-05/el-consejo-de-ministros-aprobara-manana-los-decretos-de-vivienda-para-que-los-vote-la-diputacion-permanente.html",
-          "source": "El País",
-          "summary": "Con las Cortes disueltas, el apoyo de Junts resulta irrelevante en dicho órgano del Congreso",
+          "title": "UGT y CCOO acuerdan convocar una huelga general por la vivienda",
+          "link": "https://diariosocialista.net/2026/10/05/ugt-y-ccoo-acuerdan-convocar-una-huelga-general-por-la-vivienda/",
+          "source": "Diario Socialista",
+          "summary": "Las centrales mayoritarias se suman al paro que reclaman el Sindicato de Inquilinas y CGT, situándolo antes de las elecciones generales del 29-N; CCOO promoverá la participación electoral para “lograr mayorías que defiendan a la clase trabajadora”.",
           "sources": [
-            "El País",
+            "Diario Socialista",
+            "El Salto",
+            "Europa Press",
             "20minutos",
-            "elDiario.es"
+            "elDiario.es",
+            "El País",
+            "UGT"
           ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
+          "firstSeen": "2026-10-05T23:28:27.434Z"
         },
         {
           "title": "Sánchez convoca elecciones para el 29 de noviembre: \"Debemos movilizarnos para doblegar a las élites\" - Diario Público",
@@ -29,90 +33,90 @@
             "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
+          "firstSeen": "2026-10-05T23:28:27.434Z"
         },
         {
-          "title": "Encuestas de las elecciones generales 2026: así está la intención de voto para el 29 de noviembre",
-          "link": "https://www.europapress.es/nacional/noticia-encuestas-elecciones-generales-2026-asi-intencion-voto-29-noviembre-20261005125620.html",
-          "source": "Europa Press",
-          "summary": "El presidente del Gobierno, Pedro Sánchez, ha anunciado su decisión de convocar elecciones anticipadas el próximo 29 de noviembre. En estos comicios adelantados, se elegirán a los miembros de las Cortes Generales para los próximos cuatro años: 350 escaños en el Congreso de los Diputados y 208 en el Senado, ya que 57 de los 265 senadores lo son por designación autonómica.",
+          "title": "Más de 100.000 personas en la manifestación de Barcelona por la vivienda",
+          "link": "https://www.elsaltodiario.com/vivienda/de-100-000-personas-manifestacion-barcelona-vivienda?utm_source=feed",
+          "source": "El Salto",
+          "summary": "Con la mirada puesta en la huelga general, los sindicatos por la vivienda catalanes han movilizado a unas 120.000 personas. La protesta ha terminado con cargas por parte de los Mossos d'Esquadra. Temas principal: Derecho a la vivienda Leer artículo completo",
           "sources": [
-            "Europa Press",
-            "El Salto"
+            "El Salto",
+            "20minutos"
           ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
+          "firstSeen": "2026-10-05T23:28:27.434Z"
         },
         {
-          "title": "La Justicia ordena investigar quién borró los emails de la concejala que denunció por acoso al alcalde de Móstoles",
-          "link": "https://www.eldiario.es/madrid/justicia-ordena-investigar-borro-emails-concejala-denuncio-acoso-alcalde-mostoles_1_13562253.html",
+          "title": "El Sindicato de Inquilinas llama en Barcelona a una huelga general en noviembre: \"El Gobierno ha arrastrado los pies\"",
+          "link": "https://www.eldiario.es/catalunya/sindicato-inquilinas-llama-barcelona-huelga-general-noviembre-gobierno-arrastrado-pies_1_13562714.html",
           "source": "elDiario.es",
-          "summary": "La Audiencia Provincial de Madrid revoca la decisión del instructor e insta la imputación de la persona que, a través de una IP no identificada, accedió a su correo corporativo y eliminó emails Los correos de la concejala de Móstoles desmienten al equipo de Ayuso y prueban que sí denunció acoso sexual El Mundo y ha podido confirmar elDiario.es, ha instado la reapertura de las diligencias y que el juzgado identifique e interrogue a la persona detrás de la IP señalada como la que accedió al email corporativo de la edil y borró los correos, entre ellos los que había intercambiado con el gabinete…",
+          "summary": "Decenas de miles de personas protestan en una marcha que termina con cargas policiales y contenedores quemados en el centro La historia de Olga, que se suicidó en L'Hospitalet tras su desahucio: “Una de las personas más alegres que he conocido” Las elecciones del 29 de noviembre no varían los planes del movimiento por la vivienda, que pasan por una huelga general el próximo mes. Así lo ha reafirmado este lunes la portavoz del Sindicato de Inquilinas de Catalunya, Carme Arcarazo, antes de la manifestación por la vivienda que han convocado en Barcelona. La marcha ha reunido a decenas de miles…",
           "sources": [
             "elDiario.es",
-            "El País"
+            "20minutos"
           ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
+          "firstSeen": "2026-10-05T23:28:27.434Z"
         },
         {
-          "title": "Podemos mete presión a Sumar y plantea primarias abiertas para elegir al líder de la izquierda este mes",
-          "link": "https://www.20minutos.es/nacional/podemos-propone-sumar-primarias-abiertas-para-elegir-lider-izquierda-14-15-octubre-tras-adelanto-electoral_7044817_0.html",
-          "source": "20minutos",
-          "summary": "Irene Montero asegura que Podemos ya ha trasladado la propuesta formal al espacio, que el 17 de octubre presentará su nueva marca, Frente Amplio, mientras que los partidos tienen hasta el día 16 para presentar las coaliciones.",
+          "title": "El Gobierno prevé aprobar este martes de nuevo los decretos de vivienda en Consejo de Ministros - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUdSbFBNMzNCVHBKSlZ1TzZJczk1X1ItMFJwRnp6SE5GbmwzTHEwbTRNamhlYlVMbngzV2pZaFZXRkw3aE5Sa1N1NlItSl90WXFIUWpPSERuLW5ER2ZTdEVQSUU0bTJoellhMngyNS1rQjN0UTZxT0s0Mi1RdVVrN2lwaHlPb0JnNFhLLVZlMnFTMzN6Vk9tZU9GcjdNZHpaNlYtTTNvb3B0S3hiRDFqUDc4UVFtLUts0gG-AUFVX3lxTE1MWWVZUFUxVmhaTjFhMUJQSmRXTTczTVJFc0U5S2ZIOEVvb1FjaC13eEg1bGFmbTVCNnVZR2NodnFOWjZyVnpHdWFiRmFkWHFNYU1jQk5YSXZkV0lDNHlUWV90dlJaS01Pc2pCRk5XQ1NCN1pwUndoam9LWFNPZzhIZHREeGFjNHZwOUJaYWtxUV9lNUZMM1FibDBXTk5oNTBoNlRycE1IZzY5MzlpQWVaN2JSOFl6QmZlaDFqbmc?oc=5",
+          "source": "Público",
+          "summary": "El Gobierno prevé aprobar este martes de nuevo los decretos de vivienda en Consejo de Ministros Diario Público",
           "sources": [
-            "20minutos",
-            "El Salto"
+            "Público",
+            "20minutos"
           ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
+          "firstSeen": "2026-10-05T23:28:27.434Z"
         }
       ],
       "items": [
         {
-          "title": "Adelanto de las elecciones generales, en directo | El Frente Amplio se declara “preparado” para las elecciones y abierto a “acoger a más organizaciones”",
-          "link": "https://elpais.com/espana/2026-10-05/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
+          "title": "La protesta por la crisis de la vivienda acaba con incidentes y cargas policiales en el centro de Barcelona",
+          "link": "https://elpais.com/espana/catalunya/2026-10-05/miles-de-personas-se-manifiestan-por-la-crisis-de-la-vivienda-en-barcelona.html",
           "source": "El País",
-          "published": "2026-10-05T12:55:39.000Z"
+          "published": "2026-10-05T21:41:31.000Z"
         },
         {
-          "title": "El ministro de Industria Jordi Hereu será el candidato del PSC en las elecciones generales del 29 de noviembre",
-          "link": "https://www.eldiario.es/catalunya/ministro-industria-jordi-hereu-sera-candidato-psc-elecciones-generales_1_13563229.html",
-          "source": "elDiario.es",
-          "published": "2026-10-05T12:39:45.000Z"
+          "title": "Así te hemos contado la última hora de la crisis de vivienda y del adelanto de las elecciones generales - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0dITUJBTzZsUVFWc3VabHlabTNsT2Vodm5xcGNrQndmY1NtT1FfQnRWYk1FOHpTZkJrSDZEc2VQVTJVTW85UDdFcmJ4Q0d2eXdwWFJDemxxck1WM0JCQVVSNl9EZDAwM3RXdlNCQ2V1RmhWUGNsRlY2UjVEWFRreGM4ejByaWQyM19hei1XUV96V2_SAZgBQVVfeXFMTktkOWloZ1lzejhHVGN6Y0RkRUIxb1JtbzRBYWJPOVA2NzJ3UTYxS3hWd2JRTm4tV1hrdXJJYTRLNXN1R3FQZG0yOTEwYnpyZDdyRXY4T1lFMXpoQTJ2RFRlTmU2Q1VhZVhtR21oMm8tSHlVZVJKMEU1ZnI4NFkwa2ZiaVE0UXY3cE9XQTN3NVR0S2RzdVJQZ0g?oc=5",
+          "source": "Público",
+          "published": "2026-10-05T21:32:16.000Z"
         },
         {
-          "title": "El otoño del presidente",
-          "link": "https://www.20minutos.es/nacional/otono-presidente_7045000_3.html",
-          "source": "20minutos",
-          "published": "2026-10-05T12:21:36.000Z"
-        },
-        {
-          "title": "Feijóo clama de nuevo contra las bajas laborales: “¿Cómo es posible que la mayoría se den los lunes y los viernes?”",
-          "link": "https://elpais.com/economia/2026-10-05/feijoo-clama-de-nuevo-contra-las-bajas-laborales-como-es-posible-que-la-mayoria-se-den-los-lunes-y-los-viernes.html",
+          "title": "Aznar, sobre si Sánchez vuelve a formar Gobierno el 29-N: “La monarquía que hemos conocido se terminaría”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-05/aznar-sobre-si-sanchez-vuelve-a-formar-gobierno-el-29-n-la-monarquia-que-hemos-conocido-se-terminaria.html",
           "source": "El País",
-          "published": "2026-10-05T12:18:49.000Z"
+          "published": "2026-10-05T19:02:42.000Z"
         },
         {
-          "title": "La defensa de Daniel Sancho pide al Supremo tailandés que anule el fallo que confirmó su cadena perpetua",
-          "link": "https://elpais.com/espana/2026-10-05/la-defensa-de-daniel-sancho-pide-al-supremo-tailandes-que-anule-el-fallo-que-confirmo-su-cadena-perpetua.html",
+          "title": "El Constitucional se inclina por la ponencia de Conde-Pumpido para amnistiar la malversación del ‘procés’",
+          "link": "https://elpais.com/espana/2026-10-05/el-constitucional-se-inclina-por-la-ponencia-de-conde-pumpido-para-amnistiar-la-malversacion-del-proces.html",
           "source": "El País",
-          "published": "2026-10-05T12:18:47.000Z"
+          "published": "2026-10-05T18:58:40.000Z"
         },
         {
-          "title": "El Tribunal Supremo avala ocultar la identidad de los grandes tenedores de vivienda por riesgo de ocupación",
-          "link": "https://www.20minutos.es/vivienda/tribunal-supremo-avala-ocultar-identidad-los-grandes-tenedores-vivienda-por-riesgo-ocupacion_7044968_0.html",
-          "source": "20minutos",
-          "published": "2026-10-05T12:14:08.000Z"
-        },
-        {
-          "title": "Feijóo lanza la precampaña con la promesa de premiar a las empresas con menos bajas laborales médicas",
-          "link": "https://www.eldiario.es/politica/feijoo-lanza-precampana-promesa-premiar-empresas-bajas-laborales-medicas_1_13563005.html",
+          "title": "Aznar, sobre el adelanto electoral: \"Si repite la coalición del Gobierno actual, el sistema constitucional se termina\"",
+          "link": "https://www.eldiario.es/andalucia/aznar-adelanto-electoral-si-repite-coalicion-gobierno-actual-sistema-constitucional-termina_1_13563859.html",
           "source": "elDiario.es",
-          "published": "2026-10-05T12:03:42.000Z"
+          "published": "2026-10-05T18:48:23.000Z"
         },
         {
-          "title": "La fiscal baja a cuatro años y medio la petición de cárcel a los acusados del caso Lezo por dilaciones indebidas",
-          "link": "https://www.eldiario.es/madrid/fiscal-baja-cuatro-anos-medio-peticion-carcel-acusados-caso-lezo-dilaciones-indebidas_1_13563006.html",
-          "source": "elDiario.es",
-          "published": "2026-10-05T11:57:37.000Z"
+          "title": "Un precedente que divide a los juristas: ¿es constitucional aprobar los decretos de vivienda tras la disolución de las Cortes?",
+          "link": "https://elpais.com/espana/2026-10-05/un-precedente-con-muchas-y-radicales-dudas-es-constitucional-aprobar-los-decretos-de-vivienda-tras-la-disolucion-de-las-cortes.html",
+          "source": "El País",
+          "published": "2026-10-05T18:05:03.000Z"
+        },
+        {
+          "title": "El Gobierno vasco concede la cuarta semilibertad a un preso de ETA en poco más de un mes",
+          "link": "https://elpais.com/espana/2026-10-05/el-gobierno-vasco-concede-la-cuarta-semilibertad-a-un-preso-de-eta-en-poco-mas-de-un-mes.html",
+          "source": "El País",
+          "published": "2026-10-05T17:29:59.000Z"
+        },
+        {
+          "title": "No solo los Presupuestos: la agenda económica que se cae con el adelanto electoral",
+          "link": "https://elpais.com/economia/2026-10-06/no-solo-los-presupuestos-la-agenda-economica-que-se-cae-con-el-adelanto-electoral.html",
+          "source": "El País",
+          "published": "2026-10-05T17:27:35.000Z"
         }
       ]
     },
@@ -121,110 +125,76 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Lula y Flávio Bolsonaro disputarán la Presidencia de Brasil en segunda vuelta el 25 de octubre",
-          "link": "https://www.dw.com/es/lula-y-flávio-bolsonaro-disputarán-la-presidencia-de-brasil-en-segunda-vuelta-el-25-de-octubre/a-79543095?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Por qué Pedro Sánchez decidió convocar elecciones anticipadas en España ahora",
+          "link": "https://www.bbc.com/mundo/articles/c8x234212407o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "La decisión de adelantar los comicios no ha sido una reacción impulsiva, sino una maniobra cuidadosamente meditada.",
+          "sources": [
+            "BBC Mundo",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-05T23:28:27.434Z"
+        },
+        {
+          "title": "Ahorrar pese a las protestas estudiantiles: el difícil equilibrio de Francia",
+          "link": "https://www.dw.com/es/ahorrar-pese-a-las-protestas-estudiantiles-el-difícil-equilibrio-de-francia/a-79556338?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "summary": "El senador Flávio Bolsonaro y el mandatario Luiz Inácio Lula da Silva irán a balotaje en Brasil el 25 de octubre, según resultados oficiales de las elecciones del domingo.",
+          "summary": "El primer ministro Lecornu promete mejorar las escuelas y, al mismo tiempo, tiene que ahorrar miles de millones. El Gobierno se enfrenta a un dilema que también afecta a otros países de la UE.",
           "sources": [
             "DW",
-            "BBC Mundo",
-            "20minutos Internacional"
+            "France 24"
           ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
-        },
-        {
-          "title": "Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España",
-          "link": "https://www.bbc.com/mundo/articles/crgj9408el84o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El anuncio de Sánchez se produce tras varios días de protestas en el país europeo, surgidas a raíz del desalojo de la anciana Maricarmen. Las elecciones se celebrarán el próximo 29 de noviembre.",
-          "sources": [
-            "BBC Mundo",
-            "DW"
-          ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
-        },
-        {
-          "title": "La inteligencia de Alemania avisa de riesgos de \"conflicto violento\" con Rusia: \"Estamos en una nueva dimensión, más peligrosa\"",
-          "link": "https://www.20minutos.es/internacional/inteligencia-alemania-avisa-riesgos-conflicto-violento-con-rusia-estamos-una-nueva-dimension-mas-peligrosa_7044962_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El presidente del Servicio Federal de Inteligencia del país, Martin Jäger, avisó este lunes de que son \"plausibles\" acciones rusas \"selectivas y de bajo impacto contra determinados Estados de la OTAN\".",
-          "sources": [
-            "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
-        },
-        {
-          "title": "El Pentágono retira sus bombarderos de la base británica de Fairford tras el presunto intento de atentado",
-          "link": "https://elpais.com/internacional/2026-10-04/el-pentagono-retira-sus-bombarderos-de-la-base-britanica-de-fairford-tras-el-presunto-intento-de-atentado.html",
-          "source": "El País Internacional",
-          "summary": "El Reino Unido sospecha de la implicación iraní en el supuesto plan terrorista, pero Teherán niega cualquier vinculación",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
-        },
-        {
-          "title": "Bolsonaro vence a Lula en primera vuelta de las elecciones y acaricia el retorno de la ultraderecha al poder en Brasil",
-          "link": "https://elpais.com/america/2026-10-05/bolsonaro-vence-a-lula-en-primera-vuelta-y-acaricia-el-retorno-de-la-ultraderecha-al-poder-en-brasil.html",
-          "source": "El País Internacional",
-          "summary": "El senador, hijo del expresidente condenado por golpismo, logra el 47,1% de los votos frente al 45% del mandatario izquierdista. Ambos se medirán en la segunda vuelta del 25 de octubre",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-05T13:00:14.007Z"
+          "firstSeen": "2026-10-05T23:28:27.434Z"
         }
       ],
       "items": [
         {
-          "title": "\"Estamos listos para ir de inmediato\": los millonarios cubanoestadounidenses que esperan en Miami que caiga el gobierno de Cuba",
-          "link": "https://www.bbc.com/mundo/articles/cq8jzlyz7yrpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-05T12:42:51.000Z"
+          "title": "Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí?",
+          "link": "https://www.france24.com/es/medio-oriente/20261005-arabia-saudita-turqu%C3%ADa-y-pakist%C3%A1n-activan-su-alianza-militar-qu%C3%A9-implica-ante-la-amenaza-hut%C3%AD",
+          "source": "France 24",
+          "published": "2026-10-05T22:41:08.000Z"
         },
         {
-          "title": "Bruselas destina otros 130 millones a drones y sistemas antidrones para vigilar las fronteras exteriores de la UE",
-          "link": "https://www.20minutos.es/internacional/bruselas-destina-otros-130-millones-drones-sistemas-antidrones-para-vigilar-las-fronteras-exteriores-ue_7044987_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-05T12:07:25.000Z"
+          "title": "Directo a... Madrid y el adelanto de las elecciones en España en medio de la crisis de vivienda",
+          "link": "https://www.france24.com/es/video/20261005-directo-a-madrid-y-el-adelanto-de-las-elecciones-en-espa%C3%B1a-en-medio-de-la-crisis-de-vivienda",
+          "source": "France 24",
+          "published": "2026-10-05T22:03:46.000Z"
         },
         {
-          "title": "Pedro Sánchez, único líder socialdemócrata en una UE derechizada, activa el súper año electoral en Europa",
-          "link": "https://elpais.com/internacional/2026-10-05/pedro-sanchez-unico-lider-socialdemocrata-en-una-ue-derechizada-activa-el-super-ano-electoral-en-europa.html",
-          "source": "El País Internacional",
-          "published": "2026-10-05T11:36:47.000Z"
+          "title": "¿Cómo queda el balance de poder en Brasil?",
+          "link": "https://www.france24.com/es/programas/en-contexto/20261005-c%C3%B3mo-queda-el-balance-de-poder-en-brasil",
+          "source": "France 24",
+          "published": "2026-10-05T21:55:27.000Z"
         },
         {
-          "title": "Rusia pone bajo observación a cientos de personas tras morir una investigadora de un laboratorio contra la peste",
-          "link": "https://elpais.com/internacional/2026-10-05/rusia-pone-bajo-observacion-a-cientos-de-personas-tras-morir-una-investigadora-de-un-laboratorio-contra-la-peste.html",
-          "source": "El País Internacional",
-          "published": "2026-10-05T10:17:38.000Z"
-        },
-        {
-          "title": "Las mujeres iraníes se entrenan con armas y drones en las plazas de Teherán ante una eventual invasión terrestre de EEUU",
-          "link": "https://www.20minutos.es/internacional/mujeres-iranies-se-entrenan-con-armas-drones-las-plazas-teheran-ante-una-eventual-invasion-terrestre-eeuu_7044812_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-05T09:21:22.000Z"
-        },
-        {
-          "title": "Fuerzas leales al Gobierno yemení capturan posiciones de los hutíes cerca de Bab el-Mandeb",
-          "link": "https://www.dw.com/es/fuerzas-leales-al-gobierno-yemení-capturan-posiciones-de-los-hutíes-cerca-de-bab-el-mandeb/a-79544106?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Arabia Saudita, Turquía y Pakistán activan pacto de defensa contra hutíes en medio de escalada de enfrentamiento en Yemen",
+          "link": "https://www.dw.com/es/arabia-saudita-turquía-y-pakistán-activan-pacto-de-defensa-contra-hutíes-en-medio-de-escalada-de-enfrentamiento-en-yemen/a-79556989?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-05T08:43:00.000Z"
+          "published": "2026-10-05T21:31:00.000Z"
         },
         {
-          "title": "El expríncipe Andrés lleva a la Policía a los tribunales por registrar su domicilio a raíz de los archivos de Epstein",
-          "link": "https://www.eldiario.es/internacional/exprincipe-andres-lleva-policia-tribunales-registrar-domicilio-raiz-archivos-epstein_1_13561940.html",
+          "title": "Alerta en Rusia y Siberia tras muerte por posible caso de peste pulmonar",
+          "link": "https://www.france24.com/es/video/20261005-alerta-en-rusia-y-siberia-tras-muerte-por-posible-caso-de-peste-pulmonar",
+          "source": "France 24",
+          "published": "2026-10-05T21:23:10.000Z"
+        },
+        {
+          "title": "La pareja del activista propalestino encarcelado en España y reclamado por Trump: “La presión del régimen sionista es extrema”",
+          "link": "https://www.eldiario.es/internacional/pareja-activista-propalestino-encarcelado-espana-reclamado-trump-presion-regimen-sionista-extrema_128_13563884.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-05T08:37:24.000Z"
+          "published": "2026-10-05T21:10:02.000Z"
         },
         {
-          "title": "Videoanálisis | Lula se enfrenta a una segunda vuelta electoral muy complicada",
-          "link": "https://elpais.com/america/2026-10-05/videoanalisis-lula-se-enfrenta-a-una-segunda-vuelta-electoral-muy-complicada.html",
+          "title": "De las posibles alianzas a la abstención: qué puede pasar en la segunda vuelta de Brasil tras la victoria de Flávio Bolsonaro",
+          "link": "https://www.eldiario.es/internacional/posibles-alianzas-abstencion-pasar-segunda-vuelta-brasil-victoria-flavio-bolsonaro_1_13563774.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-05T21:10:02.000Z"
+        },
+        {
+          "title": "La victoria en primera vuelta de Bolsonaro impulsa a la ola ultra de América Latina",
+          "link": "https://elpais.com/america/2026-10-05/la-victoria-en-primera-vuelta-de-bolsonaro-impulsa-a-la-ola-ultra-de-america-latina.html",
           "source": "El País Internacional",
-          "published": "2026-10-05T04:08:10.000Z"
+          "published": "2026-10-05T20:38:40.000Z"
         }
       ]
     }
