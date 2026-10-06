@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-05T23:28:27.434Z",
-  "edition": "mañana",
+  "updatedAt": "2026-10-06T12:25:01.317Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
@@ -42,81 +42,84 @@
           "summary": "Con la mirada puesta en la huelga general, los sindicatos por la vivienda catalanes han movilizado a unas 120.000 personas. La protesta ha terminado con cargas por parte de los Mossos d'Esquadra. Temas principal: Derecho a la vivienda Leer artículo completo",
           "sources": [
             "El Salto",
-            "20minutos"
+            "20minutos",
+            "Diario Socialista"
           ],
           "firstSeen": "2026-10-05T23:28:27.434Z"
         },
         {
-          "title": "El Sindicato de Inquilinas llama en Barcelona a una huelga general en noviembre: \"El Gobierno ha arrastrado los pies\"",
-          "link": "https://www.eldiario.es/catalunya/sindicato-inquilinas-llama-barcelona-huelga-general-noviembre-gobierno-arrastrado-pies_1_13562714.html",
-          "source": "elDiario.es",
-          "summary": "Decenas de miles de personas protestan en una marcha que termina con cargas policiales y contenedores quemados en el centro La historia de Olga, que se suicidó en L'Hospitalet tras su desahucio: “Una de las personas más alegres que he conocido” Las elecciones del 29 de noviembre no varían los planes del movimiento por la vivienda, que pasan por una huelga general el próximo mes. Así lo ha reafirmado este lunes la portavoz del Sindicato de Inquilinas de Catalunya, Carme Arcarazo, antes de la manifestación por la vivienda que han convocado en Barcelona. La marcha ha reunido a decenas de miles…",
+          "title": "El Constitucional avala la amnistía de la malversación del procés y allana el regreso de Puigdemont",
+          "link": "https://diariosocialista.net/2026/10/06/el-constitucional-avala-la-amnistia-de-la-malversacion-del-proces-y-allana-el-regreso-de-puigdemont/",
+          "source": "Diario Socialista",
+          "summary": "La mayoría “progresista” del tribunal aprueba la ponencia de Conde-Pumpido con siete votos frente a cinco y critica con dureza al Supremo por negar la amnistía a este delito; el juez Llarena tendrá que levantar la orden de detención del expresident.",
           "sources": [
+            "Diario Socialista",
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-06T12:25:01.317Z"
+        },
+        {
+          "title": "El Supremo levanta la orden de detención contra Puigdemont tras el aval del TC a amnistiar la malversación",
+          "link": "https://www.europapress.es/nacional/noticia-supremo-levanta-orden-detencion-contra-puigdemont-aval-tc-amnistiar-malversacion-20261006124641.html",
+          "source": "Europa Press",
+          "summary": "El Tribunal Supremo ha decidido dejar sin efecto la orden de detención contra el expresidente catalán y líder de Junts, Carles Puigdemont, una vez conocida la decisión del Tribunal Constitucional (TC) de avalar la amnistía para el delito de malversación del 'procés'.",
+          "sources": [
+            "Europa Press",
             "elDiario.es",
-            "20minutos"
+            "El País"
           ],
-          "firstSeen": "2026-10-05T23:28:27.434Z"
-        },
-        {
-          "title": "El Gobierno prevé aprobar este martes de nuevo los decretos de vivienda en Consejo de Ministros - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUdSbFBNMzNCVHBKSlZ1TzZJczk1X1ItMFJwRnp6SE5GbmwzTHEwbTRNamhlYlVMbngzV2pZaFZXRkw3aE5Sa1N1NlItSl90WXFIUWpPSERuLW5ER2ZTdEVQSUU0bTJoellhMngyNS1rQjN0UTZxT0s0Mi1RdVVrN2lwaHlPb0JnNFhLLVZlMnFTMzN6Vk9tZU9GcjdNZHpaNlYtTTNvb3B0S3hiRDFqUDc4UVFtLUts0gG-AUFVX3lxTE1MWWVZUFUxVmhaTjFhMUJQSmRXTTczTVJFc0U5S2ZIOEVvb1FjaC13eEg1bGFmbTVCNnVZR2NodnFOWjZyVnpHdWFiRmFkWHFNYU1jQk5YSXZkV0lDNHlUWV90dlJaS01Pc2pCRk5XQ1NCN1pwUndoam9LWFNPZzhIZHREeGFjNHZwOUJaYWtxUV9lNUZMM1FibDBXTk5oNTBoNlRycE1IZzY5MzlpQWVaN2JSOFl6QmZlaDFqbmc?oc=5",
-          "source": "Público",
-          "summary": "El Gobierno prevé aprobar este martes de nuevo los decretos de vivienda en Consejo de Ministros Diario Público",
-          "sources": [
-            "Público",
-            "20minutos"
-          ],
-          "firstSeen": "2026-10-05T23:28:27.434Z"
+          "firstSeen": "2026-10-06T12:25:01.317Z"
         }
       ],
       "items": [
         {
-          "title": "La protesta por la crisis de la vivienda acaba con incidentes y cargas policiales en el centro de Barcelona",
-          "link": "https://elpais.com/espana/catalunya/2026-10-05/miles-de-personas-se-manifiestan-por-la-crisis-de-la-vivienda-en-barcelona.html",
+          "title": "Elecciones generales del 29-N, en directo | Feijóo, tras sentencia del Constitucional sobre Puigdemont: “Nada puede borrar que la amnistía es otro engaño más de Sánchez”",
+          "link": "https://elpais.com/espana/2026-10-06/elecciones-generales-del-29-n-en-directo.html",
           "source": "El País",
-          "published": "2026-10-05T21:41:31.000Z"
+          "published": "2026-10-06T12:22:34.000Z"
         },
         {
-          "title": "Así te hemos contado la última hora de la crisis de vivienda y del adelanto de las elecciones generales - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0dITUJBTzZsUVFWc3VabHlabTNsT2Vodm5xcGNrQndmY1NtT1FfQnRWYk1FOHpTZkJrSDZEc2VQVTJVTW85UDdFcmJ4Q0d2eXdwWFJDemxxck1WM0JCQVVSNl9EZDAwM3RXdlNCQ2V1RmhWUGNsRlY2UjVEWFRreGM4ejByaWQyM19hei1XUV96V2_SAZgBQVVfeXFMTktkOWloZ1lzejhHVGN6Y0RkRUIxb1JtbzRBYWJPOVA2NzJ3UTYxS3hWd2JRTm4tV1hrdXJJYTRLNXN1R3FQZG0yOTEwYnpyZDdyRXY4T1lFMXpoQTJ2RFRlTmU2Q1VhZVhtR21oMm8tSHlVZVJKMEU1ZnI4NFkwa2ZiaVE0UXY3cE9XQTN3NVR0S2RzdVJQZ0g?oc=5",
-          "source": "Público",
-          "published": "2026-10-05T21:32:16.000Z"
+          "title": "Feijóo ve la amnistía \"otro engaño más\" de Sánchez: \"Vender favores a cambio de poder debe castigarse en las urnas\"",
+          "link": "https://www.europapress.es/nacional/noticia-feijoo-ve-amnistia-otro-engano-mas-sanchez-vender-favores-cambio-poder-debe-castigarse-urnas-20261006141229.html",
+          "source": "Europa Press",
+          "published": "2026-10-06T12:12:29.000Z"
         },
         {
-          "title": "Aznar, sobre si Sánchez vuelve a formar Gobierno el 29-N: “La monarquía que hemos conocido se terminaría”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-05/aznar-sobre-si-sanchez-vuelve-a-formar-gobierno-el-29-n-la-monarquia-que-hemos-conocido-se-terminaria.html",
+          "title": "El juez rechaza que un perito elegido por Zapatero participe en la nueva tasación de sus joyas",
+          "link": "https://elpais.com/espana/2026-10-06/el-juez-rechaza-que-un-perito-elegido-por-zapatero-participe-en-la-tasacion-que-hara-la-firma-elegida-para-valorar-sus-joyas.html",
           "source": "El País",
-          "published": "2026-10-05T19:02:42.000Z"
+          "published": "2026-10-06T12:11:35.000Z"
         },
         {
-          "title": "El Constitucional se inclina por la ponencia de Conde-Pumpido para amnistiar la malversación del ‘procés’",
-          "link": "https://elpais.com/espana/2026-10-05/el-constitucional-se-inclina-por-la-ponencia-de-conde-pumpido-para-amnistiar-la-malversacion-del-proces.html",
+          "title": "Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?",
+          "link": "https://elpais.com/espana/2026-10-06/el-supremo-levantara-la-orden-de-detencion-de-puigdemont-cuando-reciba-la-sentencia-del-constitucional.html",
           "source": "El País",
-          "published": "2026-10-05T18:58:40.000Z"
+          "published": "2026-10-06T12:03:35.000Z"
         },
         {
-          "title": "Aznar, sobre el adelanto electoral: \"Si repite la coalición del Gobierno actual, el sistema constitucional se termina\"",
-          "link": "https://www.eldiario.es/andalucia/aznar-adelanto-electoral-si-repite-coalicion-gobierno-actual-sistema-constitucional-termina_1_13563859.html",
+          "title": "El PP pide la imputación del PSOE a la Audiencia Nacional en el primer día de precampaña",
+          "link": "https://elpais.com/espana/2026-10-06/el-pp-pide-la-imputacion-del-psoe-a-la-audiencia-nacional-en-el-primer-dia-de-precampana.html",
+          "source": "El País",
+          "published": "2026-10-06T12:03:09.000Z"
+        },
+        {
+          "title": "Sánchez, tras el aval del Constitucional a amnistiar a Puigdemont: \"No lo hicimos por ningún líder, sino por la convivencia\"",
+          "link": "https://www.eldiario.es/politica/sanchez-aval-constitucional-amnistiar-puigdemont-no-hicimos-lider-convivencia_1_13566194.html",
           "source": "elDiario.es",
-          "published": "2026-10-05T18:48:23.000Z"
+          "published": "2026-10-06T12:01:48.000Z"
         },
         {
-          "title": "Un precedente que divide a los juristas: ¿es constitucional aprobar los decretos de vivienda tras la disolución de las Cortes?",
-          "link": "https://elpais.com/espana/2026-10-05/un-precedente-con-muchas-y-radicales-dudas-es-constitucional-aprobar-los-decretos-de-vivienda-tras-la-disolucion-de-las-cortes.html",
-          "source": "El País",
-          "published": "2026-10-05T18:05:03.000Z"
+          "title": "Elecciones generales en España del 29N, en directo | Sánchez pide el apoyo de la Diputación Permanente a los decretos de vivienda: \"Es una cuestión de humanidad\"",
+          "link": "https://www.20minutos.es/nacional/adelanto-electoral-sanchez-directo-sanchez-decide-si-convoca-elecciones-tras-un-fin-semana-reflexion-movilizaciones-las-calles_7044725_6.html",
+          "source": "20minutos",
+          "published": "2026-10-06T12:00:32.000Z"
         },
         {
-          "title": "El Gobierno vasco concede la cuarta semilibertad a un preso de ETA en poco más de un mes",
-          "link": "https://elpais.com/espana/2026-10-05/el-gobierno-vasco-concede-la-cuarta-semilibertad-a-un-preso-de-eta-en-poco-mas-de-un-mes.html",
-          "source": "El País",
-          "published": "2026-10-05T17:29:59.000Z"
-        },
-        {
-          "title": "No solo los Presupuestos: la agenda económica que se cae con el adelanto electoral",
-          "link": "https://elpais.com/economia/2026-10-06/no-solo-los-presupuestos-la-agenda-economica-que-se-cae-con-el-adelanto-electoral.html",
-          "source": "El País",
-          "published": "2026-10-05T17:27:35.000Z"
+          "title": "Novedades en los decretos de vivienda: cambios en los anuncios de alquiler y hasta 200.000 préstamos para comprar casa",
+          "link": "https://www.eldiario.es/economia/novedades-decretos-vivienda-cambios-anuncios-alquiler-200-000-ayudas-comprar-casa_1_13566191.html",
+          "source": "elDiario.es",
+          "published": "2026-10-06T11:58:33.000Z"
         }
       ]
     },
@@ -145,56 +148,67 @@
             "France 24"
           ],
           "firstSeen": "2026-10-05T23:28:27.434Z"
+        },
+        {
+          "title": "Qué puede pasar en la segunda vuelta de las elecciones de Brasil tras la victoria del ultra Flávio Bolsonaro",
+          "link": "https://www.eldiario.es/internacional/posibles-alianzas-abstencion-pasar-segunda-vuelta-brasil-victoria-flavio-bolsonaro_1_13563774.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El heredero del ultraderechista Jair Bolsonaro ha superado por casi dos puntos al presidente Luiz Inácio Lula da Silva y ambos se disputarán la jefatura del Estado en segunda vuelta el próximo 25 de octubre El ultra Flávio Bolsonaro gana a Lula la primera vuelta de las elecciones en Brasil La izquierda brasileña todavía está intentando digerir el triunfo de Flávio Bolsonaro en la primera vuelta de las elecciones presidenciales, así como el tsunami del Partido Liberal (PL) y los aliados del bolsonarismo en las elecciones regionales y legislativas. Flávio consiguió 2.224.965 votos más que Luiz…",
+          "sources": [
+            "elDiario.es Internacional",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-06T12:25:01.317Z"
         }
       ],
       "items": [
         {
-          "title": "Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí?",
-          "link": "https://www.france24.com/es/medio-oriente/20261005-arabia-saudita-turqu%C3%ADa-y-pakist%C3%A1n-activan-su-alianza-militar-qu%C3%A9-implica-ante-la-amenaza-hut%C3%AD",
+          "title": "Sánchez recupera los decretos de vivienda rechazados por el Congreso tras adelantar las elecciones",
+          "link": "https://www.france24.com/es/europa/20261006-s%C3%A1nchez-recupera-los-decretos-de-vivienda-rechazados-por-el-congreso-tras-adelantar-las-elecciones",
           "source": "France 24",
-          "published": "2026-10-05T22:41:08.000Z"
+          "published": "2026-10-06T12:18:58.000Z"
         },
         {
-          "title": "Directo a... Madrid y el adelanto de las elecciones en España en medio de la crisis de vivienda",
-          "link": "https://www.france24.com/es/video/20261005-directo-a-madrid-y-el-adelanto-de-las-elecciones-en-espa%C3%B1a-en-medio-de-la-crisis-de-vivienda",
+          "title": "Von der Leyen pide evitar \"medidas generalizadas\" como las del Gobierno ante la crisis energética: \"Suponen unos costes enormes\"",
+          "link": "https://www.20minutos.es/internacional/von-der-leyen-pide-evitar-medidas-generalizadas-como-las-gobierno-ante-crisis-energetica-apoyo-tiene-que-ser-especifico_7045483_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-06T11:50:34.000Z"
+        },
+        {
+          "title": "Marine Le Pen promete ahorrar 140.000 millones de euros y pide una \"ruptura política\" en Francia",
+          "link": "https://www.france24.com/es/francia/20261006-marine-le-pen-promete-ahorrar-140-000-millones-de-euros-y-pide-una-ruptura-pol%C3%ADtica-en-francia",
           "source": "France 24",
-          "published": "2026-10-05T22:03:46.000Z"
+          "published": "2026-10-06T11:41:34.000Z"
         },
         {
-          "title": "¿Cómo queda el balance de poder en Brasil?",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261005-c%C3%B3mo-queda-el-balance-de-poder-en-brasil",
-          "source": "France 24",
-          "published": "2026-10-05T21:55:27.000Z"
+          "title": "Bruselas insiste en que los alquileres de corta duración y las segundas residencias \"son parte del problema\" de la vivienda",
+          "link": "https://www.20minutos.es/internacional/bruselas-insiste-que-los-alquileres-corta-duracion-las-segundas-residencias-son-parte-problema-vivienda_7045473_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-06T11:39:48.000Z"
         },
         {
-          "title": "Arabia Saudita, Turquía y Pakistán activan pacto de defensa contra hutíes en medio de escalada de enfrentamiento en Yemen",
-          "link": "https://www.dw.com/es/arabia-saudita-turquía-y-pakistán-activan-pacto-de-defensa-contra-hutíes-en-medio-de-escalada-de-enfrentamiento-en-yemen/a-79556989?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-05T21:31:00.000Z"
-        },
-        {
-          "title": "Alerta en Rusia y Siberia tras muerte por posible caso de peste pulmonar",
-          "link": "https://www.france24.com/es/video/20261005-alerta-en-rusia-y-siberia-tras-muerte-por-posible-caso-de-peste-pulmonar",
-          "source": "France 24",
-          "published": "2026-10-05T21:23:10.000Z"
-        },
-        {
-          "title": "La pareja del activista propalestino encarcelado en España y reclamado por Trump: “La presión del régimen sionista es extrema”",
-          "link": "https://www.eldiario.es/internacional/pareja-activista-propalestino-encarcelado-espana-reclamado-trump-presion-regimen-sionista-extrema_128_13563884.html",
+          "title": "La policía antidisturbios se enfrenta a manifestantes en una jornada clave de protestas estudiantiles en Francia",
+          "link": "https://www.eldiario.es/internacional/policia-antidisturbios-enfrenta-manifestantes-jornada-clave-protestas-estudiantiles-francia_1_13565911.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-05T21:10:02.000Z"
+          "published": "2026-10-06T11:28:20.000Z"
         },
         {
-          "title": "De las posibles alianzas a la abstención: qué puede pasar en la segunda vuelta de Brasil tras la victoria de Flávio Bolsonaro",
-          "link": "https://www.eldiario.es/internacional/posibles-alianzas-abstencion-pasar-segunda-vuelta-brasil-victoria-flavio-bolsonaro_1_13563774.html",
+          "title": "Miles de estudiantes se movilizan en Francia y el Gobierno asegura tener la situación bajo control pese a la \"violencia inédita\"",
+          "link": "https://www.20minutos.es/internacional/miles-estudiantes-se-movilizan-francia-gobierno-asegura-tener-situacion-bajo-control-pese-violencia-inedita_7045443_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-06T11:03:31.000Z"
+        },
+        {
+          "title": "Alemania detiene a un exjefe de sus servicios secretos bajo sospecha de espionaje",
+          "link": "https://www.eldiario.es/internacional/alemania-detiene-exjefe-servicios-secretos-sospecha-espionaje_1_13565429.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-05T21:10:02.000Z"
+          "published": "2026-10-06T10:08:12.000Z"
         },
         {
-          "title": "La victoria en primera vuelta de Bolsonaro impulsa a la ola ultra de América Latina",
-          "link": "https://elpais.com/america/2026-10-05/la-victoria-en-primera-vuelta-de-bolsonaro-impulsa-a-la-ola-ultra-de-america-latina.html",
+          "title": "Cheques en efectivo para los votantes, la estrategia de Trump para dar la vuelta a las ‘midterms’",
+          "link": "https://elpais.com/us/2026-10-06/cheques-en-efectivo-para-los-votantes-la-estrategia-de-trump-para-dar-la-vuelta-a-las-midterms.html",
           "source": "El País Internacional",
-          "published": "2026-10-05T20:38:40.000Z"
+          "published": "2026-10-06T09:30:00.000Z"
         }
       ]
     }
