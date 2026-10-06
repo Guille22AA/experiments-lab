@@ -1,125 +1,118 @@
 {
-  "date": "2026-10-06",
-  "updatedAt": "2026-10-06T12:25:01.317Z",
-  "edition": "mediodía",
+  "date": "2026-10-07",
+  "updatedAt": "2026-10-06T22:00:43.269Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "UGT y CCOO acuerdan convocar una huelga general por la vivienda",
-          "link": "https://diariosocialista.net/2026/10/05/ugt-y-ccoo-acuerdan-convocar-una-huelga-general-por-la-vivienda/",
-          "source": "Diario Socialista",
-          "summary": "Las centrales mayoritarias se suman al paro que reclaman el Sindicato de Inquilinas y CGT, situándolo antes de las elecciones generales del 29-N; CCOO promoverá la participación electoral para “lograr mayorías que defiendan a la clase trabajadora”.",
+          "title": "El juez Llarena levanta la orden de detención de Puigdemont tras la sentencia del TC que amnistía la malversación del 'procés'",
+          "link": "https://www.20minutos.es/nacional/juez-llarena-levanta-orden-detencion-puigdemont-tras-conocer-fallo-constitucional_7045435_0.html",
+          "source": "20minutos",
+          "summary": "El 'expresident' decide no regresar a España hasta que se le haya aplicado la amnistía y se archive el procedimiento, pese al alzamiento de la orden de detención.",
           "sources": [
-            "Diario Socialista",
-            "El Salto",
-            "Europa Press",
             "20minutos",
-            "elDiario.es",
-            "El País",
-            "UGT"
-          ],
-          "firstSeen": "2026-10-05T23:28:27.434Z"
-        },
-        {
-          "title": "Sánchez convoca elecciones para el 29 de noviembre: \"Debemos movilizarnos para doblegar a las élites\" - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEpHNUdqeWt4d2F5dk1HM2JHcW9oX2MwZEJQUldjNFI0ZmdVeXZoeUFQMkV1NEFPeUFWRHVGamk1M1YtdzhnZjRmRHpOSXVfNHl0Y3dXVzZaZVBZakg0ZVp0NmZXQVZiSnFUY2FpRThseVRucEhlVjQ3MnQxb0NtZlpyRWpVQmpzQmlXUVln0gGTAUFVX3lxTFBFcWtsbEtWb0tocktsTktSVDE0NmlZQjlCMEZoLTBKUTlnclJqNHMzYjRLT21LazlMRVhyMTBQM05zWFJHYUZYSHVUY3NNREZQaFBfb0RVOXpCZTdzV0NzcTZGeHpTR2g4RHlXc0xsaVBCdXI2RmdORlJCbnJySWR3Wnp3NzJyWEJhbWxuNzZCeEQxUQ?oc=5",
-          "source": "Público",
-          "summary": "Sánchez convoca elecciones para el 29 de noviembre: \"Debemos movilizarnos para doblegar a las élites\" Diario Público",
-          "sources": [
-            "Público",
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-05T23:28:27.434Z"
-        },
-        {
-          "title": "Más de 100.000 personas en la manifestación de Barcelona por la vivienda",
-          "link": "https://www.elsaltodiario.com/vivienda/de-100-000-personas-manifestacion-barcelona-vivienda?utm_source=feed",
-          "source": "El Salto",
-          "summary": "Con la mirada puesta en la huelga general, los sindicatos por la vivienda catalanes han movilizado a unas 120.000 personas. La protesta ha terminado con cargas por parte de los Mossos d'Esquadra. Temas principal: Derecho a la vivienda Leer artículo completo",
-          "sources": [
-            "El Salto",
-            "20minutos",
-            "Diario Socialista"
-          ],
-          "firstSeen": "2026-10-05T23:28:27.434Z"
-        },
-        {
-          "title": "El Constitucional avala la amnistía de la malversación del procés y allana el regreso de Puigdemont",
-          "link": "https://diariosocialista.net/2026/10/06/el-constitucional-avala-la-amnistia-de-la-malversacion-del-proces-y-allana-el-regreso-de-puigdemont/",
-          "source": "Diario Socialista",
-          "summary": "La mayoría “progresista” del tribunal aprueba la ponencia de Conde-Pumpido con siete votos frente a cinco y critica con dureza al Supremo por negar la amnistía a este delito; el juez Llarena tendrá que levantar la orden de detención del expresident.",
-          "sources": [
-            "Diario Socialista",
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-06T12:25:01.317Z"
-        },
-        {
-          "title": "El Supremo levanta la orden de detención contra Puigdemont tras el aval del TC a amnistiar la malversación",
-          "link": "https://www.europapress.es/nacional/noticia-supremo-levanta-orden-detencion-contra-puigdemont-aval-tc-amnistiar-malversacion-20261006124641.html",
-          "source": "Europa Press",
-          "summary": "El Tribunal Supremo ha decidido dejar sin efecto la orden de detención contra el expresidente catalán y líder de Junts, Carles Puigdemont, una vez conocida la decisión del Tribunal Constitucional (TC) de avalar la amnistía para el delito de malversación del 'procés'.",
-          "sources": [
             "Europa Press",
             "elDiario.es",
             "El País"
           ],
-          "firstSeen": "2026-10-06T12:25:01.317Z"
-        }
-      ],
-      "items": [
-        {
-          "title": "Elecciones generales del 29-N, en directo | Feijóo, tras sentencia del Constitucional sobre Puigdemont: “Nada puede borrar que la amnistía es otro engaño más de Sánchez”",
-          "link": "https://elpais.com/espana/2026-10-06/elecciones-generales-del-29-n-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-06T12:22:34.000Z"
+          "firstSeen": "2026-10-06T22:00:43.269Z"
         },
         {
-          "title": "Feijóo ve la amnistía \"otro engaño más\" de Sánchez: \"Vender favores a cambio de poder debe castigarse en las urnas\"",
-          "link": "https://www.europapress.es/nacional/noticia-feijoo-ve-amnistia-otro-engano-mas-sanchez-vender-favores-cambio-poder-debe-castigarse-urnas-20261006141229.html",
+          "title": "El decreto de vivienda extiende a 2030 la prohibición de compra especulativa para los fondos buitre",
+          "link": "https://elpais.com/economia/vivienda/2026-10-06/los-fondos-buitre-deberan-aportar-un-informe-de-tasacion-para-demostrar-que-no-compran-vivienda-para-especular.html",
+          "source": "El País",
+          "summary": "El nuevo texto obligará a aportar un informe de tasación para demostrar que la operación no supone una ganancia excesiva y vincula algunas excepciones a un futuro Código de Buenas Prácticas",
+          "sources": [
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-06T22:00:43.269Z"
+        },
+        {
+          "title": "El sí del PNV allana la convalidación del decreto de vivienda en la Diputación Permanente del Congreso",
+          "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-si-pnv-allana-convalidacion-decreto-vivienda-diputacion-permanente-congreso-20261006174427.html",
           "source": "Europa Press",
-          "published": "2026-10-06T12:12:29.000Z"
+          "summary": "El sí del PNV al decreto ley con medidas de vivienda aprobado por el Gobierno en Consejo de Ministros y anunciado este martes por el jefe del Ejecutivo, Pedro Sánchez, allana su convalidación en la Diputación Permanente del Congreso. Sin embargo, el segundo decreto con la renovación automática de los alquileres previsiblemente se derogará ante el voto en contra anunciado por los nacionalistas vascos.",
+          "sources": [
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-06T22:00:43.269Z"
         },
         {
-          "title": "El juez rechaza que un perito elegido por Zapatero participe en la nueva tasación de sus joyas",
-          "link": "https://elpais.com/espana/2026-10-06/el-juez-rechaza-que-un-perito-elegido-por-zapatero-participe-en-la-tasacion-que-hara-la-firma-elegida-para-valorar-sus-joyas.html",
+          "title": "La jueza Tardón pide al presidente de Ceuta que aporte la lista de llamadas con Sánchez y su jefe de gabinete",
+          "link": "https://elpais.com/espana/2026-10-06/la-jueza-tardon-pide-al-presidente-de-ceuta-que-aporte-la-lista-de-llamadas-con-pedro-sanchez-y-su-jefe-de-gabinete.html",
           "source": "El País",
-          "published": "2026-10-06T12:11:35.000Z"
-        },
-        {
-          "title": "Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?",
-          "link": "https://elpais.com/espana/2026-10-06/el-supremo-levantara-la-orden-de-detencion-de-puigdemont-cuando-reciba-la-sentencia-del-constitucional.html",
-          "source": "El País",
-          "published": "2026-10-06T12:03:35.000Z"
+          "summary": "La instructora de la Audiencia Nacional da este paso después de que Juan Jesús Vivas declarara como testigo que había intentado contactar con Presidencia",
+          "sources": [
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-06T22:00:43.269Z"
         },
         {
           "title": "El PP pide la imputación del PSOE a la Audiencia Nacional en el primer día de precampaña",
           "link": "https://elpais.com/espana/2026-10-06/el-pp-pide-la-imputacion-del-psoe-a-la-audiencia-nacional-en-el-primer-dia-de-precampana.html",
           "source": "El País",
-          "published": "2026-10-06T12:03:09.000Z"
+          "summary": "Los populares solicitan al juez Pedraz, que pregunta antes a la Fiscalía, que actúe contra el partido del Gobierno por cinco delitos",
+          "sources": [
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-06T22:00:43.269Z"
+        }
+      ],
+      "items": [
+        {
+          "title": "Compromís negociará con otros partidos valencianos de izquierdas, pero no se integrará en Frente Amplio para el 29N",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-06/compromis-negociara-con-otros-partidos-valencianos-de-izquierdas-pero-no-se-integrara-en-frente-amplio-para-el-29n.html",
+          "source": "El País",
+          "published": "2026-10-06T18:53:59.000Z"
         },
         {
-          "title": "Sánchez, tras el aval del Constitucional a amnistiar a Puigdemont: \"No lo hicimos por ningún líder, sino por la convivencia\"",
-          "link": "https://www.eldiario.es/politica/sanchez-aval-constitucional-amnistiar-puigdemont-no-hicimos-lider-convivencia_1_13566194.html",
+          "title": "Podemos abre la puerta a pactar una lista única con el Frente Amplio para después ratificarla en primarias",
+          "link": "https://www.eldiario.es/politica/abre-puerta-pactar-lista-unica-frente-amplio-despues-ratificarla-primarias_1_13566962.html",
           "source": "elDiario.es",
-          "published": "2026-10-06T12:01:48.000Z"
+          "published": "2026-10-06T18:44:05.000Z"
         },
         {
-          "title": "Elecciones generales en España del 29N, en directo | Sánchez pide el apoyo de la Diputación Permanente a los decretos de vivienda: \"Es una cuestión de humanidad\"",
-          "link": "https://www.20minutos.es/nacional/adelanto-electoral-sanchez-directo-sanchez-decide-si-convoca-elecciones-tras-un-fin-semana-reflexion-movilizaciones-las-calles_7044725_6.html",
+          "title": "Compromís quiere un 'Frente Amplio' valenciano: candidatura conjunta \"100% de aquí\" para las elecciones generales",
+          "link": "https://www.eldiario.es/comunitat-valenciana/politica/compromis-quiere-frente-amplio-valenciano-candidatura-conjunta-100-elecciones-generales_1_13567350.html",
+          "source": "elDiario.es",
+          "published": "2026-10-06T17:58:44.000Z"
+        },
+        {
+          "title": "El PP denuncia ante la Junta Electoral el \"mitin\" de Sánchez tras el Consejo de Ministros",
+          "link": "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html",
           "source": "20minutos",
-          "published": "2026-10-06T12:00:32.000Z"
+          "published": "2026-10-06T16:48:31.000Z"
         },
         {
-          "title": "Novedades en los decretos de vivienda: cambios en los anuncios de alquiler y hasta 200.000 préstamos para comprar casa",
-          "link": "https://www.eldiario.es/economia/novedades-decretos-vivienda-cambios-anuncios-alquiler-200-000-ayudas-comprar-casa_1_13566191.html",
+          "title": "La vivienda no puede ser un bien de mercado",
+          "link": "https://www.eldiario.es/escolar/vivienda-no-mercado_132_13566381.html",
           "source": "elDiario.es",
-          "published": "2026-10-06T11:58:33.000Z"
+          "published": "2026-10-06T16:35:05.000Z"
+        },
+        {
+          "title": "El triunfo de la política",
+          "link": "https://www.eldiario.es/contracorriente/triunfo-politica_132_13566875.html",
+          "source": "elDiario.es",
+          "published": "2026-10-06T16:33:09.000Z"
+        },
+        {
+          "title": "El Rey pide que la UE afronte unida las amenazas “vengan de donde vengan”",
+          "link": "https://elpais.com/espana/2026-10-06/el-rey-pide-que-la-ue-afronte-unida-las-amenazas-vengan-de-donde-vengan.html",
+          "source": "El País",
+          "published": "2026-10-06T16:31:36.000Z"
+        },
+        {
+          "title": "Puigdemont no fija la fecha de su vuelta y da por cerrada \"la etapa de represión\", pero cree que la amnistía \"no soluciona el conflicto\"",
+          "link": "https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html",
+          "source": "20minutos",
+          "published": "2026-10-06T16:24:00.000Z"
         }
       ]
     },
@@ -128,87 +121,109 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Por qué Pedro Sánchez decidió convocar elecciones anticipadas en España ahora",
-          "link": "https://www.bbc.com/mundo/articles/c8x234212407o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "La decisión de adelantar los comicios no ha sido una reacción impulsiva, sino una maniobra cuidadosamente meditada.",
-          "sources": [
-            "BBC Mundo",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-05T23:28:27.434Z"
-        },
-        {
-          "title": "Ahorrar pese a las protestas estudiantiles: el difícil equilibrio de Francia",
-          "link": "https://www.dw.com/es/ahorrar-pese-a-las-protestas-estudiantiles-el-difícil-equilibrio-de-francia/a-79556338?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Zelenski advierte que Rusia prepara un nuevo ataque a gran escala contra Ucrania",
+          "link": "https://www.dw.com/es/zelenski-advierte-que-rusia-prepara-un-nuevo-ataque-a-gran-escala-contra-ucrania/a-79569611?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "summary": "El primer ministro Lecornu promete mejorar las escuelas y, al mismo tiempo, tiene que ahorrar miles de millones. El Gobierno se enfrenta a un dilema que también afecta a otros países de la UE.",
+          "summary": "El mandatario ucraniano afirmó que los servicios de inteligencia indican que esta semana se concretará una importante ofensiva contra su país.",
           "sources": [
             "DW",
-            "France 24"
+            "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-05T23:28:27.434Z"
+          "firstSeen": "2026-10-06T22:00:43.269Z"
         },
         {
-          "title": "Qué puede pasar en la segunda vuelta de las elecciones de Brasil tras la victoria del ultra Flávio Bolsonaro",
-          "link": "https://www.eldiario.es/internacional/posibles-alianzas-abstencion-pasar-segunda-vuelta-brasil-victoria-flavio-bolsonaro_1_13563774.html",
+          "title": "La polémica que desató Trump al sugerir que Irán podría \"destruir\" Los Ángeles o San Diego",
+          "link": "https://www.bbc.com/mundo/articles/cqzjx7m288w9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "Gavin Newsom dijo que las declaraciones de Trump eran \"descabelladas\", pero la Casa Blanca respondió diciendo que el mandatario estaba advirtiendo sobre el riesgo de un Irán nuclear.",
+          "sources": [
+            "BBC Mundo",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-06T22:00:43.269Z"
+        },
+        {
+          "title": "AfD logra el primer presidente ultraderechista de un parlamento regional alemán desde la Segunda Guerra Mundial",
+          "link": "https://www.eldiario.es/internacional/afd-logra-primer-presidente-ultraderechista-parlamento-regional-aleman-segunda-guerra-mundial_1_13567147.html",
           "source": "elDiario.es Internacional",
-          "summary": "El heredero del ultraderechista Jair Bolsonaro ha superado por casi dos puntos al presidente Luiz Inácio Lula da Silva y ambos se disputarán la jefatura del Estado en segunda vuelta el próximo 25 de octubre El ultra Flávio Bolsonaro gana a Lula la primera vuelta de las elecciones en Brasil La izquierda brasileña todavía está intentando digerir el triunfo de Flávio Bolsonaro en la primera vuelta de las elecciones presidenciales, así como el tsunami del Partido Liberal (PL) y los aliados del bolsonarismo en las elecciones regionales y legislativas. Flávio consiguió 2.224.965 votos más que Luiz…",
+          "summary": "La región alemana de Sajonia-Anhalt ha elegido a un político de Alternativa para Alemania después de que ese partido arrasara en las elecciones de septiembre en ese 'Land', que podría llegar a gobernar Sajonia-Anhalt, el territorio que AfD quiere convertir en el “laboratorio” de su plan de deportaciones masivas para Alemania La región alemana de Sajonia-Anhalt ha elegido a un ultraderechista de Alternativa para Alemania (AfD) como presidente del Parlamento regional –una primicia a nivel nacional tras la Segunda Guerra Mundial– después de que ese partido arrasara en las elecciones de…",
           "sources": [
             "elDiario.es Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-10-06T22:00:43.269Z"
+        },
+        {
+          "title": "Policía británica detiene a séptimo sospechoso de complot cerca de base militar",
+          "link": "https://www.dw.com/es/policía-británica-detiene-a-séptimo-sospechoso-de-complot-cerca-de-base-militar/a-79566903?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "La investigación abierta por Reino Unido sobre un presunto intento de ataque terrorista sigue sin poder determinar quiénes serían los responsables.",
+          "sources": [
+            "DW",
             "El País Internacional"
           ],
-          "firstSeen": "2026-10-06T12:25:01.317Z"
+          "firstSeen": "2026-10-06T22:00:43.269Z"
+        },
+        {
+          "title": "Trump aprueba la ejecución por fusilamiento del autor del tiroteo de Fort Hood en el que murieron 13 personas",
+          "link": "https://www.eldiario.es/internacional/trump-aprueba-ejecucion-fusilamiento-autor-tiroteo-fort-hood-murieron-13-personas_1_13566555.html",
+          "source": "elDiario.es Internacional",
+          "summary": "Nidal Malik Hasan, un psiquiatra del Ejército, entró en un edificio médico donde los soldados se sometían a revisiones médicas, gritó \"Allahu akbar\" y abrió fuego con una pistola con mira láser. Trece personas murieron y más de 30 resultaron heridas El ejército estadounidense no ha aplicado la pena de muerte desde 1961. El secretario del Ejército decidirá la fecha y el lugar de la ejecución, según escribió el portavoz del Pentágono, Sean Parnell, en una publicación en X. “Por fin ha llegado el día del juicio para Hasan”, escribió Parnell. Afirmó que se trataba de un intento de impedir que…",
+          "sources": [
+            "elDiario.es Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-06T22:00:43.269Z"
         }
       ],
       "items": [
         {
-          "title": "Sánchez recupera los decretos de vivienda rechazados por el Congreso tras adelantar las elecciones",
-          "link": "https://www.france24.com/es/europa/20261006-s%C3%A1nchez-recupera-los-decretos-de-vivienda-rechazados-por-el-congreso-tras-adelantar-las-elecciones",
+          "title": "Ébola: Kenia anuncia la primera muerte relacionada con el virus registrada en su territorio",
+          "link": "https://www.france24.com/es/%C3%A1frica/20261006-%C3%A9bola-kenia-anuncia-la-primera-muerte-relacionada-con-el-virus-registrada-jam%C3%A1s-en-su-territorio",
           "source": "France 24",
-          "published": "2026-10-06T12:18:58.000Z"
+          "published": "2026-10-06T21:36:34.000Z"
         },
         {
-          "title": "Von der Leyen pide evitar \"medidas generalizadas\" como las del Gobierno ante la crisis energética: \"Suponen unos costes enormes\"",
-          "link": "https://www.20minutos.es/internacional/von-der-leyen-pide-evitar-medidas-generalizadas-como-las-gobierno-ante-crisis-energetica-apoyo-tiene-que-ser-especifico_7045483_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-06T11:50:34.000Z"
-        },
-        {
-          "title": "Marine Le Pen promete ahorrar 140.000 millones de euros y pide una \"ruptura política\" en Francia",
-          "link": "https://www.france24.com/es/francia/20261006-marine-le-pen-promete-ahorrar-140-000-millones-de-euros-y-pide-una-ruptura-pol%C3%ADtica-en-francia",
+          "title": "Estrecho de Malaca: ¿por qué es tan estratégico para China y el mundo?",
+          "link": "https://www.france24.com/es/programas/en-5-minutos/20261006-estrecho-de-malaca-por-qu%C3%A9-es-tan-estrat%C3%A9gico-para-china-y-el-mundo",
           "source": "France 24",
-          "published": "2026-10-06T11:41:34.000Z"
+          "published": "2026-10-06T20:45:29.000Z"
         },
         {
-          "title": "Bruselas insiste en que los alquileres de corta duración y las segundas residencias \"son parte del problema\" de la vivienda",
-          "link": "https://www.20minutos.es/internacional/bruselas-insiste-que-los-alquileres-corta-duracion-las-segundas-residencias-son-parte-problema-vivienda_7045473_0.html",
+          "title": "Arde un petrolero de la 'flota fantasma' rusa tras ser atacado por drones ucranianos: sus 23 tripulantes han sido rescatados",
+          "link": "https://www.20minutos.es/internacional/arde-un-petrolero-flota-fantasma-rusa-tras-ser-atacado-por-drones-ucranianos-sus-23-tripulantes-han-sido-rescatados_7045744_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-06T11:39:48.000Z"
+          "published": "2026-10-06T20:26:05.000Z"
         },
         {
-          "title": "La policía antidisturbios se enfrenta a manifestantes en una jornada clave de protestas estudiantiles en Francia",
-          "link": "https://www.eldiario.es/internacional/policia-antidisturbios-enfrenta-manifestantes-jornada-clave-protestas-estudiantiles-francia_1_13565911.html",
+          "title": "¿Qué rumbo tomará España tras el anuncio de elecciones anticipadas?",
+          "link": "https://www.dw.com/es/¿qué-rumbo-tomará-españa-tras-el-anuncio-de-elecciones-anticipadas/a-79569219?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-06T20:14:00.000Z"
+        },
+        {
+          "title": "¿La \"lista negra\" de Trump en América Latina?",
+          "link": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261006-la-lista-negra-de-trump-en-am%C3%A9rica-latina",
+          "source": "France 24",
+          "published": "2026-10-06T20:13:59.000Z"
+        },
+        {
+          "title": "Caída del euro frente al dólar despierta temores en la eurozona",
+          "link": "https://www.dw.com/es/caída-del-euro-frente-al-dólar-despierta-temores-en-la-eurozona/a-79569594?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-06T20:12:00.000Z"
+        },
+        {
+          "title": "Qué está pasando en el conflicto de Etiopía y qué riesgos tiene para el resto de la región",
+          "link": "https://www.eldiario.es/internacional/pasando-conflicto-etiopia-riesgos-resto-region_129_13565562.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-06T11:28:20.000Z"
+          "published": "2026-10-06T20:02:51.000Z"
         },
         {
-          "title": "Miles de estudiantes se movilizan en Francia y el Gobierno asegura tener la situación bajo control pese a la \"violencia inédita\"",
-          "link": "https://www.20minutos.es/internacional/miles-estudiantes-se-movilizan-francia-gobierno-asegura-tener-situacion-bajo-control-pese-violencia-inedita_7045443_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-06T11:03:31.000Z"
-        },
-        {
-          "title": "Alemania detiene a un exjefe de sus servicios secretos bajo sospecha de espionaje",
-          "link": "https://www.eldiario.es/internacional/alemania-detiene-exjefe-servicios-secretos-sospecha-espionaje_1_13565429.html",
+          "title": "Abdulá salió vivo de la morgue tras un ataque israelí que le amputó las piernas: “Sólo quiero olvidar lo que pasó”",
+          "link": "https://www.eldiario.es/internacional/abdula-salio-vivo-morgue-ataque-israeli-le-amputo-piernas-quiero-olvidar-paso_1_13515576.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-06T10:08:12.000Z"
-        },
-        {
-          "title": "Cheques en efectivo para los votantes, la estrategia de Trump para dar la vuelta a las ‘midterms’",
-          "link": "https://elpais.com/us/2026-10-06/cheques-en-efectivo-para-los-votantes-la-estrategia-de-trump-para-dar-la-vuelta-a-las-midterms.html",
-          "source": "El País Internacional",
-          "published": "2026-10-06T09:30:00.000Z"
+          "published": "2026-10-06T20:02:48.000Z"
         }
       ]
     }
