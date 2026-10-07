@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-06T22:00:43.269Z",
-  "edition": "mañana",
+  "updatedAt": "2026-10-07T12:17:53.132Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
@@ -19,6 +19,32 @@
             "El País"
           ],
           "firstSeen": "2026-10-06T22:00:43.269Z"
+        },
+        {
+          "title": "El juez que investiga el rescate público de Air Europa cita como testigo a la vicepresidenta Aagesen en plena campaña electoral",
+          "link": "https://www.eldiario.es/politica/juez-investiga-rescate-publico-air-europa-cita-testigo-vicepresidenta-aagesen-plena-campana-electoral_1_13568822.html",
+          "source": "elDiario.es",
+          "summary": "El magistrado tomará declaración a una decena de testigos, incluido el exdiputado Íñigo Errejón, los días 23 y 24 de noviembre, en la misma semana en el que se celebrarán las elecciones generales El PP inaugura la precampaña del 29N con una nueva ofensiva en los tribunales contra el PSOE prevaricación en el rescate público de 475 millones de la aerolínea Air Europa ha acordado citar como testigos a la vicepresidenta tercera del Gobierno y ministra para la Transición Ecológica, Sara Aagesen, y al exdiputado y exportavoz de Sumar en el Congreso de los Diputados Íñigo Errejón en plena campaña…",
+          "sources": [
+            "elDiario.es",
+            "20minutos",
+            "El País",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-07T12:17:53.132Z"
+        },
+        {
+          "title": "La huelga general por la vivienda se celebrará el 11 de noviembre, dos semanas antes de las elecciones generales",
+          "link": "https://diariosocialista.net/2026/10/07/la-huelga-general-por-la-vivienda-se-celebrara-el-11-de-noviembre-dos-semanas-antes-de-las-elecciones-generales/",
+          "source": "Diario Socialista",
+          "summary": "CCOO y UGT confirman la convocatoria de la primera huelga general de 24 horas que convocan los sindicatos mayoritarios en 14 años.",
+          "sources": [
+            "Diario Socialista",
+            "Europa Press",
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-10-07T12:17:53.132Z"
         },
         {
           "title": "El decreto de vivienda extiende a 2030 la prohibición de compra especulativa para los fondos buitre",
@@ -41,78 +67,56 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-10-06T22:00:43.269Z"
-        },
-        {
-          "title": "La jueza Tardón pide al presidente de Ceuta que aporte la lista de llamadas con Sánchez y su jefe de gabinete",
-          "link": "https://elpais.com/espana/2026-10-06/la-jueza-tardon-pide-al-presidente-de-ceuta-que-aporte-la-lista-de-llamadas-con-pedro-sanchez-y-su-jefe-de-gabinete.html",
-          "source": "El País",
-          "summary": "La instructora de la Audiencia Nacional da este paso después de que Juan Jesús Vivas declarara como testigo que había intentado contactar con Presidencia",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-06T22:00:43.269Z"
-        },
-        {
-          "title": "El PP pide la imputación del PSOE a la Audiencia Nacional en el primer día de precampaña",
-          "link": "https://elpais.com/espana/2026-10-06/el-pp-pide-la-imputacion-del-psoe-a-la-audiencia-nacional-en-el-primer-dia-de-precampana.html",
-          "source": "El País",
-          "summary": "Los populares solicitan al juez Pedraz, que pregunta antes a la Fiscalía, que actúe contra el partido del Gobierno por cinco delitos",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-06T22:00:43.269Z"
         }
       ],
       "items": [
         {
-          "title": "Compromís negociará con otros partidos valencianos de izquierdas, pero no se integrará en Frente Amplio para el 29N",
-          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-06/compromis-negociara-con-otros-partidos-valencianos-de-izquierdas-pero-no-se-integrara-en-frente-amplio-para-el-29n.html",
+          "title": "Última hora de las elecciones generales, en directo | Feijóo se abona a las dudas de su partido sobre el voto por correo y pedirá más controles a la Junta Electoral",
+          "link": "https://elpais.com/espana/2026-10-07/ultima-hora-de-las-elecciones-generales-en-directo.html",
           "source": "El País",
-          "published": "2026-10-06T18:53:59.000Z"
+          "published": "2026-10-07T12:11:33.000Z"
         },
         {
-          "title": "Podemos abre la puerta a pactar una lista única con el Frente Amplio para después ratificarla en primarias",
-          "link": "https://www.eldiario.es/politica/abre-puerta-pactar-lista-unica-frente-amplio-despues-ratificarla-primarias_1_13566962.html",
-          "source": "elDiario.es",
-          "published": "2026-10-06T18:44:05.000Z"
-        },
-        {
-          "title": "Compromís quiere un 'Frente Amplio' valenciano: candidatura conjunta \"100% de aquí\" para las elecciones generales",
-          "link": "https://www.eldiario.es/comunitat-valenciana/politica/compromis-quiere-frente-amplio-valenciano-candidatura-conjunta-100-elecciones-generales_1_13567350.html",
-          "source": "elDiario.es",
-          "published": "2026-10-06T17:58:44.000Z"
-        },
-        {
-          "title": "El PP denuncia ante la Junta Electoral el \"mitin\" de Sánchez tras el Consejo de Ministros",
-          "link": "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html",
-          "source": "20minutos",
-          "published": "2026-10-06T16:48:31.000Z"
-        },
-        {
-          "title": "La vivienda no puede ser un bien de mercado",
-          "link": "https://www.eldiario.es/escolar/vivienda-no-mercado_132_13566381.html",
-          "source": "elDiario.es",
-          "published": "2026-10-06T16:35:05.000Z"
-        },
-        {
-          "title": "El triunfo de la política",
-          "link": "https://www.eldiario.es/contracorriente/triunfo-politica_132_13566875.html",
-          "source": "elDiario.es",
-          "published": "2026-10-06T16:33:09.000Z"
-        },
-        {
-          "title": "El Rey pide que la UE afronte unida las amenazas “vengan de donde vengan”",
-          "link": "https://elpais.com/espana/2026-10-06/el-rey-pide-que-la-ue-afronte-unida-las-amenazas-vengan-de-donde-vengan.html",
+          "title": "Toca abrigarse: tres días frescos hasta el sábado, con amaneceres por debajo de 5° en la mitad norte",
+          "link": "https://elpais.com/el-tiempo/2026-10-07/toca-abrigarse-tres-dias-frescos-hasta-el-sabado-con-amaneceres-por-debajo-de-5-en-la-mitad-norte.html",
           "source": "El País",
-          "published": "2026-10-06T16:31:36.000Z"
+          "published": "2026-10-07T12:02:31.000Z"
         },
         {
-          "title": "Puigdemont no fija la fecha de su vuelta y da por cerrada \"la etapa de represión\", pero cree que la amnistía \"no soluciona el conflicto\"",
-          "link": "https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html",
+          "title": "La ministra Isabel Rodríguez niega que haya menos oferta de alquiler: \"Está en máximos, lo que hay es más estabilidad y se rota menos\"",
+          "link": "https://www.20minutos.es/vivienda/ministra-isabel-rodriguez-niega-que-haya-menos-oferta-alquiler-esta-maximos-que-hay-es-mas-estabilidad-se-rota-menos_7046005_0.html",
           "source": "20minutos",
-          "published": "2026-10-06T16:24:00.000Z"
+          "published": "2026-10-07T11:43:35.000Z"
+        },
+        {
+          "title": "Tres años de genocidio televisado en Gaza",
+          "link": "https://diariosocialista.net/2026/10/07/tres-anos-de-genocidio-televisado-en-gaza/",
+          "source": "Diario Socialista",
+          "published": "2026-10-07T11:32:36.000Z"
+        },
+        {
+          "title": "La oferta de alquiler se reduce en 400.000 viviendas en siete años y el 60% de la caída se concentra en las cuatro grandes ciudades",
+          "link": "https://www.20minutos.es/nacional/oferta-alquiler-se-reduce-casi-400-000-viviendas-siete-anos-60-caida-se-concentra-las-cuatro-grandes-ciudades_7045954_0.html",
+          "source": "20minutos",
+          "published": "2026-10-07T11:30:38.000Z"
+        },
+        {
+          "title": "BBVA todavía espera una subida de la vivienda de hasta un 17,6% acumulado entre este año y el que viene",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bbva-todavia-espera-una-subida-vivienda-17-6-acumulado-entre-este-ano-que-viene_7045983_0.html",
+          "source": "20minutos",
+          "published": "2026-10-07T11:19:36.000Z"
+        },
+        {
+          "title": "Red Eléctrica vuelve a parar a la industria por falta de renovables: décima vez este año",
+          "link": "https://diariosocialista.net/2026/10/07/red-electrica-vuelve-a-parar-a-la-industria-por-falta-de-renovables-decima-vez-este-ano/",
+          "source": "Diario Socialista",
+          "published": "2026-10-07T11:05:21.000Z"
+        },
+        {
+          "title": "El PP de Ayuso difunde un vídeo con IA que advierte de que Sánchez \"nos quiere llevar a una dictadura\": \"No votes por correo\"",
+          "link": "https://www.eldiario.es/rastreador/pp-ayuso-difunde-video-ia-advierte-sanchez-quiere-llevar-dictadura-no-votes-correo_132_13568556.html",
+          "source": "elDiario.es",
+          "published": "2026-10-07T11:01:15.000Z"
         }
       ]
     },
@@ -178,52 +182,52 @@
       ],
       "items": [
         {
-          "title": "Ébola: Kenia anuncia la primera muerte relacionada con el virus registrada en su territorio",
-          "link": "https://www.france24.com/es/%C3%A1frica/20261006-%C3%A9bola-kenia-anuncia-la-primera-muerte-relacionada-con-el-virus-registrada-jam%C3%A1s-en-su-territorio",
+          "title": "🔴 En vivo: Israel conmemora este martes tres años de los mortíferos ataques de Hamás del 7 de octubre de 2023",
+          "link": "https://www.france24.com/es/medio-oriente/20261007-en-directo-israel-conmemora-tres-a%C3%B1os-de-los-mort%C3%ADferos-ataques-de-ham%C3%A1s-del-7-de-octubre",
           "source": "France 24",
-          "published": "2026-10-06T21:36:34.000Z"
+          "published": "2026-10-07T12:02:21.000Z"
         },
         {
-          "title": "Estrecho de Malaca: ¿por qué es tan estratégico para China y el mundo?",
-          "link": "https://www.france24.com/es/programas/en-5-minutos/20261006-estrecho-de-malaca-por-qu%C3%A9-es-tan-estrat%C3%A9gico-para-china-y-el-mundo",
-          "source": "France 24",
-          "published": "2026-10-06T20:45:29.000Z"
+          "title": "Cómo se ha degradado la \"relación estratégica\" que mantienen Venezuela y Cuba desde hace años tras la captura de Maduro",
+          "link": "https://www.bbc.com/mundo/articles/c5dj4j739013o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-07T11:40:15.000Z"
         },
         {
-          "title": "Arde un petrolero de la 'flota fantasma' rusa tras ser atacado por drones ucranianos: sus 23 tripulantes han sido rescatados",
-          "link": "https://www.20minutos.es/internacional/arde-un-petrolero-flota-fantasma-rusa-tras-ser-atacado-por-drones-ucranianos-sus-23-tripulantes-han-sido-rescatados_7045744_0.html",
+          "title": "\"Uno de cada cuatro de nosotros fue secuestrado o asesinado\": cómo intentan reconstruir sus vidas los residentes de un kibutz israelí devastado por los ataques de Hamás del 7 de octubre",
+          "link": "https://www.bbc.com/mundo/articles/c6jrw4wl90eqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-07T11:05:37.000Z"
+        },
+        {
+          "title": "La OMS exige más información a Rusia sobre el supuesto brote de peste tras la cuarentena de varios hospitales",
+          "link": "https://elpais.com/internacional/2026-10-07/la-organizacion-mundial-de-la-salud-exige-mas-informacion-a-rusia-sobre-el-supuesto-brote-de-peste-tras-la-cuarentena-de-varios-hospitales.html",
+          "source": "El País Internacional",
+          "published": "2026-10-07T11:04:30.000Z"
+        },
+        {
+          "title": "Una investigación señala a dos empresas españolas por vender componentes a compañías armamentísticas de Israel en pleno genocidio",
+          "link": "https://www.eldiario.es/internacional/investigacion-senala-empresas-espanolas-enviar-componentes-companias-armamentisticas-israel-pleno-genocidio_1_13568253.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-07T10:53:39.000Z"
+        },
+        {
+          "title": "EEUU pide a sus ciudadanos que abandonen Rusia de \"inmediato\" por el posible caso de peste neumónica",
+          "link": "https://www.20minutos.es/internacional/eeuu-pide-sus-ciudadanos-que-abandonen-rusia-inmediato-por-posible-caso-peste-neumonica_7045949_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-06T20:26:05.000Z"
+          "published": "2026-10-07T10:41:05.000Z"
         },
         {
-          "title": "¿Qué rumbo tomará España tras el anuncio de elecciones anticipadas?",
-          "link": "https://www.dw.com/es/¿qué-rumbo-tomará-españa-tras-el-anuncio-de-elecciones-anticipadas/a-79569219?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-06T20:14:00.000Z"
+          "title": "Mueren al menos 15 civiles en Ucrania tras una nueva ofensiva aérea de Putin",
+          "link": "https://elpais.com/internacional/2026-10-07/mueren-varios-civiles-en-ucrania-tras-una-nueva-ofensiva-aerea-rusa-sobre-la-capital-y-varias-ciudades.html",
+          "source": "El País Internacional",
+          "published": "2026-10-07T10:40:34.000Z"
         },
         {
-          "title": "¿La \"lista negra\" de Trump en América Latina?",
-          "link": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261006-la-lista-negra-de-trump-en-am%C3%A9rica-latina",
-          "source": "France 24",
-          "published": "2026-10-06T20:13:59.000Z"
-        },
-        {
-          "title": "Caída del euro frente al dólar despierta temores en la eurozona",
-          "link": "https://www.dw.com/es/caída-del-euro-frente-al-dólar-despierta-temores-en-la-eurozona/a-79569594?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-06T20:12:00.000Z"
-        },
-        {
-          "title": "Qué está pasando en el conflicto de Etiopía y qué riesgos tiene para el resto de la región",
-          "link": "https://www.eldiario.es/internacional/pasando-conflicto-etiopia-riesgos-resto-region_129_13565562.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-06T20:02:51.000Z"
-        },
-        {
-          "title": "Abdulá salió vivo de la morgue tras un ataque israelí que le amputó las piernas: “Sólo quiero olvidar lo que pasó”",
-          "link": "https://www.eldiario.es/internacional/abdula-salio-vivo-morgue-ataque-israeli-le-amputo-piernas-quiero-olvidar-paso_1_13515576.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-06T20:02:48.000Z"
+          "title": "Israel inicia redadas por toda Cisjordania en el aniversario del ataque del 7 de octubre",
+          "link": "https://www.20minutos.es/internacional/israel-inicia-redadas-por-toda-cisjordania-aniversario-ataque-7-octubre_7045916_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-07T10:19:41.000Z"
         }
       ]
     }
