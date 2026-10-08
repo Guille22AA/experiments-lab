@@ -1,29 +1,12 @@
 {
-  "date": "2026-10-08",
-  "updatedAt": "2026-10-08T12:27:30.220Z",
-  "edition": "mediodía",
+  "date": "2026-10-09",
+  "updatedAt": "2026-10-08T22:38:51.971Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
-        {
-          "title": "Reivindicaciones de CGT para la Huelga General del 11N: ¡Por el derecho a una vivienda y sueldo dignos!",
-          "link": "https://cgt.es/reivindicaciones-de-cgt-para-la-huelga-general-del-11n-por-el-derecho-a-una-vivienda-y-salarios-dignos/",
-          "source": "CGT",
-          "summary": "El próximo miércoles 11 de noviembre hay que parar el país con un grito colectivo y masivo por el derecho a una vivienda y unas condiciones de vida dignas. Cada vez destinamos una mayor parte de nuestro sueldo a pagar el alquiler o la hipoteca. Muchas personas no pueden independizarse, comparten piso porque no pueden... La entrada Reivindicaciones de CGT para la Huelga General del 11N: ¡Por el derecho a una vivienda y sueldo dignos! se publicó primero en Confederación General del Trabajo.",
-          "sources": [
-            "CGT",
-            "Europa Press",
-            "elDiario.es",
-            "UGT",
-            "Público",
-            "Diario Socialista",
-            "20minutos",
-            "El País"
-          ],
-          "firstSeen": "2026-10-07T22:25:42.029Z"
-        },
         {
           "title": "Anticorrupción ve indicios contra el PSOE en el 'caso Leire Díez', pero considera prematura una imputación",
           "link": "https://www.europapress.es/nacional/noticia-anticorrupcion-ve-indicios-contra-psoe-caso-leire-diez-considera-imputacion-prematura-20261008111339.html",
@@ -32,94 +15,103 @@
           "sources": [
             "Europa Press",
             "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-08T22:38:51.971Z"
+        },
+        {
+          "title": "El Tribunal de Cuentas escuchará a la Fiscalía y a la Comunidad de Madrid antes de decidir si abre diligencias por el ático del Gobierno de Ayuso",
+          "link": "https://www.eldiario.es/politica/tribunal-cuentas-escuchara-fiscalia-comunidad-madrid-abrir-diligencias-atico-gobierno-ayuso_1_13573094.html",
+          "source": "elDiario.es",
+          "summary": "La Sección de Enjuiciamiento realizará este trámite en los próximos cinco días después de haber recibido hasta cinco denuncias distintas este verano, una de ellas del Grupo Parlamentario de Más Madrid El caso ático se acerca a Ayuso: pasa de no tener “la menor idea” a confesar que no le “pareció mal” al Gobierno de Isabel Díaz Ayuso. Este paso llega después de que el Tribunal de Cuentas recibiera a lo largo del mes de agosto y septiembre hasta cinco denuncias, una de ellas del Grupo Parlamentario Más Madrid. Las partes a las que se les escuchará también pueden solicitar el archivo de la…",
+          "sources": [
+            "elDiario.es",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-08T22:38:51.971Z"
+        },
+        {
+          "title": "La jueza Biedma declara que sintió “angustia” por su familia mientras instruía el caso de David Sánchez",
+          "link": "https://elpais.com/espana/2026-10-08/la-jueza-biedma-narra-una-situacion-de-angustia-provocada-por-las-supuestas-maniobras-del-caso-leire-diez.html",
+          "source": "El País",
+          "summary": "La magistrada, que declara como víctima en la Audiencia Nacional, explica que no sabe si la exmilitante socialista Leire Díez estuvo detrás de algunas actuaciones sospechosas",
+          "sources": [
             "El País",
             "elDiario.es"
           ],
-          "firstSeen": "2026-10-08T12:27:30.220Z"
+          "firstSeen": "2026-10-08T22:38:51.971Z"
         },
         {
-          "title": "“Maricarmen tiene que ser la última víctima del sistema”: cientos de acampados marchan desde Sol al Congreso",
-          "link": "https://elpais.com/espana/madrid/2026-10-07/maricarmen-tiene-que-ser-la-ultima-victima-del-sistema-cientos-de-acampados-marchan-desde-sol-al-congreso.html",
+          "title": "Bronca en la Asamblea tras la muerte de Maricarmen: “En las calles de Madrid no va a haber paz”; Ayuso: “¿Nos están amenazando?\"",
+          "link": "https://elpais.com/espana/madrid/2026-10-08/un-luto-discutido-en-la-asamblea-de-madrid-por-la-muerte-de-maricarmen.html",
           "source": "El País",
-          "summary": "La muerte de la vecina madrileña sacude la acampada de Sol, que responde con una protesta hasta la Cámara baja entre gritos de “asesinos”",
-          "sources": [
-            "El País",
-            "Europa Press",
-            "20minutos"
-          ],
-          "firstSeen": "2026-10-07T22:25:42.029Z"
-        },
-        {
-          "title": "Última hora tras la muerte de Maricarmen, en directo| Feijóo pide que no se haga una “utilización interesada” de la muerte de Maricarmen",
-          "link": "https://elpais.com/espana/2026-10-07/ultima-hora-de-las-elecciones-generales-en-directo.html",
-          "source": "El País",
-          "summary": "La abogada de Maricarmen: “Si se hubiera suspendido el desahucio, hoy no estaríamos en esta situación” | El PP veta un minuto de silencio por Maricarmen en la Asamblea de Madrid | Al menos un millar de personas marchan hasta el Congreso y encienden velas en su memoria al grito de “asesinos”",
+          "summary": "El PP veta un minuto de silencio que habían propuesto Más Madrid y PSOE en homenaje a la vecina de 87 años desahuciada",
           "sources": [
             "El País",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-07T22:25:42.029Z"
+          "firstSeen": "2026-10-08T22:38:51.971Z"
         },
         {
-          "title": "Una testigo afirma que la trama de Leire Díez quiso “eliminar” a la jueza del ‘caso David Sánchez’: “Es un puto grano en el culo”",
-          "link": "https://elpais.com/espana/2026-10-07/una-testigo-afirma-que-la-trama-de-leire-diez-quiso-acabar-con-la-jueza-del-caso-david-sanchez-es-un-puto-grano-en-el-culo.html",
-          "source": "El País",
-          "summary": "Un informe de la UCO recoge que una persona vinculada al grupo de la exmilitante socialista supuestamente planteó a esta persona causar “daño físico” a la magistrada Beatriz Biedma",
+          "title": "Feijóo acusa a Sánchez de \"intentar manipular emocionalmente a los españoles\" tras la muerte de Maricarmen: \"No vamos a caer en sus trampas\"",
+          "link": "https://www.eldiario.es/politica/feijoo-acusa-sanchez-manipular-emocionalmente-espanoles-muerte-maricarmen-no-caer-trampas_1_13572237.html",
+          "source": "elDiario.es",
+          "summary": "El líder del PP pasa de puntillas por el problema de los desahucios sin citar a la anciana fallecida el miércoles y promete \"un cambio en el que el trabajador honesto salga ganando frente al aprovechado\" Feijóo pone en duda el voto por correo: “He sido presidente de Correos, confío en los carteros, no en los directivos” Feijóo ha pasado este jueves el trámite de ser ratificado como candidato del PP en las elecciones del próximo 29 de noviembre. Ha contado con el respaldo de barones como Juan Manuel Moreno, Marga Prohens, Fernando López Miras o Alfonso Fernández-Mañueco, pero con notables…",
           "sources": [
-            "El País",
+            "elDiario.es",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-07T22:25:42.029Z"
+          "firstSeen": "2026-10-08T22:38:51.971Z"
         }
       ],
       "items": [
         {
-          "title": "Feijóo acusa a Sánchez de \"intentar manipular emocionalmente a los españoles\" tras la muerte de Maricarmen: \"no vamos a caer en sus trampas\"",
-          "link": "https://www.eldiario.es/politica/feijoo-acusa-sanchez-manipular-emocionalmente-espanoles-muerte-maricarmen-no-caer-trampas_1_13572237.html",
+          "title": "Piden 12 años de cárcel para el médico de cabecera de Diego Armando Maradona",
+          "link": "https://www.20minutos.es/deportes/futbol/piden-12-anos-carcel-para-medico-cabecera-diego-armando-maradona_7046829_0.html",
+          "source": "20minutos",
+          "published": "2026-10-08T21:13:59.000Z"
+        },
+        {
+          "title": "Borja Sémper: “El PP no va a tener otra oportunidad, el momento histórico para que gobernemos es este”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-08/borja-semper-el-pp-no-va-a-tener-otra-oportunidad-el-momento-historico-para-que-gobernemos-es-este.html",
+          "source": "El País",
+          "published": "2026-10-08T19:52:16.000Z"
+        },
+        {
+          "title": "Dos asesores de Trump viajaron a Bosnia-Herzegovina para ayudar al partido del prorruso Milorad Dodik a ganar las elecciones",
+          "link": "https://elpais.com/internacional/2026-10-08/dos-asesores-de-trump-viajaron-a-bosnia-herzegovina-para-ayudar-al-prorruso-milorad-dodik-a-ganar-las-elecciones.html",
+          "source": "El País",
+          "published": "2026-10-08T19:34:20.000Z"
+        },
+        {
+          "title": "FOTOS | España sale a la calle por Maricarmen, en imágenes",
+          "link": "https://www.eldiario.es/sociedad/fotos-espana-sale-calle-maricarmen-imagenes_3_13573853.html",
           "source": "elDiario.es",
-          "published": "2026-10-08T12:13:08.000Z"
+          "published": "2026-10-08T19:21:06.000Z"
         },
         {
-          "title": "Maricarmen y las elecciones del 29-N, en directo | Feijóo, sobre Maricarmen: “No vamos a permitir el intento de manipulación emocional a los españoles”",
-          "link": "https://elpais.com/espana/2026-10-08/reacciones-tras-la-muerte-de-maricarmen-y-ultima-hora-de-las-elecciones-del-29-n-en-directo.html",
+          "title": "Los estudiantes franceses ‘toman’ la Bastilla en un nuevo día de protestas",
+          "link": "https://elpais.com/internacional/2026-10-08/los-estudiantes-de-francia-presentan-10-reivindicaciones-para-detener-sus-protestas.html",
           "source": "El País",
-          "published": "2026-10-08T12:02:32.000Z"
+          "published": "2026-10-08T18:58:54.000Z"
         },
         {
-          "title": "Call of Duty ambienta su nueva entrega en una guerra contra Corea del Norte",
-          "link": "https://diariosocialista.net/2026/10/08/call-of-duty-ambienta-su-nueva-entrega-en-una-guerra-contra-corea-del-norte/",
+          "title": "Miguel Ángel Rodríguez: \"Hasta donde sé, Leire, Cerdán y el PSOE van pa'lante, por eso intentan quemar las calles\"",
+          "link": "https://www.eldiario.es/madrid/miguel-angel-rodriguez-leire-cerdan-psoe-pa-lante-quemar-calles_1_13573737.html",
+          "source": "elDiario.es",
+          "published": "2026-10-08T18:42:46.000Z"
+        },
+        {
+          "title": "La indignación toma el relevo de Maricarmen y vuelve a su casa desde Sol: \"Si ella no pudo, iremos nosotros\"",
+          "link": "https://www.eldiario.es/madrid/somos/indignacion-maricarmen-vuelve-ciudadana-relevo-casa-sol-toma_1_13571514.html",
+          "source": "elDiario.es",
+          "published": "2026-10-08T18:15:58.000Z"
+        },
+        {
+          "title": "CJS y OES impulsan más de 100 comités para organizar la huelga general del 11N",
+          "link": "https://diariosocialista.net/2026/10/08/cjs-y-oes-impulsan-mas-de-100-comites-para-organizar-la-huelga-general-del-11n/",
           "source": "Diario Socialista",
-          "published": "2026-10-08T11:49:00.000Z"
-        },
-        {
-          "title": "El Defensor del Pueblo, sobre los nacionalizados por la Ley de Nietos: \"Si eres español, tienes derecho al voto\"",
-          "link": "https://www.europapress.es/sociedad/noticia-defensor-pueblo-nacionalizados-ley-nietos-si-eres-espanol-tienes-derecho-voto-20261008134318.html",
-          "source": "Europa Press",
-          "published": "2026-10-08T11:43:18.000Z"
-        },
-        {
-          "title": "El Supremo anula el decreto del Gobierno que ponía coto a la creación de universidades privadas",
-          "link": "https://www.20minutos.es/nacional/supremo-anula-decreto-gobierno-que-ponia-coto-creacion-universidades-privadas_7046556_0.html",
-          "source": "20minutos",
-          "published": "2026-10-08T11:37:03.000Z"
-        },
-        {
-          "title": "El Supremo tumba el decreto del Gobierno para frenar las universidades ‘chiringuito’",
-          "link": "https://elpais.com/educacion/2026-10-08/el-supremo-tumba-el-decreto-para-frenar-las-universidades-chiringuito.html",
-          "source": "El País",
-          "published": "2026-10-08T11:34:03.000Z"
-        },
-        {
-          "title": "Feijóo pide al PP no confiarse ante una campaña llena de \"manipulaciones\" de Sánchez: \"No vamos a caer en sus trampas\"",
-          "link": "https://www.20minutos.es/nacional/feijoo-pide-pp-no-confiarse-ante-una-campana-llena-manipulaciones-sanchez-no-vamos-caer-sus-trampas_7046547_0.html",
-          "source": "20minutos",
-          "published": "2026-10-08T11:30:57.000Z"
-        },
-        {
-          "title": "La jueza Biedma narra una situación de “angustia” provocada por las supuestas maniobras del ‘caso Leire Díez’",
-          "link": "https://elpais.com/espana/2026-10-08/la-jueza-biedma-narra-una-situacion-de-angustia-provocada-por-las-supuestas-maniobras-del-caso-leire-diez.html",
-          "source": "El País",
-          "published": "2026-10-08T11:28:11.000Z"
+          "published": "2026-10-08T18:00:38.000Z"
         }
       ]
     },
@@ -128,100 +120,77 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Un bombardeo ruso contra un autobús mata a al menos 30 personas en la ciudad de Kramatorsk",
-          "link": "https://www.eldiario.es/internacional/bombardeo-ruso-autobus-mata-30-personas-ciudad-kramatorsk_1_13571916.html",
+          "title": "Por qué es tan polémica la reforma electoral de Meloni y cómo puede cambiar el panorama político en Italia",
+          "link": "https://www.eldiario.es/internacional/polemica-reforma-electoral-meloni-cambiar-panorama-politico-italia_1_13573066.html",
           "source": "elDiario.es Internacional",
-          "summary": "El presidente ucraniano, Volodímir Zelenski, ha denunciado el nuevo ataque de Rusia contra uno de los dos grandes bastiones que conserva Ucrania en la región oriental de Donetsk En el balance previo, el presidente ucraniano, Volodímir Zelenski, y las autoridades regionales y locales cifraron los fallecidos en 12. El mandatario dijo en X que Rusia lanzó una bomba aérea contra la ciudad que impactó contra una parada de transporte público. El Ayuntamiento de Kramatorsk afirmó que el ataque alcanzó un autobús con pasajeros a bordo. La Fiscalía de la región de Donetsk ha publicado imágenes de al…",
+          "summary": "Una de las medidas más controvertidas de la reforma aprobada este jueves es el premio de escaños extra para la coalición que obtenga más del 42% de votos, que supondría una bonificación de 70 diputados en la Cámara de Diputados y 35 en el Senado, alterando el equilibrio de fuerzas parlamentarias y el multipartidismo Meloni logra aprobar su polémica reforma electoral en Italia ante las críticas por querer perpetuarse en el poder Tras meses persistiendo en su empeño de impulsar la medida, pugnas para convencer a sus socios e incluso amenazas de dimitir, Giorgia Meloni ha capeado la tormenta…",
           "sources": [
             "elDiario.es Internacional",
-            "El País Internacional",
             "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-10-08T12:27:30.220Z"
-        },
-        {
-          "title": "\"La ira de los jóvenes no surge de la nada\": el primer ministro francés intenta apaciguar las protestas",
-          "link": "https://www.france24.com/es/francia/20261007-la-ira-de-los-j%C3%B3venes-no-surge-de-la-nada-el-primer-ministro-franc%C3%A9s-intenta-apaciguar-las-protestas",
-          "source": "France 24",
-          "summary": "El primer ministro francés, Sébastien Lecornu, aseguró este miércoles 7 de octubre que \"las primeras decisiones del Gobierno\" para responder a las protestas estudiantiles \"se presentarán a finales de octubre\". La plataforma de peticiones abierta por el Ministerio de Educación suma más de 40.000 recomendaciones. Los estudiantes convocan más manifestaciones para el jueves, con el apoyo de varios sindicatos educativos.",
-          "sources": [
-            "France 24",
             "El País Internacional"
           ],
-          "firstSeen": "2026-10-07T22:25:42.029Z"
+          "firstSeen": "2026-10-08T22:38:51.971Z"
         },
         {
-          "title": "Israel cierra el Consulado General del Reino Unido en Jerusalén y prohíbe la entrada a altos cargos por \"antisemitas\"",
-          "link": "https://www.20minutos.es/internacional/israel-cierra-consulado-general-reino-unido-jerusalen-prohibe-entrada-altos-cargos-por-antisemitas_7046439_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El Gobierno británico ha matizado que la delegación no cerrará mientras que desde Jerusalén afirman que no se puede actuar contra Israel sin que se adopten las medidas de respuesta apropiadas.",
+          "title": "Rusia mata al menos a 30 personas en la ciudad de Kramatorsk en su segundo día de ataques masivos contra civiles",
+          "link": "https://elpais.com/internacional/2026-10-08/rusia-mata-a-decenas-de-personas-en-un-ataque-contra-la-ciudad-ucrania-de-kramatorsk.html",
+          "source": "El País Internacional",
+          "summary": "La ofensiva, que Kiev califica como deliberada contra objetivos no militares, es una de las más mortíferas en lo que va de año",
           "sources": [
-            "20minutos Internacional",
-            "DW"
+            "El País Internacional",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-08T12:27:30.220Z"
-        },
-        {
-          "title": "Los israelíes que exigen que se rindan cuentas por los errores del 7 de octubre, tres años después de los ataques de Hamás",
-          "link": "https://www.bbc.com/mundo/articles/cq3djxvd14zyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El primer ministro israelí, Benjamin Netanyahu, se niega a asumir cualquier responsabilidad personal por lo sucedido o a ordenar una investigación estatal.",
-          "sources": [
-            "BBC Mundo",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-08T12:27:30.220Z"
+          "firstSeen": "2026-10-08T22:38:51.971Z"
         }
       ],
       "items": [
         {
-          "title": "Italia aprueba la controvertida reforma electoral de Meloni y acerca los comicios anticipados",
-          "link": "https://www.20minutos.es/internacional/italia-aprueba-controvertida-reforma-electoral-meloni-acerca-los-comicios-anticipados_7046577_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-08T12:07:01.000Z"
+          "title": "Putin: Irán hace “intentos reales” por acabar guerra con EE.UU.",
+          "link": "https://www.dw.com/es/putin-irán-hace-intentos-reales-por-acabar-guerra-con-ee-uu/a-79606042?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-08T21:55:00.000Z"
         },
         {
-          "title": "Los hutíes de Yemen amenazan a las compañías aéreas para que dejen de volar a Arabia Saudí",
-          "link": "https://elpais.com/internacional/2026-10-08/los-huties-de-yemen-amenazan-a-las-companias-aereas-para-que-dejen-de-volar-a-arabia-saudi.html",
-          "source": "El País Internacional",
-          "published": "2026-10-08T12:05:51.000Z"
-        },
-        {
-          "title": "A tres años del 7 de octubre: ¿qué cambió en Israel y Gaza?",
-          "link": "https://www.france24.com/es/programas/el-debate/20261008-a-tres-a%C3%B1os-del-7-de-octubre-qu%C3%A9-cambi%C3%B3-en-israel-y-gaza",
+          "title": "Creciente de un río en Guatemala colapsó viviendas y provocó la evacuación de cerca de 100 familias",
+          "link": "https://www.france24.com/es/video/20261008-creciente-de-un-r%C3%ADo-en-guatemala-colaps%C3%B3-viviendas-y-provoc%C3%B3-la-evacuaci%C3%B3n-de-cerca-de-100-familias",
           "source": "France 24",
-          "published": "2026-10-08T11:50:32.000Z"
+          "published": "2026-10-08T21:41:39.000Z"
         },
         {
-          "title": "Trump descarta que el caso de peste en Rusia esté relacionado con un arma biológica",
-          "link": "https://www.20minutos.es/internacional/trump-descarta-que-caso-peste-rusia-este-relacionado-con-un-arma-biologica_7046544_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-08T11:45:11.000Z"
+          "title": "Informe desde París: sindicatos y universitarios se unen a manifestaciones de estudiantes",
+          "link": "https://www.france24.com/es/video/20261008-informe-desde-par%C3%ADs-sindicatos-y-universitarios-se-unen-a-manifestaciones-de-estudiantes",
+          "source": "France 24",
+          "published": "2026-10-08T21:24:09.000Z"
         },
         {
-          "title": "Los estudiantes de Francia presentan 10 reivindicaciones para detener sus protestas",
-          "link": "https://elpais.com/internacional/2026-10-08/los-estudiantes-de-francia-presentan-10-reivindicaciones-para-detener-sus-protestas.html",
-          "source": "El País Internacional",
-          "published": "2026-10-08T11:36:17.000Z"
+          "title": "California vota por un impuesto a las grandes fortunas: ¿fuga de millonarios?",
+          "link": "https://www.france24.com/es/programas/en-contexto/20261008-california-vota-por-un-impuesto-a-las-grandes-fortunas-fuga-de-millonarios",
+          "source": "France 24",
+          "published": "2026-10-08T21:06:46.000Z"
         },
         {
-          "title": "Cómo llegó Colombia a tener una deuda tan alta (y por qué De la Espriella tendrá que aumentarla)",
-          "link": "https://www.bbc.com/mundo/articles/c3n04dydq1lxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-08T11:18:47.000Z"
+          "title": "Colombia trasladará su embajada a Jerusalén el 14 de octubre",
+          "link": "https://www.dw.com/es/colombia-trasladará-su-embajada-a-jerusalén-el-14-de-octubre/a-79605977?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-08T20:58:00.000Z"
         },
         {
-          "title": "Donald Trump dice que debería ganar el Premio Nobel de la Paz de 2026: \"He evitado, quizá, la destrucción total del mundo\"",
-          "link": "https://www.20minutos.es/internacional/donald-trump-dice-que-deberia-ganar-premio-nobel-paz-2026-he-evitado-quiza-destruccion-total-mundo_7046500_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-08T10:54:47.000Z"
+          "title": "Con avances de las tropas oficialistas, se intensifica la guerra en Yemen",
+          "link": "https://www.france24.com/es/video/20261008-con-avances-de-las-tropas-oficialistas-se-intensifica-la-guerra-en-yemen",
+          "source": "France 24",
+          "published": "2026-10-08T20:54:51.000Z"
         },
         {
-          "title": "Meloni logra aprobar su polémica reforma electoral en Italia ante las críticas por querer perpetuarse en el poder",
-          "link": "https://www.eldiario.es/internacional/meloni-logra-aprobar-polemica-reforma-electoral-italia-criticas-perpetuarse_1_13571468.html",
+          "title": "El experto israelí en holocausto que denunció el genocidio en Gaza: \"El sionismo tenía el germen de la violencia\"",
+          "link": "https://www.eldiario.es/internacional/experto-israeli-holocausto-denuncio-genocidio-gaza-sionismo-tenia-germen-violencia_128_13554369.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-08T10:46:33.000Z"
+          "published": "2026-10-08T20:34:55.000Z"
+        },
+        {
+          "title": "Narges Mohammadi, Nobel de la Paz: “Recibí el premio mientras estaba presa en una cárcel iraní”",
+          "link": "https://www.eldiario.es/internacional/narges-mohammadi-premio-nobel-paz-democracia-carece-sentido-si-no-respetan-derechos-humanos-mujeres-cat_128_13568965.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-08T20:34:55.000Z"
         }
       ]
     }
