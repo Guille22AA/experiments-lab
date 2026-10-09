@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-08T22:38:51.971Z",
-  "edition": "mañana",
+  "updatedAt": "2026-10-09T12:16:27.819Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
@@ -20,6 +20,42 @@
           "firstSeen": "2026-10-08T22:38:51.971Z"
         },
         {
+          "title": "Feijóo acepta un debate cara a cara con Sánchez y otro a cuatro con el resto de candidatos",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-09/feijoo-acepta-un-debate-cara-a-cara-con-sanchez-y-otro-a-cuatro-con-el-resto-de-candidatos.html",
+          "source": "El País",
+          "summary": "El PSOE asegura que acudirá a todos, pero critica que no le corresponde al PP decidir “dónde y con quién debatir”",
+          "sources": [
+            "El País",
+            "elDiario.es",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-09T12:16:27.819Z"
+        },
+        {
+          "title": "Banco de España eleva el crecimiento del PIB al 2,6% este año y al 2,2% en 2027, pero empeora la inflación",
+          "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-banco-espana-eleva-crecimiento-pib-26-ano-22-2027-empeora-inflacion-20261009130051.html",
+          "source": "Europa Press",
+          "summary": "Si la guerra en Irán se agrava, el impacto en el PIB sería de seis décimas en 2027 y de cerca de un punto más en la inflación",
+          "sources": [
+            "Europa Press",
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-09T12:16:27.819Z"
+        },
+        {
+          "title": "El juez Pedraz rechaza imputar al PSOE al no ver un \"principio de prueba\" que lo justifique \"en este momento\"",
+          "link": "https://www.20minutos.es/nacional/juez-pedraz-rechaza-imputar-psoe-no-ver-un-principio-prueba-que-justifique-este-momento_7046992_0.html",
+          "source": "20minutos",
+          "summary": "El juez Pedraz apunta que deben practicarse varias diligencias, como la declaración de Santos Cerdán, antes de decidir sobre la posible imputación del partido.",
+          "sources": [
+            "20minutos",
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-10-09T12:16:27.819Z"
+        },
+        {
           "title": "El Tribunal de Cuentas escuchará a la Fiscalía y a la Comunidad de Madrid antes de decidir si abre diligencias por el ático del Gobierno de Ayuso",
           "link": "https://www.eldiario.es/politica/tribunal-cuentas-escuchara-fiscalia-comunidad-madrid-abrir-diligencias-atico-gobierno-ayuso_1_13573094.html",
           "source": "elDiario.es",
@@ -29,89 +65,56 @@
             "Europa Press"
           ],
           "firstSeen": "2026-10-08T22:38:51.971Z"
-        },
-        {
-          "title": "La jueza Biedma declara que sintió “angustia” por su familia mientras instruía el caso de David Sánchez",
-          "link": "https://elpais.com/espana/2026-10-08/la-jueza-biedma-narra-una-situacion-de-angustia-provocada-por-las-supuestas-maniobras-del-caso-leire-diez.html",
-          "source": "El País",
-          "summary": "La magistrada, que declara como víctima en la Audiencia Nacional, explica que no sabe si la exmilitante socialista Leire Díez estuvo detrás de algunas actuaciones sospechosas",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-08T22:38:51.971Z"
-        },
-        {
-          "title": "Bronca en la Asamblea tras la muerte de Maricarmen: “En las calles de Madrid no va a haber paz”; Ayuso: “¿Nos están amenazando?\"",
-          "link": "https://elpais.com/espana/madrid/2026-10-08/un-luto-discutido-en-la-asamblea-de-madrid-por-la-muerte-de-maricarmen.html",
-          "source": "El País",
-          "summary": "El PP veta un minuto de silencio que habían propuesto Más Madrid y PSOE en homenaje a la vecina de 87 años desahuciada",
-          "sources": [
-            "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-08T22:38:51.971Z"
-        },
-        {
-          "title": "Feijóo acusa a Sánchez de \"intentar manipular emocionalmente a los españoles\" tras la muerte de Maricarmen: \"No vamos a caer en sus trampas\"",
-          "link": "https://www.eldiario.es/politica/feijoo-acusa-sanchez-manipular-emocionalmente-espanoles-muerte-maricarmen-no-caer-trampas_1_13572237.html",
-          "source": "elDiario.es",
-          "summary": "El líder del PP pasa de puntillas por el problema de los desahucios sin citar a la anciana fallecida el miércoles y promete \"un cambio en el que el trabajador honesto salga ganando frente al aprovechado\" Feijóo pone en duda el voto por correo: “He sido presidente de Correos, confío en los carteros, no en los directivos” Feijóo ha pasado este jueves el trámite de ser ratificado como candidato del PP en las elecciones del próximo 29 de noviembre. Ha contado con el respaldo de barones como Juan Manuel Moreno, Marga Prohens, Fernando López Miras o Alfonso Fernández-Mañueco, pero con notables…",
-          "sources": [
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-08T22:38:51.971Z"
         }
       ],
       "items": [
         {
-          "title": "Piden 12 años de cárcel para el médico de cabecera de Diego Armando Maradona",
-          "link": "https://www.20minutos.es/deportes/futbol/piden-12-anos-carcel-para-medico-cabecera-diego-armando-maradona_7046829_0.html",
+          "title": "HACIA LA HUELGA GENERAL POR LA VIVIENDA.",
+          "link": "https://cgt.es/hacia-la-huelga-general-por-la-vivienda/",
+          "source": "CGT",
+          "published": "2026-10-09T12:08:46.000Z"
+        },
+        {
+          "title": "Por una vivienda digna y accesible para todas las personas",
+          "link": "https://www.ugt.es/por-una-vivienda-digna-y-accesible-para-todas-las-personas",
+          "source": "UGT",
+          "published": "2026-10-09T11:33:23.000Z"
+        },
+        {
+          "title": "Barcelona aprueba subir el IBI a los pisos turísticos hasta un 150% con el nuevo decreto de vivienda",
+          "link": "https://www.eldiario.es/catalunya/barcelona-aprueba-subir-ibi-pisos-turisticos-150-nuevo-decreto-vivienda_1_13575081.html",
+          "source": "elDiario.es",
+          "published": "2026-10-09T11:11:26.000Z"
+        },
+        {
+          "title": "Llorca exige financiación, agua e inversiones al Gobierno en el 9'Octubre: \"Los valencianos esperan soluciones, no ruido\"",
+          "link": "https://www.20minutos.es/comunidad-valenciana/llorca-exige-financiacion-agua-inversiones-gobierno-9-octubre-los-valencianos-esperan-soluciones-no-ruido_7047058_0.html",
           "source": "20minutos",
-          "published": "2026-10-08T21:13:59.000Z"
+          "published": "2026-10-09T11:03:57.000Z"
         },
         {
-          "title": "Borja Sémper: “El PP no va a tener otra oportunidad, el momento histórico para que gobernemos es este”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-08/borja-semper-el-pp-no-va-a-tener-otra-oportunidad-el-momento-historico-para-que-gobernemos-es-este.html",
-          "source": "El País",
-          "published": "2026-10-08T19:52:16.000Z"
+          "title": "El Supremo aún tendrá que fallar otros recursos al decreto de Universidades: Varias CC.AA. y centros pidieron tumbarlo",
+          "link": "https://www.europapress.es/sociedad/educacion-00468/noticia-supremo-aun-tendra-fallar-otros-recursos-decreto-universidades-varias-ccaa-centros-pidieron-tumbarlo-20261009130042.html",
+          "source": "Europa Press",
+          "published": "2026-10-09T11:00:42.000Z"
         },
         {
-          "title": "Dos asesores de Trump viajaron a Bosnia-Herzegovina para ayudar al partido del prorruso Milorad Dodik a ganar las elecciones",
-          "link": "https://elpais.com/internacional/2026-10-08/dos-asesores-de-trump-viajaron-a-bosnia-herzegovina-para-ayudar-al-prorruso-milorad-dodik-a-ganar-las-elecciones.html",
-          "source": "El País",
-          "published": "2026-10-08T19:34:20.000Z"
-        },
-        {
-          "title": "FOTOS | España sale a la calle por Maricarmen, en imágenes",
-          "link": "https://www.eldiario.es/sociedad/fotos-espana-sale-calle-maricarmen-imagenes_3_13573853.html",
+          "title": "El Banco de España mejora al 2,6% su previsión del PIB ante la “notable resiliencia” de la economía",
+          "link": "https://www.eldiario.es/economia/banco-espana-mejora-2-6-prevision-pib-notable-resiliencia-economia_1_13574446.html",
           "source": "elDiario.es",
-          "published": "2026-10-08T19:21:06.000Z"
+          "published": "2026-10-09T11:00:02.000Z"
         },
         {
-          "title": "Los estudiantes franceses ‘toman’ la Bastilla en un nuevo día de protestas",
-          "link": "https://elpais.com/internacional/2026-10-08/los-estudiantes-de-francia-presentan-10-reivindicaciones-para-detener-sus-protestas.html",
+          "title": "Iustitia Europa pide al Supremo suspender las elecciones del 29N hasta que se aclare quién puede votar con la 'ley de nietos'",
+          "link": "https://www.20minutos.es/nacional/iustitia-europa-pide-supremo-suspender-las-elecciones-29n-hasta-que-se-aclare-quien-puede-votar-con-ley-nietos_7047031_0.html",
+          "source": "20minutos",
+          "published": "2026-10-09T10:35:44.000Z"
+        },
+        {
+          "title": "El PSOE estudia concurrir en el Senado en listas conjuntas con otras formaciones de izquierda",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-09/el-psoe-estudia-concurrir-en-el-senado-en-listas-conjuntas-con-otras-formaciones-de-izquierda.html",
           "source": "El País",
-          "published": "2026-10-08T18:58:54.000Z"
-        },
-        {
-          "title": "Miguel Ángel Rodríguez: \"Hasta donde sé, Leire, Cerdán y el PSOE van pa'lante, por eso intentan quemar las calles\"",
-          "link": "https://www.eldiario.es/madrid/miguel-angel-rodriguez-leire-cerdan-psoe-pa-lante-quemar-calles_1_13573737.html",
-          "source": "elDiario.es",
-          "published": "2026-10-08T18:42:46.000Z"
-        },
-        {
-          "title": "La indignación toma el relevo de Maricarmen y vuelve a su casa desde Sol: \"Si ella no pudo, iremos nosotros\"",
-          "link": "https://www.eldiario.es/madrid/somos/indignacion-maricarmen-vuelve-ciudadana-relevo-casa-sol-toma_1_13571514.html",
-          "source": "elDiario.es",
-          "published": "2026-10-08T18:15:58.000Z"
-        },
-        {
-          "title": "CJS y OES impulsan más de 100 comités para organizar la huelga general del 11N",
-          "link": "https://diariosocialista.net/2026/10/08/cjs-y-oes-impulsan-mas-de-100-comites-para-organizar-la-huelga-general-del-11n/",
-          "source": "Diario Socialista",
-          "published": "2026-10-08T18:00:38.000Z"
+          "published": "2026-10-09T10:11:18.000Z"
         }
       ]
     },
@@ -141,56 +144,89 @@
             "elDiario.es Internacional"
           ],
           "firstSeen": "2026-10-08T22:38:51.971Z"
+        },
+        {
+          "title": "Navi Pillay, jurista y expresidenta del grupo de expertos de la ONU que acusó a Israel de genocidio, premio Nobel de la Paz 2026",
+          "link": "https://www.eldiario.es/internacional/jueza-corte-penal-internacional-navanethem-navi-pillay-premio-nobel-paz-2026_1_13574390.html",
+          "source": "elDiario.es Internacional",
+          "summary": "La jurista sudafricana, con una dilatada carrera en instituciones en defensa del derecho internacional, sucede así a la política opositora venezolana María Corina Machado, una elección que vino rodeada de polémica Pillay, tras recibir el Nobel de la Paz: \"Si aplauden un poco más fuerte, tal vez comparta este premio con Trump\" Navanethem “Navi” Pillay, distinguida jurista sudafricana con una dilatada carrera en instituciones en defensa del orden jurídico mundial, ha sido galardonada con el Premio Nobel de la Paz 2026 “por sus esfuerzos para promover la paz y el derecho internacional”, según ha…",
+          "sources": [
+            "elDiario.es Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-09T12:16:27.819Z"
+        },
+        {
+          "title": "EEUU retransmitirá en directo el fusilamiento del asesino de Fort Hood y permitirá el acceso del público",
+          "link": "https://www.20minutos.es/internacional/pentagono-permitira-publico-presenciar-fusilamiento-autor-matanza-fort-hood_7046863_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Será la primera ejecución militar en Estados Unidos desde 1961 y la primera por fusilamiento desde 1945.",
+          "sources": [
+            "20minutos Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-09T12:16:27.819Z"
+        },
+        {
+          "title": "Protestas estudiantiles: cinco claves de una crisis que tiene en jaque a Francia",
+          "link": "https://www.france24.com/es/francia/20261008-protestas-estudiantiles-cinco-claves-de-una-crisis-que-tiene-en-jaque-a-francia",
+          "source": "France 24",
+          "summary": "Las protestas en Francia comenzaron a mediados de septiembre por la falta de profesores y recursos en un liceo de las afueras de París, pero rápidamente se extendieron por todo el país y sumaron a universitarios, docentes y sindicatos. Los estudiantes exigen 10.000 millones de euros para la educación y mantienen la presión sobre un Gobierno que busca contener el déficit y la deuda.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-10-09T12:16:27.819Z"
         }
       ],
       "items": [
         {
-          "title": "Putin: Irán hace “intentos reales” por acabar guerra con EE.UU.",
-          "link": "https://www.dw.com/es/putin-irán-hace-intentos-reales-por-acabar-guerra-con-ee-uu/a-79606042?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Navi Pillay, Nobel de la Paz 2026 por su defensa del derecho internacional",
+          "link": "https://www.france24.com/es/medio-oriente/20261009-navi-pillay-nobel-de-la-paz-2026-por-su-defensa-del-derecho-internacional",
+          "source": "France 24",
+          "published": "2026-10-09T11:46:41.000Z"
+        },
+        {
+          "title": "La ONU denuncia como \"tortura\" la anunciada transmisión en vivo de la ejecución de Nidal Malik Hasan, anunciada en EE. UU.",
+          "link": "https://www.dw.com/es/la-onu-denuncia-como-tortura-la-anunciada-transmisión-en-vivo-de-la-ejecución-de-nidal-malik-hasan-anunciada-en-ee-uu/a-79612728?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-08T21:55:00.000Z"
+          "published": "2026-10-09T11:14:00.000Z"
         },
         {
-          "title": "Creciente de un río en Guatemala colapsó viviendas y provocó la evacuación de cerca de 100 familias",
-          "link": "https://www.france24.com/es/video/20261008-creciente-de-un-r%C3%ADo-en-guatemala-colaps%C3%B3-viviendas-y-provoc%C3%B3-la-evacuaci%C3%B3n-de-cerca-de-100-familias",
-          "source": "France 24",
-          "published": "2026-10-08T21:41:39.000Z"
-        },
-        {
-          "title": "Informe desde París: sindicatos y universitarios se unen a manifestaciones de estudiantes",
-          "link": "https://www.france24.com/es/video/20261008-informe-desde-par%C3%ADs-sindicatos-y-universitarios-se-unen-a-manifestaciones-de-estudiantes",
-          "source": "France 24",
-          "published": "2026-10-08T21:24:09.000Z"
-        },
-        {
-          "title": "California vota por un impuesto a las grandes fortunas: ¿fuga de millonarios?",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261008-california-vota-por-un-impuesto-a-las-grandes-fortunas-fuga-de-millonarios",
-          "source": "France 24",
-          "published": "2026-10-08T21:06:46.000Z"
-        },
-        {
-          "title": "Colombia trasladará su embajada a Jerusalén el 14 de octubre",
-          "link": "https://www.dw.com/es/colombia-trasladará-su-embajada-a-jerusalén-el-14-de-octubre/a-79605977?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "La UE saca a Panamá y Vietnam de su 'lista negra' de paraísos fiscales",
+          "link": "https://www.dw.com/es/la-ue-saca-a-panamá-y-vietnam-de-su-lista-negra-de-paraísos-fiscales/a-79612127?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-08T20:58:00.000Z"
+          "published": "2026-10-09T10:50:00.000Z"
         },
         {
-          "title": "Con avances de las tropas oficialistas, se intensifica la guerra en Yemen",
-          "link": "https://www.france24.com/es/video/20261008-con-avances-de-las-tropas-oficialistas-se-intensifica-la-guerra-en-yemen",
-          "source": "France 24",
-          "published": "2026-10-08T20:54:51.000Z"
+          "title": "China presenta una protesta formal ante la UE por un informe del Parlamento Europeo \"plagado de prejuicios\"",
+          "link": "https://www.20minutos.es/internacional/china-presenta-una-protesta-formal-ante-ue-por-un-informe-parlamento-europeo-plagado-prejuicios_7047017_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-09T09:30:06.000Z"
         },
         {
-          "title": "El experto israelí en holocausto que denunció el genocidio en Gaza: \"El sionismo tenía el germen de la violencia\"",
-          "link": "https://www.eldiario.es/internacional/experto-israeli-holocausto-denuncio-genocidio-gaza-sionismo-tenia-germen-violencia_128_13554369.html",
+          "title": "Vídeo | ¿Es el momento de cambios radicales al mercado de la vivienda en Europa?",
+          "link": "https://elpais.com/internacional/2026-10-09/video-es-el-momento-de-cambios-radicales-al-mercado-de-la-vivienda-en-europa.html",
+          "source": "El País Internacional",
+          "published": "2026-10-09T09:10:00.000Z"
+        },
+        {
+          "title": "Autoridades saudíes informan de tres muertos en ataques al aeropuerto de Riad reivindicados por los rebeldes hutíes",
+          "link": "https://www.dw.com/es/autoridades-saudíes-informan-de-tres-muertos-en-ataques-al-aeropuerto-de-riad-reivindicados-por-los-rebeldes-hutíes/a-79608898?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-09T08:21:00.000Z"
+        },
+        {
+          "title": "Un centenar de ONG denuncia que Israel viola el alto el fuego a diario: \"Existe solo sobre el papel\"",
+          "link": "https://www.eldiario.es/internacional/centenar-ong-denuncia-israel-viola-alto-fuego-diario-existe-papel_1_13572410.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-08T20:34:55.000Z"
+          "published": "2026-10-09T08:08:50.000Z"
         },
         {
-          "title": "Narges Mohammadi, Nobel de la Paz: “Recibí el premio mientras estaba presa en una cárcel iraní”",
-          "link": "https://www.eldiario.es/internacional/narges-mohammadi-premio-nobel-paz-democracia-carece-sentido-si-no-respetan-derechos-humanos-mujeres-cat_128_13568965.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-08T20:34:55.000Z"
+          "title": "Anuncio de Trump de no atacar Irán antes de comicios en EE. UU. provoca caída del precio del petróleo",
+          "link": "https://www.dw.com/es/anuncio-de-trump-de-no-atacar-irán-antes-de-comicios-en-ee-uu-provoca-caída-del-precio-del-petróleo/a-79608089?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-09T07:29:00.000Z"
         }
       ]
     }
