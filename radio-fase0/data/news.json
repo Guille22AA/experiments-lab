@@ -1,121 +1,72 @@
 {
-  "date": "2026-10-09",
-  "updatedAt": "2026-10-09T21:59:56.704Z",
-  "edition": "tarde",
+  "date": "2026-10-10",
+  "updatedAt": "2026-10-10T11:34:52.373Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Anticorrupción ve indicios contra el PSOE en el 'caso Leire Díez', pero considera prematura una imputación",
-          "link": "https://www.europapress.es/nacional/noticia-anticorrupcion-ve-indicios-contra-psoe-caso-leire-diez-considera-imputacion-prematura-20261008111339.html",
-          "source": "Europa Press",
-          "summary": "MADRID, 8 (EUROPA PRESS) La Fiscalía Anticorrupción considera que existen indicios contra el PSOE en el 'caso Leire Díez', pero señala que la decisión de pedir la imputación del partido es prematura.",
+          "title": "Más de 100 organismos denuncian que “el alto el fuego en Gaza existe solo sobre el papel”",
+          "link": "https://diariosocialista.net/2026/10/10/mas-de-100-organismos-denuncian-que-el-alto-el-fuego-en-gaza-existe-solo-sobre-el-papel/",
+          "source": "Diario Socialista",
+          "summary": "Amnistía Internacional, el Consejo Noruego para Refugiados, Save the Children y Oxfam exigen el fin de la impunidad israelí un año después de un “alto el fuego” que no ha detenido los ataques: 1.471 palestinos exterminados desde entonces, 327 de ellos niños.",
           "sources": [
-            "Europa Press",
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-08T22:38:51.971Z"
-        },
-        {
-          "title": "Feijóo acepta un debate cara a cara con Sánchez y otro a cuatro con el resto de candidatos",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-09/feijoo-acepta-un-debate-cara-a-cara-con-sanchez-y-otro-a-cuatro-con-el-resto-de-candidatos.html",
-          "source": "El País",
-          "summary": "El PSOE asegura que acudirá a todos, pero critica que no le corresponde al PP decidir “dónde y con quién debatir”",
-          "sources": [
-            "El País",
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-09T12:16:27.819Z"
-        },
-        {
-          "title": "Banco de España eleva el crecimiento del PIB al 2,6% este año y al 2,2% en 2027, pero empeora la inflación",
-          "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-banco-espana-eleva-crecimiento-pib-26-ano-22-2027-empeora-inflacion-20261009130051.html",
-          "source": "Europa Press",
-          "summary": "Si la guerra en Irán se agrava, el impacto en el PIB sería de seis décimas en 2027 y de cerca de un punto más en la inflación",
-          "sources": [
-            "Europa Press",
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-09T12:16:27.819Z"
-        },
-        {
-          "title": "El juez Pedraz rechaza imputar al PSOE al no ver un \"principio de prueba\" que lo justifique \"en este momento\"",
-          "link": "https://www.20minutos.es/nacional/juez-pedraz-rechaza-imputar-psoe-no-ver-un-principio-prueba-que-justifique-este-momento_7046992_0.html",
-          "source": "20minutos",
-          "summary": "El juez Pedraz apunta que deben practicarse varias diligencias, como la declaración de Santos Cerdán, antes de decidir sobre la posible imputación del partido.",
-          "sources": [
-            "20minutos",
-            "elDiario.es",
+            "Diario Socialista",
             "El País"
           ],
-          "firstSeen": "2026-10-09T12:16:27.819Z"
-        },
-        {
-          "title": "El PSOE estudia candidaturas conjuntas para el Senado con otras fuerzas de izquierda para evitar la mayoría del PP",
-          "link": "https://www.eldiario.es/politica/psoe-estudia-candidaturas-conjuntas-senado-fuerzas-izquierda-evitar-mayoria-pp_1_13576621.html",
-          "source": "elDiario.es",
-          "summary": "No sería la primera vez que el PSOE acuerda listas conjuntas al Senado en algunas circunscripciones concretas, pero sí si el pacto fuese para todas La iniciativa que busca una lista conjunta de la izquierda para el Senado: “Todo el mundo gana” El PSOE ha afirmado este viernes que está analizando todas las alternativas y escenarios posibles para ganar tanto en el Congreso como en el Senado el 29N y estudia la posibilidad de concurrir junto a otras fuerzas de izquierda a la Cámara Alta, para evitar que la controle de nuevo el PP. Fuentes de Ferraz han indicado a EFE que el partido analiza todas…",
-          "sources": [
-            "elDiario.es",
-            "Europa Press",
-            "El País"
-          ],
-          "firstSeen": "2026-10-09T21:59:56.704Z"
+          "firstSeen": "2026-10-10T11:34:52.373Z"
         }
       ],
       "items": [
         {
-          "title": "Trump nombra a Katie Zacharia, comentarista de la cadena FOX, como nueva portavoz de la Casa Blanca",
-          "link": "https://www.20minutos.es/internacional/trump-nombre-katie-zacharia-comentarista-habitual-cadena-fox-nueva-portavoz-casa-blanca_7047361_0.html",
-          "source": "20minutos",
-          "published": "2026-10-09T21:21:52.000Z"
-        },
-        {
-          "title": "Un terremoto de magnitud 7,7 sacude Panamá",
-          "link": "https://elpais.com/america/2026-10-09/un-terremoto-de-76-sacude-a-panama.html",
+          "title": "Maricarmen y las elecciones del 29-N, en directo | Sánchez se compromete en un mitin en Sevilla a “reforzar y mantener” los decretos de vivienda",
+          "link": "https://elpais.com/espana/2026-10-10/maricarmen-y-las-elecciones-del-29-n-en-directo.html",
           "source": "El País",
-          "published": "2026-10-09T20:39:37.000Z"
+          "published": "2026-10-10T11:31:00.000Z"
         },
         {
-          "title": "PSOE y Frente Amplio se reunirán el domingo para negociar listas únicas para el Senado - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkhsbFpCQVpmUFhlQlJKTFVldGRuc3YzbnhQTEVhWkQ3ZlNjUFhGc3pneGtVcHFNYnlhTnVfQXQtTDJhZ2U5S2lqMjhhTTE1MEJfaHNMeEp2Zmo3VVRRMk5FS2JTa3JVY2JQclFQb1lLWnZldzF4U0ZiSk9QcE1YWk5PcTAwLWtZdktBQ1JBLUtPcFlpN0VFd3Z1Z0xnWUIxb3B0WG03U21zODh6SjRQcg?oc=5",
-          "source": "Público",
-          "published": "2026-10-09T19:36:12.000Z"
-        },
-        {
-          "title": "Trump anuncia que Rusia suministrará más de 300.000 toneladas de diésel al mercado global y de EEUU",
-          "link": "https://www.20minutos.es/internacional/trump-anuncia-rusia-suministrara-inmediatamente-mas-toneladas-diesel-mercado-global-eeuu_7047341_0.html",
-          "source": "20minutos",
-          "published": "2026-10-09T19:20:27.000Z"
-        },
-        {
-          "title": "Varios miles de personas se concentran en Barcelona en apoyo a Maricarmen y a la huelga general",
-          "link": "https://www.eldiario.es/catalunya/millar-personas-concentran-barcelona-apoyo-maricarmen-huelga-general_1_13576677.html",
+          "title": "Feijóo promete \"un Gobierno que pedirá sacrificios\" y Ayuso tilda de \"terroristas\" a los acampados en Sol",
+          "link": "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html",
           "source": "elDiario.es",
-          "published": "2026-10-09T19:10:12.000Z"
+          "published": "2026-10-10T11:19:19.000Z"
         },
         {
-          "title": "Última hora de la acampada por la vivienda | El Sindicato de Inquilinas convoca un minuto de silencio por Maricarmen este viernes - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wX21PeHAwckJEdU5LRnJpblh0TE1yT3d2T1J4bTNhTHN0b1pack9MYktJamQ5TnpmNXFqNHE2TU1xUjBRVk9ZZldmb0l6S1Utc3JOWUpYTnRIQXBPcXFiUFJ4Zm5GSWdmN2Fid094cWxhTXhv0gF6QVVfeXFMUFE5Y2hkSWpUcDJXM2xwTk9PdGdmNGEzRWRIdUZ5Qjl1OFVyejQwR0xFSFRvNWRKQmQtMWdvcFBudGJtcTZXR0RTSXdrUjQtZXNTU25pRmxUdEZ3NHo4RWVvRHhLQmxJUjJ2d3J3ckFHMWRHcV9iOXhaMVE?oc=5",
-          "source": "Público",
-          "published": "2026-10-09T18:22:35.000Z"
+          "title": "Feijóo asume que el 29-N será su última oportunidad: “¡No tenemos derecho a fallar. No vamos a fallar!”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-10/feijoo-asume-que-el-29n-sera-su-ultima-oportunidad-no-tenemos-derecho-a-fallar-no-vamos-a-fallar.html",
+          "source": "El País",
+          "published": "2026-10-10T11:15:16.000Z"
         },
         {
-          "title": "El juez Peinado vuelve a ejercer como abogado en Madrid tras procesar a Begoña Gómez y jubilarse",
-          "link": "https://www.eldiario.es/politica/juez-peinado-vuelve-ejercer-abogado-madrid-procesar-begona-gomez-jubilarse_1_13576238.html",
-          "source": "elDiario.es",
-          "published": "2026-10-09T18:19:29.000Z"
+          "title": "Ayuso exige a la Delegación información sobre si la acampada en Sol la gestiona un grupo con \"antecedentes terroristas\"",
+          "link": "https://www.europapress.es/madrid/noticia-ayuso-exige-delegacion-informacion-si-acampada-sol-gestiona-grupo-antecedentes-terroristas-20261010122235.html",
+          "source": "Europa Press",
+          "published": "2026-10-10T10:22:35.000Z"
         },
         {
-          "title": "Mohamed VI denuncia la \"irresponsabilidad\" en España de la crisis de Ceuta y dice que no permitirá \"presiones, chantajes o amenazas\"",
-          "link": "https://www.20minutos.es/internacional/mohamed-vi-denuncia-irresponsabilidad-espana-crisis-ceuta-dice-que-no-permitira-presiones-chantajes-amenazas_7047309_0.html",
+          "title": "Absuelven a un vigilante de una discoteca por lanzar expresiones homófobas y condenan al denunciante por insultos racistas",
+          "link": "https://www.20minutos.es/cataluna/barcelona/absuelven-un-vigilante-una-discoteca-por-lanzar-expresiones-homofobas-condenan-denunciante-por-insultos-racistas_7047394_0.html",
           "source": "20minutos",
-          "published": "2026-10-09T17:48:23.000Z"
+          "published": "2026-10-10T09:57:53.000Z"
+        },
+        {
+          "title": "La Policía monitoriza a grupos radicales tras dos semanas de protestas en Sol por la vivienda",
+          "link": "https://www.20minutos.es/madrid/policia-monitoriza-grupos-radicales-tras-dos-semanas-protestas-puerta-sol-por-vivienda_7047387_0.html",
+          "source": "20minutos",
+          "published": "2026-10-10T09:57:05.000Z"
+        },
+        {
+          "title": "La izquierda afronta una semana decisiva con Frente Amplio aún sin candidato y Podemos volcado en sus primarias",
+          "link": "https://www.europapress.es/nacional/noticia-izquierda-afronta-semana-decisiva-frente-amplio-aun-candidato-podemos-volcado-primarias-20261010114010.html",
+          "source": "Europa Press",
+          "published": "2026-10-10T09:40:10.000Z"
+        },
+        {
+          "title": "Los frugales van ganando: la propuesta irlandesa para negociar el presupuesto europeo parte de un recorte del 8%",
+          "link": "https://www.eldiario.es/economia/frugales-ganando-propuesta-irlandesa-negociar-presupuesto-europeo-parte-recorte-8_1_13577038.html",
+          "source": "elDiario.es",
+          "published": "2026-10-10T09:06:44.000Z"
         }
       ]
     },
@@ -124,114 +75,89 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "EE.UU. impone fuertes sanciones a la Corte Penal Internacional horas después de que una de sus exjuezas ganara el Nobel de la Paz",
-          "link": "https://www.bbc.com/mundo/articles/cq3981jym2rvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "Varios estados miembros del tribunal internacional, como Reino Unido, Canadá y Alemania, señalaron que \"discrepan profundamente\" de las sanciones.",
-          "sources": [
-            "BBC Mundo",
-            "DW",
-            "20minutos Internacional",
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-09T21:59:56.704Z"
-        },
-        {
-          "title": "Por qué es tan polémica la reforma electoral de Meloni y cómo puede cambiar el panorama político en Italia",
-          "link": "https://www.eldiario.es/internacional/polemica-reforma-electoral-meloni-cambiar-panorama-politico-italia_1_13573066.html",
-          "source": "elDiario.es Internacional",
-          "summary": "Una de las medidas más controvertidas de la reforma aprobada este jueves es el premio de escaños extra para la coalición que obtenga más del 42% de votos, que supondría una bonificación de 70 diputados en la Cámara de Diputados y 35 en el Senado, alterando el equilibrio de fuerzas parlamentarias y el multipartidismo Meloni logra aprobar su polémica reforma electoral en Italia ante las críticas por querer perpetuarse en el poder Tras meses persistiendo en su empeño de impulsar la medida, pugnas para convencer a sus socios e incluso amenazas de dimitir, Giorgia Meloni ha capeado la tormenta…",
-          "sources": [
-            "elDiario.es Internacional",
-            "20minutos Internacional",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-08T22:38:51.971Z"
-        },
-        {
-          "title": "Trump anuncia un acuerdo con Putin para liberar miles de barriles de diésel al mercado mundial",
+          "title": "Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial",
           "link": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
           "summary": "Los precios del diésel en Estados Unidos se han duplicado desde que comenzó la guerra con Irán en febrero, lo que ejerce presión sobre los republicanos de cara a las elecciones de mitad de mandato.",
           "sources": [
             "BBC Mundo",
             "France 24",
+            "20minutos Internacional",
             "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-09T21:59:56.704Z"
+          "firstSeen": "2026-10-10T11:34:52.373Z"
         },
         {
-          "title": "Rusia mata al menos a 30 personas en la ciudad de Kramatorsk en su segundo día de ataques masivos contra civiles",
-          "link": "https://elpais.com/internacional/2026-10-08/rusia-mata-a-decenas-de-personas-en-un-ataque-contra-la-ciudad-ucrania-de-kramatorsk.html",
+          "title": "Un fuerte terremoto de magnitud 7,7 sacude Panamá: el presidente Mulino afirma que el desastre que enfrenta su país \"es grande\"",
+          "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "El epicentro del sismo se ubicó en el sur del país centroamericano, cerca de la costa Pacífico. Decenas de edificaciones resultaron afectadas.",
+          "sources": [
+            "BBC Mundo",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-10T11:34:52.373Z"
+        },
+        {
+          "title": "Ucrania golpea una gran terminal petrolera rusa tras el acuerdo del diésel de Trump y Putin",
+          "link": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
           "source": "El País Internacional",
-          "summary": "La ofensiva, que Kiev califica como deliberada contra objetivos no militares, es una de las más mortíferas en lo que va de año",
+          "summary": "El presidente estadounidense anuncia a bombo y platillos una medida que Rusia ya se disponía a tomar días antes",
           "sources": [
             "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-08T22:38:51.971Z"
-        },
-        {
-          "title": "Navi Pillay, jurista y expresidenta del grupo de expertos de la ONU que acusó a Israel de genocidio, premio Nobel de la Paz 2026",
-          "link": "https://www.eldiario.es/internacional/jueza-corte-penal-internacional-navanethem-navi-pillay-premio-nobel-paz-2026_1_13574390.html",
-          "source": "elDiario.es Internacional",
-          "summary": "La jurista sudafricana, con una dilatada carrera en instituciones en defensa del derecho internacional, sucede así a la política opositora venezolana María Corina Machado, una elección que vino rodeada de polémica Pillay, tras recibir el Nobel de la Paz: \"Si aplauden un poco más fuerte, tal vez comparta este premio con Trump\" Navanethem “Navi” Pillay, distinguida jurista sudafricana con una dilatada carrera en instituciones en defensa del orden jurídico mundial, ha sido galardonada con el Premio Nobel de la Paz 2026 “por sus esfuerzos para promover la paz y el derecho internacional”, según ha…",
-          "sources": [
-            "elDiario.es Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-09T12:16:27.819Z"
+          "firstSeen": "2026-10-10T11:34:52.373Z"
         }
       ],
       "items": [
         {
-          "title": "Trump dice que el militar cuyo fusilamiento será retransmitido \"se lo merece\" y Vance asegura que él no la va a ver",
-          "link": "https://www.20minutos.es/internacional/trump-dice-militar-cuyo-fusilamiento-sera-retansmitido-vance-asegura-no-ver_7047359_0.html",
+          "title": "El Supremo acelera para decidir sobre el voto de nacionalizados por la 'ley de nietos' ante el adelanto electoral",
+          "link": "https://www.20minutos.es/internacional/supremo-acelera-para-decidir-sobre-voto-nacionalizados-por-ley-nietos-ante-adelanto-electoral_7047428_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-09T21:09:29.000Z"
+          "published": "2026-10-10T10:57:57.000Z"
         },
         {
-          "title": "La pena de muerte en EE. UU.: ¿una medida \"popular\"?",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261009-la-pena-de-muerte-en-ee-uu-una-medida-popular",
-          "source": "France 24",
-          "published": "2026-10-09T20:58:41.000Z"
-        },
-        {
-          "title": "\"Tenemos que ganar estas elecciones\": a Trump le vale todo para evitar el descalabro electoral",
-          "link": "https://www.eldiario.es/internacional/ganar-elecciones-trump-le-vale-evitar-descalabro-electoral_129_13576611.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-09T20:40:15.000Z"
-        },
-        {
-          "title": "Emiratos: copiloto de Flydubai pretendía ataque suicida inspirado por el 11-S",
-          "link": "https://www.dw.com/es/emiratos-copiloto-de-flydubai-pretendía-ataque-suicida-inspirado-por-el-11-s/a-79623649?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Ucrania reporta ocho muertos en ataque ruso en región de Zaporiyia",
+          "link": "https://www.dw.com/es/ucrania-reporta-ocho-muertos-en-ataque-ruso-en-región-de-zaporiyia/a-79626849?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-09T20:38:00.000Z"
+          "published": "2026-10-10T09:42:00.000Z"
         },
         {
-          "title": "Un ataque con drones impide que cuatro aviones del gobierno ruso aterricen en Moscú",
-          "link": "https://www.20minutos.es/internacional/ataque-drones-impide-aviones-gobierno-ruso-aterricen-moscu_7047345_0.html",
+          "title": "Trump arremete contra la nueva Nobel de la Paz y afirma que el \"desacreditado\" premio debería ser suyo",
+          "link": "https://www.20minutos.es/internacional/trump-arremete-contra-nueva-nobel-paz-afirma-que-desacreditado-premio-deberia-ser-suyo_7047391_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-09T20:11:25.000Z"
+          "published": "2026-10-10T08:26:34.000Z"
         },
         {
-          "title": "En directo: el presidente de Panamá viaja a Penonomé, donde se registran graves daños por el terremoto",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261009-en-directo-el-fuerte-terremoto-en-panam%C3%A1-causa-da%C3%B1os-en-edificaciones-el-canal-no-se-vio-afectado",
-          "source": "France 24",
-          "published": "2026-10-09T20:11:00.000Z"
-        },
-        {
-          "title": "Proyecto petrolero reaviva el conflicto por las Malvinas",
-          "link": "https://www.dw.com/es/proyecto-petrolero-reaviva-el-conflicto-por-las-malvinas/a-79622387?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Nueva Delhi corta internet móvil y cierra estaciones de tren por protesta",
+          "link": "https://www.dw.com/es/nueva-delhi-corta-internet-móvil-y-cierra-estaciones-de-tren-por-protesta/a-79626097?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-09T19:59:00.000Z"
+          "published": "2026-10-10T07:54:00.000Z"
         },
         {
-          "title": "Directo a... Washington y las críticas a la decisión de retransmitir el fusilamiento de Hasan",
-          "link": "https://www.france24.com/es/video/20261009-directo-a-washington-y-las-cr%C3%ADticas-a-la-decisi%C3%B3n-de-retransmitir-el-fusilamiento-de-hasan",
+          "title": "Terremoto en Panamá: al menos 27 heridos leves y más de 400 edificaciones afectadas",
+          "link": "https://www.20minutos.es/internacional/heridos-edificaciones-afectadas-terremoto-panama_7047377_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-10T07:13:49.000Z"
+        },
+        {
+          "title": "Las tiendas de IKEA podrían convertirse en refugios en Dinamarca a medida que Europa aumenta su preparación ante catástrofes",
+          "link": "https://www.20minutos.es/internacional/las-tiendas-ikea-podrian-convertirse-refugios-dinamarca-medida-que-europa-aumenta-su-preparacion-ante-catastrofes_7047340_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-10T06:18:02.000Z"
+        },
+        {
+          "title": "Taiwán aumenta gasto en defensa para “disuadir la guerra”",
+          "link": "https://www.dw.com/es/taiwán-aumenta-gasto-en-defensa-para-disuadir-la-guerra/a-79624655?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-10T04:28:00.000Z"
+        },
+        {
+          "title": "EAU asegura que ataque en vuelo de Flydubai tenía como objetivo estrellar avión contra Ben Gurion",
+          "link": "https://www.france24.com/es/video/20261010-eau-asegura-que-ataque-en-vuelo-de-flydubai-ten%C3%ADa-como-objetivo-estrellar-avi%C3%B3n-contra-ben-gurion",
           "source": "France 24",
-          "published": "2026-10-09T19:57:20.000Z"
+          "published": "2026-10-10T04:18:46.000Z"
         }
       ]
     }
