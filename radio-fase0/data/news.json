@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-10T11:34:52.373Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-10T16:35:04.239Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -17,56 +17,78 @@
             "El País"
           ],
           "firstSeen": "2026-10-10T11:34:52.373Z"
+        },
+        {
+          "title": "Las protestas contra Presa suspenden el partido entre Rayo y Athletic en Vallecas",
+          "link": "https://elpais.com/deportes/futbol/2026-10-10/las-protestas-contra-presa-detienen-el-partido-entre-rayo-y-athletic-en-vallecas.html",
+          "source": "El País",
+          "summary": "Los aficionados han arrojado centenares de pelotas de colores y aviones de papel al terreno de juego en el primer encuentro del conjunto vallecano en su estadio, cerrado por su mal estado en el arranque de la Liga",
+          "sources": [
+            "El País",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-10T16:35:04.239Z"
+        },
+        {
+          "title": "Ayuso carga contra la acampada en Sol y pide saber si \"está manejada por un grupo con antecedentes terroristas\"",
+          "link": "https://www.20minutos.es/madrid/ayuso-acampada-sol-pide-saber-si-esta-manejada-por-grupo-antecedentes-terroristas_7047446_0.html",
+          "source": "20minutos",
+          "summary": "La presidenta madrileña ha asegurado que países como EEUU o Canadá han incluido en su lista de organizaciones terroristas a \"la gente que hoy tenemos en la Puerta del Sol\".",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-10T16:35:04.239Z"
         }
       ],
       "items": [
         {
-          "title": "Maricarmen y las elecciones del 29-N, en directo | Sánchez se compromete en un mitin en Sevilla a “reforzar y mantener” los decretos de vivienda",
-          "link": "https://elpais.com/espana/2026-10-10/maricarmen-y-las-elecciones-del-29-n-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-10T11:31:00.000Z"
-        },
-        {
-          "title": "Feijóo promete \"un Gobierno que pedirá sacrificios\" y Ayuso tilda de \"terroristas\" a los acampados en Sol",
-          "link": "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html",
+          "title": "Drago Canarias anuncia que concurrirá en solitario a las elecciones generales",
+          "link": "https://www.eldiario.es/canariasahora/politica/drago-canarias-anuncia-concurrira-solitario-elecciones-generales_1_13577708.html",
           "source": "elDiario.es",
-          "published": "2026-10-10T11:19:19.000Z"
+          "published": "2026-10-10T16:24:58.000Z"
         },
         {
-          "title": "Feijóo asume que el 29-N será su última oportunidad: “¡No tenemos derecho a fallar. No vamos a fallar!”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-10/feijoo-asume-que-el-29n-sera-su-ultima-oportunidad-no-tenemos-derecho-a-fallar-no-vamos-a-fallar.html",
-          "source": "El País",
-          "published": "2026-10-10T11:15:16.000Z"
-        },
-        {
-          "title": "Ayuso exige a la Delegación información sobre si la acampada en Sol la gestiona un grupo con \"antecedentes terroristas\"",
-          "link": "https://www.europapress.es/madrid/noticia-ayuso-exige-delegacion-informacion-si-acampada-sol-gestiona-grupo-antecedentes-terroristas-20261010122235.html",
-          "source": "Europa Press",
-          "published": "2026-10-10T10:22:35.000Z"
-        },
-        {
-          "title": "Absuelven a un vigilante de una discoteca por lanzar expresiones homófobas y condenan al denunciante por insultos racistas",
-          "link": "https://www.20minutos.es/cataluna/barcelona/absuelven-un-vigilante-una-discoteca-por-lanzar-expresiones-homofobas-condenan-denunciante-por-insultos-racistas_7047394_0.html",
+          "title": "Miriam González lanza el partido Democracia21 de cara al 29N y propone bajar impuestos en vivienda a menores de 35 años",
+          "link": "https://www.20minutos.es/nacional/abogada-miriam-gonzalez-lanza-partido-democracia21-cara-29n-propone-bajar-impuestos-vivienda-menores-35-anos_7047450_0.html",
           "source": "20minutos",
-          "published": "2026-10-10T09:57:53.000Z"
+          "published": "2026-10-10T14:27:16.000Z"
         },
         {
-          "title": "La Policía monitoriza a grupos radicales tras dos semanas de protestas en Sol por la vivienda",
-          "link": "https://www.20minutos.es/madrid/policia-monitoriza-grupos-radicales-tras-dos-semanas-protestas-puerta-sol-por-vivienda_7047387_0.html",
-          "source": "20minutos",
-          "published": "2026-10-10T09:57:05.000Z"
-        },
-        {
-          "title": "La izquierda afronta una semana decisiva con Frente Amplio aún sin candidato y Podemos volcado en sus primarias",
-          "link": "https://www.europapress.es/nacional/noticia-izquierda-afronta-semana-decisiva-frente-amplio-aun-candidato-podemos-volcado-primarias-20261010114010.html",
-          "source": "Europa Press",
-          "published": "2026-10-10T09:40:10.000Z"
-        },
-        {
-          "title": "Los frugales van ganando: la propuesta irlandesa para negociar el presupuesto europeo parte de un recorte del 8%",
-          "link": "https://www.eldiario.es/economia/frugales-ganando-propuesta-irlandesa-negociar-presupuesto-europeo-parte-recorte-8_1_13577038.html",
+          "title": "La abogada Miriam González anuncia su candidatura al Congreso por Democracia 21, que solo presentará listas en Madrid y Barcelona",
+          "link": "https://www.eldiario.es/politica/abogada-miriam-gonzalez-anuncia-candidatura-congreso-democracia-21-presentara-listas-madrid-barcelona_1_13577548.html",
           "source": "elDiario.es",
-          "published": "2026-10-10T09:06:44.000Z"
+          "published": "2026-10-10T13:30:39.000Z"
+        },
+        {
+          "title": "Podemos acusa al sistema de \"matar\" con los desahucios: \"La política tiene que ponerse del lado de las personas, no de los negocios\"",
+          "link": "https://www.eldiario.es/politica/acusa-sistema-matar-desahucios-politica-ponerse-lado-personas-no-negocios_1_13577494.html",
+          "source": "elDiario.es",
+          "published": "2026-10-10T12:37:49.000Z"
+        },
+        {
+          "title": "Sánchez promete \"reforzar\" el decreto de vivienda y acusa a PP y Vox de lanzar bulos del voto por correo: \"Tienen miedo a perder\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-promete-reforzar-decreto-vivienda-acusa-pp-vox-lanzar-bulos-voto-correo-miedo-perder_7047444_0.html",
+          "source": "20minutos",
+          "published": "2026-10-10T12:34:51.000Z"
+        },
+        {
+          "title": "Sánchez se centra en vivienda y ataca al PP por dudar del voto por correo: “Estos son los de cuantos menos voten, mejor”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-10/sanchez-se-centra-en-vivienda-y-ataca-al-pp-por-dudar-del-voto-por-correo-estos-son-los-de-cuantos-menos-voten-mejor.html",
+          "source": "El País",
+          "published": "2026-10-10T12:20:41.000Z"
+        },
+        {
+          "title": "Irene Montero arremete contra el PSOE y pide llenar el Congreso de \"Robin Hood\" que cojan el dinero de ricos para la \"gente trabajadora\"",
+          "link": "https://www.20minutos.es/nacional/irene-montero-arremete-contra-psoe-pide-llenar-congreso-robin-hood-que-cojan-dinero-ricos-para-gente-trabajadora_7047439_0.html",
+          "source": "20minutos",
+          "published": "2026-10-10T12:03:30.000Z"
+        },
+        {
+          "title": "Feijóo pregunta a Sánchez quién dio la orden de \"deshacerse\" de la jueza Biedma y promete una \"reconstrucción nacional total\"",
+          "link": "https://www.20minutos.es/nacional/feijoo-pregunta-sanchez-quien-dio-orden-deshacerse-juez-biedma-promete-reconstruccion-nacional-total_7047435_0.html",
+          "source": "20minutos",
+          "published": "2026-10-10T11:55:00.000Z"
         }
       ]
     },
@@ -88,6 +110,18 @@
           "firstSeen": "2026-10-10T11:34:52.373Z"
         },
         {
+          "title": "Ucrania golpea una gran terminal petrolera rusa tras el acuerdo del diésel de Trump y Putin",
+          "link": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
+          "source": "El País Internacional",
+          "summary": "El presidente estadounidense anuncia a bombo y platillos una medida que Rusia ya se disponía a tomar días antes",
+          "sources": [
+            "El País Internacional",
+            "20minutos Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-10-10T11:34:52.373Z"
+        },
+        {
           "title": "Un fuerte terremoto de magnitud 7,7 sacude Panamá: el presidente Mulino afirma que el desastre que enfrenta su país \"es grande\"",
           "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
@@ -99,65 +133,76 @@
           "firstSeen": "2026-10-10T11:34:52.373Z"
         },
         {
-          "title": "Ucrania golpea una gran terminal petrolera rusa tras el acuerdo del diésel de Trump y Putin",
-          "link": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
-          "source": "El País Internacional",
-          "summary": "El presidente estadounidense anuncia a bombo y platillos una medida que Rusia ya se disponía a tomar días antes",
+          "title": "Un año de alto el fuego en Gaza, con un acuerdo vulnerado y casi 1.480 palestinos muertos por Israel",
+          "link": "https://www.france24.com/es/video/20261010-un-a%C3%B1o-de-alto-el-fuego-en-gaza-con-un-acuerdo-vulnerado-y-casi-1-480-palestinos-muertos-por-israel",
+          "source": "France 24",
+          "summary": "Un acuerdo incumplido y vulnerado por Israel. Tras un año de la firma del alto el fuego en la Franja de Gaza, solo se ha cumplido a medias el fin inmediato de la violencia: la reducción del número y la dureza de los ataques. Pero en nueve de cada diez días, Israel ha disparado fuego de artillería letal, matando a casi 1.480 palestinos. Israel tampoco ha frenado sus operaciones militares, sigue ocupando casi el 70% del enclave, ha impuesto nuevos puestos de avanzada y continúa arrasando la infraestructura. Nuestra corresponsal, Janira Gómez Muñoz, nos amplía la información.",
           "sources": [
-            "El País Internacional",
-            "20minutos Internacional"
+            "France 24",
+            "El País Internacional"
           ],
-          "firstSeen": "2026-10-10T11:34:52.373Z"
+          "firstSeen": "2026-10-10T16:35:04.239Z"
+        },
+        {
+          "title": "Policía detiene al líder del movimiento de las \"cucarachas\" antes de una protesta en Nueva Delhi",
+          "link": "https://www.france24.com/es/video/20261010-polic%C3%ADa-detiene-al-l%C3%ADder-del-movimiento-de-las-cucarachas-antes-de-una-protesta-en-nueva-delhi",
+          "source": "France 24",
+          "summary": "La Policía detuvo en Nueva Delhi a Abhijeet Dipke, fundador del \"Partido de las Cucarachas\", y a otros dos líderes al aterrizar su vuelo. Pese a la prohibición de la protesta juvenil de este 10 de octubre, el cierre de estaciones de metro, la cancelación de trenes y el corte de internet móvil, los manifestantes salieron a exigir la dimisión del jefe de la Comisión Electoral, Gyanesh Kumar, por la eliminación de más de 130 millones de nombres de las listas de votantes.",
+          "sources": [
+            "France 24",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-10T16:35:04.239Z"
         }
       ],
       "items": [
         {
-          "title": "El Supremo acelera para decidir sobre el voto de nacionalizados por la 'ley de nietos' ante el adelanto electoral",
-          "link": "https://www.20minutos.es/internacional/supremo-acelera-para-decidir-sobre-voto-nacionalizados-por-ley-nietos-ante-adelanto-electoral_7047428_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-10T10:57:57.000Z"
-        },
-        {
-          "title": "Ucrania reporta ocho muertos en ataque ruso en región de Zaporiyia",
-          "link": "https://www.dw.com/es/ucrania-reporta-ocho-muertos-en-ataque-ruso-en-región-de-zaporiyia/a-79626849?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-10T09:42:00.000Z"
-        },
-        {
-          "title": "Trump arremete contra la nueva Nobel de la Paz y afirma que el \"desacreditado\" premio debería ser suyo",
-          "link": "https://www.20minutos.es/internacional/trump-arremete-contra-nueva-nobel-paz-afirma-que-desacreditado-premio-deberia-ser-suyo_7047391_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-10T08:26:34.000Z"
-        },
-        {
-          "title": "Nueva Delhi corta internet móvil y cierra estaciones de tren por protesta",
-          "link": "https://www.dw.com/es/nueva-delhi-corta-internet-móvil-y-cierra-estaciones-de-tren-por-protesta/a-79626097?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-10T07:54:00.000Z"
-        },
-        {
-          "title": "Terremoto en Panamá: al menos 27 heridos leves y más de 400 edificaciones afectadas",
-          "link": "https://www.20minutos.es/internacional/heridos-edificaciones-afectadas-terremoto-panama_7047377_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-10T07:13:49.000Z"
-        },
-        {
-          "title": "Las tiendas de IKEA podrían convertirse en refugios en Dinamarca a medida que Europa aumenta su preparación ante catástrofes",
-          "link": "https://www.20minutos.es/internacional/las-tiendas-ikea-podrian-convertirse-refugios-dinamarca-medida-que-europa-aumenta-su-preparacion-ante-catastrofes_7047340_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-10T06:18:02.000Z"
-        },
-        {
-          "title": "Taiwán aumenta gasto en defensa para “disuadir la guerra”",
-          "link": "https://www.dw.com/es/taiwán-aumenta-gasto-en-defensa-para-disuadir-la-guerra/a-79624655?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-10T04:28:00.000Z"
-        },
-        {
-          "title": "EAU asegura que ataque en vuelo de Flydubai tenía como objetivo estrellar avión contra Ben Gurion",
-          "link": "https://www.france24.com/es/video/20261010-eau-asegura-que-ataque-en-vuelo-de-flydubai-ten%C3%ADa-como-objetivo-estrellar-avi%C3%B3n-contra-ben-gurion",
+          "title": "Brasil: Lula recorta impuestos a combustibles y Bolsonaro promete Ministerio de la Prosperidad",
+          "link": "https://www.france24.com/es/video/20261010-brasil-lula-recorta-impuestos-a-combustibles-y-bolsonaro-promete-ministerio-de-la-prosperidad",
           "source": "France 24",
-          "published": "2026-10-10T04:18:46.000Z"
+          "published": "2026-10-10T16:29:23.000Z"
+        },
+        {
+          "title": "Un año después del alto el fuego en Gaza: ayuda parcial, hambre y ataques que no cesan",
+          "link": "https://www.france24.com/es/video/20261010-un-a%C3%B1o-despu%C3%A9s-del-alto-el-fuego-en-gaza-ayuda-parcial-hambre-y-ataques-que-no-cesan",
+          "source": "France 24",
+          "published": "2026-10-10T16:24:39.000Z"
+        },
+        {
+          "title": "Las \"cucarachas\" de India contra la Comisión Electoral: lo que hay que saber de las protestas del CJP",
+          "link": "https://www.dw.com/es/las-cucarachas-de-india-contra-la-comisión-electoral-lo-que-hay-que-saber-de-las-protestas-del-cjp/a-79628594?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-10T15:35:00.000Z"
+        },
+        {
+          "title": "India sofoca las protestas de las \"cucarachas\" con miles de arrestos, incluidos sus líderes",
+          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261010-india-sofoca-las-protestas-de-las-cucarachas-con-miles-de-arrestos-incluidos-sus-l%C3%ADderes",
+          "source": "France 24",
+          "published": "2026-10-10T15:11:53.000Z"
+        },
+        {
+          "title": "El presidente de Taiwán asegura que no pretende \"provocar\" a China, sino evitar la guerra",
+          "link": "https://www.20minutos.es/internacional/presidente-taiwan-asegura-que-no-pretende-provocar-china-sino-evitar-guerra_7047410_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-10T15:04:54.000Z"
+        },
+        {
+          "title": "La UE reacciona al acuerdo entre Trump y Putin: \"Suspender sanciones sobre el diésel ruso proporciona ingresos para la guerra\"",
+          "link": "https://www.20minutos.es/internacional/ue-reacciona-acuerdo-entre-trump-putin-suspender-sanciones-sobre-diesel-ruso-proporciona-ingresos-para-guerra_7047482_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-10T14:59:29.000Z"
+        },
+        {
+          "title": "Varios heridos y más de 1.000 detenidos en la protesta de la generación Z en la India",
+          "link": "https://www.20minutos.es/internacional/varios-heridos-mas-1-000-detenidos-protesta-generacion-z-india_7047467_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-10T13:52:43.000Z"
+        },
+        {
+          "title": "En directo: ataques rusos dejan al menos 15 muertos en Zaporizhia y provocan apagones masivos en Kiev",
+          "link": "https://www.france24.com/es/europa/20261010-en-directo-ataques-rusos-contra-zaporizhia-dejan-al-menos-12-muertos-entre-ellos-ni%C3%B1os",
+          "source": "France 24",
+          "published": "2026-10-10T12:57:22.000Z"
         }
       ]
     }
