@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-10T16:35:04.239Z",
+  "updatedAt": "2026-10-10T20:52:30.009Z",
   "edition": "tarde",
   "sections": [
     {
@@ -43,6 +43,24 @@
       ],
       "items": [
         {
+          "title": "Desalojo y multa para una madre con cuatro hijos menores por ocupar un piso de renta social del Gobierno de Aragón",
+          "link": "https://www.eldiario.es/aragon/sociedad/desalojo-multa-madre-cuatro-hijos-menores-ocupar-piso-renta-social-gobierno-aragon_1_13577815.html",
+          "source": "elDiario.es",
+          "published": "2026-10-10T17:35:22.000Z"
+        },
+        {
+          "title": "Un hombre mata a nueve personas, dos de ellas niños y una mujer embarazada y luego se suicida en EEUU",
+          "link": "https://www.20minutos.es/internacional/hombre-mata-personas-ninos-mujer-embarazada-luego-suicida-tiroteo-eeuu_7047503_0.html",
+          "source": "20minutos",
+          "published": "2026-10-10T17:06:07.000Z"
+        },
+        {
+          "title": "La temporada de gripe llega antes de lo previsto: \"Octubre es el momento ideal para vacunarse\"",
+          "link": "https://www.20minutos.es/salud/temporada-gripe-comienza-antes-previsto-octubre-es-momento-ideal-para-vacunarse_7047495_0.html",
+          "source": "20minutos",
+          "published": "2026-10-10T16:54:46.000Z"
+        },
+        {
           "title": "Drago Canarias anuncia que concurrirá en solitario a las elecciones generales",
           "link": "https://www.eldiario.es/canariasahora/politica/drago-canarias-anuncia-concurrira-solitario-elecciones-generales_1_13577708.html",
           "source": "elDiario.es",
@@ -71,24 +89,6 @@
           "link": "https://www.20minutos.es/nacional/sanchez-promete-reforzar-decreto-vivienda-acusa-pp-vox-lanzar-bulos-voto-correo-miedo-perder_7047444_0.html",
           "source": "20minutos",
           "published": "2026-10-10T12:34:51.000Z"
-        },
-        {
-          "title": "Sánchez se centra en vivienda y ataca al PP por dudar del voto por correo: “Estos son los de cuantos menos voten, mejor”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-10/sanchez-se-centra-en-vivienda-y-ataca-al-pp-por-dudar-del-voto-por-correo-estos-son-los-de-cuantos-menos-voten-mejor.html",
-          "source": "El País",
-          "published": "2026-10-10T12:20:41.000Z"
-        },
-        {
-          "title": "Irene Montero arremete contra el PSOE y pide llenar el Congreso de \"Robin Hood\" que cojan el dinero de ricos para la \"gente trabajadora\"",
-          "link": "https://www.20minutos.es/nacional/irene-montero-arremete-contra-psoe-pide-llenar-congreso-robin-hood-que-cojan-dinero-ricos-para-gente-trabajadora_7047439_0.html",
-          "source": "20minutos",
-          "published": "2026-10-10T12:03:30.000Z"
-        },
-        {
-          "title": "Feijóo pregunta a Sánchez quién dio la orden de \"deshacerse\" de la jueza Biedma y promete una \"reconstrucción nacional total\"",
-          "link": "https://www.20minutos.es/nacional/feijoo-pregunta-sanchez-quien-dio-orden-deshacerse-juez-biedma-promete-reconstruccion-nacional-total_7047435_0.html",
-          "source": "20minutos",
-          "published": "2026-10-10T11:55:00.000Z"
         }
       ]
     },
@@ -108,6 +108,19 @@
             "elDiario.es Internacional"
           ],
           "firstSeen": "2026-10-10T11:34:52.373Z"
+        },
+        {
+          "title": "Trump arremete con dureza contra Zelenski tras el acuerdo con Putin: \"Es hora de que Ucrania tenga nuevo presidente\"",
+          "link": "https://www.20minutos.es/internacional/trump-arremete-con-dureza-contra-zelenski-tras-acuerdo-con-putin-es-hora-que-ucrania-tenga-nuevo-presidente_7047511_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El líder estadounidense ha criticado que Zelenski \"nunca llega a acuerdos\" y asegura que solo quiere \"problemas\" para el mundo.",
+          "sources": [
+            "20minutos Internacional",
+            "BBC Mundo",
+            "France 24",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-10T20:52:30.009Z"
         },
         {
           "title": "Ucrania golpea una gran terminal petrolera rusa tras el acuerdo del diésel de Trump y Putin",
@@ -142,67 +155,56 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-10-10T16:35:04.239Z"
-        },
-        {
-          "title": "Policía detiene al líder del movimiento de las \"cucarachas\" antes de una protesta en Nueva Delhi",
-          "link": "https://www.france24.com/es/video/20261010-polic%C3%ADa-detiene-al-l%C3%ADder-del-movimiento-de-las-cucarachas-antes-de-una-protesta-en-nueva-delhi",
-          "source": "France 24",
-          "summary": "La Policía detuvo en Nueva Delhi a Abhijeet Dipke, fundador del \"Partido de las Cucarachas\", y a otros dos líderes al aterrizar su vuelo. Pese a la prohibición de la protesta juvenil de este 10 de octubre, el cierre de estaciones de metro, la cancelación de trenes y el corte de internet móvil, los manifestantes salieron a exigir la dimisión del jefe de la Comisión Electoral, Gyanesh Kumar, por la eliminación de más de 130 millones de nombres de las listas de votantes.",
-          "sources": [
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-10T16:35:04.239Z"
         }
       ],
       "items": [
         {
-          "title": "Brasil: Lula recorta impuestos a combustibles y Bolsonaro promete Ministerio de la Prosperidad",
-          "link": "https://www.france24.com/es/video/20261010-brasil-lula-recorta-impuestos-a-combustibles-y-bolsonaro-promete-ministerio-de-la-prosperidad",
-          "source": "France 24",
-          "published": "2026-10-10T16:29:23.000Z"
+          "title": "Navi Pillay frente a la ley del más fuerte",
+          "link": "https://www.eldiario.es/internacional/navi-pillay-frente-ley-fuerte_129_13577451.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-10T20:10:47.000Z"
         },
         {
-          "title": "Un año después del alto el fuego en Gaza: ayuda parcial, hambre y ataques que no cesan",
-          "link": "https://www.france24.com/es/video/20261010-un-a%C3%B1o-despu%C3%A9s-del-alto-el-fuego-en-gaza-ayuda-parcial-hambre-y-ataques-que-no-cesan",
-          "source": "France 24",
-          "published": "2026-10-10T16:24:39.000Z"
-        },
-        {
-          "title": "Las \"cucarachas\" de India contra la Comisión Electoral: lo que hay que saber de las protestas del CJP",
-          "link": "https://www.dw.com/es/las-cucarachas-de-india-contra-la-comisión-electoral-lo-que-hay-que-saber-de-las-protestas-del-cjp/a-79628594?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Protestas en India dejan heridos y miles de detenidos",
+          "link": "https://www.dw.com/es/protestas-en-india-dejan-heridos-y-miles-de-detenidos/a-79630027?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-10T15:35:00.000Z"
+          "published": "2026-10-10T20:08:00.000Z"
         },
         {
-          "title": "India sofoca las protestas de las \"cucarachas\" con miles de arrestos, incluidos sus líderes",
-          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261010-india-sofoca-las-protestas-de-las-cucarachas-con-miles-de-arrestos-incluidos-sus-l%C3%ADderes",
+          "title": "Un nuevo ataque atribuido a los rebeldes hutíes contra el aeropuerto de Riad deja varios heridos",
+          "link": "https://www.france24.com/es/medio-oriente/20261010-un-nuevo-ataque-atribuido-a-los-rebeldes-hut%C3%ADes-contra-el-aeropuerto-de-riad-deja-varios-heridos",
           "source": "France 24",
-          "published": "2026-10-10T15:11:53.000Z"
+          "published": "2026-10-10T20:03:12.000Z"
         },
         {
-          "title": "El presidente de Taiwán asegura que no pretende \"provocar\" a China, sino evitar la guerra",
-          "link": "https://www.20minutos.es/internacional/presidente-taiwan-asegura-que-no-pretende-provocar-china-sino-evitar-guerra_7047410_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-10T15:04:54.000Z"
-        },
-        {
-          "title": "La UE reacciona al acuerdo entre Trump y Putin: \"Suspender sanciones sobre el diésel ruso proporciona ingresos para la guerra\"",
-          "link": "https://www.20minutos.es/internacional/ue-reacciona-acuerdo-entre-trump-putin-suspender-sanciones-sobre-diesel-ruso-proporciona-ingresos-para-guerra_7047482_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-10T14:59:29.000Z"
-        },
-        {
-          "title": "Varios heridos y más de 1.000 detenidos en la protesta de la generación Z en la India",
-          "link": "https://www.20minutos.es/internacional/varios-heridos-mas-1-000-detenidos-protesta-generacion-z-india_7047467_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-10T13:52:43.000Z"
-        },
-        {
-          "title": "En directo: ataques rusos dejan al menos 15 muertos en Zaporizhia y provocan apagones masivos en Kiev",
-          "link": "https://www.france24.com/es/europa/20261010-en-directo-ataques-rusos-contra-zaporizhia-dejan-al-menos-12-muertos-entre-ellos-ni%C3%B1os",
+          "title": "Christa Pike, condenada por asesinato, sale del hospital y regresa a prisión tras una ejecución fallida",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261010-christa-pike-condenada-por-asesinato-sale-del-hospital-y-regresa-a-prisi%C3%B3n-tras-una-ejecuci%C3%B3n-fallida",
           "source": "France 24",
-          "published": "2026-10-10T12:57:22.000Z"
+          "published": "2026-10-10T19:40:12.000Z"
+        },
+        {
+          "title": "Un joven sobrevive al ataque de un oso en Rusia después de que le explotara el móvil en el momento en el que el animal le mordía",
+          "link": "https://www.20minutos.es/internacional/joven-sobrevive-ataque-oso-rusia-despues-explotara-movil-momento-animal-mordia_7047527_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-10T19:35:33.000Z"
+        },
+        {
+          "title": "La Autoridad Palestina unifica elecciones: pospone las legislativas y convoca a presidenciales para 2027",
+          "link": "https://www.france24.com/es/medio-oriente/20261010-la-autoridad-palestina-unifica-elecciones-pospone-las-legislativas-y-convoca-a-presidenciales-para-2027",
+          "source": "France 24",
+          "published": "2026-10-10T19:15:57.000Z"
+        },
+        {
+          "title": "Condenada que sobrevivió a ejecución en EEUU regresa a la cárcel",
+          "link": "https://www.dw.com/es/condenada-que-sobrevivió-a-ejecución-en-eeuu-regresa-a-la-cárcel/a-79630003?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-10T18:57:00.000Z"
+        },
+        {
+          "title": "Trump anima a los ucranios a que “busquen un nuevo líder” tras un ataque de Kiev contra el sector petrolero ruso",
+          "link": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
+          "source": "El País Internacional",
+          "published": "2026-10-10T17:51:24.000Z"
         }
       ]
     }
