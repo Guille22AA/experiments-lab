@@ -1,94 +1,106 @@
 {
-  "date": "2026-10-10",
-  "updatedAt": "2026-10-10T20:52:30.009Z",
-  "edition": "tarde",
+  "date": "2026-10-11",
+  "updatedAt": "2026-10-11T11:47:55.851Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Más de 100 organismos denuncian que “el alto el fuego en Gaza existe solo sobre el papel”",
-          "link": "https://diariosocialista.net/2026/10/10/mas-de-100-organismos-denuncian-que-el-alto-el-fuego-en-gaza-existe-solo-sobre-el-papel/",
-          "source": "Diario Socialista",
-          "summary": "Amnistía Internacional, el Consejo Noruego para Refugiados, Save the Children y Oxfam exigen el fin de la impunidad israelí un año después de un “alto el fuego” que no ha detenido los ataques: 1.471 palestinos exterminados desde entonces, 327 de ellos niños.",
+          "title": "Mertxe Aizpurua no será candidata por EH Bildu al Congreso",
+          "link": "https://www.europapress.es/euskadi/noticia-mertxe-aizpurua-no-sera-candidata-eh-bildu-congreso-20261011110957.html",
+          "source": "Europa Press",
+          "summary": "La portavoz de EH Bildu en el Congreso de los Diputados, Mertxe Aizpurua, no será candidata por la coalición soberanista en las elecciones generales del 29 de noviembre, según han confirmado fuentes de la coalición abertzale a Europa Press.",
           "sources": [
-            "Diario Socialista",
-            "El País"
+            "Europa Press",
+            "El País",
+            "elDiario.es"
           ],
-          "firstSeen": "2026-10-10T11:34:52.373Z"
+          "firstSeen": "2026-10-11T11:47:55.851Z"
         },
         {
-          "title": "Las protestas contra Presa suspenden el partido entre Rayo y Athletic en Vallecas",
-          "link": "https://elpais.com/deportes/futbol/2026-10-10/las-protestas-contra-presa-detienen-el-partido-entre-rayo-y-athletic-en-vallecas.html",
+          "title": "Sánchez pide al Supremo que “frene el intento de atropello” de Feijóo y Abascal y permita votar a los descendientes del exilio",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-11/sanchez-pide-al-supremo-que-frene-el-intento-de-atropello-de-feijoo-y-abascal-y-permita-votar-a-los-descendientes-del-exilio.html",
           "source": "El País",
-          "summary": "Los aficionados han arrojado centenares de pelotas de colores y aviones de papel al terreno de juego en el primer encuentro del conjunto vallecano en su estadio, cerrado por su mal estado en el arranque de la Liga",
+          "summary": "El presidente del Gobierno vuelve a hacer del derecho a la vivienda el eje de su discurso durante un mitin de precampaña en Ponferrada",
           "sources": [
             "El País",
-            "20minutos"
+            "Europa Press"
           ],
-          "firstSeen": "2026-10-10T16:35:04.239Z"
+          "firstSeen": "2026-10-11T11:47:55.851Z"
         },
         {
-          "title": "Ayuso carga contra la acampada en Sol y pide saber si \"está manejada por un grupo con antecedentes terroristas\"",
-          "link": "https://www.20minutos.es/madrid/ayuso-acampada-sol-pide-saber-si-esta-manejada-por-grupo-antecedentes-terroristas_7047446_0.html",
+          "title": "Gabriel Rufián encabezará la lista de ERC al Congreso en las elecciones generales",
+          "link": "https://www.20minutos.es/nacional/gabriel-rufia-cabeza-lista-erc-congreso-elecciones-generales-noviembre-2026_7047601_0.html",
           "source": "20minutos",
-          "summary": "La presidenta madrileña ha asegurado que países como EEUU o Canadá han incluido en su lista de organizaciones terroristas a \"la gente que hoy tenemos en la Puerta del Sol\".",
+          "summary": "La decisión se formalizará este domingo en una reunión de la Ejecutiva Nacional de ERC.",
           "sources": [
             "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-10T16:35:04.239Z"
+          "firstSeen": "2026-10-11T11:47:55.851Z"
+        },
+        {
+          "title": "Cándido Conde-Pumpido: \"Cuestionar al Tribunal Constitucional es cuestionar la democracia\"",
+          "link": "https://www.europapress.es/nacional/noticia-candido-conde-pumpido-cuestionar-tribunal-constitucional-cuestionar-democracia-20261011105043.html",
+          "source": "Europa Press",
+          "summary": "El presidente del Tribunal Constitucional (TC), Cándido Conde-Pumpido, ha asegurado que ningún miembro de un poder del Estado debería \"descalificar o cuestionar las decisiones del Constitucional ni de ningún otro tribunal\" y ha defendido que la independencia judicial debe ser respetada.",
+          "sources": [
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-10-11T11:47:55.851Z"
         }
       ],
       "items": [
         {
-          "title": "Desalojo y multa para una madre con cuatro hijos menores por ocupar un piso de renta social del Gobierno de Aragón",
-          "link": "https://www.eldiario.es/aragon/sociedad/desalojo-multa-madre-cuatro-hijos-menores-ocupar-piso-renta-social-gobierno-aragon_1_13577815.html",
-          "source": "elDiario.es",
-          "published": "2026-10-10T17:35:22.000Z"
-        },
-        {
-          "title": "Un hombre mata a nueve personas, dos de ellas niños y una mujer embarazada y luego se suicida en EEUU",
-          "link": "https://www.20minutos.es/internacional/hombre-mata-personas-ninos-mujer-embarazada-luego-suicida-tiroteo-eeuu_7047503_0.html",
+          "title": "Condenados a 14 años de prisión unos padres en Málaga por abandonar de madrugada a su hija recién nacida en un descampado",
+          "link": "https://www.20minutos.es/andalucia/malaga/condenados-14-anos-prision-unos-padres-malaga-por-abandonar-madrugada-su-hija-recien-nacida-un-descampado_7047614_0.html",
           "source": "20minutos",
-          "published": "2026-10-10T17:06:07.000Z"
+          "published": "2026-10-11T11:09:53.000Z"
         },
         {
-          "title": "La temporada de gripe llega antes de lo previsto: \"Octubre es el momento ideal para vacunarse\"",
-          "link": "https://www.20minutos.es/salud/temporada-gripe-comienza-antes-previsto-octubre-es-momento-ideal-para-vacunarse_7047495_0.html",
+          "title": "Qué es la 'hobosexualidad', la tendencia de buscar pareja para conseguir una vivienda",
+          "link": "https://www.20minutos.es/vivienda/que-es-hobosexualidad-tendencia-buscar-pareja-para-conseguir-una-vivienda_7047598_0.html",
           "source": "20minutos",
-          "published": "2026-10-10T16:54:46.000Z"
+          "published": "2026-10-11T11:06:42.000Z"
         },
         {
-          "title": "Drago Canarias anuncia que concurrirá en solitario a las elecciones generales",
-          "link": "https://www.eldiario.es/canariasahora/politica/drago-canarias-anuncia-concurrira-solitario-elecciones-generales_1_13577708.html",
+          "title": "ERC confirma a Rufián como cabeza de lista y cierra la puerta al Frente Amplio",
+          "link": "https://www.eldiario.es/catalunya/erc-confirma-rufian-cabeza-lista-cierra-puerta-frente-amplio_1_13577275.html",
           "source": "elDiario.es",
-          "published": "2026-10-10T16:24:58.000Z"
+          "published": "2026-10-11T10:04:27.000Z"
         },
         {
-          "title": "Miriam González lanza el partido Democracia21 de cara al 29N y propone bajar impuestos en vivienda a menores de 35 años",
-          "link": "https://www.20minutos.es/nacional/abogada-miriam-gonzalez-lanza-partido-democracia21-cara-29n-propone-bajar-impuestos-vivienda-menores-35-anos_7047450_0.html",
+          "title": "Quién ganará las elecciones generales del 29N, según la Inteligencia Artificial",
+          "link": "https://www.20minutos.es/nacional/quien-ganara-las-elecciones-generales-29n-segun-inteligencia-artificial_7047584_0.html",
           "source": "20minutos",
-          "published": "2026-10-10T14:27:16.000Z"
+          "published": "2026-10-11T09:48:16.000Z"
         },
         {
-          "title": "La abogada Miriam González anuncia su candidatura al Congreso por Democracia 21, que solo presentará listas en Madrid y Barcelona",
-          "link": "https://www.eldiario.es/politica/abogada-miriam-gonzalez-anuncia-candidatura-congreso-democracia-21-presentara-listas-madrid-barcelona_1_13577548.html",
+          "title": "'Génova' cree que ya no funciona el \"miedo\" a Vox que agita el PSOE y que moviliza más la \"animadversión\" hacia Sánchez",
+          "link": "https://www.europapress.es/nacional/noticia-genova-cree-ya-no-funciona-miedo-vox-agita-psoe-moviliza-mas-animadversion-sanchez-20261011103946.html",
+          "source": "Europa Press",
+          "published": "2026-10-11T08:39:46.000Z"
+        },
+        {
+          "title": "El Congreso surgido de las elecciones del 29N dará más facilidades a las minorías para formar grupo parlamentario propio",
+          "link": "https://www.europapress.es/nacional/noticia-congreso-surgido-elecciones-29n-dara-mas-facilidades-minorias-formar-grupo-parlamentario-propio-20261011092951.html",
+          "source": "Europa Press",
+          "published": "2026-10-11T07:29:51.000Z"
+        },
+        {
+          "title": "Decenas de migrantes son expulsados sin procedimiento a Marruecos tras el desalojo del asentamiento del Guano en Ceuta",
+          "link": "https://www.eldiario.es/desalambre/policia-ejercito-desalojan-asentamiento-guano-ceuta-resignacion-migrantes-adios-espana_1_13578061.html",
           "source": "elDiario.es",
-          "published": "2026-10-10T13:30:39.000Z"
+          "published": "2026-10-11T07:08:02.000Z"
         },
         {
-          "title": "Podemos acusa al sistema de \"matar\" con los desahucios: \"La política tiene que ponerse del lado de las personas, no de los negocios\"",
-          "link": "https://www.eldiario.es/politica/acusa-sistema-matar-desahucios-politica-ponerse-lado-personas-no-negocios_1_13577494.html",
+          "title": "Sigue el incendio interno en el PNV: Aitor Esteban cuestiona abiertamente la salida de Elixabete Etxanobe de Bizkaia",
+          "link": "https://www.eldiario.es/euskadi/sigue-incendio-interno-pnv-aitor-esteban-cuestiona-abiertamente-salida-elixabete-etxanobe-bizkaia_1_13578052.html",
           "source": "elDiario.es",
-          "published": "2026-10-10T12:37:49.000Z"
-        },
-        {
-          "title": "Sánchez promete \"reforzar\" el decreto de vivienda y acusa a PP y Vox de lanzar bulos del voto por correo: \"Tienen miedo a perder\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-promete-reforzar-decreto-vivienda-acusa-pp-vox-lanzar-bulos-voto-correo-miedo-perder_7047444_0.html",
-          "source": "20minutos",
-          "published": "2026-10-10T12:34:51.000Z"
+          "published": "2026-10-11T06:42:25.000Z"
         }
       ]
     },
@@ -97,17 +109,28 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial",
-          "link": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss",
+          "title": "Al menos 12 muertos y más de 300 heridos en un ataque de los hutíes contra el aeropuerto de Riad",
+          "link": "https://www.20minutos.es/internacional/menos-12-muertos-mas-300-heridos-un-ataque-los-huties-contra-aeropuerto-riad_7047560_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Las operaciones en el aeropuerto han quedado suspendidas a la espera de que las autoridades hagan una evaluación completa de los daños, por lo que muchos vuelos han quedado cancelados.",
+          "sources": [
+            "20minutos Internacional",
+            "BBC Mundo",
+            "DW",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-11T11:47:55.851Z"
+        },
+        {
+          "title": "Panamá declara el estado de emergencia tras un fuerte terremoto de magnitud 7,7 que deja cientos de edificaciones destruidas o dañadas",
+          "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "summary": "Los precios del diésel en Estados Unidos se han duplicado desde que comenzó la guerra con Irán en febrero, lo que ejerce presión sobre los republicanos de cara a las elecciones de mitad de mandato.",
+          "summary": "El epicentro del sismo se ubicó en el sur del país centroamericano, cerca de la costa Pacífico. Decenas de edificaciones resultaron afectadas.",
           "sources": [
             "BBC Mundo",
-            "France 24",
-            "20minutos Internacional",
-            "elDiario.es Internacional"
+            "France 24"
           ],
-          "firstSeen": "2026-10-10T11:34:52.373Z"
+          "firstSeen": "2026-10-11T11:47:55.851Z"
         },
         {
           "title": "Trump arremete con dureza contra Zelenski tras el acuerdo con Putin: \"Es hora de que Ucrania tenga nuevo presidente\"",
@@ -116,95 +139,59 @@
           "summary": "El líder estadounidense ha criticado que Zelenski \"nunca llega a acuerdos\" y asegura que solo quiere \"problemas\" para el mundo.",
           "sources": [
             "20minutos Internacional",
-            "BBC Mundo",
-            "France 24",
-            "elDiario.es Internacional"
+            "BBC Mundo"
           ],
-          "firstSeen": "2026-10-10T20:52:30.009Z"
-        },
-        {
-          "title": "Ucrania golpea una gran terminal petrolera rusa tras el acuerdo del diésel de Trump y Putin",
-          "link": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
-          "source": "El País Internacional",
-          "summary": "El presidente estadounidense anuncia a bombo y platillos una medida que Rusia ya se disponía a tomar días antes",
-          "sources": [
-            "El País Internacional",
-            "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-10-10T11:34:52.373Z"
-        },
-        {
-          "title": "Un fuerte terremoto de magnitud 7,7 sacude Panamá: el presidente Mulino afirma que el desastre que enfrenta su país \"es grande\"",
-          "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El epicentro del sismo se ubicó en el sur del país centroamericano, cerca de la costa Pacífico. Decenas de edificaciones resultaron afectadas.",
-          "sources": [
-            "BBC Mundo",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-10T11:34:52.373Z"
-        },
-        {
-          "title": "Un año de alto el fuego en Gaza, con un acuerdo vulnerado y casi 1.480 palestinos muertos por Israel",
-          "link": "https://www.france24.com/es/video/20261010-un-a%C3%B1o-de-alto-el-fuego-en-gaza-con-un-acuerdo-vulnerado-y-casi-1-480-palestinos-muertos-por-israel",
-          "source": "France 24",
-          "summary": "Un acuerdo incumplido y vulnerado por Israel. Tras un año de la firma del alto el fuego en la Franja de Gaza, solo se ha cumplido a medias el fin inmediato de la violencia: la reducción del número y la dureza de los ataques. Pero en nueve de cada diez días, Israel ha disparado fuego de artillería letal, matando a casi 1.480 palestinos. Israel tampoco ha frenado sus operaciones militares, sigue ocupando casi el 70% del enclave, ha impuesto nuevos puestos de avanzada y continúa arrasando la infraestructura. Nuestra corresponsal, Janira Gómez Muñoz, nos amplía la información.",
-          "sources": [
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-10T16:35:04.239Z"
+          "firstSeen": "2026-10-11T11:47:55.851Z"
         }
       ],
       "items": [
         {
-          "title": "Navi Pillay frente a la ley del más fuerte",
-          "link": "https://www.eldiario.es/internacional/navi-pillay-frente-ley-fuerte_129_13577451.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-10T20:10:47.000Z"
-        },
-        {
-          "title": "Protestas en India dejan heridos y miles de detenidos",
-          "link": "https://www.dw.com/es/protestas-en-india-dejan-heridos-y-miles-de-detenidos/a-79630027?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-10T20:08:00.000Z"
-        },
-        {
-          "title": "Un nuevo ataque atribuido a los rebeldes hutíes contra el aeropuerto de Riad deja varios heridos",
-          "link": "https://www.france24.com/es/medio-oriente/20261010-un-nuevo-ataque-atribuido-a-los-rebeldes-hut%C3%ADes-contra-el-aeropuerto-de-riad-deja-varios-heridos",
-          "source": "France 24",
-          "published": "2026-10-10T20:03:12.000Z"
-        },
-        {
-          "title": "Christa Pike, condenada por asesinato, sale del hospital y regresa a prisión tras una ejecución fallida",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261010-christa-pike-condenada-por-asesinato-sale-del-hospital-y-regresa-a-prisi%C3%B3n-tras-una-ejecuci%C3%B3n-fallida",
-          "source": "France 24",
-          "published": "2026-10-10T19:40:12.000Z"
-        },
-        {
-          "title": "Un joven sobrevive al ataque de un oso en Rusia después de que le explotara el móvil en el momento en el que el animal le mordía",
-          "link": "https://www.20minutos.es/internacional/joven-sobrevive-ataque-oso-rusia-despues-explotara-movil-momento-animal-mordia_7047527_0.html",
+          "title": "Putin recibe de Trump el mejor regalo de cumpleaños",
+          "link": "https://www.20minutos.es/internacional/putin-recibe-trump-mejor-regalo-cumpleanos_7047590_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-10T19:35:33.000Z"
+          "published": "2026-10-11T10:37:44.000Z"
         },
         {
-          "title": "La Autoridad Palestina unifica elecciones: pospone las legislativas y convoca a presidenciales para 2027",
-          "link": "https://www.france24.com/es/medio-oriente/20261010-la-autoridad-palestina-unifica-elecciones-pospone-las-legislativas-y-convoca-a-presidenciales-para-2027",
-          "source": "France 24",
-          "published": "2026-10-10T19:15:57.000Z"
-        },
-        {
-          "title": "Condenada que sobrevivió a ejecución en EEUU regresa a la cárcel",
-          "link": "https://www.dw.com/es/condenada-que-sobrevivió-a-ejecución-en-eeuu-regresa-a-la-cárcel/a-79630003?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Hutíes de Yemen amenazan con nuevos ataques al espacio aéreo saudita",
+          "link": "https://www.dw.com/es/hutíes-de-yemen-amenazan-con-nuevos-ataques-al-espacio-aéreo-saudita/a-79633055?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-10T18:57:00.000Z"
+          "published": "2026-10-11T10:25:00.000Z"
         },
         {
-          "title": "Trump anima a los ucranios a que “busquen un nuevo líder” tras un ataque de Kiev contra el sector petrolero ruso",
-          "link": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
-          "source": "El País Internacional",
-          "published": "2026-10-10T17:51:24.000Z"
+          "title": "Trump desautoriza a Hegseth y dice ahora que será él quien decida si se emite en directo la ejecución del terrorista de Fort Hood",
+          "link": "https://www.20minutos.es/internacional/trump-desautoriza-hegseth-dice-ahora-sera-quien-decida-si-emite-directo-ejecucion-terrorista-fort-hood_7047589_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-11T09:49:54.000Z"
+        },
+        {
+          "title": "Trump bromea sobre cambiar el nombre al océano Atlántico o al Pacífico y llamarlo \"océano de las Américas u océano Trump\"",
+          "link": "https://www.20minutos.es/internacional/trump-bromea-sobre-cambiar-nombre-oceano-atlantico-pacifico-americas_7047581_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-11T09:24:23.000Z"
+        },
+        {
+          "title": "Trump sorprende a sus seguidores en un mitin en Tennessee: \"Podría decir las cosas más estúpidas y aun así aplaudirías\"",
+          "link": "https://www.20minutos.es/internacional/trump-sorprende-sus-seguidores-un-mitin-tennessee-podria-decir-las-cosas-mas-estupidas-aun-asi-aplaudirias_7047570_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-11T09:10:35.000Z"
+        },
+        {
+          "title": "Kiev respalda a Zelenski y considera que las palabras de Trump \"confirman que lo está haciendo bien\"",
+          "link": "https://www.20minutos.es/internacional/kiev-respalda-zelenski-considera-que-las-palabras-trump-confirman-que-esta-haciendo-bien_7047563_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-11T08:16:40.000Z"
+        },
+        {
+          "title": "Tropas eritreas en Etiopía: ¿se viene una guerra regional?",
+          "link": "https://www.dw.com/es/tropas-eritreas-en-etiopía-¿se-viene-una-guerra-regional/a-79630099?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-11T06:23:00.000Z"
+        },
+        {
+          "title": "12 de octubre | Iberoamérica y EE UU, de la distancia a la coalición de intereses",
+          "link": "https://www.20minutos.es/internacional/12-octubre-iberoamerica-ee-uu-distancia-coalicion-intereses_7046724_3.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-11T06:16:52.000Z"
         }
       ]
     }
