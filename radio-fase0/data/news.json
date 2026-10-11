@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-11T11:47:55.851Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-11T16:59:53.963Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -26,7 +26,8 @@
           "summary": "El presidente del Gobierno vuelve a hacer del derecho a la vivienda el eje de su discurso durante un mitin de precampaña en Ponferrada",
           "sources": [
             "El País",
-            "Europa Press"
+            "Europa Press",
+            "20minutos"
           ],
           "firstSeen": "2026-10-11T11:47:55.851Z"
         },
@@ -54,6 +55,18 @@
         }
       ],
       "items": [
+        {
+          "title": "Quién es Miriam González, candidata de Democracia21 a las elecciones del 29N: abogada y mujer de Clegg",
+          "link": "https://www.20minutos.es/nacional/quien-es-miriam-gonzalez-candidata-democracia21-las-elecciones-29n-abogada-mujer-politico-nick-clegg_7047623_0.html",
+          "source": "20minutos",
+          "published": "2026-10-11T13:54:42.000Z"
+        },
+        {
+          "title": "Más Madrid propone una lista liderada por Emilio Delgado para las elecciones del 29N",
+          "link": "https://www.eldiario.es/politica/madrid-propone-lista-consenso-liderada-emilio-delgado-elecciones-29n_1_13578644.html",
+          "source": "elDiario.es",
+          "published": "2026-10-11T11:43:03.000Z"
+        },
         {
           "title": "Condenados a 14 años de prisión unos padres en Málaga por abandonar de madrugada a su hija recién nacida en un descampado",
           "link": "https://www.20minutos.es/andalucia/malaga/condenados-14-anos-prision-unos-padres-malaga-por-abandonar-madrugada-su-hija-recien-nacida-un-descampado_7047614_0.html",
@@ -89,18 +102,6 @@
           "link": "https://www.europapress.es/nacional/noticia-congreso-surgido-elecciones-29n-dara-mas-facilidades-minorias-formar-grupo-parlamentario-propio-20261011092951.html",
           "source": "Europa Press",
           "published": "2026-10-11T07:29:51.000Z"
-        },
-        {
-          "title": "Decenas de migrantes son expulsados sin procedimiento a Marruecos tras el desalojo del asentamiento del Guano en Ceuta",
-          "link": "https://www.eldiario.es/desalambre/policia-ejercito-desalojan-asentamiento-guano-ceuta-resignacion-migrantes-adios-espana_1_13578061.html",
-          "source": "elDiario.es",
-          "published": "2026-10-11T07:08:02.000Z"
-        },
-        {
-          "title": "Sigue el incendio interno en el PNV: Aitor Esteban cuestiona abiertamente la salida de Elixabete Etxanobe de Bizkaia",
-          "link": "https://www.eldiario.es/euskadi/sigue-incendio-interno-pnv-aitor-esteban-cuestiona-abiertamente-salida-elixabete-etxanobe-bizkaia_1_13578052.html",
-          "source": "elDiario.es",
-          "published": "2026-10-11T06:42:25.000Z"
         }
       ]
     },
@@ -120,6 +121,19 @@
             "France 24"
           ],
           "firstSeen": "2026-10-11T11:47:55.851Z"
+        },
+        {
+          "title": "Trump anuncia una tregua energética de carácter “inmediato” entre Rusia y Ucrania",
+          "link": "https://elpais.com/internacional/2026-10-11/zelenski-ofrece-a-putin-una-tregua-energetica-en-plena-escalada-verbal-con-trump.html",
+          "source": "El País Internacional",
+          "summary": "“Ambas partes han llegado a un acuerdo. ¡No lo rompáis!“. afirma el líder republicano. Zelenski reconoce que la noticia de este alto el fuego le ha pillado por sorpresa, pero que lo apoya",
+          "sources": [
+            "El País Internacional",
+            "20minutos Internacional",
+            "France 24",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-11T16:59:53.963Z"
         },
         {
           "title": "Panamá declara el estado de emergencia tras un fuerte terremoto de magnitud 7,7 que deja cientos de edificaciones destruidas o dañadas",
@@ -142,56 +156,67 @@
             "BBC Mundo"
           ],
           "firstSeen": "2026-10-11T11:47:55.851Z"
+        },
+        {
+          "title": "Zelenski propone a Putin una tregua energética y ofrece \"organizar elecciones\" si Rusia respeta un alto el fuego de 60 días",
+          "link": "https://www.eldiario.es/internacional/zelenski-propone-putin-tregua-ataques-infraestructuras-energeticas_1_13578849.html",
+          "source": "elDiario.es Internacional",
+          "summary": "\"No nos ataquen. No maten a nuestros hijos. Dejaremos de atacar su diésel. Creo que es un trato justo\", señaló el presidente ucraniano Trump carga contra Zelenski tras criticar su pacto con Putin sobre el diésel: “Ha llegado el momento de que Ucrania tenga un nuevo presidente” El presidente de Ucrania, Volodímir Zelenski, ha ofrecido a su homólogo ruso, Vladímir Putin, una tregua en los ataques a infraestructuras energéticas a los que ambos países están sometiendo al otro. “Ucrania estará dispuesta a detener los ataques contra las refinerías de petróleo rusas si Rusia cesa sus ataques contra…",
+          "sources": [
+            "elDiario.es Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-11T16:59:53.963Z"
         }
       ],
       "items": [
         {
-          "title": "Putin recibe de Trump el mejor regalo de cumpleaños",
-          "link": "https://www.20minutos.es/internacional/putin-recibe-trump-mejor-regalo-cumpleanos_7047590_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-11T10:37:44.000Z"
+          "title": "Al menos 139 migrantes mueren, entre ellos 15 niños, en un naufragio entre Yibuti y Yemen",
+          "link": "https://elpais.com/internacional/2026-10-11/al-menos-139-migrantes-mueren-entre-ellos-15-ninos-en-un-naufragio-entre-yibuti-y-yemen.html",
+          "source": "El País Internacional",
+          "published": "2026-10-11T16:47:30.000Z"
         },
         {
-          "title": "Hutíes de Yemen amenazan con nuevos ataques al espacio aéreo saudita",
-          "link": "https://www.dw.com/es/hutíes-de-yemen-amenazan-con-nuevos-ataques-al-espacio-aéreo-saudita/a-79633055?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "La oleada de ataques hutíes contra aeropuertos de Arabia Saudí impulsa otra escalada que puede arrastrar a Trump",
+          "link": "https://elpais.com/internacional/2026-10-11/la-oleada-de-ataques-huties-contra-aeropuertos-de-arabia-saudi-impulsa-otra-escalada-que-puede-arrastrar-a-trump.html",
+          "source": "El País Internacional",
+          "published": "2026-10-11T16:47:20.000Z"
+        },
+        {
+          "title": "Zelenski a Trump: “Corresponde a nuestro pueblo elegir” presidente",
+          "link": "https://www.dw.com/es/zelenski-a-trump-corresponde-a-nuestro-pueblo-elegir-presidente/a-79634688?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-11T10:25:00.000Z"
+          "published": "2026-10-11T15:57:00.000Z"
         },
         {
-          "title": "Trump desautoriza a Hegseth y dice ahora que será él quien decida si se emite en directo la ejecución del terrorista de Fort Hood",
-          "link": "https://www.20minutos.es/internacional/trump-desautoriza-hegseth-dice-ahora-sera-quien-decida-si-emite-directo-ejecucion-terrorista-fort-hood_7047589_0.html",
+          "title": "Elecciones Brasil: Flávio promete liberar a su padre; Lula alerta del regreso de la familia al poder",
+          "link": "https://www.france24.com/es/video/20261011-elecciones-brasil-fl%C3%A1vio-promete-liberar-a-su-padre-lula-alerta-del-regreso-de-la-familia-al-poder",
+          "source": "France 24",
+          "published": "2026-10-11T15:23:51.000Z"
+        },
+        {
+          "title": "Las 'Cucarachas' llaman a extender las protestas a toda la India tras el bloqueo en Delhi",
+          "link": "https://www.20minutos.es/internacional/las-cucarachas-llaman-extender-las-protestas-toda-india-tras-bloqueo-delhi_7047651_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-11T09:49:54.000Z"
+          "published": "2026-10-11T14:49:51.000Z"
         },
         {
-          "title": "Trump bromea sobre cambiar el nombre al océano Atlántico o al Pacífico y llamarlo \"océano de las Américas u océano Trump\"",
-          "link": "https://www.20minutos.es/internacional/trump-bromea-sobre-cambiar-nombre-oceano-atlantico-pacifico-americas_7047581_0.html",
+          "title": "Trump asegura que Rusia y Ucrania han aceptado un alto el fuego \"energético\" y les pide que \"no lo rompan\"",
+          "link": "https://www.eldiario.es/internacional/trump-asegura-rusia-ucrania-han-aceptado-alto-fuego-energetico-les-pide-no-rompan_1_13578878.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-11T14:44:11.000Z"
+        },
+        {
+          "title": "Polonia investiga un supuesto plan para atentar contra Tusk y el ministro de Defensa",
+          "link": "https://elpais.com/internacional/2026-10-11/polonia-investiga-un-supuesto-plan-para-atentar-contra-tusk-y-el-ministro-de-defensa.html",
+          "source": "El País Internacional",
+          "published": "2026-10-11T13:49:42.000Z"
+        },
+        {
+          "title": "Zelenski ofrece no atacar refinerías rusas a cambio del cese de los ataques rusos a infraestructura energética",
+          "link": "https://www.20minutos.es/internacional/zelenski-ofrece-no-atacar-refinerias-rusas-cambio-cese-los-ataques-rusos-infraestructura-energetica_7047643_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-11T09:24:23.000Z"
-        },
-        {
-          "title": "Trump sorprende a sus seguidores en un mitin en Tennessee: \"Podría decir las cosas más estúpidas y aun así aplaudirías\"",
-          "link": "https://www.20minutos.es/internacional/trump-sorprende-sus-seguidores-un-mitin-tennessee-podria-decir-las-cosas-mas-estupidas-aun-asi-aplaudirias_7047570_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-11T09:10:35.000Z"
-        },
-        {
-          "title": "Kiev respalda a Zelenski y considera que las palabras de Trump \"confirman que lo está haciendo bien\"",
-          "link": "https://www.20minutos.es/internacional/kiev-respalda-zelenski-considera-que-las-palabras-trump-confirman-que-esta-haciendo-bien_7047563_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-11T08:16:40.000Z"
-        },
-        {
-          "title": "Tropas eritreas en Etiopía: ¿se viene una guerra regional?",
-          "link": "https://www.dw.com/es/tropas-eritreas-en-etiopía-¿se-viene-una-guerra-regional/a-79630099?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-11T06:23:00.000Z"
-        },
-        {
-          "title": "12 de octubre | Iberoamérica y EE UU, de la distancia a la coalición de intereses",
-          "link": "https://www.20minutos.es/internacional/12-octubre-iberoamerica-ee-uu-distancia-coalicion-intereses_7046724_3.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-11T06:16:52.000Z"
+          "published": "2026-10-11T13:46:44.000Z"
         }
       ]
     }
