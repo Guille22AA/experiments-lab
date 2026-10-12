@@ -1,107 +1,108 @@
 {
-  "date": "2026-10-11",
-  "updatedAt": "2026-10-11T21:12:59.958Z",
-  "edition": "tarde",
+  "date": "2026-10-12",
+  "updatedAt": "2026-10-12T13:52:04.378Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Mertxe Aizpurua no será candidata por EH Bildu al Congreso",
-          "link": "https://www.europapress.es/euskadi/noticia-mertxe-aizpurua-no-sera-candidata-eh-bildu-congreso-20261011110957.html",
+          "title": "El Supremo rechaza el recurso del Gobierno y ratifica la suspensión del voto para nacionalizados por ley de nietos",
+          "link": "https://www.europapress.es/nacional/noticia-supremo-rechaza-recurso-gobierno-ratifica-suspension-voto-nacionalizados-ley-nietos-20261012154624.html",
           "source": "Europa Press",
-          "summary": "La portavoz de EH Bildu en el Congreso de los Diputados, Mertxe Aizpurua, no será candidata por la coalición soberanista en las elecciones generales del 29 de noviembre, según han confirmado fuentes de la coalición abertzale a Europa Press.",
+          "summary": "El Tribunal Supremo ha rechazado el recurso del Gobierno que pedía levantar la suspensión cautelar de la 'ley de nietos' y ha señalado que no podrán votar los nacionalizados por esa vía en las elecciones generales del próximo 29 de noviembre.",
           "sources": [
             "Europa Press",
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-11T11:47:55.851Z"
-        },
-        {
-          "title": "Sánchez pide al Supremo que “frene el intento de atropello” de Feijóo y Abascal y permita votar a los descendientes del exilio",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-11/sanchez-pide-al-supremo-que-frene-el-intento-de-atropello-de-feijoo-y-abascal-y-permita-votar-a-los-descendientes-del-exilio.html",
-          "source": "El País",
-          "summary": "El presidente del Gobierno vuelve a hacer del derecho a la vivienda el eje de su discurso durante un mitin de precampaña en Ponferrada",
-          "sources": [
-            "El País",
-            "Europa Press",
-            "20minutos"
-          ],
-          "firstSeen": "2026-10-11T11:47:55.851Z"
-        },
-        {
-          "title": "Gabriel Rufián encabezará la lista de ERC al Congreso en las elecciones generales",
-          "link": "https://www.20minutos.es/nacional/gabriel-rufia-cabeza-lista-erc-congreso-elecciones-generales-noviembre-2026_7047601_0.html",
-          "source": "20minutos",
-          "summary": "La decisión se formalizará este domingo en una reunión de la Ejecutiva Nacional de ERC.",
-          "sources": [
             "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-11T11:47:55.851Z"
-        },
-        {
-          "title": "Cándido Conde-Pumpido: \"Cuestionar al Tribunal Constitucional es cuestionar la democracia\"",
-          "link": "https://www.europapress.es/nacional/noticia-candido-conde-pumpido-cuestionar-tribunal-constitucional-cuestionar-democracia-20261011105043.html",
-          "source": "Europa Press",
-          "summary": "El presidente del Tribunal Constitucional (TC), Cándido Conde-Pumpido, ha asegurado que ningún miembro de un poder del Estado debería \"descalificar o cuestionar las decisiones del Constitucional ni de ningún otro tribunal\" y ha defendido que la independencia judicial debe ser respetada.",
-          "sources": [
-            "Europa Press",
+            "elDiario.es",
             "El País"
           ],
-          "firstSeen": "2026-10-11T11:47:55.851Z"
+          "firstSeen": "2026-10-12T13:52:04.378Z"
+        },
+        {
+          "title": "Los reyes presiden un desfile militar marcado por el adelanto electoral y los abucheos a Sánchez",
+          "link": "https://www.europapress.es/seguridad-y-defensa/noticia-reyes-presiden-desfile-militar-marcado-adelanto-electoral-abucheos-sanchez-20261012133151.html",
+          "source": "Europa Press",
+          "summary": "Los reyes Felipe y Letizia han presidido este lunes el acto central del Día de la Fiesta Nacional, el tradicional desfile militar con una numerosa asistencia de público en el centro de Madrid y que ha transcurrido sin alteraciones en el plan previsto.",
+          "sources": [
+            "Europa Press",
+            "20minutos",
+            "El País"
+          ],
+          "firstSeen": "2026-10-12T13:52:04.378Z"
+        },
+        {
+          "title": "Sánchez confía en gobernar tras las elecciones por la movilización progresista y la \"brutal\" fuga de votos del PP a Vox",
+          "link": "https://www.eldiario.es/politica/sanchez-confia-gobernar-elecciones-movilizacion-progresista-brutal-fuga-votos-pp-vox_1_13579991.html",
+          "source": "elDiario.es",
+          "summary": "El presidente del Gobierno asegura que va a \"ganar\" y \"gobernar\" y evita valorar la división entre las formaciones a la izquierda del PSOE: \"Respeto su autonomía\" El desfile del 12 de octubre deja insultos a Pedro Sánchez y un nuevo plantón de Abascal a los reyes El presidente del Gobierno, Pedro Sánchez, se ha mostrado “muy optimista” de cara a las elecciones del 29 de noviembre ante la movilización progresista en las calles, mayor que en 2023, y porque el PP está perdiendo votos. En conversación con los periodistas durante la recepción en el Palacio Real tras el desfile por la Fiesta…",
+          "sources": [
+            "elDiario.es",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-12T13:52:04.378Z"
+        },
+        {
+          "title": "Podemos anuncia que contribuirá a la candidatura de ERC en Cataluña, y Montero y Rufián \"harán equipo\" en campaña",
+          "link": "https://www.europapress.es/nacional/noticia-podemos-anuncia-contribuira-candidatura-erc-cataluna-montero-rufian-haran-equipo-campana-20261012122611.html",
+          "source": "Europa Press",
+          "summary": "Podemos ha anunciado que la actual secretaria política de Podemos, Irene Montero, y el cabeza de lista de Esquerra Republicana (ERC), Gabriel Rufián, \"harán equipo\" en la campaña de las elecciones generales del 29 de noviembre.",
+          "sources": [
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-12T13:52:04.378Z"
         }
       ],
       "items": [
         {
-          "title": "Los manifestantes levantan este domingo las acampadas de Málaga y Granada tras dos semanas de protesta por la vivienda",
-          "link": "https://www.europapress.es/andalucia/malaga-00356/noticia-manifestantes-levantan-domingo-acampadas-malaga-granada-dos-semanas-protesta-vivienda-20261011225723.html",
-          "source": "Europa Press",
-          "published": "2026-10-11T20:57:23.000Z"
+          "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | La Policía impide el enfrentamiento entre un grupo de jóvenes con banderas de España y los acampados de Sol",
+          "link": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
+          "source": "El País",
+          "published": "2026-10-12T13:49:56.000Z"
         },
         {
-          "title": "Rufián se queda: liderará la lista de ERC al Congreso tras dejarse querer por el Frente Amplio - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHRFajZrQVlYVjN3UU9VVW9IaklBOWhoUG41OXZMUnhoVmpySVRKRmxrWndEaWFKUXpGNlpRVU5uLXh0OUhxOVNtd3J3T19VMC02TlF4LWtzU2pibWtzOF9rN2NIRzRtc09UNUFoUEsxT1J6WlFpNGVQVF9wZkYtUE51d0tiMmUzYVpiRHFnNlltUy1XVTdHYlpCdFRXb0JhQjRVVGduODZtT2s0cE5IZQ?oc=5",
+          "title": "Comuns acusan a Rufián de dividir la izquierda tras el pacto ERC-Podemos e irán a las elecciones con Frente Amplio",
+          "link": "https://www.europapress.es/nacional/noticia-comuns-acusan-rufian-dividir-izquierda-pacto-erc-podemos-iran-elecciones-frente-amplio-20261012141859.html",
+          "source": "Europa Press",
+          "published": "2026-10-12T12:18:59.000Z"
+        },
+        {
+          "title": "Unas 1.700 personas se manifiestan por el 12-O en Barcelona con banderas españolas y de Ceuta",
+          "link": "https://www.eldiario.es/catalunya/1-700-personas-manifiestan-12-barcelona-banderas-espanolas-ceuta_1_13579850.html",
+          "source": "elDiario.es",
+          "published": "2026-10-12T12:08:03.000Z"
+        },
+        {
+          "title": "Trump, en un mitin: \"Podría decir las mayores estupideces y aplaudiríais\"",
+          "link": "https://www.eldiario.es/rastreador/trump-mitin-decir-mayores-estupideces-aplaudiriais_132_13579758.html",
+          "source": "elDiario.es",
+          "published": "2026-10-12T12:07:10.000Z"
+        },
+        {
+          "title": "Podemos y ERC confirman el pacto de \"colaboración\" entre Montero y Rufián para las elecciones del 29N - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZTA0Z1NKWkhyTEJ1Ni1QUGQ3OFI0T3hBLWhEMWUyT3I3UkZjMUJVSlRxbXJQTXJLZGxodGQxcnlYY0o2dHFZNDhtUUpSd1hOZGY5V1R6ZVhxU1lUX2QyR3d1NERKTjdWNU5wWXFYYWJYX0pwOEZyRHc5RElwb3RZdS1aTGdnSWMzVlBpTERQb2RiUUktT011UHo2T19PQlU5TlZiSWNKR19YQXdyc1ZDT0ZBNVJYNnfSAbwBQVVfeXFMT1RaZ084QVFFN3FsN3cwb3VUZ2tZQVY1ZUtsMFlvRlg2dWtIcmxDeF9XMEY1STNLZWZYc3gtYWMyQlNlQWdXWGMxX0FEUmFDalMtdVExOHgzb1lDZVVHNWtLTENPaFRvcmdMZ0lYRzUtaTdrcDN0VmNUTHczempjSWNub0RKYnRBT1ZhN2NFbnRCZXBMR01MdFYzVkRXRTNKbXV6WkwwNmZtZmZMQ0FZQ3lCazZQQ2hvNzU5bjI?oc=5",
           "source": "Público",
-          "published": "2026-10-11T19:56:15.000Z"
+          "published": "2026-10-12T11:54:15.000Z"
         },
         {
-          "title": "Raphäel Glucksmann gana las primarias del Partido Socialista francés y será el candidato en las presidenciales de 2027",
-          "link": "https://www.eldiario.es/internacional/raphael-glucksmann-gana-primarias-partido-socialista-frances-sera-candidato-presidenciales-2027_1_13579013.html",
+          "title": "Los Comuns cargan contra Rufián tras pactar con Podemos: \"Venía a unir a la izquierda y está haciendo lo posible por dividirla\"",
+          "link": "https://www.eldiario.es/politica/comuns-cargan-rufian-pactar-venia-unir-izquierda-haciendo-posible-dividirla_1_13579832.html",
           "source": "elDiario.es",
-          "published": "2026-10-11T17:28:11.000Z"
+          "published": "2026-10-12T11:53:56.000Z"
         },
         {
-          "title": "IU traslada su respaldo a Ada Colau como candidata de Frente Amplio y pide responsabilidad al resto de partidos",
-          "link": "https://www.europapress.es/nacional/noticia-iu-traslada-respaldo-ada-colau-candidata-frente-amplio-pide-responsabilidad-resto-partidos-20261011192137.html",
-          "source": "Europa Press",
-          "published": "2026-10-11T17:21:37.000Z"
-        },
-        {
-          "title": "Una guerra nuclear o el uso malicioso de la IA: las 17 amenazas que podrían acabar con la humanidad en el año 2100",
-          "link": "https://www.20minutos.es/internacional/una-guerra-nuclear-uso-malicioso-ia-las-17-amenazas-que-podrian-acabar-con-humanidad-ano-2100_7047586_0.html",
-          "source": "20minutos",
-          "published": "2026-10-11T17:21:23.000Z"
-        },
-        {
-          "title": "La decisión de Rufián sacude a la izquierda: opción de pacto inédito ERC-Podemos en Cataluña y giro en Frente Amplio",
-          "link": "https://www.20minutos.es/nacional/decision-rufian-sacude-izquierda-opcion-pacto-inedito-erc-podemos-cataluna-nuevo-giro-frente-amplio_7047674_0.html",
-          "source": "20minutos",
-          "published": "2026-10-11T17:18:29.000Z"
-        },
-        {
-          "title": "Izquierda Unida respalda la vía Colau y pide \"responsabilidad\" al resto de fuerzas tras el movimiento de Rufián",
-          "link": "https://www.eldiario.es/politica/izquierda-unida-respalda-via-colau-pide-responsabilidad-resto-fuerzas-movimiento-rufian_1_13578996.html",
+          "title": "El juez del caso Juana Rivas pide archivar la causa contra él por delito de odio y dice que las capturas de sus mensajes en redes son montajes",
+          "link": "https://www.eldiario.es/andalucia/granada/juez-caso-juana-rivas-pide-archivar-causa-delito-odio-dice-capturas-mensajes-redes-son-montajes_1_13579508.html",
           "source": "elDiario.es",
-          "published": "2026-10-11T17:14:54.000Z"
+          "published": "2026-10-12T11:25:24.000Z"
         },
         {
-          "title": "Rufián propone meter a Podemos en la lista de ERC y abre conversaciones con IU y Más Madrid",
-          "link": "https://www.elsaltodiario.com/elecciones/rufian-proponer-meter-podemos-lista-erc-abre-conversaciones-iu-madrid?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-11T17:05:00.000Z"
+          "title": "Comuns acusa a Rufián de azuzar la división en las izquierdas por su acuerdo con Podemos",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
+          "source": "El País",
+          "published": "2026-10-12T11:14:38.000Z"
         }
       ]
     },
@@ -110,115 +111,77 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Trump anuncia una tregua energética de carácter “inmediato” entre Rusia y Ucrania",
-          "link": "https://elpais.com/internacional/2026-10-11/zelenski-ofrece-a-putin-una-tregua-energetica-en-plena-escalada-verbal-con-trump.html",
-          "source": "El País Internacional",
-          "summary": "“Ambas partes han llegado a un acuerdo. ¡No lo rompáis!“. afirma el líder republicano. Zelenski reconoce que la noticia de este alto el fuego le ha pillado por sorpresa, pero que lo apoya",
+          "title": "En directo I Un ataque ruso sería “totalmente inútil”: OTAN; Rusia ataca Ucrania tras \"alto el fuego energético\" anunciado por Trump",
+          "link": "https://www.france24.com/es/europa/20261012-en-directo-comandante-de-la-otan-advierte-que-un-ataque-ruso-en-territorio-de-la-alianza-ser%C3%ADa-totalmente-in%C3%BAtil",
+          "source": "France 24",
+          "summary": "Mientras crecen las tensiones entre los países europeos y Rusia, el comandante supremo de la OTAN en Europa, Alexus Grynkewich, advirtió este lunes 12 de octubre que las fuerzas de la alianza destruirían \"absolutamente todo\" lo relacionado con cualquier ataque si Moscú fuera \"lo suficientemente insensato\" para lanzar una ofensiva contra alguno de los 32 países que conforman la OTAN. Entretanto, Rusia lanzó nuevos ataques contra Ucrania, pese al \"alto el fuego energético\" anunciado por el presidente de Estados Unidos, Donald Trump.",
           "sources": [
-            "El País Internacional",
-            "20minutos Internacional",
             "France 24",
-            "elDiario.es Internacional",
-            "DW",
-            "BBC Mundo"
-          ],
-          "firstSeen": "2026-10-11T16:59:53.963Z"
-        },
-        {
-          "title": "Al menos 12 muertos y más de 300 heridos en un ataque de los hutíes contra el aeropuerto de Riad",
-          "link": "https://www.20minutos.es/internacional/menos-12-muertos-mas-300-heridos-un-ataque-los-huties-contra-aeropuerto-riad_7047560_0.html",
-          "source": "20minutos Internacional",
-          "summary": "Las operaciones en el aeropuerto han quedado suspendidas a la espera de que las autoridades hagan una evaluación completa de los daños, por lo que muchos vuelos han quedado cancelados.",
-          "sources": [
-            "20minutos Internacional",
             "BBC Mundo",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-12T13:52:04.378Z"
+        },
+        {
+          "title": "Tras anuncio de Trump, el Kremlin no confirma tregua energética anunciada por Trump",
+          "link": "https://www.dw.com/es/tras-anuncio-de-trump-el-kremlin-no-confirma-tregua-energética-anunciada-por-trump/a-79641496?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Tras el acuerdo de suministro de diésel alcanzado entre Moscú y Washington, el Kremlin no confirma tregua energética.",
+          "sources": [
             "DW",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-11T11:47:55.851Z"
-        },
-        {
-          "title": "Panamá declara el estado de emergencia tras un fuerte terremoto de magnitud 7,7 que deja cientos de edificaciones destruidas o dañadas",
-          "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El epicentro del sismo se ubicó en el sur del país centroamericano, cerca de la costa Pacífico. Decenas de edificaciones resultaron afectadas.",
-          "sources": [
-            "BBC Mundo",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-11T11:47:55.851Z"
-        },
-        {
-          "title": "Trump arremete con dureza contra Zelenski tras el acuerdo con Putin: \"Es hora de que Ucrania tenga nuevo presidente\"",
-          "link": "https://www.20minutos.es/internacional/trump-arremete-con-dureza-contra-zelenski-tras-acuerdo-con-putin-es-hora-que-ucrania-tenga-nuevo-presidente_7047511_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El líder estadounidense ha criticado que Zelenski \"nunca llega a acuerdos\" y asegura que solo quiere \"problemas\" para el mundo.",
-          "sources": [
-            "20minutos Internacional",
-            "BBC Mundo"
-          ],
-          "firstSeen": "2026-10-11T11:47:55.851Z"
-        },
-        {
-          "title": "Zelenski propone a Putin una tregua energética y ofrece \"organizar elecciones\" si Rusia respeta un alto el fuego de 60 días",
-          "link": "https://www.eldiario.es/internacional/zelenski-propone-putin-tregua-ataques-infraestructuras-energeticas_1_13578849.html",
-          "source": "elDiario.es Internacional",
-          "summary": "\"No nos ataquen. No maten a nuestros hijos. Dejaremos de atacar su diésel. Creo que es un trato justo\", señaló el presidente ucraniano Trump carga contra Zelenski tras criticar su pacto con Putin sobre el diésel: “Ha llegado el momento de que Ucrania tenga un nuevo presidente” El presidente de Ucrania, Volodímir Zelenski, ha ofrecido a su homólogo ruso, Vladímir Putin, una tregua en los ataques a infraestructuras energéticas a los que ambos países están sometiendo al otro. “Ucrania estará dispuesta a detener los ataques contra las refinerías de petróleo rusas si Rusia cesa sus ataques contra…",
-          "sources": [
-            "elDiario.es Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-11T16:59:53.963Z"
+          "firstSeen": "2026-10-12T13:52:04.378Z"
         }
       ],
       "items": [
         {
-          "title": "Primer ministro Andy Burnham asegura que Rusia estuvo detrás del Brexit y pide a Europa estar alerta",
-          "link": "https://www.france24.com/es/europa/20261011-primer-ministro-andy-burnham-asegura-que-rusia-estuvo-detr%C3%A1s-del-brexit-y-pide-a-europa-estar-alerta",
+          "title": "En directo: Arabia Saudita extiende suspensión de operaciones en aeropuerto de Riad tras mortales ataques hutíes",
+          "link": "https://www.france24.com/es/medio-oriente/20261012-en-directo-arabia-saudita-extiende-suspensi%C3%B3n-de-operaciones-en-aeropuerto-de-riad-tras-mortales-ataques-hut%C3%ADes",
           "source": "France 24",
-          "published": "2026-10-11T20:34:18.000Z"
+          "published": "2026-10-12T13:40:10.000Z"
         },
         {
-          "title": "El huracán Simón se acerca con fuerza a México: Acapulco sufre los primeros estragos",
-          "link": "https://www.france24.com/es/video/20261011-el-hurac%C3%A1n-sim%C3%B3n-se-acerca-con-fuerza-a-m%C3%A9xico-acapulco-sufre-los-primeros-estragos",
+          "title": "Insultos a Pedro Sánchez en el desfile del 12 de octubre en España",
+          "link": "https://www.dw.com/es/insultos-a-pedro-sánchez-en-el-desfile-del-12-de-octubre-en-españa/a-79642272?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-12T13:20:00.000Z"
+        },
+        {
+          "title": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus aportes a la estabilización económica",
+          "link": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261012-robert-e-hall-y-michael-woodford-ganan-el-nobel-de-econom%C3%ADa-por-sus-aportes-a-la-estabilizaci%C3%B3n-econ%C3%B3mica",
           "source": "France 24",
-          "published": "2026-10-11T20:29:28.000Z"
+          "published": "2026-10-12T12:28:28.000Z"
         },
         {
-          "title": "Lula saca a la calle una marea roja para emprender la remontada y ganar las elecciones",
-          "link": "https://elpais.com/america/2026-10-11/lula-saca-a-la-calle-una-marea-roja-para-emprender-la-remontada-y-ganar-las-elecciones.html",
-          "source": "El País Internacional",
-          "published": "2026-10-11T19:45:08.000Z"
-        },
-        {
-          "title": "Liberan a los tres líderes del movimiento de las \"cucarachas\" en India tras casi un día detenidos",
-          "link": "https://www.france24.com/es/video/20261011-liberan-a-los-tres-l%C3%ADderes-del-movimiento-de-las-cucarachas-en-india-tras-casi-un-d%C3%ADa-detenidos",
-          "source": "France 24",
-          "published": "2026-10-11T19:12:45.000Z"
-        },
-        {
-          "title": "Qué han hecho los líderes de izquierda que siguen ganando elecciones en Europa",
-          "link": "https://www.eldiario.es/internacional/han-hecho-lideres-izquierda-siguen-ganando-elecciones-europa_1_13574699.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-11T19:10:56.000Z"
-        },
-        {
-          "title": "Al menos 139 muertos y 84 desaparecidos por el naufragio de un barco frente a las costas de Yibuti",
-          "link": "https://www.france24.com/es/%C3%A1frica/20261011-al-menos-139-muertos-y-84-desaparecidos-por-el-naufragio-de-un-barco-frente-a-las-costas-de-yibuti",
-          "source": "France 24",
-          "published": "2026-10-11T19:03:21.000Z"
-        },
-        {
-          "title": "Netanyahu ordena investigar y procesar a los participantes del documental 'NAZA'",
-          "link": "https://www.20minutos.es/internacional/netanyahu-ordena-investigar-procesar-los-participantes-documental-naza_7047684_0.html",
+          "title": "Varios países de la UE piden recurrir a un mecanismo europeo frente a las sanciones de EEUU al Tribunal Penal Internacional",
+          "link": "https://www.20minutos.es/internacional/varios-paises-ue-piden-recurrir-un-mecanismo-europeo-frente-las-sanciones-eeuu-tribunal-penal-internacional_7047793_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-11T18:13:32.000Z"
+          "published": "2026-10-12T12:22:18.000Z"
         },
         {
-          "title": "\"No, Marine Le Pen no llegará al Elíseo\", Raphaël Glucksmann ganador de las primarias socialdemócratas en Francia",
-          "link": "https://www.france24.com/es/francia/20261011-no-marine-le-pen-no-llegar%C3%A1-al-el%C3%ADseo-rapha%C3%ABl-glucksmann-ganador-de-las-primarias-socialdem%C3%B3cratas-en-francia",
-          "source": "France 24",
-          "published": "2026-10-11T18:08:31.000Z"
+          "title": "\"EE.UU. no debería darle a Rusia un salvavidas financiero mientras mata civiles en Ucrania\": las críticas contra Trump por su plan de importar diésel ruso",
+          "link": "https://www.bbc.com/mundo/articles/cw98z4vm9mg4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-12T11:43:09.000Z"
+        },
+        {
+          "title": "Europa eleva la presión sobre Rusia mientras arrecian las amenazas de Trump contra Ucrania",
+          "link": "https://elpais.com/internacional/2026-10-12/europa-eleva-la-presion-sobre-rusia-mientras-arrecian-las-amenazas-de-trump-contra-ucrania.html",
+          "source": "El País Internacional",
+          "published": "2026-10-12T11:40:57.000Z"
+        },
+        {
+          "title": "La Unión Europea aprueba una misión civil y militar en el Líbano",
+          "link": "https://www.eldiario.es/internacional/union-europea-aprueba-mision-civil-militar-paz-libano_1_13579749.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-12T11:28:38.000Z"
+        },
+        {
+          "title": "Dos estadounidenses ganan el Nobel de Economía por su innovador modelo que ayuda a gobiernos y bancos centrales de todo el mundo a estabilizar la economía",
+          "link": "https://www.bbc.com/mundo/articles/cr78pegge239o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-12T11:23:15.000Z"
         }
       ]
     }
