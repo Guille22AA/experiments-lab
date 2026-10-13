@@ -1,24 +1,49 @@
 {
-  "date": "2026-10-12",
-  "updatedAt": "2026-10-12T13:52:04.378Z",
-  "edition": "mediodía",
+  "date": "2026-10-13",
+  "updatedAt": "2026-10-12T23:56:59.545Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El Supremo rechaza el recurso del Gobierno y ratifica la suspensión del voto para nacionalizados por ley de nietos",
+          "title": "El Frente Amplio nombra candidata a Colau, se olvida de Rufián y lanza una última llamada a Podemos",
+          "link": "https://www.elsaltodiario.com/partidos-politicos/colau-candidata-presidenta-adios-rufian-ultima-llamada-podemos?utm_source=feed",
+          "source": "El Salto",
+          "summary": "Los movimientos de las distintas organizaciones se suceden: Frente Amplio consolida su pacto e invita a Podemos a sumarse. Los morados responden por boca de Pablo Iglesias, quien descarta prácticamente la lista unitaria por Madrid. Temas principal: Partidos políticos Leer artículo completo",
+          "sources": [
+            "El Salto",
+            "20minutos",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-12T23:56:59.545Z"
+        },
+        {
+          "title": "El Supremo rechaza el recurso del Gobierno y ratifica la suspensión de voto para nacionalizados por la 'ley de nietos'",
           "link": "https://www.europapress.es/nacional/noticia-supremo-rechaza-recurso-gobierno-ratifica-suspension-voto-nacionalizados-ley-nietos-20261012154624.html",
           "source": "Europa Press",
-          "summary": "El Tribunal Supremo ha rechazado el recurso del Gobierno que pedía levantar la suspensión cautelar de la 'ley de nietos' y ha señalado que no podrán votar los nacionalizados por esa vía en las elecciones generales del próximo 29 de noviembre.",
+          "summary": "El Tribunal Supremo (TS) ha rechazado el recurso del Gobierno que reclamaba levantar la suspensión cautelar de la 'ley de nietos' y ha señalado que no podrán votar en las elecciones generales del próximo 29 de noviembre los nacionalizados por esa vía, salvo aquellos que puedan acreditar que sus antepasados sufrieron exilio.",
           "sources": [
             "Europa Press",
             "20minutos",
             "elDiario.es",
             "El País"
           ],
-          "firstSeen": "2026-10-12T13:52:04.378Z"
+          "firstSeen": "2026-10-12T23:56:59.545Z"
+        },
+        {
+          "title": "El voto discrepante a la decisión del Supremo sobre la ley de nietos: \"La eventual lesión al derecho de voto de los afectados es irreversible\"",
+          "link": "https://www.eldiario.es/politica/voto-discrepante-decision-supremo-ley-nietos-eventual-lesion-derecho-voto-afectados-irreversible_1_13580108.html",
+          "source": "elDiario.es",
+          "summary": "La magistrada María Alicia Millán afirma que \"la integridad del proceso electoral exige preservar el derecho de participación\" de quienes, conforme al ordenamiento, \"mantienen dicha condición\" El Supremo mantiene la suspensión del derecho a voto de los nacionalizados por la ley de nietos Cinco de los seis magistrados de la sala de lo contencioso del Tribunal Supremo han confirmado la medida cautelar que adoptaron el pasado 10 de septiembre suspendiendo el derecho a voto de 168.000 nacionalizados por la Ley de Nietos (disposición adicional octava de la Ley de Memoria Democrática de 2022). La…",
+          "sources": [
+            "elDiario.es",
+            "20minutos",
+            "El País"
+          ],
+          "firstSeen": "2026-10-12T23:56:59.545Z"
         },
         {
           "title": "Los reyes presiden un desfile militar marcado por el adelanto electoral y los abucheos a Sánchez",
@@ -30,79 +55,68 @@
             "20minutos",
             "El País"
           ],
-          "firstSeen": "2026-10-12T13:52:04.378Z"
+          "firstSeen": "2026-10-12T23:56:59.545Z"
         },
         {
-          "title": "Sánchez confía en gobernar tras las elecciones por la movilización progresista y la \"brutal\" fuga de votos del PP a Vox",
-          "link": "https://www.eldiario.es/politica/sanchez-confia-gobernar-elecciones-movilizacion-progresista-brutal-fuga-votos-pp-vox_1_13579991.html",
-          "source": "elDiario.es",
-          "summary": "El presidente del Gobierno asegura que va a \"ganar\" y \"gobernar\" y evita valorar la división entre las formaciones a la izquierda del PSOE: \"Respeto su autonomía\" El desfile del 12 de octubre deja insultos a Pedro Sánchez y un nuevo plantón de Abascal a los reyes El presidente del Gobierno, Pedro Sánchez, se ha mostrado “muy optimista” de cara a las elecciones del 29 de noviembre ante la movilización progresista en las calles, mayor que en 2023, y porque el PP está perdiendo votos. En conversación con los periodistas durante la recepción en el Palacio Real tras el desfile por la Fiesta…",
+          "title": "Los cuatro partidos del Frente Amplio eligen a Ada Colau como su candidata a la Presidencia del Gobierno - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWnV0MEo5ZWhRMG5UaDNUSFZYdlN5cWtxTXB1dlhOa3pMOVZhYkM5YlZsbXVleWJIYzBqZEV4cF9kS2xWdG1JS0dsWjVpcW4tWkRPUmZWVkVJaGVTVnItZ1pWZGU1T0FiY2F1QkMzXzlzemhpb3NzWWFHRlhmZnpSNkduaHp1eVhCZjhqbGk0SGRYWk4zcWp3Uzh4MGpnT3VvR1Z0Q0lqRWc4UmpRaWxZMVc4bTdVYlVtVXczV2tfLUbSAcYBQVVfeXFMT0d2TUxrYTYtd1lpYUY0Zi1hMjl2Y28tdS04cmo5clBuMWpXWUdKcjNHdURsMzNvemtLU2NxZUFCNG9DNDJJTTBVT0xsemp2MEVkeUlVanNjaC0zQ3hmdHFfakRGX2tnSllWclppZGxlUTA1ZVBvX1RyMk5ZMTU0Z1g3ZGFrcDFFZGRPcVlTaGZXWW1ITnJzbXFyTlprSndfRElYbUlIWmZsTExfazRLal9fYlRndERLTWZVdmZuNUZCbXpWM2xR?oc=5",
+          "source": "Público",
+          "summary": "Los cuatro partidos del Frente Amplio eligen a Ada Colau como su candidata a la Presidencia del Gobierno Diario Público",
           "sources": [
-            "elDiario.es",
-            "Europa Press"
+            "Público",
+            "El País"
           ],
-          "firstSeen": "2026-10-12T13:52:04.378Z"
-        },
-        {
-          "title": "Podemos anuncia que contribuirá a la candidatura de ERC en Cataluña, y Montero y Rufián \"harán equipo\" en campaña",
-          "link": "https://www.europapress.es/nacional/noticia-podemos-anuncia-contribuira-candidatura-erc-cataluna-montero-rufian-haran-equipo-campana-20261012122611.html",
-          "source": "Europa Press",
-          "summary": "Podemos ha anunciado que la actual secretaria política de Podemos, Irene Montero, y el cabeza de lista de Esquerra Republicana (ERC), Gabriel Rufián, \"harán equipo\" en la campaña de las elecciones generales del 29 de noviembre.",
-          "sources": [
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-12T13:52:04.378Z"
+          "firstSeen": "2026-10-12T23:56:59.545Z"
         }
       ],
       "items": [
         {
-          "title": "Desfile del Día de la Hispanidad y reacciones políticas en directo | La Policía impide el enfrentamiento entre un grupo de jóvenes con banderas de España y los acampados de Sol",
-          "link": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-12T13:49:56.000Z"
+          "title": "El PP pide al alcalde de Algeciras que dimita tras recibir dos denuncias por agresión sexual de afiliadas del partido",
+          "link": "https://www.eldiario.es/andalucia/cadiz/pp-pide-alcalde-algeciras-dimita-recibir-denuncias-agresion-sexual-afiliadas-partido_1_13580516.html",
+          "source": "elDiario.es",
+          "published": "2026-10-12T21:52:30.000Z"
         },
         {
-          "title": "Comuns acusan a Rufián de dividir la izquierda tras el pacto ERC-Podemos e irán a las elecciones con Frente Amplio",
-          "link": "https://www.europapress.es/nacional/noticia-comuns-acusan-rufian-dividir-izquierda-pacto-erc-podemos-iran-elecciones-frente-amplio-20261012141859.html",
+          "title": "Una treintena de países respalda la acusación del Reino Unido contra Irán por el intento de atentado en la base de Fairford",
+          "link": "https://elpais.com/internacional/2026-10-12/una-treintena-de-paises-respalda-la-acusacion-del-reino-unido-contra-iran-por-el-intento-de-atentado-en-la-base-de-fairford.html",
+          "source": "El País",
+          "published": "2026-10-12T18:52:33.000Z"
+        },
+        {
+          "title": "El Departamento de Justicia de Estados Unidos registra la vivienda de la legisladora progresista Ilhan Omar",
+          "link": "https://elpais.com/us/2026-10-12/el-departamento-de-justicia-de-estados-unidos-registra-la-vivienda-de-la-legisladora-progresista-ilhan-omar.html",
+          "source": "El País",
+          "published": "2026-10-12T17:30:42.000Z"
+        },
+        {
+          "title": "Sánchez confirma que buques de guerra de Marruecos entraron en aguas de Ceuta coincidiendo con la llegada masiva inmigrantes",
+          "link": "https://www.20minutos.es/ceuta/sanchez-confirma-que-buques-guerra-marroquies-entraron-ceuta-coincidiendo-con-llegada-masiva-migrantes_7047852_0.html",
+          "source": "20minutos",
+          "published": "2026-10-12T17:03:08.000Z"
+        },
+        {
+          "title": "El Supremo, juez y parte, entra en la campaña electoral",
+          "link": "https://www.eldiario.es/opinion/zona-critica/supremo-juez-parte-entra-campana-electoral_129_13580261.html",
+          "source": "elDiario.es",
+          "published": "2026-10-12T16:00:38.000Z"
+        },
+        {
+          "title": "La OTAN presenta su \"teoría de la victoria\" frente a Putin: bloquear un posible ataque, minar su capacidad y combate si es necesario",
+          "link": "https://www.20minutos.es/internacional/otan-presenta-su-teoria-victoria-frente-putin-bloquear-un-posible-ataque-minar-su-capacidad-combate-si-es-necesario_7047841_0.html",
+          "source": "20minutos",
+          "published": "2026-10-12T15:25:53.000Z"
+        },
+        {
+          "title": "El PP celebra el rechazo del TS a la 'ley de nietos' y señala que la decisión limita \"la irresponsabilidad\" del Gobierno",
+          "link": "https://www.europapress.es/nacional/noticia-pp-celebra-rechazo-ts-ley-nietos-senala-decision-limita-irresponsabilidad-gobierno-20261012171750.html",
           "source": "Europa Press",
-          "published": "2026-10-12T12:18:59.000Z"
+          "published": "2026-10-12T15:17:50.000Z"
         },
         {
-          "title": "Unas 1.700 personas se manifiestan por el 12-O en Barcelona con banderas españolas y de Ceuta",
-          "link": "https://www.eldiario.es/catalunya/1-700-personas-manifiestan-12-barcelona-banderas-espanolas-ceuta_1_13579850.html",
+          "title": "La acampada de Sol resiste a los ataques y provocaciones de los ultras el 12 de octubre: \"Sigue habiendo mucho fascismo\"",
+          "link": "https://www.eldiario.es/politica/acampada-sol-resiste-ataques-provocaciones-ultras-12-octubre-sigue-habiendo-fascismo_1_13580110.html",
           "source": "elDiario.es",
-          "published": "2026-10-12T12:08:03.000Z"
-        },
-        {
-          "title": "Trump, en un mitin: \"Podría decir las mayores estupideces y aplaudiríais\"",
-          "link": "https://www.eldiario.es/rastreador/trump-mitin-decir-mayores-estupideces-aplaudiriais_132_13579758.html",
-          "source": "elDiario.es",
-          "published": "2026-10-12T12:07:10.000Z"
-        },
-        {
-          "title": "Podemos y ERC confirman el pacto de \"colaboración\" entre Montero y Rufián para las elecciones del 29N - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZTA0Z1NKWkhyTEJ1Ni1QUGQ3OFI0T3hBLWhEMWUyT3I3UkZjMUJVSlRxbXJQTXJLZGxodGQxcnlYY0o2dHFZNDhtUUpSd1hOZGY5V1R6ZVhxU1lUX2QyR3d1NERKTjdWNU5wWXFYYWJYX0pwOEZyRHc5RElwb3RZdS1aTGdnSWMzVlBpTERQb2RiUUktT011UHo2T19PQlU5TlZiSWNKR19YQXdyc1ZDT0ZBNVJYNnfSAbwBQVVfeXFMT1RaZ084QVFFN3FsN3cwb3VUZ2tZQVY1ZUtsMFlvRlg2dWtIcmxDeF9XMEY1STNLZWZYc3gtYWMyQlNlQWdXWGMxX0FEUmFDalMtdVExOHgzb1lDZVVHNWtLTENPaFRvcmdMZ0lYRzUtaTdrcDN0VmNUTHczempjSWNub0RKYnRBT1ZhN2NFbnRCZXBMR01MdFYzVkRXRTNKbXV6WkwwNmZtZmZMQ0FZQ3lCazZQQ2hvNzU5bjI?oc=5",
-          "source": "Público",
-          "published": "2026-10-12T11:54:15.000Z"
-        },
-        {
-          "title": "Los Comuns cargan contra Rufián tras pactar con Podemos: \"Venía a unir a la izquierda y está haciendo lo posible por dividirla\"",
-          "link": "https://www.eldiario.es/politica/comuns-cargan-rufian-pactar-venia-unir-izquierda-haciendo-posible-dividirla_1_13579832.html",
-          "source": "elDiario.es",
-          "published": "2026-10-12T11:53:56.000Z"
-        },
-        {
-          "title": "El juez del caso Juana Rivas pide archivar la causa contra él por delito de odio y dice que las capturas de sus mensajes en redes son montajes",
-          "link": "https://www.eldiario.es/andalucia/granada/juez-caso-juana-rivas-pide-archivar-causa-delito-odio-dice-capturas-mensajes-redes-son-montajes_1_13579508.html",
-          "source": "elDiario.es",
-          "published": "2026-10-12T11:25:24.000Z"
-        },
-        {
-          "title": "Comuns acusa a Rufián de azuzar la división en las izquierdas por su acuerdo con Podemos",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
-          "source": "El País",
-          "published": "2026-10-12T11:14:38.000Z"
+          "published": "2026-10-12T15:16:12.000Z"
         }
       ]
     },
@@ -111,77 +125,88 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "En directo I Un ataque ruso sería “totalmente inútil”: OTAN; Rusia ataca Ucrania tras \"alto el fuego energético\" anunciado por Trump",
-          "link": "https://www.france24.com/es/europa/20261012-en-directo-comandante-de-la-otan-advierte-que-un-ataque-ruso-en-territorio-de-la-alianza-ser%C3%ADa-totalmente-in%C3%BAtil",
+          "title": "Rusia no confirma el alto el fuego energético con Ucrania anunciado por Trump",
+          "link": "https://www.france24.com/es/video/20261012-rusia-no-confirma-el-alto-el-fuego-energ%C3%A9tico-con-ucrania-anunciado-por-trump-1",
           "source": "France 24",
-          "summary": "Mientras crecen las tensiones entre los países europeos y Rusia, el comandante supremo de la OTAN en Europa, Alexus Grynkewich, advirtió este lunes 12 de octubre que las fuerzas de la alianza destruirían \"absolutamente todo\" lo relacionado con cualquier ataque si Moscú fuera \"lo suficientemente insensato\" para lanzar una ofensiva contra alguno de los 32 países que conforman la OTAN. Entretanto, Rusia lanzó nuevos ataques contra Ucrania, pese al \"alto el fuego energético\" anunciado por el presidente de Estados Unidos, Donald Trump.",
+          "summary": "Tras el anuncio unilateral del presidente de Estados Unidos, Donald Trump, el 11 de octubre, en el que aseguró que Rusia y Ucrania habían alcanzado un \"alto el fuego energético\" de efecto inmediato, el Kremlin se negó a confirmarlo, pero dijo que hay contactos en curso y que dará a conocer más información cuando corresponda..Por su parte, el mandatario ucraniano, Volodímir Zelenski, no esperó la confirmación de Rusia para denunciar una violación del supuesto acuerdo por parte de Moscú.",
           "sources": [
             "France 24",
-            "BBC Mundo",
-            "El País Internacional"
+            "DW",
+            "BBC Mundo"
           ],
-          "firstSeen": "2026-10-12T13:52:04.378Z"
+          "firstSeen": "2026-10-12T23:56:59.545Z"
         },
         {
-          "title": "Tras anuncio de Trump, el Kremlin no confirma tregua energética anunciada por Trump",
-          "link": "https://www.dw.com/es/tras-anuncio-de-trump-el-kremlin-no-confirma-tregua-energética-anunciada-por-trump/a-79641496?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Tras el acuerdo de suministro de diésel alcanzado entre Moscú y Washington, el Kremlin no confirma tregua energética.",
+          "title": "Grynkewich, el comandante supremo de la OTAN, endurece el tono frente a Rusia",
+          "link": "https://www.france24.com/es/video/20261012-grynkewich-el-comandante-supremo-de-la-otan-endurece-el-tono-frente-a-rusia",
+          "source": "France 24",
+          "summary": "En el Foro de Seguridad de Varsovia, el comandante supremo aliado de la OTAN en Europa, Alexus Grynkewich, lanzó un contundente mensaje sobre la capacidad de respuesta de la Alianza ante cualquier agresión contra uno de sus miembros. En un contexto de crecientes tensiones entre Occidente y Rusia, Grynkewich insistió en que la OTAN sigue siendo una alianza defensiva.",
           "sources": [
-            "DW",
+            "France 24",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-12T23:56:59.545Z"
+        },
+        {
+          "title": "Rusia considera la tregua energética anunciada por Trump una “trampa” y prosigue sus ataques sobre infraestructura en Ucrania",
+          "link": "https://elpais.com/internacional/2026-10-12/ucrania-no-da-por-rota-la-tregua-energetica-pero-acusa-a-rusia-de-romperla-con-ataques-contra-su-infraestructura.html",
+          "source": "El País Internacional",
+          "summary": "Kiev defiende el alto el fuego, pero Moscú replica que “no se dejará engañar por las promesas de Occidente”",
+          "sources": [
+            "El País Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-12T13:52:04.378Z"
+          "firstSeen": "2026-10-12T23:56:59.545Z"
         }
       ],
       "items": [
         {
-          "title": "En directo: Arabia Saudita extiende suspensión de operaciones en aeropuerto de Riad tras mortales ataques hutíes",
-          "link": "https://www.france24.com/es/medio-oriente/20261012-en-directo-arabia-saudita-extiende-suspensi%C3%B3n-de-operaciones-en-aeropuerto-de-riad-tras-mortales-ataques-hut%C3%ADes",
+          "title": "\"No me silenciarán\": Ilhan Omar denuncia \"intimidación política\" de Trump tras allanamiento a su casa",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261012-no-me-silenciar%C3%A1n-ilhan-omar-denuncia-intimidaci%C3%B3n-pol%C3%ADtica-de-trump-tras-allanamiento-a-su-casa",
           "source": "France 24",
-          "published": "2026-10-12T13:40:10.000Z"
+          "published": "2026-10-12T23:09:23.000Z"
         },
         {
-          "title": "Insultos a Pedro Sánchez en el desfile del 12 de octubre en España",
-          "link": "https://www.dw.com/es/insultos-a-pedro-sánchez-en-el-desfile-del-12-de-octubre-en-españa/a-79642272?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-12T13:20:00.000Z"
+          "title": "Un ciberataque contra neveras y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
+          "link": "https://www.bbc.com/mundo/articles/c6wydn1pvznqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-12T22:54:29.000Z"
         },
         {
-          "title": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus aportes a la estabilización económica",
-          "link": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261012-robert-e-hall-y-michael-woodford-ganan-el-nobel-de-econom%C3%ADa-por-sus-aportes-a-la-estabilizaci%C3%B3n-econ%C3%B3mica",
+          "title": "India: miles de manifestantes marchan en Nueva Delhi hacia la Corte Suprema",
+          "link": "https://www.france24.com/es/video/20261012-india-miles-de-manifestantes-marchan-en-nueva-delhi-hacia-la-corte-suprema",
           "source": "France 24",
-          "published": "2026-10-12T12:28:28.000Z"
+          "published": "2026-10-12T22:23:42.000Z"
         },
         {
-          "title": "Varios países de la UE piden recurrir a un mecanismo europeo frente a las sanciones de EEUU al Tribunal Penal Internacional",
-          "link": "https://www.20minutos.es/internacional/varios-paises-ue-piden-recurrir-un-mecanismo-europeo-frente-las-sanciones-eeuu-tribunal-penal-internacional_7047793_0.html",
+          "title": "Huracanes en México: Simón y Rachel dejan al menos dos muertos y 10 desaparecidos",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261012-huracanes-en-m%C3%A9xico-sim%C3%B3n-y-rachel-dejan-al-menos-dos-muertos-y-10-desaparecidos",
+          "source": "France 24",
+          "published": "2026-10-12T21:34:00.000Z"
+        },
+        {
+          "title": "Ataques israelíes dejan nuevas víctimas en Gaza y fuerzan otra ola de desplazamientos",
+          "link": "https://www.france24.com/es/video/20261012-ataques-israel%C3%ADes-dejan-nuevas-v%C3%ADctimas-en-gaza-y-fuerzan-otra-ola-de-desplazamientos",
+          "source": "France 24",
+          "published": "2026-10-12T21:08:39.000Z"
+        },
+        {
+          "title": "¿Cómo llega el Partido Republicano encabezado por Trump a las midterms?",
+          "link": "https://www.france24.com/es/video/20261012-c%C3%B3mo-llega-el-partido-republicano-encabezado-por-trump-a-las-midterms",
+          "source": "France 24",
+          "published": "2026-10-12T21:05:15.000Z"
+        },
+        {
+          "title": "Directo a... Londres y la insistencia de Burnham por un acuerdo con la Unión Europea",
+          "link": "https://www.france24.com/es/video/20261012-directo-a-londres-y-la-insistencia-de-burnham-por-un-acuerdo-con-la-uni%C3%B3n-europea",
+          "source": "France 24",
+          "published": "2026-10-12T21:03:27.000Z"
+        },
+        {
+          "title": "Cerrado el aeropuerto de Riad hasta el 17 octubre tras los ataques de los hutíes",
+          "link": "https://www.20minutos.es/internacional/cerrado-aeropuerto-riad-hasta-17-octubre-tras-los-ataques-los-huties_7047900_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-12T12:22:18.000Z"
-        },
-        {
-          "title": "\"EE.UU. no debería darle a Rusia un salvavidas financiero mientras mata civiles en Ucrania\": las críticas contra Trump por su plan de importar diésel ruso",
-          "link": "https://www.bbc.com/mundo/articles/cw98z4vm9mg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-12T11:43:09.000Z"
-        },
-        {
-          "title": "Europa eleva la presión sobre Rusia mientras arrecian las amenazas de Trump contra Ucrania",
-          "link": "https://elpais.com/internacional/2026-10-12/europa-eleva-la-presion-sobre-rusia-mientras-arrecian-las-amenazas-de-trump-contra-ucrania.html",
-          "source": "El País Internacional",
-          "published": "2026-10-12T11:40:57.000Z"
-        },
-        {
-          "title": "La Unión Europea aprueba una misión civil y militar en el Líbano",
-          "link": "https://www.eldiario.es/internacional/union-europea-aprueba-mision-civil-militar-paz-libano_1_13579749.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-12T11:28:38.000Z"
-        },
-        {
-          "title": "Dos estadounidenses ganan el Nobel de Economía por su innovador modelo que ayuda a gobiernos y bancos centrales de todo el mundo a estabilizar la economía",
-          "link": "https://www.bbc.com/mundo/articles/cr78pegge239o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-12T11:23:15.000Z"
+          "published": "2026-10-12T20:53:02.000Z"
         }
       ]
     }
