@@ -1,123 +1,118 @@
 {
-  "date": "2026-10-13",
-  "updatedAt": "2026-10-13T13:09:53.026Z",
-  "edition": "mediodía",
+  "date": "2026-10-14",
+  "updatedAt": "2026-10-13T22:04:58.929Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El Frente Amplio nombra candidata a Colau, se olvida de Rufián y lanza una última llamada a Podemos",
-          "link": "https://www.elsaltodiario.com/partidos-politicos/colau-candidata-presidenta-adios-rufian-ultima-llamada-podemos?utm_source=feed",
-          "source": "El Salto",
-          "summary": "Los movimientos de las distintas organizaciones se suceden: Frente Amplio consolida su pacto e invita a Podemos a sumarse. Los morados responden por boca de Pablo Iglesias, quien descarta prácticamente la lista unitaria por Madrid. Temas principal: Partidos políticos Leer artículo completo",
+          "title": "Frente Amplio acuerda que Emilio Delgado sea cabeza de lista por Madrid",
+          "link": "https://www.20minutos.es/nacional/frente-amplio-acuerda-que-emilio-delgado-sea-cabeza-lista-por-madrid_7048383_0.html",
+          "source": "20minutos",
+          "summary": "La coalición de partidos destaca que las cuatro organizaciones \"refuerzan así su compromiso con una candidatura unitaria, plural y arraigada\" que sea \"capaz de ofrecer una alternativa progresista para el futuro\".",
           "sources": [
-            "El Salto",
             "20minutos",
             "Europa Press",
             "elDiario.es"
           ],
-          "firstSeen": "2026-10-12T23:56:59.545Z"
+          "firstSeen": "2026-10-13T22:04:58.929Z"
         },
         {
-          "title": "El Supremo rechaza el recurso del Gobierno y ratifica la suspensión de voto para nacionalizados por la 'ley de nietos'",
-          "link": "https://www.europapress.es/nacional/noticia-supremo-rechaza-recurso-gobierno-ratifica-suspension-voto-nacionalizados-ley-nietos-20261012154624.html",
-          "source": "Europa Press",
-          "summary": "El Tribunal Supremo (TS) ha rechazado el recurso del Gobierno que reclamaba levantar la suspensión cautelar de la 'ley de nietos' y ha señalado que no podrán votar en las elecciones generales del próximo 29 de noviembre los nacionalizados por esa vía, salvo aquellos que puedan acreditar que sus antepasados sufrieron exilio.",
+          "title": "Colau ve \"un honor\" que Frente Amplio la proponga como líder, pero insiste en la unidad con Podemos y ERC",
+          "link": "https://www.20minutos.es/nacional/colau-ve-un-honor-que-frente-amplio-proponga-como-lider-pero-insiste-unidad-con-podemos-tiende-mano-erc_7048310_0.html",
+          "source": "20minutos",
+          "summary": "La exalcaldesa de Barcelona agradece la \"confianza\" de los partidos de la alianza, aunque no aclara de manera explícita si la liderará.",
           "sources": [
-            "Europa Press",
             "20minutos",
             "elDiario.es",
-            "El País"
+            "El Salto"
           ],
-          "firstSeen": "2026-10-12T23:56:59.545Z"
+          "firstSeen": "2026-10-13T22:04:58.929Z"
         },
         {
-          "title": "El voto discrepante a la decisión del Supremo sobre la ley de nietos: \"La eventual lesión al derecho de voto de los afectados es irreversible\"",
-          "link": "https://www.eldiario.es/politica/voto-discrepante-decision-supremo-ley-nietos-eventual-lesion-derecho-voto-afectados-irreversible_1_13580108.html",
+          "title": "La Audiencia Nacional imputa al exjuez Sáenz de Tejada en el caso Leire Díez",
+          "link": "https://www.eldiario.es/politica/audiencia-nacional-imputa-exjuez-saenz-tejada-caso-leire-diez_1_13582804.html",
           "source": "elDiario.es",
-          "summary": "La magistrada María Alicia Millán afirma que \"la integridad del proceso electoral exige preservar el derecho de participación\" de quienes, conforme al ordenamiento, \"mantienen dicha condición\" El Supremo mantiene la suspensión del derecho a voto de los nacionalizados por la ley de nietos Cinco de los seis magistrados de la sala de lo contencioso del Tribunal Supremo han confirmado la medida cautelar que adoptaron el pasado 10 de septiembre suspendiendo el derecho a voto de 168.000 nacionalizados por la Ley de Nietos (disposición adicional octava de la Ley de Memoria Democrática de 2022). La…",
+          "summary": "El magistrado en una providencia le imputa delitos de organización criminal, calumnias, coacciones y contra la integridad moral, y le cita el 28 de octubre El exjuez del 'Grupo Leire' desmiente haber contactado con Cintia Rocho para atentar contra la jueza Biedma En la providencia, a la que ha tenido acceso elDiario.es, el magistrado le cita como imputado el 28 de octubre a las 10.30 horas. En esa misma resolución cita también para ese mismo día en calidad de testigo a Raúl Montano, abogado de Cintia Rocho, 'La Celsa'. Ella sería precisamente con quien habría contactado el exjuez. Pedraz…",
           "sources": [
             "elDiario.es",
-            "20minutos",
-            "El País"
+            "Europa Press"
           ],
-          "firstSeen": "2026-10-12T23:56:59.545Z"
+          "firstSeen": "2026-10-13T22:04:58.929Z"
         },
         {
-          "title": "Los reyes presiden un desfile militar marcado por el adelanto electoral y los abucheos a Sánchez",
-          "link": "https://www.europapress.es/seguridad-y-defensa/noticia-reyes-presiden-desfile-militar-marcado-adelanto-electoral-abucheos-sanchez-20261012133151.html",
-          "source": "Europa Press",
-          "summary": "Los reyes Felipe y Letizia han presidido este lunes el acto central del Día de la Fiesta Nacional, el tradicional desfile militar con una numerosa asistencia de público en el centro de Madrid y que ha transcurrido sin alteraciones en el plan previsto.",
+          "title": "La jueza de la dana ve \"claros indicios\" de que Pradas y Argüeso habrían evitado muertes \"si hubieran ejercido sus funciones\"",
+          "link": "https://www.eldiario.es/comunitat-valenciana/politica/jueza-dana-ve-claros-indicios-pradas-argueso-habrian-evitado-muertes-si-hubieran-ejercido-funciones_1_13582674.html",
+          "source": "elDiario.es",
+          "summary": "El mensaje de subir a pisos altos \"podría haber salvado vidas en la pedanía La Torre de València, de haberse enviado antes de las 20:57 horas\", asegura la magistrada En un auto hecho público por el Tribunal Superior de Justicia valenciano, señala que los fallecimientos en La Torre -una de las tres pedanías valencianas con víctimas mortales en aquella dana, que dejó 17 en todo el término municipal- son “una muestra evidente de las negligencias en la gestión de la emergencia, así como de la carencia y del retraso de avisos y las consecuencias que tuvo para aquellas víctimas que perecieron en…",
           "sources": [
-            "Europa Press",
-            "20minutos",
-            "El País"
+            "elDiario.es",
+            "Europa Press"
           ],
-          "firstSeen": "2026-10-12T23:56:59.545Z"
+          "firstSeen": "2026-10-13T22:04:58.929Z"
         },
         {
-          "title": "Última hora de la visita de los Reyes a Ceuta, en directo | Vivas avisa ante los Reyes de que Ceuta “es una olla a presión que en cualquier momento puede estallar”",
-          "link": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+          "title": "CC OO y UGT reclaman que el salario mínimo suba un 7% en 2027",
+          "link": "https://elpais.com/economia/2026-10-13/cc-oo-y-ugt-reclaman-que-el-salario-minimo-suba-un-7-en-2027.html",
           "source": "El País",
-          "summary": "El presidente ceutí entrega la llave de la ciudad a los Reyes | Felipe VI y la reina Letizia se trasladarán este miércoles a Melilla",
+          "summary": "Ambas centrales registrarán la huelga general del 11-N con el lema ‘Salarios, vivienda, precios’ y le darán un anclaje laboral con una plataforma que reivindique sueldos suficientes",
           "sources": [
             "El País",
-            "Europa Press",
-            "20minutos"
+            "elDiario.es"
           ],
-          "firstSeen": "2026-10-13T13:09:53.026Z"
+          "firstSeen": "2026-10-13T22:04:58.929Z"
         }
       ],
       "items": [
         {
-          "title": "El Gobierno carga contra el Supremo por la 'ley de nietos': \"En democracia el voto se garantiza, no se restringe\"",
-          "link": "https://www.europapress.es/nacional/noticia-gobierno-carga-contra-supremo-ley-nietos-democracia-voto-garantiza-no-restringe-20261013144655.html",
+          "title": "La suspensión de la Ley de Nietos indigna a los afectados: “Los descendientes no son conejillos de indias”",
+          "link": "https://www.elsaltodiario.com/elecciones/suspension-ley-nietos-indigna-afectados-descendientes-no-son-conejillos-indias?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-13T22:01:00.000Z"
+        },
+        {
+          "title": "La Administración Trump impone una multa de 1.200 millones a Bank of America por blanqueo de capitales",
+          "link": "https://www.eldiario.es/economia/administracion-trump-impone-multa-1-200-millones-bank-of-america-blanqueo-capitales_1_13583459.html",
+          "source": "elDiario.es",
+          "published": "2026-10-13T21:15:54.000Z"
+        },
+        {
+          "title": "Feijóo dice que el acuerdo con UPN es \"una buena noticia, no sólo electoral, sino también ética",
+          "link": "https://www.europapress.es/navarra/noticia-feijoo-dice-acuerdo-upn-buena-noticia-no-solo-electoral-tambien-etica-20261013221704.html",
           "source": "Europa Press",
-          "published": "2026-10-13T12:46:55.000Z"
+          "published": "2026-10-13T20:17:04.000Z"
         },
         {
-          "title": "Última hora de la actualidad política, en directo | El Gobierno, tras la orden del Supremo sobre la ‘ley de nietos’: “Es una situación de extraordinaria gravedad”",
-          "link": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-actualidad-politica-y-de-la-visita-de-los-reyes-a-ceuta-en-directo.html",
+          "title": "Los estudiantes franceses aumentan la presión en las calles ante el silencio del Gobierno",
+          "link": "https://elpais.com/internacional/2026-10-13/nuevas-manifestaciones-de-los-estudiantes-en-francia-ante-el-silencio-del-gobierno-frente-a-sus-reivindicaciones.html",
           "source": "El País",
-          "published": "2026-10-13T12:41:58.000Z"
+          "published": "2026-10-13T19:25:23.000Z"
         },
         {
-          "title": "Almeida acusa también a los acampados en Sol por los disturbios: “Que no se quejen, porque también están provocando”",
-          "link": "https://elpais.com/espana/madrid/2026-10-13/almeida-acusa-tambien-a-los-acampados-en-sol-por-los-disturbios-que-no-se-quejen-porque-tambien-estan-provocando.html",
+          "title": "Europa baja la presión cuando es Trump quien desestabiliza el mundo",
+          "link": "https://www.eldiario.es/internacional/europa-baja-presion-trump-desestabiliza-mundo_1_13583073.html",
+          "source": "elDiario.es",
+          "published": "2026-10-13T19:05:08.000Z"
+        },
+        {
+          "title": "Marruecos ignora oficialmente la visita real a Ceuta sin adoptar represalias ni tolerar protestas",
+          "link": "https://elpais.com/espana/2026-10-13/marruecos-ignora-oficialmente-la-visita-real-a-ceuta-sin-adoptar-represalias-ni-tolerar-protestas.html",
           "source": "El País",
-          "published": "2026-10-13T12:41:24.000Z"
+          "published": "2026-10-13T18:41:46.000Z"
         },
         {
-          "title": "Moncloa evita explicar por qué no informó de la entrada de buques de guerra marroquíes en Ceuta y la reduce a un hecho \"puntual\"",
-          "link": "https://www.20minutos.es/nacional/moncloa-evita-explicar-por-que-no-informo-entrada-buques-guerra-marroquies-ceuta-reduce-un-hecho-puntual_7048203_0.html",
+          "title": "Colau insiste en que \"el objetivo es conseguir una única candidatura de izquierdas\" tras el pacto entre ERC y Podemos - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcUhrcW9XNXJBY1lwM0RmLXdyQWdIMjlWS0FzRXpSNHd1N2ZHc2Q4N0FTdkVvS0R5M25Pa2NJeHYxbnN5anBLX2FsMVhZeVlkZXlfSGI5NER2Z1hpejF4bnBLdnJtRVhSQnNMOElTd05qRmM3U3o5VFFRN01NUWJpNFpHc3VyWFBqancxVTZQZmlGdk9xWnpCLUNfMGVfRHV6ZHJOLVU2bGN4a0dNVEFCNTl4eXE4bVFv0gG-AUFVX3lxTE5jSEc0WFFkZjA2UHNELWxkTFE1anJjNmU4U21WQ0wwTVRxUER6a1V2RUEwN002Z09JU2tNa1VuV1o4ZmNyWU9wN2t3Zm1rS3lmY3czWkRiY0czMDNETm44cy0wNzNfenJkWXg3cVJYR1VwREFuWENoMEpqWWdZV1hqcFg3MWxSdGY1anZmNWRRbG5oaHE4Qks3NnFwUzROcEVuN1ZHUmN4bVRUbW93eHhjei1wRHJVa2tnSVRSUGc?oc=5",
+          "source": "Público",
+          "published": "2026-10-13T18:21:02.000Z"
+        },
+        {
+          "title": "La socialista Montse Mínguez, sobre el negocio inmobiliario de su pareja: \"Es una empresa familiar\"",
+          "link": "https://www.20minutos.es/nacional/socialista-montse-minguez-sobre-negocio-inmobiliario-su-pareja-es-una-empresa-que-cumple-con-legalidad_7048352_0.html",
           "source": "20minutos",
-          "published": "2026-10-13T12:39:48.000Z"
-        },
-        {
-          "title": "Landaluce desafía al PP y se aferra a la Alcaldía de Algeciras pese a las denuncias de acoso sexual: \"Seguiré intentando luchar\"",
-          "link": "https://www.eldiario.es/andalucia/landaluce-desafia-pp-aferrarse-alcaldia-algeciras-seguire-intentando-luchar-dificil-han-puesto_1_13581952.html",
-          "source": "elDiario.es",
-          "published": "2026-10-13T12:31:33.000Z"
-        },
-        {
-          "title": "Rufián pide que ERC y Comuns \"se entiendan\" y su partido replica que se presentarán con sus siglas",
-          "link": "https://www.eldiario.es/catalunya/rufian-pide-erc-comuns-entiendan-partido-replica-presentaran-siglas_1_13581810.html",
-          "source": "elDiario.es",
-          "published": "2026-10-13T12:09:28.000Z"
-        },
-        {
-          "title": "UGT defiende que hay muchas razones para la huelga general del 11N",
-          "link": "https://www.ugt.es/ugt-defiende-que-hay-muchas-razones-para-la-huelga-general-del-11n",
-          "source": "UGT",
-          "published": "2026-10-13T12:09:00.000Z"
-        },
-        {
-          "title": "La jueza que investigó al hermano de Sánchez pide imputar al exjuez que presuntamente habló de eliminarla",
-          "link": "https://www.europapress.es/nacional/noticia-jueza-investigo-hermano-sanchez-pide-imputar-exjuez-presuntamente-hablo-eliminarla-20261013140055.html",
-          "source": "Europa Press",
-          "published": "2026-10-13T12:00:55.000Z"
+          "published": "2026-10-13T18:09:52.000Z"
         }
       ]
     },
@@ -126,100 +121,77 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Rusia no confirma el alto el fuego energético con Ucrania anunciado por Trump",
-          "link": "https://www.france24.com/es/video/20261012-rusia-no-confirma-el-alto-el-fuego-energ%C3%A9tico-con-ucrania-anunciado-por-trump-1",
-          "source": "France 24",
-          "summary": "Tras el anuncio unilateral del presidente de Estados Unidos, Donald Trump, el 11 de octubre, en el que aseguró que Rusia y Ucrania habían alcanzado un \"alto el fuego energético\" de efecto inmediato, el Kremlin se negó a confirmarlo, pero dijo que hay contactos en curso y que dará a conocer más información cuando corresponda..Por su parte, el mandatario ucraniano, Volodímir Zelenski, no esperó la confirmación de Rusia para denunciar una violación del supuesto acuerdo por parte de Moscú.",
+          "title": "Francia vive nueva jornada de protestas estudiantiles masivas",
+          "link": "https://www.dw.com/es/francia-vive-nueva-jornada-de-protestas-estudiantiles-masivas/a-79654528?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "La manifestaciones se concentraron en París, aunque también tuvieron lugar en otras ciudades del país, con cifras que superan los cientos de miles de asistentes.",
           "sources": [
-            "France 24",
             "DW",
-            "BBC Mundo"
+            "20minutos Internacional",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-12T23:56:59.545Z"
+          "firstSeen": "2026-10-13T22:04:58.929Z"
         },
         {
-          "title": "Al menos 11 marineros desaparecidos en el hundimiento de un buque tras un ataque con drones frente a Bulgaria",
-          "link": "https://www.eldiario.es/internacional/11-marineros-desaparecidos-hundimiento-barco-ataque-drones-frente-bulgaria_1_13582069.html",
-          "source": "elDiario.es Internacional",
-          "summary": "El primer ministro búlgaro, Rumen Radev, ha reconocido que no tiene pruebas de la autoría rusa en el hundimiento de un carguero y los daños a otro en el mar Negro, pero sí ha apuntado que es Moscú quien se beneficia de los ataques Por qué el Mar Negro se ha vuelto a convertir en una zona de desestabilización global Al menos 11 marineros han desaparecido este martes en el mar tras el hundimiento de un barco por un ataque con drones frente a las costas de Bulgaria. Según las autoridades del país, dos buques de carga fueron alcanzados por drones durante la pasada noche y uno de ellos se ha…",
+          "title": "Embajadora de EE.UU. en Grecia dimite ante escándalo de presunta corrupción",
+          "link": "https://www.dw.com/es/embajadora-de-ee-uu-en-grecia-dimite-ante-escándalo-de-presunta-corrupción/a-79654886?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "La prensa filtró varias acciones cuestionables de Kimberly Guilfoyle, una de ella apunta a que habría pedido dinero a un donante republicano para pagar una deuda.",
           "sources": [
-            "elDiario.es Internacional",
-            "France 24",
+            "DW",
             "El País Internacional"
           ],
-          "firstSeen": "2026-10-13T13:09:53.026Z"
-        },
-        {
-          "title": "Grynkewich, el comandante supremo de la OTAN, endurece el tono frente a Rusia",
-          "link": "https://www.france24.com/es/video/20261012-grynkewich-el-comandante-supremo-de-la-otan-endurece-el-tono-frente-a-rusia",
-          "source": "France 24",
-          "summary": "En el Foro de Seguridad de Varsovia, el comandante supremo aliado de la OTAN en Europa, Alexus Grynkewich, lanzó un contundente mensaje sobre la capacidad de respuesta de la Alianza ante cualquier agresión contra uno de sus miembros. En un contexto de crecientes tensiones entre Occidente y Rusia, Grynkewich insistió en que la OTAN sigue siendo una alianza defensiva.",
-          "sources": [
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-12T23:56:59.545Z"
-        },
-        {
-          "title": "Rusia considera la tregua energética anunciada por Trump una “trampa” y prosigue sus ataques sobre infraestructura en Ucrania",
-          "link": "https://elpais.com/internacional/2026-10-12/ucrania-no-da-por-rota-la-tregua-energetica-pero-acusa-a-rusia-de-romperla-con-ataques-contra-su-infraestructura.html",
-          "source": "El País Internacional",
-          "summary": "Kiev defiende el alto el fuego, pero Moscú replica que “no se dejará engañar por las promesas de Occidente”",
-          "sources": [
-            "El País Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-12T23:56:59.545Z"
+          "firstSeen": "2026-10-13T22:04:58.929Z"
         }
       ],
       "items": [
         {
-          "title": "La contraofensiva ucrania sobre centros de datos cortocircuita la vida digital en Rusia",
-          "link": "https://elpais.com/internacional/2026-10-13/la-contraofensiva-ucrania-sobre-centros-de-datos-cortocircuita-la-vida-digital-en-rusia.html",
-          "source": "El País Internacional",
-          "published": "2026-10-13T12:55:27.000Z"
-        },
-        {
-          "title": "Una enorme columna de humo y llamas: las impresionantes imágenes del ataque ucraniano contra un centro de datos ruso",
-          "link": "https://www.20minutos.es/internacional/una-enorme-columna-humo-llamas-las-impresionantes-imagenes-ataque-ucraniano-contra-un-centro-datos-ruso_7047995_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-13T12:41:33.000Z"
-        },
-        {
-          "title": "Por qué han atacado los hutíes el aeropuerto de Riad y cómo consiguen burlar las defensas de Arabia Saudí",
-          "link": "https://www.eldiario.es/internacional/theguardian/han-atacado-huties-aeropuerto-riad-burlar-defensas-arabia-saudi_1_13581338.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-13T12:23:31.000Z"
-        },
-        {
-          "title": "Hungría elimina disposiciones anti-LGBTIQ de una ley aprobada bajo el Gobierno de Orbán",
-          "link": "https://www.france24.com/es/europa/20261013-hungr%C3%ADa-elimina-disposiciones-anti-lgbtq-de-una-ley-de-la-era-de-orb%C3%A1n",
-          "source": "France 24",
-          "published": "2026-10-13T11:57:29.000Z"
-        },
-        {
-          "title": "El papa León XIV ingresa en el hospital Gemelli de Roma para ser operado de un nódulo pulmonar",
-          "link": "https://www.20minutos.es/internacional/papa-leon-xiv-ingresa-hospital-gemelli-roma-para-ser-operado-un-nodulo-pulmonar_7048152_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-13T11:29:57.000Z"
-        },
-        {
-          "title": "Un carguero hundido y otro dañado en ataques en el mar Negro que Bulgaria atribuye a Rusia",
-          "link": "https://www.dw.com/es/un-carguero-hundido-y-otro-dañado-en-ataques-en-el-mar-negro-que-bulgaria-atribuye-a-rusia/a-79648198?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Trump defiende frente a congresistas republicanos el acuerdo para suministrar diésel ruso",
+          "link": "https://www.dw.com/es/trump-defiende-frente-a-congresistas-republicanos-el-acuerdo-para-suministrar-diésel-ruso/a-79655410?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-13T10:33:00.000Z"
+          "published": "2026-10-13T21:27:00.000Z"
         },
         {
-          "title": "La activista Greta Thunberg se une a las protestas estudiantiles en Francia",
-          "link": "https://www.eldiario.es/internacional/activista-greta-thunberg-une-protestas-estudiantiles-francia_1_13581193.html",
+          "title": "La Embajada española en Arabia Saudí pide \"máxima precaución\" a los ciudadanos tras los ataques contra el aeropuerto de Riad",
+          "link": "https://www.20minutos.es/internacional/embajada-espanola-arabia-saudi-pide-maxima-precaucion-los-ciudadanos-tras-los-ataques-contra-aeropuerto-riad_7048400_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-13T20:57:42.000Z"
+        },
+        {
+          "title": "Elon Musk acude al rescate de Trump con donaciones de 276 millones para evitar la debacle electoral republicana",
+          "link": "https://www.eldiario.es/internacional/elon-musk-acude-rescate-trump-donaciones-276-millones-evitar-debacle-electoral-republicana_1_13582782.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-13T09:33:01.000Z"
+          "published": "2026-10-13T20:57:33.000Z"
         },
         {
-          "title": "Un ataque con drones hunde un carguero frente a la costa de Bulgaria, el segundo en una semana",
-          "link": "https://elpais.com/internacional/2026-10-13/un-ataque-con-drones-hunde-un-carguero-frente-a-la-costa-de-bulgaria-el-segundo-en-una-semana.html",
+          "title": "Españoles a los que el Supremo ha arrebatado el voto: \"Es una grave violación de derechos, voy a recurrir\"",
+          "link": "https://www.eldiario.es/internacional/espana-nacionalidad-ley-de-nietos-argentina_1_13583200.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-13T20:57:31.000Z"
+        },
+        {
+          "title": "Zelenski denuncia que Ucrania no recibió información de inteligencia de sus socios antes de los últimos ataques con misiles sobre Kiev",
+          "link": "https://elpais.com/internacional/2026-10-13/zelenski-revela-que-ucrania-no-recibio-informacion-de-inteligencia-de-sus-socios-antes-del-ataque-a-kiev-del-lunes.html",
           "source": "El País Internacional",
-          "published": "2026-10-13T09:17:03.000Z"
+          "published": "2026-10-13T20:56:42.000Z"
+        },
+        {
+          "title": "¿Qué significa la prohibición de \"trabajo esclavo\" de Trump para América Latina bajo amenaza de aranceles?",
+          "link": "https://www.dw.com/es/¿qué-significa-la-prohibición-de-trabajo-esclavo-de-trump-para-américa-latina-bajo-amenaza-de-aranceles/a-79654724?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-13T20:19:00.000Z"
+        },
+        {
+          "title": "Guerra de Ucrania: el acuerdo de Trump sobre el diésel con Rusia y sus consecuencias",
+          "link": "https://www.dw.com/es/guerra-de-ucrania-el-acuerdo-de-trump-sobre-el-diésel-con-rusia-y-sus-consecuencias/a-79653537?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-13T20:18:00.000Z"
+        },
+        {
+          "title": "¿Quién inventó los impuestos y por qué tenemos que pagarlos?",
+          "link": "https://www.france24.com/es/programas/en-5-minutos/20261013-qui%C3%A9n-invent%C3%B3-los-impuestos-y-por-qu%C3%A9-tenemos-que-pagarlos",
+          "source": "France 24",
+          "published": "2026-10-13T20:10:40.000Z"
         }
       ]
     }
