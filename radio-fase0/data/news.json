@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-13T22:04:58.929Z",
-  "edition": "mañana",
+  "updatedAt": "2026-10-14T10:50:49.410Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
@@ -32,6 +32,18 @@
           "firstSeen": "2026-10-13T22:04:58.929Z"
         },
         {
+          "title": "El Tribunal de Cuentas aplica la amnistía a Puigdemont y todos los encausados en el caso de los gastos del 'procés'",
+          "link": "https://www.20minutos.es/nacional/tribunal-cuentas-aplica-amnistia-puigdemont-todos-los-encausados-caso-los-gastos-proces_7048561_0.html",
+          "source": "20minutos",
+          "summary": "Así consta en una sentencia en la que el órgano fiscalizador señala que \"no ha resultado acreditado\" que los gastos del 'procés' se realizaran con fondos públicos provenientes del presupuesto de la UE.",
+          "sources": [
+            "20minutos",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-14T10:50:49.410Z"
+        },
+        {
           "title": "La Audiencia Nacional imputa al exjuez Sáenz de Tejada en el caso Leire Díez",
           "link": "https://www.eldiario.es/politica/audiencia-nacional-imputa-exjuez-saenz-tejada-caso-leire-diez_1_13582804.html",
           "source": "elDiario.es",
@@ -52,67 +64,56 @@
             "Europa Press"
           ],
           "firstSeen": "2026-10-13T22:04:58.929Z"
-        },
-        {
-          "title": "CC OO y UGT reclaman que el salario mínimo suba un 7% en 2027",
-          "link": "https://elpais.com/economia/2026-10-13/cc-oo-y-ugt-reclaman-que-el-salario-minimo-suba-un-7-en-2027.html",
-          "source": "El País",
-          "summary": "Ambas centrales registrarán la huelga general del 11-N con el lema ‘Salarios, vivienda, precios’ y le darán un anclaje laboral con una plataforma que reivindique sueldos suficientes",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-13T22:04:58.929Z"
         }
       ],
       "items": [
         {
-          "title": "La suspensión de la Ley de Nietos indigna a los afectados: “Los descendientes no son conejillos de indias”",
-          "link": "https://www.elsaltodiario.com/elecciones/suspension-ley-nietos-indigna-afectados-descendientes-no-son-conejillos-indias?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-13T22:01:00.000Z"
-        },
-        {
-          "title": "La Administración Trump impone una multa de 1.200 millones a Bank of America por blanqueo de capitales",
-          "link": "https://www.eldiario.es/economia/administracion-trump-impone-multa-1-200-millones-bank-of-america-blanqueo-capitales_1_13583459.html",
-          "source": "elDiario.es",
-          "published": "2026-10-13T21:15:54.000Z"
-        },
-        {
-          "title": "Feijóo dice que el acuerdo con UPN es \"una buena noticia, no sólo electoral, sino también ética",
-          "link": "https://www.europapress.es/navarra/noticia-feijoo-dice-acuerdo-upn-buena-noticia-no-solo-electoral-tambien-etica-20261013221704.html",
-          "source": "Europa Press",
-          "published": "2026-10-13T20:17:04.000Z"
-        },
-        {
-          "title": "Los estudiantes franceses aumentan la presión en las calles ante el silencio del Gobierno",
-          "link": "https://elpais.com/internacional/2026-10-13/nuevas-manifestaciones-de-los-estudiantes-en-francia-ante-el-silencio-del-gobierno-frente-a-sus-reivindicaciones.html",
+          "title": "La huelga del profesorado en Madrid comienza con un alto seguimiento en los centros, según los sindicatos",
+          "link": "https://elpais.com/educacion/2026-10-14/la-huelga-indefinida-del-profesorado-en-madrid-comienza-con-el-corte-de-la-castellana-y-piquetes-en-la-puerta-de-los-centros.html",
           "source": "El País",
-          "published": "2026-10-13T19:25:23.000Z"
+          "published": "2026-10-14T10:46:09.000Z"
         },
         {
-          "title": "Europa baja la presión cuando es Trump quien desestabiliza el mundo",
-          "link": "https://www.eldiario.es/internacional/europa-baja-presion-trump-desestabiliza-mundo_1_13583073.html",
-          "source": "elDiario.es",
-          "published": "2026-10-13T19:05:08.000Z"
-        },
-        {
-          "title": "Marruecos ignora oficialmente la visita real a Ceuta sin adoptar represalias ni tolerar protestas",
-          "link": "https://elpais.com/espana/2026-10-13/marruecos-ignora-oficialmente-la-visita-real-a-ceuta-sin-adoptar-represalias-ni-tolerar-protestas.html",
+          "title": "Última hora de la actualidad política, en directo | El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS",
+          "link": "https://elpais.com/espana/2026-10-14/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-10-13T18:41:46.000Z"
+          "published": "2026-10-14T10:44:25.000Z"
         },
         {
-          "title": "Colau insiste en que \"el objetivo es conseguir una única candidatura de izquierdas\" tras el pacto entre ERC y Podemos - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcUhrcW9XNXJBY1lwM0RmLXdyQWdIMjlWS0FzRXpSNHd1N2ZHc2Q4N0FTdkVvS0R5M25Pa2NJeHYxbnN5anBLX2FsMVhZeVlkZXlfSGI5NER2Z1hpejF4bnBLdnJtRVhSQnNMOElTd05qRmM3U3o5VFFRN01NUWJpNFpHc3VyWFBqancxVTZQZmlGdk9xWnpCLUNfMGVfRHV6ZHJOLVU2bGN4a0dNVEFCNTl4eXE4bVFv0gG-AUFVX3lxTE5jSEc0WFFkZjA2UHNELWxkTFE1anJjNmU4U21WQ0wwTVRxUER6a1V2RUEwN002Z09JU2tNa1VuV1o4ZmNyWU9wN2t3Zm1rS3lmY3czWkRiY0czMDNETm44cy0wNzNfenJkWXg3cVJYR1VwREFuWENoMEpqWWdZV1hqcFg3MWxSdGY1anZmNWRRbG5oaHE4Qks3NnFwUzROcEVuN1ZHUmN4bVRUbW93eHhjei1wRHJVa2tnSVRSUGc?oc=5",
-          "source": "Público",
-          "published": "2026-10-13T18:21:02.000Z"
-        },
-        {
-          "title": "La socialista Montse Mínguez, sobre el negocio inmobiliario de su pareja: \"Es una empresa familiar\"",
-          "link": "https://www.20minutos.es/nacional/socialista-montse-minguez-sobre-negocio-inmobiliario-su-pareja-es-una-empresa-que-cumple-con-legalidad_7048352_0.html",
+          "title": "El CIS de Tezanos dispara al PSOE y Vox tras los decretos de vivienda y el adelanto electoral mientras sitúa al PP en mínimos",
+          "link": "https://www.20minutos.es/nacional/cis-tezanos-dispara-psoe-vox-tras-los-decretos-vivienda-adelanto-electoral-mientras-situa-pp-minimos_7048629_0.html",
           "source": "20minutos",
-          "published": "2026-10-13T18:09:52.000Z"
+          "published": "2026-10-14T10:37:12.000Z"
+        },
+        {
+          "title": "El primer CIS de la precampaña amplía la ventaja del PSOE sobre el PP a 11,8 puntos",
+          "link": "https://www.eldiario.es/politica/cis-aumenta-apoyo-psoe-arranque-precampana-amplia-ventaja-11-8-puntos-pp-cae_1_13584009.html",
+          "source": "elDiario.es",
+          "published": "2026-10-14T10:27:21.000Z"
+        },
+        {
+          "title": "“¡Dame la puta toalla, coño!”: Jódar pierde los nervios en Shangai ante un recogepelotas y acaba sancionado",
+          "link": "https://elpais.com/deportes/tenis/2026-10-14/dame-la-puta-toalla-cono-jodar-pierde-los-nervios-en-shangai-ante-un-recogepelotas-y-acaba-sancionado.html",
+          "source": "El País",
+          "published": "2026-10-14T10:10:10.000Z"
+        },
+        {
+          "title": "La visita de los Reyes a Melilla, en directo | Cientos de personas reciben a Felipe VI y Letizia en Melilla",
+          "link": "https://elpais.com/espana/2026-10-14/la-visita-de-los-reyes-a-melilla-en-directo.html",
+          "source": "El País",
+          "published": "2026-10-14T10:06:15.000Z"
+        },
+        {
+          "title": "El Ejército de Tierra investiga a los legionarios que vitorearon a Vito Quiles cuando gritó: “¡A por los rojos!”",
+          "link": "https://elpais.com/espana/2026-10-14/el-ejercito-de-tierra-investiga-a-los-legionarios-que-vitorearon-a-vito-quiles-cuando-grito-a-los-rojos.html",
+          "source": "El País",
+          "published": "2026-10-14T10:03:11.000Z"
+        },
+        {
+          "title": "La huelga educativa empieza en Madrid entre piquetes, centros parados y cargas policiales",
+          "link": "https://www.eldiario.es/sociedad/huelga-educativa-empieza-madrid-piquetes-centros-parados-cargas-policiales_1_13584031.html",
+          "source": "elDiario.es",
+          "published": "2026-10-14T09:58:47.000Z"
         }
       ]
     },
@@ -142,56 +143,89 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-10-13T22:04:58.929Z"
+        },
+        {
+          "title": "Un soldado ucraniano, al banquillo por el sabotaje del gasoducto Nord Stream",
+          "link": "https://www.eldiario.es/internacional/theguardian/soldado-ucraniano-banquillo-sabotaje-gasoducto-nord-stream_1_13584053.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El oficial de las fuerzas especiales Serhii Kuznetsov niega su implicación en las explosiones de 2022 que causaron graves daños en los oleoductos La Fiscalía alemana acusa a Ucrania de ordenar el sabotaje de los gasoductos Nord Stream Un soldado ucraniano será juzgado en Hamburgo acusado de participar en uno de los actos de sabotaje más descarados de la historia europea de la posguerra: el ataque de 2022 contra los gasoductos Nord Stream entre Rusia y Alemania. Serhii Kuznetsov, un oficial de las fuerzas especiales del ejército ucraniano, está acusado por la fiscalía de ser cómplice de…",
+          "sources": [
+            "elDiario.es Internacional",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-14T10:50:49.410Z"
+        },
+        {
+          "title": "Trump anuncia que EEUU prepara la exploración \"masiva\" de petróleo y gas en Groenlandia",
+          "link": "https://www.eldiario.es/internacional/trump-anuncia-eeuu-prepara-exploracion-masiva-petroleo-gas-groenlandia_1_13583822.html",
+          "source": "elDiario.es Internacional",
+          "summary": "\"¡La exploración masiva de petróleo, gas y mineral se está preparando para comenzar en nuestra nueva y bella Groenlandia!\", ha señalado el presidente, que en septiembre firmó con Groenlandia y Dinamarca un acuerdo que garantizaba y expandía su presencia en la isla tras meses de amenazas sobre el uso de la fuerza De “obra maestra diplomática” a “sumisión” a EEUU: así ven Dinamarca y Groenlandia el acuerdo con Trump El presidente de Estados Unidos, Donald Trump, ha afirmado este miércoles que su país prepara el comienzo de las labores de exploración “masiva” de petróleo, gas y minerales en…",
+          "sources": [
+            "elDiario.es Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-10-14T10:50:49.410Z"
+        },
+        {
+          "title": "Informe desde Washington: la renuncia de Kimberly Guilfoyle la embajadora de EE. UU. en Grecia",
+          "link": "https://www.france24.com/es/video/20261014-informe-desde-washington-la-renuncia-de-kimberly-guilfoyle-la-embajadora-de-ee-uu-en-grecia",
+          "source": "France 24",
+          "summary": "La renuncia de Kimberly Guilfoyle como embajadora de Estados Unidos en Grecia ha generado atención política en Washington. La salida se produjo después de que la Administración de Donald Trump le solicitara dejar el cargo en medio de acusaciones sobre presuntas irregularidades financieras, posibles conflictos de interés y conductas indebidas durante su gestión diplomática. Por otro lado, Katie Zacharia debutó como nueva secretaria de prensa de la Casa Blanca con su primera rueda de prensa oficial. Desde Washington, nuestro corresponsal Cristóbal Vásquez nos da más detalles.",
+          "sources": [
+            "France 24",
+            "BBC Mundo"
+          ],
+          "firstSeen": "2026-10-14T10:50:49.410Z"
         }
       ],
       "items": [
         {
-          "title": "Trump defiende frente a congresistas republicanos el acuerdo para suministrar diésel ruso",
-          "link": "https://www.dw.com/es/trump-defiende-frente-a-congresistas-republicanos-el-acuerdo-para-suministrar-diésel-ruso/a-79655410?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-13T21:27:00.000Z"
-        },
-        {
-          "title": "La Embajada española en Arabia Saudí pide \"máxima precaución\" a los ciudadanos tras los ataques contra el aeropuerto de Riad",
-          "link": "https://www.20minutos.es/internacional/embajada-espanola-arabia-saudi-pide-maxima-precaucion-los-ciudadanos-tras-los-ataques-contra-aeropuerto-riad_7048400_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-13T20:57:42.000Z"
-        },
-        {
-          "title": "Elon Musk acude al rescate de Trump con donaciones de 276 millones para evitar la debacle electoral republicana",
-          "link": "https://www.eldiario.es/internacional/elon-musk-acude-rescate-trump-donaciones-276-millones-evitar-debacle-electoral-republicana_1_13582782.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-13T20:57:33.000Z"
-        },
-        {
-          "title": "Españoles a los que el Supremo ha arrebatado el voto: \"Es una grave violación de derechos, voy a recurrir\"",
-          "link": "https://www.eldiario.es/internacional/espana-nacionalidad-ley-de-nietos-argentina_1_13583200.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-13T20:57:31.000Z"
-        },
-        {
-          "title": "Zelenski denuncia que Ucrania no recibió información de inteligencia de sus socios antes de los últimos ataques con misiles sobre Kiev",
-          "link": "https://elpais.com/internacional/2026-10-13/zelenski-revela-que-ucrania-no-recibio-informacion-de-inteligencia-de-sus-socios-antes-del-ataque-a-kiev-del-lunes.html",
+          "title": "Quien tiene la mayoría, tiene la chequera",
+          "link": "https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html",
           "source": "El País Internacional",
-          "published": "2026-10-13T20:56:42.000Z"
+          "published": "2026-10-14T09:30:00.000Z"
         },
         {
-          "title": "¿Qué significa la prohibición de \"trabajo esclavo\" de Trump para América Latina bajo amenaza de aranceles?",
-          "link": "https://www.dw.com/es/¿qué-significa-la-prohibición-de-trabajo-esclavo-de-trump-para-américa-latina-bajo-amenaza-de-aranceles/a-79654724?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Un juez de Florida rechaza la declaración del testigo que exculpa a Pablo Ibar del triple asesinato de 1994",
+          "link": "https://www.20minutos.es/internacional/un-juez-florida-rechaza-declaracion-testigo-que-exculpa-pablo-ibar-triple-asesinato-1994_7048550_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-14T09:25:57.000Z"
+        },
+        {
+          "title": "Rusia ataca plantas eléctricas de Ucrania pese a la tregua energética anunciada por Trump",
+          "link": "https://www.dw.com/es/rusia-ataca-plantas-eléctricas-de-ucrania-pese-a-la-tregua-energética-anunciada-por-trump/a-79657758?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-13T20:19:00.000Z"
+          "published": "2026-10-14T09:15:00.000Z"
         },
         {
-          "title": "Guerra de Ucrania: el acuerdo de Trump sobre el diésel con Rusia y sus consecuencias",
-          "link": "https://www.dw.com/es/guerra-de-ucrania-el-acuerdo-de-trump-sobre-el-diésel-con-rusia-y-sus-consecuencias/a-79653537?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-13T20:18:00.000Z"
+          "title": "Un juez federal ratifica el acceso a la Casa Blanca de CNN, Politico y MS Now que vetó Trump",
+          "link": "https://elpais.com/internacional/2026-10-14/un-juez-federal-ratifica-el-acceso-a-la-casa-blanca-de-cnn-politico-y-ms-now-que-veto-trump.html",
+          "source": "El País Internacional",
+          "published": "2026-10-14T08:55:00.000Z"
         },
         {
-          "title": "¿Quién inventó los impuestos y por qué tenemos que pagarlos?",
-          "link": "https://www.france24.com/es/programas/en-5-minutos/20261013-qui%C3%A9n-invent%C3%B3-los-impuestos-y-por-qu%C3%A9-tenemos-que-pagarlos",
-          "source": "France 24",
-          "published": "2026-10-13T20:10:40.000Z"
+          "title": "Trump dice que EEUU hará \"operaciones masivas\" para extraer recursos naturales de Groenlandia: \"Su valor es inigualable\"",
+          "link": "https://www.20minutos.es/internacional/trump-dice-que-eeuu-hara-operaciones-masivas-para-extraer-recursos-naturales-groenlandia-su-valor-es-inigualable_7048504_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-14T08:19:14.000Z"
+        },
+        {
+          "title": "Rusia golpea el sector energético de Ucrania en medio de restricciones a la información de inteligencia que recibe Kiev",
+          "link": "https://elpais.com/internacional/2026-10-14/rusia-golpea-el-sector-energetico-de-ucrania-en-medio-de-restricciones-a-la-informacion-de-inteligencia-que-recibe-kiev.html",
+          "source": "El País Internacional",
+          "published": "2026-10-14T07:18:49.000Z"
+        },
+        {
+          "title": "Putin sigue ignorando la tregua de Trump y ataca instalaciones energéticas de Ucrania: al menos dos muertos y 600.000 personas sin luz",
+          "link": "https://www.20minutos.es/internacional/menos-tres-muertos-mas-20-heridos-nuevos-ataques-rusos-contra-kiev_7048429_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-14T04:49:39.000Z"
+        },
+        {
+          "title": "Turek contra Hinson, una de las batallas más reñidas de las ‘midterms’ se libra en Iowa, donde los candidatos marcan distancia con Trump",
+          "link": "https://elpais.com/us/2026-10-14/turek-contra-hinson-una-de-las-batallas-mas-renidas-de-las-midterms-se-libra-en-iowa-donde-los-candidatos-marcan-distancia-con-trump.html",
+          "source": "El País Internacional",
+          "published": "2026-10-14T04:07:21.000Z"
         }
       ]
     }
