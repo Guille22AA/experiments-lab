@@ -1,12 +1,38 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-14T10:50:49.410Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-14T16:10:01.977Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "Margarita Robles será la 'número 2' de Sánchez al Congreso por Madrid",
+          "link": "https://www.europapress.es/madrid/noticia-margarita-robles-sera-numero-sanchez-congreso-madrid-20261014174024.html",
+          "source": "Europa Press",
+          "summary": "La ministra de Defensa, Margarita Robles, será la 'número 2' de la lista del PSOE al Congreso de los Diputados por Madrid, encabezada por el presidente del Gobierno, Pedro Sánchez.",
+          "sources": [
+            "Europa Press",
+            "20minutos",
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-14T16:10:01.977Z"
+        },
+        {
+          "title": "El Supremo confirma la condena de Ábalos y Koldo García y despeja el camino para que vayan al Constitucional",
+          "link": "https://elpais.com/espana/2026-10-14/el-supremo-confirma-la-condena-de-abalos-y-koldo-garcia-y-despeja-el-camino-para-que-vayan-al-constitucional.html",
+          "source": "El País",
+          "summary": "El alto tribunal rechaza los intentos del exministro y su antiguo asesor de anular la pena de 24 y 19 años de prisión, respectivamente, que les impuso por la trama de las mascarillas",
+          "sources": [
+            "El País",
+            "elDiario.es",
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-14T16:10:01.977Z"
+        },
         {
           "title": "Frente Amplio acuerda que Emilio Delgado sea cabeza de lista por Madrid",
           "link": "https://www.20minutos.es/nacional/frente-amplio-acuerda-que-emilio-delgado-sea-cabeza-lista-por-madrid_7048383_0.html",
@@ -42,78 +68,56 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-10-14T10:50:49.410Z"
-        },
-        {
-          "title": "La Audiencia Nacional imputa al exjuez Sáenz de Tejada en el caso Leire Díez",
-          "link": "https://www.eldiario.es/politica/audiencia-nacional-imputa-exjuez-saenz-tejada-caso-leire-diez_1_13582804.html",
-          "source": "elDiario.es",
-          "summary": "El magistrado en una providencia le imputa delitos de organización criminal, calumnias, coacciones y contra la integridad moral, y le cita el 28 de octubre El exjuez del 'Grupo Leire' desmiente haber contactado con Cintia Rocho para atentar contra la jueza Biedma En la providencia, a la que ha tenido acceso elDiario.es, el magistrado le cita como imputado el 28 de octubre a las 10.30 horas. En esa misma resolución cita también para ese mismo día en calidad de testigo a Raúl Montano, abogado de Cintia Rocho, 'La Celsa'. Ella sería precisamente con quien habría contactado el exjuez. Pedraz…",
-          "sources": [
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-13T22:04:58.929Z"
-        },
-        {
-          "title": "La jueza de la dana ve \"claros indicios\" de que Pradas y Argüeso habrían evitado muertes \"si hubieran ejercido sus funciones\"",
-          "link": "https://www.eldiario.es/comunitat-valenciana/politica/jueza-dana-ve-claros-indicios-pradas-argueso-habrian-evitado-muertes-si-hubieran-ejercido-funciones_1_13582674.html",
-          "source": "elDiario.es",
-          "summary": "El mensaje de subir a pisos altos \"podría haber salvado vidas en la pedanía La Torre de València, de haberse enviado antes de las 20:57 horas\", asegura la magistrada En un auto hecho público por el Tribunal Superior de Justicia valenciano, señala que los fallecimientos en La Torre -una de las tres pedanías valencianas con víctimas mortales en aquella dana, que dejó 17 en todo el término municipal- son “una muestra evidente de las negligencias en la gestión de la emergencia, así como de la carencia y del retraso de avisos y las consecuencias que tuvo para aquellas víctimas que perecieron en…",
-          "sources": [
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-13T22:04:58.929Z"
         }
       ],
       "items": [
         {
-          "title": "La huelga del profesorado en Madrid comienza con un alto seguimiento en los centros, según los sindicatos",
+          "title": "El Gobierno vasco amplía la semilibertad del exjefe de ETA Olarra Guridi tres meses después de que el juez revocara la medida",
+          "link": "https://elpais.com/espana/2026-10-14/el-gobierno-vasco-amplia-la-semilibertad-del-exjefe-de-eta-olarra-guridi-tres-meses-despues-de-que-el-juez-revocara-la-medida.html",
+          "source": "El País",
+          "published": "2026-10-14T15:49:07.000Z"
+        },
+        {
+          "title": "Desahucian en Bilbao a una familia con cinco menores después de que el casero les impidiera pagar el alquiler",
+          "link": "https://www.elsaltodiario.com/desahucios/desahucian-bilbao-una-familia-cinco-menores-despues-casero-les-impidiera-pagar-alquiler?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-14T15:36:00.000Z"
+        },
+        {
+          "title": "PP y Vox firman la moción de censura contra el alcalde de Algeciras, acusado de acoso sexual",
+          "link": "https://www.eldiario.es/andalucia/cadiz/pp-vox-firman-mocion-censura-alcalde-algeciras-acusado-acoso-sexual_1_13585783.html",
+          "source": "elDiario.es",
+          "published": "2026-10-14T15:30:43.000Z"
+        },
+        {
+          "title": "EEUU propone aranceles de 200.000 dólares a buques españoles y restricciones a las exportaciones",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/eeuu-propone-aranceles-200-000-dolares-buques-espanoles-restricciones-exportaciones_7048802_0.html",
+          "source": "20minutos",
+          "published": "2026-10-14T15:27:19.000Z"
+        },
+        {
+          "title": "Alto seguimiento, cánticos contra Ayuso y cargas en la primera jornada de huelga del profesorado en Madrid",
           "link": "https://elpais.com/educacion/2026-10-14/la-huelga-indefinida-del-profesorado-en-madrid-comienza-con-el-corte-de-la-castellana-y-piquetes-en-la-puerta-de-los-centros.html",
           "source": "El País",
-          "published": "2026-10-14T10:46:09.000Z"
+          "published": "2026-10-14T15:25:03.000Z"
         },
         {
-          "title": "Última hora de la actualidad política, en directo | El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS",
-          "link": "https://elpais.com/espana/2026-10-14/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "title": "La OES denuncia la detención y la paliza de cinco estudiantes en la Complutense durante la huelga educativa",
+          "link": "https://diariosocialista.net/2026/10/14/la-oes-denuncia-la-detencion-y-la-paliza-de-cinco-estudiantes-en-la-complutense-durante-la-huelga-educativa/",
+          "source": "Diario Socialista",
+          "published": "2026-10-14T15:14:51.000Z"
+        },
+        {
+          "title": "La propuesta fiscal de Vox supondría una pérdida de recaudación de 85.000 millones, según Arcadi España",
+          "link": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/arcadi-espana-reivindica-la-fiscalidad-y-la-proteccion-publica-frente-a-los-discursos-antimpuestos.html",
           "source": "El País",
-          "published": "2026-10-14T10:44:25.000Z"
+          "published": "2026-10-14T15:03:09.000Z"
         },
         {
-          "title": "El CIS de Tezanos dispara al PSOE y Vox tras los decretos de vivienda y el adelanto electoral mientras sitúa al PP en mínimos",
-          "link": "https://www.20minutos.es/nacional/cis-tezanos-dispara-psoe-vox-tras-los-decretos-vivienda-adelanto-electoral-mientras-situa-pp-minimos_7048629_0.html",
-          "source": "20minutos",
-          "published": "2026-10-14T10:37:12.000Z"
-        },
-        {
-          "title": "El primer CIS de la precampaña amplía la ventaja del PSOE sobre el PP a 11,8 puntos",
-          "link": "https://www.eldiario.es/politica/cis-aumenta-apoyo-psoe-arranque-precampana-amplia-ventaja-11-8-puntos-pp-cae_1_13584009.html",
+          "title": "Una estudiante herida en las protestas de la Complutense denunciará a la Policía por romperle el cúbito: \"He puesto el brazo, pero iba a la cara\"",
+          "link": "https://www.eldiario.es/madrid/estudiante-herida-protestas-complutense-denunciara-policia-romperle-cubito-he-puesto-brazo-iba-cara_1_13584766.html",
           "source": "elDiario.es",
-          "published": "2026-10-14T10:27:21.000Z"
-        },
-        {
-          "title": "“¡Dame la puta toalla, coño!”: Jódar pierde los nervios en Shangai ante un recogepelotas y acaba sancionado",
-          "link": "https://elpais.com/deportes/tenis/2026-10-14/dame-la-puta-toalla-cono-jodar-pierde-los-nervios-en-shangai-ante-un-recogepelotas-y-acaba-sancionado.html",
-          "source": "El País",
-          "published": "2026-10-14T10:10:10.000Z"
-        },
-        {
-          "title": "La visita de los Reyes a Melilla, en directo | Cientos de personas reciben a Felipe VI y Letizia en Melilla",
-          "link": "https://elpais.com/espana/2026-10-14/la-visita-de-los-reyes-a-melilla-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-14T10:06:15.000Z"
-        },
-        {
-          "title": "El Ejército de Tierra investiga a los legionarios que vitorearon a Vito Quiles cuando gritó: “¡A por los rojos!”",
-          "link": "https://elpais.com/espana/2026-10-14/el-ejercito-de-tierra-investiga-a-los-legionarios-que-vitorearon-a-vito-quiles-cuando-grito-a-los-rojos.html",
-          "source": "El País",
-          "published": "2026-10-14T10:03:11.000Z"
-        },
-        {
-          "title": "La huelga educativa empieza en Madrid entre piquetes, centros parados y cargas policiales",
-          "link": "https://www.eldiario.es/sociedad/huelga-educativa-empieza-madrid-piquetes-centros-parados-cargas-policiales_1_13584031.html",
-          "source": "elDiario.es",
-          "published": "2026-10-14T09:58:47.000Z"
+          "published": "2026-10-14T15:02:40.000Z"
         }
       ]
     },
@@ -180,52 +184,52 @@
       ],
       "items": [
         {
-          "title": "Quien tiene la mayoría, tiene la chequera",
-          "link": "https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html",
-          "source": "El País Internacional",
-          "published": "2026-10-14T09:30:00.000Z"
+          "title": "México: ¿cómo se propaga la misoginia entre los jóvenes?",
+          "link": "https://www.france24.com/es/programas/ellas-hoy/20261014-m%C3%A9xico-c%C3%B3mo-se-propaga-la-misoginia-entre-los-j%C3%B3venes",
+          "source": "France 24",
+          "published": "2026-10-14T16:01:14.000Z"
         },
         {
-          "title": "Un juez de Florida rechaza la declaración del testigo que exculpa a Pablo Ibar del triple asesinato de 1994",
-          "link": "https://www.20minutos.es/internacional/un-juez-florida-rechaza-declaracion-testigo-que-exculpa-pablo-ibar-triple-asesinato-1994_7048550_0.html",
+          "title": "Una huelga paraliza por completo el metro de Lisboa y dificulta los desplazamientos",
+          "link": "https://www.20minutos.es/internacional/una-huelga-paraliza-por-completo-metro-lisboa-dificulta-los-desplazamientos_7048793_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-14T09:25:57.000Z"
+          "published": "2026-10-14T15:55:21.000Z"
         },
         {
-          "title": "Rusia ataca plantas eléctricas de Ucrania pese a la tregua energética anunciada por Trump",
-          "link": "https://www.dw.com/es/rusia-ataca-plantas-eléctricas-de-ucrania-pese-a-la-tregua-energética-anunciada-por-trump/a-79657758?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-14T09:15:00.000Z"
-        },
-        {
-          "title": "Un juez federal ratifica el acceso a la Casa Blanca de CNN, Politico y MS Now que vetó Trump",
-          "link": "https://elpais.com/internacional/2026-10-14/un-juez-federal-ratifica-el-acceso-a-la-casa-blanca-de-cnn-politico-y-ms-now-que-veto-trump.html",
-          "source": "El País Internacional",
-          "published": "2026-10-14T08:55:00.000Z"
-        },
-        {
-          "title": "Trump dice que EEUU hará \"operaciones masivas\" para extraer recursos naturales de Groenlandia: \"Su valor es inigualable\"",
-          "link": "https://www.20minutos.es/internacional/trump-dice-que-eeuu-hara-operaciones-masivas-para-extraer-recursos-naturales-groenlandia-su-valor-es-inigualable_7048504_0.html",
+          "title": "Un juez federal suspende indefinidamente el veto de Trump a tres medios en la Casa Blanca",
+          "link": "https://www.20minutos.es/internacional/un-juez-federal-suspende-indefinidamente-veto-trump-tres-medios-casa-blanca_7048785_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-14T08:19:14.000Z"
+          "published": "2026-10-14T15:39:30.000Z"
         },
         {
-          "title": "Rusia golpea el sector energético de Ucrania en medio de restricciones a la información de inteligencia que recibe Kiev",
-          "link": "https://elpais.com/internacional/2026-10-14/rusia-golpea-el-sector-energetico-de-ucrania-en-medio-de-restricciones-a-la-informacion-de-inteligencia-que-recibe-kiev.html",
-          "source": "El País Internacional",
-          "published": "2026-10-14T07:18:49.000Z"
+          "title": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un récord mientras Trump ejerce máxima presión sobre la isla",
+          "link": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-14T15:28:14.000Z"
         },
         {
-          "title": "Putin sigue ignorando la tregua de Trump y ataca instalaciones energéticas de Ucrania: al menos dos muertos y 600.000 personas sin luz",
-          "link": "https://www.20minutos.es/internacional/menos-tres-muertos-mas-20-heridos-nuevos-ataques-rusos-contra-kiev_7048429_0.html",
+          "title": "\"El exjefe del Shin Bet demanda a Netanyahu por difamación\": 'Haaretz'",
+          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261014-el-exjefe-del-shin-bet-demanda-a-netanyahu-por-difamaci%C3%B3n-haaretz",
+          "source": "France 24",
+          "published": "2026-10-14T15:25:22.000Z"
+        },
+        {
+          "title": "EEUU levanta las sanciones a Jorge Rodríguez, presidente de la Asamblea de Venezuela y hermano de Delcy Rodríguez",
+          "link": "https://www.20minutos.es/internacional/eeuu-levanta-las-sanciones-jorge-rodriguez-presidente-asamblea-nacional-venezuela-hermano-delcy-rodriguez_7048805_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-14T04:49:39.000Z"
+          "published": "2026-10-14T15:17:53.000Z"
         },
         {
-          "title": "Turek contra Hinson, una de las batallas más reñidas de las ‘midterms’ se libra en Iowa, donde los candidatos marcan distancia con Trump",
-          "link": "https://elpais.com/us/2026-10-14/turek-contra-hinson-una-de-las-batallas-mas-renidas-de-las-midterms-se-libra-en-iowa-donde-los-candidatos-marcan-distancia-con-trump.html",
-          "source": "El País Internacional",
-          "published": "2026-10-14T04:07:21.000Z"
+          "title": "Arabia Saudita bajo ataque: ¿está en riesgo la seguridad del reino?",
+          "link": "https://www.france24.com/es/programas/expreso-de-oriente/20261014-arabia-saudita-bajo-ataque-est%C3%A1-en-riesgo-la-seguridad-del-reino",
+          "source": "France 24",
+          "published": "2026-10-14T15:02:54.000Z"
+        },
+        {
+          "title": "Estados Unidos abre la puerta al diésel ruso mientras Trump busca aliviar el repunte de combustibles",
+          "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261014-estados-unidos-abre-la-puerta-al-di%C3%A9sel-ruso-mientras-trump-busca-aliviar-el-repunte-de-combustibles",
+          "source": "France 24",
+          "published": "2026-10-14T14:49:10.000Z"
         }
       ]
     }
