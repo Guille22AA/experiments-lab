@@ -1,12 +1,24 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T10:33:04.096Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-15T15:57:50.277Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "La Junta Electoral expedienta a Sánchez por sus \"manifestaciones valorativas\" en una rueda de prensa en Moncloa",
+          "link": "https://www.eldiario.es/politica/junta-electoral-expedienta-sanchez-manifestaciones-valorativas-rueda-prensa-moncloa_1_13588771.html",
+          "source": "elDiario.es",
+          "summary": "El organismo exige a la Presidencia del Gobierno que retire las declaraciones del jefe del Ejecutivo sobre la oposición y los logros de España de todos los soportes y pide a Sánchez que \"observe el deber de neutralidad política\" La Junta Electoral ordena enviar la documentación para el 29N a todos los inscritos en el extranjero con el aviso de que no todos podrán votar A juicio de la Junta Electoral, que atiende así parcialmente sendas denuncias presentadas por PP y SALF, en esa rueda de prensa en la Moncloa Sánchez “no se limitó a informar sobre el contenido de los reales decretos leyes…",
+          "sources": [
+            "elDiario.es",
+            "20minutos",
+            "El País"
+          ],
+          "firstSeen": "2026-10-15T15:57:50.277Z"
+        },
         {
           "title": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
           "link": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
@@ -54,52 +66,52 @@
       ],
       "items": [
         {
-          "title": "Feijóo promete una investigación sobre Ceuta y arranca a Bruselas la activación del mecanismo de retornos urgentes este año",
-          "link": "https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html",
-          "source": "20minutos",
-          "published": "2026-10-15T10:08:44.000Z"
-        },
-        {
-          "title": "La Fiscalía de Menores acusa de delitos a dos de las menores investigadas por acosar a Sandra Peña",
-          "link": "https://elpais.com/sociedad/2026-10-15/la-fiscalia-de-menores-acusa-de-delitos-a-dos-de-las-menores-investigadas-por-acosar-a-sandra-pena.html",
+          "title": "Última hora de la actualidad política, en directo | Colau choca con Podemos y rechaza pactos territoriales en lugar de una sola candidatura para el 29-N",
+          "link": "https://elpais.com/espana/2026-10-15/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-10-15T09:39:57.000Z"
+          "published": "2026-10-15T15:11:02.000Z"
         },
         {
-          "title": "Feijóo da su apoyo a Pablo Hernández de Cos para la presidencia del BCE",
-          "link": "https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html",
+          "title": "¿Sobran kilos o falta testosterona? Uno de cada cuatro soldados estadounidenses puede tener niveles bajos de esta hormona",
+          "link": "https://elpais.com/salud-y-bienestar/2026-10-15/sobran-kilos-o-falta-testosterona-uno-de-cada-cuatro-soldados-estadounidenses-puede-tener-niveles-bajos-de-esta-hormona.html",
           "source": "El País",
-          "published": "2026-10-15T09:36:12.000Z"
+          "published": "2026-10-15T15:02:39.000Z"
         },
         {
-          "title": "Ábalos mueve ficha después de que el Supremo confirmara su condena: “Próximo paso, Tribunal Constitucional”",
-          "link": "https://elpais.com/espana/2026-10-15/abalos-mueve-ficha-despues-de-que-el-supremo-confirmara-su-condena-proximo-paso-tribunal-constitucional.html",
+          "title": "Aagesen pide apostar por energía autóctona y renovable ante un coste extra de 100.000 millones en la UE por la guerra",
+          "link": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/aagesen-pide-apostar-por-energia-autoctona-y-renovable-ante-un-extracoste-de-100000-millones-en-la-ue-por-la-guerra.html",
           "source": "El País",
-          "published": "2026-10-15T09:36:01.000Z"
+          "published": "2026-10-15T14:50:39.000Z"
         },
         {
-          "title": "Colau reprocha a ERC que rechace negociar con los Comuns para el 29N y pide a Rufián hacer \"la batalla\"",
-          "link": "https://www.20minutos.es/cataluna/barcelona/colau-reprocha-que-erc-rechace-negociar-con-los-comuns-para-sumar-fuerzas-29n-pide-rufian-hacer-batalla-su-partido_7049039_0.html",
-          "source": "20minutos",
-          "published": "2026-10-15T09:27:22.000Z"
-        },
-        {
-          "title": "La escritora Sally Rooney ya no venderá sus libros en el Reino Unido por su activismo propalestino",
-          "link": "https://elpais.com/cultura/2026-10-15/la-escritora-sally-rooney-ya-no-vendera-sus-libros-en-el-reino-unido-por-su-activismo-propalestino.html",
-          "source": "El País",
-          "published": "2026-10-15T09:19:44.000Z"
-        },
-        {
-          "title": "Ábalos avanza que recurrirá al Constitucional su condena y acusa al Supremo de confundir la aplicación de la ley",
-          "link": "https://www.europapress.es/nacional/noticia-abalos-avanza-recurrira-constitucional-condena-acusa-supremo-confundir-aplicacion-ley-20261015111932.html",
+          "title": "La JEC abre nuevo expediente sancionador a Sánchez por hacer partidismo desde Moncloa",
+          "link": "https://www.europapress.es/nacional/noticia-jec-abre-nuevo-expediente-sancionador-sanchez-hacer-partidismo-moncloa-20261015164433.html",
           "source": "Europa Press",
-          "published": "2026-10-15T09:19:32.000Z"
+          "published": "2026-10-15T14:44:33.000Z"
         },
         {
-          "title": "Podcast | Motosierra y ‘sacrificio’, las propuestas económicas de PP y Vox para el 29N",
-          "link": "https://ia601800.us.archive.org/7/items/as-2-43-motosierra/AS2_43_MOTOSIERRA.mp3",
-          "source": "El Salto",
-          "published": "2026-10-15T09:02:00.000Z"
+          "title": "La Junta Electoral ordena enviar la documentación para el 29N a todos los inscritos en el extranjero con el aviso de que no todos podrán votar",
+          "link": "https://www.eldiario.es/politica/junta-electoral-ordena-enviar-documentacion-29n-inscritos-extranjero-aviso-no-podran-votar_1_13588746.html",
+          "source": "elDiario.es",
+          "published": "2026-10-15T14:40:39.000Z"
+        },
+        {
+          "title": "Rota da la bienvenida al sexto destructor de la US Navy y refuerza el escudo antimisiles de la OTAN",
+          "link": "https://www.20minutos.es/andalucia/cadiz/base-rota-da-bienvenida-sexto-destructor-us-navy-refuerza-escudo-antimisiles-otan_7049250_0.html",
+          "source": "20minutos",
+          "published": "2026-10-15T14:25:31.000Z"
+        },
+        {
+          "title": "Trump da marcha atrás: el Pentágono no retransmitirá la ejecución por fusilamiento de Nidal Malik Hasan",
+          "link": "https://elpais.com/us/2026-10-15/trump-anuncia-que-el-pentagono-no-retransmitira-la-ejecucion-por-fusilamiento-de-hasan.html",
+          "source": "El País",
+          "published": "2026-10-15T14:25:02.000Z"
+        },
+        {
+          "title": "Un juzgado de Madrid investiga la filtración de mensajes personales de Zapatero en el caso Plus Ultra",
+          "link": "https://www.eldiario.es/politica/juzgado-madrid-investiga-filtracion-mensajes-personales-zapatero-caso-plus-ultra_1_13588626.html",
+          "source": "elDiario.es",
+          "published": "2026-10-15T14:11:52.000Z"
         }
       ]
     },
@@ -128,56 +140,78 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-10-15T10:33:04.096Z"
+        },
+        {
+          "title": "El presidente de Albania culpa a la oposición de los disturbios en las protestas estudiantiles",
+          "link": "https://elpais.com/internacional/2026-10-15/el-presidente-de-albania-culpa-a-la-oposicion-de-los-disturbios-en-las-protestas-estudiantiles.html",
+          "source": "El País Internacional",
+          "summary": "La policía interviene finalmente el tercer día de la movilización, tras los incidentes registrados la víspera",
+          "sources": [
+            "El País Internacional",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-15T15:57:50.277Z"
+        },
+        {
+          "title": "EEUU plantea lanzar la \"madre de todas las bombas\" sobre Irán, según la CNN",
+          "link": "https://www.eldiario.es/internacional/eeuu-plantea-lanzar-madre-bombas-iran-cnn_1_13588107.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El ejército estadounidense ha elaborado planes de guerra que incluyen el uso de la bomba GBU-43/B Massive Ordnance Air Blast contra infraestructuras energéticas e instalaciones nucleares iraníes si Trump ordena reanudar los bombardeos, según informa este jueves la cadena de noticias CNN El posible despliegue de la bomba no nuclear más grande del arsenal estadounidense supondría una escalada significativa en la guerra unilateral e ilegal lanzada por EEUU e Israel el pasado 28 de febrero, aunque fuentes familiarizadas con las deliberaciones sobre la planificación militar indicaron a la CNN que…",
+          "sources": [
+            "elDiario.es Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-15T15:57:50.277Z"
         }
       ],
       "items": [
         {
-          "title": "Corea del Norte y China abren un nuevo puente tras 12 años de retrasos",
-          "link": "https://elpais.com/internacional/2026-10-15/corea-del-norte-y-china-abren-un-nuevo-puente-tras-12-anos-de-retrasos.html",
-          "source": "El País Internacional",
-          "published": "2026-10-15T10:18:22.000Z"
-        },
-        {
-          "title": "China y Corea del Norte inauguran su principal paso fronterizo terrestre",
-          "link": "https://www.dw.com/es/china-y-corea-del-norte-inauguran-su-principal-paso-fronterizo-terrestre/a-79667735?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-15T10:08:00.000Z"
-        },
-        {
-          "title": "Trump estudia utilizar la \"madre de todas las bombas\" contra Irán en una nueva ofensiva",
-          "link": "https://www.20minutos.es/internacional/eeuu-estudia-utilizar-madre-todas-las-bombas-contra-iran-una-nueva-ofensiva_7049008_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-15T08:17:38.000Z"
-        },
-        {
-          "title": "Rumania investiga un posible ataque con drones contra un petrolero en el mar Negro",
-          "link": "https://www.dw.com/es/rumania-investiga-un-posible-ataque-con-drones-contra-un-petrolero-en-el-mar-negro/a-79666080?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-15T08:09:00.000Z"
-        },
-        {
-          "title": "Los líderes de la UE afrontan una decisiva batalla presupuestaria ante la proximidad de las elecciones",
-          "link": "https://www.france24.com/es/europa/20261015-los-l%C3%ADderes-de-la-ue-afrontan-una-decisiva-batalla-presupuestaria-ante-la-proximidad-de-las-elecciones",
+          "title": "Trump descarta retransmitir en directo la ejecución del autor de la matanza de Fort Hood",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-trump-descarta-retransmitir-en-directo-la-ejecuci%C3%B3n-del-autor-de-la-matanza-de-fort-hood",
           "source": "France 24",
-          "published": "2026-10-15T07:20:39.000Z"
+          "published": "2026-10-15T15:17:47.000Z"
         },
         {
-          "title": "Ucrania reanuda los ataques a las refinerías de Rusia en pleno clima de crispación con Trump",
-          "link": "https://elpais.com/internacional/2026-10-15/ucrania-reanuda-los-ataques-a-las-refinerias-de-rusia-en-pleno-clima-de-crispacion-con-trump.html",
-          "source": "El País Internacional",
-          "published": "2026-10-15T07:15:24.000Z"
+          "title": "¿Cómo ha llegado China a dominar la tecnología de consumo mundial?",
+          "link": "https://www.dw.com/es/¿cómo-ha-llegado-china-a-dominar-la-tecnología-de-consumo-mundial/a-79672360?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-15T15:17:00.000Z"
         },
         {
-          "title": "Zelenski cree que está perdiendo el apoyo de EEUU y teme que haya cortes en el intercambio de inteligencia: \"Es doloroso\"",
-          "link": "https://www.20minutos.es/internacional/zelenski-cree-que-esta-perdiendo-apoyo-eeuu-teme-que-haya-cortes-intercambio-inteligencia-es-doloroso_7048965_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-15T06:54:38.000Z"
-        },
-        {
-          "title": "En directo: Zelenski pide a EE. UU. que no se ponga del lado del \"agresor\" y reclama \"honestidad\"",
-          "link": "https://www.france24.com/es/europa/20261015-en-directo-guerra-en-ucrania-rumania-investiga-un-posible-ataque-contra-un-buque-petrolero-en-el-mar-negro",
+          "title": "Pena de muerte en EE. UU.: ¿justicia contra el crimen o castigo inhumano?",
+          "link": "https://www.france24.com/es/programas/el-debate/20261015-pena-de-muerte-en-ee-uu-justicia-contra-el-crimen-o-castigo-inhumano",
           "source": "France 24",
-          "published": "2026-10-15T06:16:59.000Z"
+          "published": "2026-10-15T15:14:20.000Z"
+        },
+        {
+          "title": "Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados en Texas",
+          "link": "https://www.20minutos.es/internacional/trump-cancela-transmision-directo-ejecucion-por-fusilamiento-nidal-hasan-condenado-por-matar-13-soldados-texas_7049270_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-15T14:37:46.000Z"
+        },
+        {
+          "title": "Ataques con drones contra buques mercantes agravan la tensión en el mar Negro",
+          "link": "https://www.france24.com/es/europa/20261015-ataques-con-drones-contra-buques-mercantes-agravan-la-tensi%C3%B3n-en-el-mar-negro",
+          "source": "France 24",
+          "published": "2026-10-15T14:25:17.000Z"
+        },
+        {
+          "title": "Trump cambia de opinión y dice ahora que el fusilamiento del condenado por el ataque de Fort Hood no será retransmitido en streaming",
+          "link": "https://www.eldiario.es/internacional/trump-cambia-opinion-dice-ahora-fusilamiento-condenado-ataque-fort-hood-no-sera-retransmitido-streaming_1_13588704.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-15T14:18:19.000Z"
+        },
+        {
+          "title": "Irán informa de un nuevo petrolero incendiado en Ormuz en plena escalada de ataques contra buques",
+          "link": "https://www.20minutos.es/internacional/iran-informa-un-nuevo-petrolero-incendiado-ormuz-plena-escalada-ataques-contra-buques_7049254_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-15T14:10:48.000Z"
+        },
+        {
+          "title": "India: ¿puede el “Partido de las Cucarachas” erosionar el poder de Modi?",
+          "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261015-india-puede-el-partido-de-las-cucarachas-erosionar-el-poder-de-modi",
+          "source": "France 24",
+          "published": "2026-10-15T14:02:28.000Z"
         }
       ]
     }
