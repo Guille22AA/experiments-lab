@@ -1,123 +1,105 @@
 {
-  "date": "2026-10-14",
-  "updatedAt": "2026-10-14T21:06:31.089Z",
-  "edition": "tarde",
+  "date": "2026-10-15",
+  "updatedAt": "2026-10-15T10:33:04.096Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Margarita Robles será la 'número 2' de Sánchez al Congreso por Madrid",
-          "link": "https://www.europapress.es/madrid/noticia-margarita-robles-sera-numero-sanchez-congreso-madrid-20261014174024.html",
-          "source": "Europa Press",
-          "summary": "La ministra de Defensa, Margarita Robles, será la 'número 2' de la lista del PSOE al Congreso de los Diputados por Madrid, encabezada por el presidente del Gobierno, Pedro Sánchez.",
-          "sources": [
-            "Europa Press",
-            "20minutos",
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-14T16:10:01.977Z"
-        },
-        {
-          "title": "El Supremo confirma la condena de Ábalos y Koldo García y despeja el camino para que vayan al Constitucional",
-          "link": "https://elpais.com/espana/2026-10-14/el-supremo-confirma-la-condena-de-abalos-y-koldo-garcia-y-despeja-el-camino-para-que-vayan-al-constitucional.html",
+          "title": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
           "source": "El País",
-          "summary": "El alto tribunal rechaza los intentos del exministro y su antiguo asesor de anular la pena de 24 y 19 años de prisión, respectivamente, que les impuso por la trama de las mascarillas",
+          "summary": "El vicepresidente primero aleja la idea de cerrar un incremento antes de acudir a las urnas e incide en que se puede acordar con el Ejecutivo en funciones tras los comicios del 29-N. Sánchez dice que las subirán “antes de acabar el año”",
           "sources": [
             "El País",
-            "elDiario.es",
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-14T16:10:01.977Z"
-        },
-        {
-          "title": "Frente Amplio acuerda que Emilio Delgado sea cabeza de lista por Madrid",
-          "link": "https://www.20minutos.es/nacional/frente-amplio-acuerda-que-emilio-delgado-sea-cabeza-lista-por-madrid_7048383_0.html",
-          "source": "20minutos",
-          "summary": "La coalición de partidos destaca que las cuatro organizaciones \"refuerzan así su compromiso con una candidatura unitaria, plural y arraigada\" que sea \"capaz de ofrecer una alternativa progresista para el futuro\".",
-          "sources": [
-            "20minutos",
-            "Europa Press",
             "elDiario.es"
           ],
-          "firstSeen": "2026-10-13T22:04:58.929Z"
+          "firstSeen": "2026-10-15T10:33:04.096Z"
         },
         {
-          "title": "Colau ve \"un honor\" que Frente Amplio la proponga como líder, pero insiste en la unidad con Podemos y ERC",
-          "link": "https://www.20minutos.es/nacional/colau-ve-un-honor-que-frente-amplio-proponga-como-lider-pero-insiste-unidad-con-podemos-tiende-mano-erc_7048310_0.html",
-          "source": "20minutos",
-          "summary": "La exalcaldesa de Barcelona agradece la \"confianza\" de los partidos de la alianza, aunque no aclara de manera explícita si la liderará.",
+          "title": "Ayuso dice que la izquierda \"secuestra las calles\" con huelgas porque se vuelve \"violenta\" al perder las elecciones",
+          "link": "https://www.eldiario.es/madrid/ayuso-echa-culpa-izquierda-huelgas-secuestran-calles-no-reconocen-perdiendo-elecciones_1_13587222.html",
+          "source": "elDiario.es",
+          "summary": "La oposición ha reprochado a la presidenta autonómica que \"Madrid está a punto de reventar desde la vivienda hasta la educación\", con huelgas históricas en diferentes sectores, pero que a ella le \"preocupa más una pancarta que un fondo buitre\" Miles de personas inundan Madrid en defensa de la educación pública: “Ni un paso atrás” Huelga general por la vivienda. Huelga educativa histórica a todos los niveles. Huelga de médicos. Todo para exigir a la Comunidad de Madrid una mayor inversión en servicios públicos y un cambio en las políticas del Gobierno de Isabel Díaz Ayuso. Sin embargo, para la…",
           "sources": [
-            "20minutos",
             "elDiario.es",
-            "El Salto"
+            "El País"
           ],
-          "firstSeen": "2026-10-13T22:04:58.929Z"
+          "firstSeen": "2026-10-15T10:33:04.096Z"
         },
         {
-          "title": "El Tribunal de Cuentas aplica la amnistía a Puigdemont y todos los encausados en el caso de los gastos del 'procés'",
-          "link": "https://www.20minutos.es/nacional/tribunal-cuentas-aplica-amnistia-puigdemont-todos-los-encausados-caso-los-gastos-proces_7048561_0.html",
-          "source": "20minutos",
-          "summary": "Así consta en una sentencia en la que el órgano fiscalizador señala que \"no ha resultado acreditado\" que los gastos del 'procés' se realizaran con fondos públicos provenientes del presupuesto de la UE.",
+          "title": "El DAO de la Guardia Civil confirma al juez que Marlaska le llamó tras la filtración del correo de Begoña Gómez",
+          "link": "https://www.europapress.es/nacional/noticia-dao-guardia-civil-confirma-juez-marlaska-le-llamo-filtracion-correo-begona-gomez-20261015105950.html",
+          "source": "Europa Press",
+          "summary": "El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha confirmado al juez de la Audiencia Nacional que investiga el 'caso Leire Díez' que el ministro de Interior, Fernando Grande-Marlaska, le llamó por teléfono tras la filtración del correo electrónico de Begoña Gómez, la mujer del presidente del Gobierno, Pedro Sánchez.",
           "sources": [
-            "20minutos",
             "Europa Press",
-            "elDiario.es"
+            "20minutos"
           ],
-          "firstSeen": "2026-10-14T10:50:49.410Z"
+          "firstSeen": "2026-10-15T10:33:04.096Z"
+        },
+        {
+          "title": "IU rechaza negociar con Podemos fuera de Frente Amplio y no acepta los acuerdos \"troceados\" que plantean",
+          "link": "https://www.europapress.es/nacional/noticia-iu-rechaza-negociar-podemos-fuera-frente-amplio-deja-claro-no-acepta-acuerdos-troceados-29n-20261015102013.html",
+          "source": "Europa Press",
+          "summary": "El coordinador federal de IU, Antonio Maíllo, ha rechazado este jueves abrir negociaciones con Podemos al margen de Frente Amplio y ha proclamado también que su formación no va a aceptar acuerdos \"troceados\" para las elecciones autonómicas, porque solo asume el marco de un pacto global.",
+          "sources": [
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-10-15T10:33:04.096Z"
         }
       ],
       "items": [
         {
-          "title": "Miles de profesores tiñen de verde el centro de Madrid en su primer día de huelga para defender la educación pública",
-          "link": "https://www.20minutos.es/madrid/miles-profesores-tinen-verde-centro-madrid-su-primer-dia-huelga-para-defender-educacion-publica_7048912_0.html",
+          "title": "Feijóo promete una investigación sobre Ceuta y arranca a Bruselas la activación del mecanismo de retornos urgentes este año",
+          "link": "https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html",
           "source": "20minutos",
-          "published": "2026-10-14T20:39:10.000Z"
+          "published": "2026-10-15T10:08:44.000Z"
         },
         {
-          "title": "El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE",
-          "link": "https://www.20minutos.es/nacional/gobierno-alega-que-los-aranceles-resto-medidas-propuestas-por-eeuu-sobre-los-barcos-espanoles-competen-ue_7048903_0.html",
-          "source": "20minutos",
-          "published": "2026-10-14T19:36:12.000Z"
-        },
-        {
-          "title": "PP y Vox firman una moción de censura contra Landaluce en Algeciras y proponen a Jacinto Muñoz como alcalde",
-          "link": "https://www.20minutos.es/andalucia/cadiz/pp-vox-firman-una-mocion-censura-contra-landaluce-algeciras-proponen-jacinto-munoz-como-alcalde_7048904_0.html",
-          "source": "20minutos",
-          "published": "2026-10-14T19:32:31.000Z"
-        },
-        {
-          "title": "La Fiscalía abre la puerta a que la Audiencia Nacional investigue a Julio Iglesias por agresión sexual",
-          "link": "https://elpais.com/sociedad/2026-10-14/la-fiscalia-abre-la-puerta-a-que-la-audiencia-nacional-investigue-a-julio-iglesias-por-agresion-sexual.html",
+          "title": "La Fiscalía de Menores acusa de delitos a dos de las menores investigadas por acosar a Sandra Peña",
+          "link": "https://elpais.com/sociedad/2026-10-15/la-fiscalia-de-menores-acusa-de-delitos-a-dos-de-las-menores-investigadas-por-acosar-a-sandra-pena.html",
           "source": "El País",
-          "published": "2026-10-14T19:07:55.000Z"
+          "published": "2026-10-15T09:39:57.000Z"
         },
         {
-          "title": "Un testigo clave de la guerra sucia del Gobierno del PP contra Podemos renuncia a declarar en el último momento",
-          "link": "https://www.eldiario.es/politica/testigo-clave-guerra-sucia-gobierno-pp-renuncia-declarar-ultimo-momento_1_13580344.html",
-          "source": "elDiario.es",
-          "published": "2026-10-14T19:00:26.000Z"
-        },
-        {
-          "title": "“¡Dame la puta toalla, coño!”: Jódar pierde los nervios en Shanghái ante un recogepelotas y acaba sancionado",
-          "link": "https://elpais.com/deportes/tenis/2026-10-14/dame-la-puta-toalla-cono-jodar-pierde-los-nervios-en-shangai-ante-un-recogepelotas-y-acaba-sancionado.html",
+          "title": "Feijóo da su apoyo a Pablo Hernández de Cos para la presidencia del BCE",
+          "link": "https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html",
           "source": "El País",
-          "published": "2026-10-14T18:56:29.000Z"
+          "published": "2026-10-15T09:36:12.000Z"
         },
         {
-          "title": "Sánchez promete \"cuatro años más\" de \"avances\" frente a la \"carta de defunción del Estado de bienestar\" de PP y Vox",
-          "link": "https://www.20minutos.es/aragon/zaragoza/sanchez-promete-zaragoza-cuatro-anos-mas-revalorizacion-las-pensiones-conforme-ipc_7048889_0.html",
+          "title": "Ábalos mueve ficha después de que el Supremo confirmara su condena: “Próximo paso, Tribunal Constitucional”",
+          "link": "https://elpais.com/espana/2026-10-15/abalos-mueve-ficha-despues-de-que-el-supremo-confirmara-su-condena-proximo-paso-tribunal-constitucional.html",
+          "source": "El País",
+          "published": "2026-10-15T09:36:01.000Z"
+        },
+        {
+          "title": "Colau reprocha a ERC que rechace negociar con los Comuns para el 29N y pide a Rufián hacer \"la batalla\"",
+          "link": "https://www.20minutos.es/cataluna/barcelona/colau-reprocha-que-erc-rechace-negociar-con-los-comuns-para-sumar-fuerzas-29n-pide-rufian-hacer-batalla-su-partido_7049039_0.html",
           "source": "20minutos",
-          "published": "2026-10-14T18:47:36.000Z"
+          "published": "2026-10-15T09:27:22.000Z"
         },
         {
-          "title": "Los enredos del Frente Amplio y Podemos acercan al BNG a su mejor resultado en tres décadas",
-          "link": "https://www.elsaltodiario.com/galicia/enredos-del-frente-amplio-podemos-acercan-al-bng-mejor-resultado-15-anos?utm_source=feed",
+          "title": "La escritora Sally Rooney ya no venderá sus libros en el Reino Unido por su activismo propalestino",
+          "link": "https://elpais.com/cultura/2026-10-15/la-escritora-sally-rooney-ya-no-vendera-sus-libros-en-el-reino-unido-por-su-activismo-propalestino.html",
+          "source": "El País",
+          "published": "2026-10-15T09:19:44.000Z"
+        },
+        {
+          "title": "Ábalos avanza que recurrirá al Constitucional su condena y acusa al Supremo de confundir la aplicación de la ley",
+          "link": "https://www.europapress.es/nacional/noticia-abalos-avanza-recurrira-constitucional-condena-acusa-supremo-confundir-aplicacion-ley-20261015111932.html",
+          "source": "Europa Press",
+          "published": "2026-10-15T09:19:32.000Z"
+        },
+        {
+          "title": "Podcast | Motosierra y ‘sacrificio’, las propuestas económicas de PP y Vox para el 29N",
+          "link": "https://ia601800.us.archive.org/7/items/as-2-43-motosierra/AS2_43_MOTOSIERRA.mp3",
           "source": "El Salto",
-          "published": "2026-10-14T18:21:00.000Z"
+          "published": "2026-10-15T09:02:00.000Z"
         }
       ]
     },
@@ -126,113 +108,76 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Francia vive nueva jornada de protestas estudiantiles masivas",
-          "link": "https://www.dw.com/es/francia-vive-nueva-jornada-de-protestas-estudiantiles-masivas/a-79654528?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "La manifestaciones se concentraron en París, aunque también tuvieron lugar en otras ciudades del país, con cifras que superan los cientos de miles de asistentes.",
-          "sources": [
-            "DW",
-            "20minutos Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-13T22:04:58.929Z"
-        },
-        {
-          "title": "Un soldado ucraniano, al banquillo por el sabotaje del gasoducto Nord Stream",
-          "link": "https://www.eldiario.es/internacional/theguardian/soldado-ucraniano-banquillo-sabotaje-gasoducto-nord-stream_1_13584053.html",
-          "source": "elDiario.es Internacional",
-          "summary": "El oficial de las fuerzas especiales Serhii Kuznetsov niega su implicación en las explosiones de 2022 que causaron graves daños en los oleoductos La Fiscalía alemana acusa a Ucrania de ordenar el sabotaje de los gasoductos Nord Stream Un soldado ucraniano será juzgado en Hamburgo acusado de participar en uno de los actos de sabotaje más descarados de la historia europea de la posguerra: el ataque de 2022 contra los gasoductos Nord Stream entre Rusia y Alemania. Serhii Kuznetsov, un oficial de las fuerzas especiales del ejército ucraniano, está acusado por la fiscalía de ser cómplice de…",
-          "sources": [
-            "elDiario.es Internacional",
-            "El País Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-14T10:50:49.410Z"
-        },
-        {
-          "title": "De la Espriella se pliega a Israel: convierte a Colombia en el décimo país con embajada en Jerusalén",
-          "link": "https://www.france24.com/es/video/20261014-de-la-espriella-se-pliega-a-israel-convierte-a-colombia-en-el-d%C3%A9cimo-pa%C3%ADs-con-embajada-en-jerusal%C3%A9n",
+          "title": "Elon Musk pide la salida de Zelenski en medio de las tensiones entre Kiev y Washington",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-elon-musk-pide-la-salida-de-zelenski-en-medio-de-las-tensiones-entre-kiev-y-washington",
           "source": "France 24",
-          "summary": "Los ministros de Asuntos Exteriores de Colombia, Omar Bula, y de Israel, Gideon Saar, inauguraron oficialmente este miércoles 14 de octubre la nueva embajada del país latinoamericano en Jerusalén, en una ceremonia que ambos gobiernos presentaron como un paso decisivo para fortalecer sus relaciones diplomáticas. Nuestra corresponsal Janira Gómez Muñoz nos amplió la información y nos contó cuál son las implicaciones de esta decisión en la diplomacia entre ambos países.",
+          "summary": "El multimillonario Elon Musk pidió la salida del presidente ucraniano, Volodímir Zelenski, en medio de crecientes tensiones entre Kiev y Washington por el apoyoestadounidense frente a la invasión rusa. Ucrania denunció restricciones en el funcionamiento de los servicios de comunicaciones satelitales utilizados en sus operaciones militares. Musk, director ejecutivo de SpaceX, aseguró que cualquier limitación del sistema Starshield, utilizado por las fuerzas ucranianas, es responsabilidad del Gobierno de Estados Unidos y no de su empresa.",
           "sources": [
             "France 24",
-            "DW",
-            "El País Internacional"
+            "DW"
           ],
-          "firstSeen": "2026-10-14T21:06:31.089Z"
+          "firstSeen": "2026-10-15T10:33:04.096Z"
         },
         {
-          "title": "Estados Unidos levanta las sanciones al presidente del Legislativo venezolano Jorge Rodríguez",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261014-estados-unidos-levanta-las-sanciones-al-presidente-del-legislativo-venezolano-jorge-rodr%C3%ADguez",
+          "title": "¿Crimen de guerra?: claves del juicio en Alemania contra exmilitar de Ucrania por sabotaje del Nord Stream",
+          "link": "https://www.france24.com/es/europa/20261014-crimen-de-guerra-claves-del-juicio-en-alemania-contra-exmilitar-de-ucrania-por-sabotaje-del-nord-stream",
           "source": "France 24",
-          "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, retiró este miércoles 14 de julio las sanciones impuestas al líder de la Asamblea Nacional de Venezuela, Jorge Rodríguez, hermano de la presidenta encargada del país, Delcy Rodríguez. La información fue confirmada por el Departamento del Tesoro de EE. UU. en su sitio web.",
+          "summary": "Este miércoles 14 de octubre comenzó en Hamburgo el juicio que puede determinar si existió o no una implicancia de Ucrania en la explosión que dañó los gasoductos Nord Stream en 2022. El principal señalado es Serhii Kuznietsov, acusado de \"cómplice de crímenes de guerra\" por liderar el grupo que presuntamente llevó a cabo el sabotaje de las infraestructuras de gas que conectan Rusia y Alemania. Su defensa pide su absolución, alegando que no puede hablar por razones de seguridad.",
           "sources": [
             "France 24",
-            "El País Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-14T21:06:31.089Z"
-        },
-        {
-          "title": "Embajadora de EE.UU. en Grecia dimite ante escándalo de presunta corrupción",
-          "link": "https://www.dw.com/es/embajadora-de-ee-uu-en-grecia-dimite-ante-escándalo-de-presunta-corrupción/a-79654886?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "La prensa filtró varias acciones cuestionables de Kimberly Guilfoyle, una de ella apunta a que habría pedido dinero a un donante republicano para pagar una deuda.",
-          "sources": [
-            "DW",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-13T22:04:58.929Z"
+          "firstSeen": "2026-10-15T10:33:04.096Z"
         }
       ],
       "items": [
         {
-          "title": "¿Qué está pasando en Albania y por qué se radicalizaron las protestas estudiantiles?",
-          "link": "https://www.france24.com/es/europa/20261014-qu%C3%A9-est%C3%A1-pasando-en-albania-y-por-qu%C3%A9-se-radicalizaron-las-protestas-estudiantiles",
-          "source": "France 24",
-          "published": "2026-10-14T21:03:30.000Z"
-        },
-        {
-          "title": "Directo a... Ciudad de Panamá y el reporte oficial de los daños dejados por el terremoto",
-          "link": "https://www.france24.com/es/video/20261014-directo-a-ciudad-de-panam%C3%A1-y-el-reporte-oficial-de-los-da%C3%B1os-dejados-por-el-terremoto",
-          "source": "France 24",
-          "published": "2026-10-14T20:51:20.000Z"
-        },
-        {
-          "title": "Por qué los ataques de los hutíes contra Arabia Saudí están reventando la estrategia electoral de Trump",
-          "link": "https://www.eldiario.es/internacional/theguardian/ataques-huties-arabia-saudi-reventando-estrategia-electoral-trump_129_13584052.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-14T20:32:58.000Z"
-        },
-        {
-          "title": "Sánchez llega a Bruselas blindado con el apoyo de la UE por la crisis migratoria y su apuesta por el diálogo con China",
-          "link": "https://www.eldiario.es/internacional/sanchez-llega-bruselas-blindado-apoyo-ue-crisis-migratoria-apuesta-dialogo-china_1_13585734.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-14T20:32:57.000Z"
-        },
-        {
-          "title": "Oposición y oficialismo se miden en protestas en las calles de Venezuela",
-          "link": "https://www.france24.com/es/video/20261014-oposici%C3%B3n-y-oficialismo-se-miden-en-protestas-en-las-calles-de-venezuela",
-          "source": "France 24",
-          "published": "2026-10-14T20:27:19.000Z"
-        },
-        {
-          "title": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla",
-          "link": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-14T19:59:58.000Z"
-        },
-        {
-          "title": "El Reino Unido despliega la alfombra roja para arropar a Zelenski frente a Trump",
-          "link": "https://elpais.com/internacional/2026-10-14/el-reino-unido-despliega-la-alfombra-roja-para-arropar-a-zelenski-frente-a-trump.html",
+          "title": "Corea del Norte y China abren un nuevo puente tras 12 años de retrasos",
+          "link": "https://elpais.com/internacional/2026-10-15/corea-del-norte-y-china-abren-un-nuevo-puente-tras-12-anos-de-retrasos.html",
           "source": "El País Internacional",
-          "published": "2026-10-14T19:48:40.000Z"
+          "published": "2026-10-15T10:18:22.000Z"
         },
         {
-          "title": "Greenpeace cuelga una pancarta gigante en la Eurocámara contra la dependencia europea del gas",
-          "link": "https://www.eldiario.es/internacional/greenpeace-cuelga-pancarta-gigante-eurocamara-dependencia-europea-gas_1_13586426.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-14T19:48:33.000Z"
+          "title": "China y Corea del Norte inauguran su principal paso fronterizo terrestre",
+          "link": "https://www.dw.com/es/china-y-corea-del-norte-inauguran-su-principal-paso-fronterizo-terrestre/a-79667735?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-15T10:08:00.000Z"
+        },
+        {
+          "title": "Trump estudia utilizar la \"madre de todas las bombas\" contra Irán en una nueva ofensiva",
+          "link": "https://www.20minutos.es/internacional/eeuu-estudia-utilizar-madre-todas-las-bombas-contra-iran-una-nueva-ofensiva_7049008_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-15T08:17:38.000Z"
+        },
+        {
+          "title": "Rumania investiga un posible ataque con drones contra un petrolero en el mar Negro",
+          "link": "https://www.dw.com/es/rumania-investiga-un-posible-ataque-con-drones-contra-un-petrolero-en-el-mar-negro/a-79666080?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-15T08:09:00.000Z"
+        },
+        {
+          "title": "Los líderes de la UE afrontan una decisiva batalla presupuestaria ante la proximidad de las elecciones",
+          "link": "https://www.france24.com/es/europa/20261015-los-l%C3%ADderes-de-la-ue-afrontan-una-decisiva-batalla-presupuestaria-ante-la-proximidad-de-las-elecciones",
+          "source": "France 24",
+          "published": "2026-10-15T07:20:39.000Z"
+        },
+        {
+          "title": "Ucrania reanuda los ataques a las refinerías de Rusia en pleno clima de crispación con Trump",
+          "link": "https://elpais.com/internacional/2026-10-15/ucrania-reanuda-los-ataques-a-las-refinerias-de-rusia-en-pleno-clima-de-crispacion-con-trump.html",
+          "source": "El País Internacional",
+          "published": "2026-10-15T07:15:24.000Z"
+        },
+        {
+          "title": "Zelenski cree que está perdiendo el apoyo de EEUU y teme que haya cortes en el intercambio de inteligencia: \"Es doloroso\"",
+          "link": "https://www.20minutos.es/internacional/zelenski-cree-que-esta-perdiendo-apoyo-eeuu-teme-que-haya-cortes-intercambio-inteligencia-es-doloroso_7048965_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-15T06:54:38.000Z"
+        },
+        {
+          "title": "En directo: Zelenski pide a EE. UU. que no se ponga del lado del \"agresor\" y reclama \"honestidad\"",
+          "link": "https://www.france24.com/es/europa/20261015-en-directo-guerra-en-ucrania-rumania-investiga-un-posible-ataque-contra-un-buque-petrolero-en-el-mar-negro",
+          "source": "France 24",
+          "published": "2026-10-15T06:16:59.000Z"
         }
       ]
     }
