@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T15:57:50.277Z",
+  "updatedAt": "2026-10-15T20:42:16.612Z",
   "edition": "tarde",
   "sections": [
     {
@@ -18,6 +18,18 @@
             "El País"
           ],
           "firstSeen": "2026-10-15T15:57:50.277Z"
+        },
+        {
+          "title": "Defensa remite al juzgado audios de supuestos militares que se jactan de golpear a inmigrantes",
+          "link": "https://elpais.com/espana/2026-10-15/defensa-remite-al-juzgado-audios-de-supuestos-militares-que-se-jactan-de-golpear-a-inmigrantes.html",
+          "source": "El País",
+          "summary": "Pegar “sin guantes mola más”, se escucha en una grabación difundida por ‘eldiario.es’",
+          "sources": [
+            "El País",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-15T20:42:16.612Z"
         },
         {
           "title": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
@@ -51,67 +63,56 @@
             "20minutos"
           ],
           "firstSeen": "2026-10-15T10:33:04.096Z"
-        },
-        {
-          "title": "IU rechaza negociar con Podemos fuera de Frente Amplio y no acepta los acuerdos \"troceados\" que plantean",
-          "link": "https://www.europapress.es/nacional/noticia-iu-rechaza-negociar-podemos-fuera-frente-amplio-deja-claro-no-acepta-acuerdos-troceados-29n-20261015102013.html",
-          "source": "Europa Press",
-          "summary": "El coordinador federal de IU, Antonio Maíllo, ha rechazado este jueves abrir negociaciones con Podemos al margen de Frente Amplio y ha proclamado también que su formación no va a aceptar acuerdos \"troceados\" para las elecciones autonómicas, porque solo asume el marco de un pacto global.",
-          "sources": [
-            "Europa Press",
-            "El País"
-          ],
-          "firstSeen": "2026-10-15T10:33:04.096Z"
         }
       ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | Colau choca con Podemos y rechaza pactos territoriales en lugar de una sola candidatura para el 29-N",
-          "link": "https://elpais.com/espana/2026-10-15/ultima-hora-de-la-actualidad-politica-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-15T15:11:02.000Z"
+          "title": "Esquerra Unida no irá con Compromís a las generales: el 75% de la dirección rechaza la propuesta de acuerdo",
+          "link": "https://www.eldiario.es/comunitat-valenciana/politica/esquerra-unida-no-ira-compromis-generales-75-direccion-rechaza-propuesta-acuerdo_1_13589690.html",
+          "source": "elDiario.es",
+          "published": "2026-10-15T20:22:39.000Z"
         },
         {
-          "title": "¿Sobran kilos o falta testosterona? Uno de cada cuatro soldados estadounidenses puede tener niveles bajos de esta hormona",
-          "link": "https://elpais.com/salud-y-bienestar/2026-10-15/sobran-kilos-o-falta-testosterona-uno-de-cada-cuatro-soldados-estadounidenses-puede-tener-niveles-bajos-de-esta-hormona.html",
+          "title": "“Pedro Sánchez HDP”; “El Gobierno es cómplice de la tiranía”: los mensajes del elegido por De la Espriella como embajador en España",
+          "link": "https://elpais.com/america-colombia/2026-10-15/pedro-sanchez-hdp-el-gobierno-es-complice-de-la-tirania-los-mensajes-del-elegido-por-de-la-espriella-como-embajador-en-espana.html",
           "source": "El País",
-          "published": "2026-10-15T15:02:39.000Z"
+          "published": "2026-10-15T17:25:17.000Z"
         },
         {
-          "title": "Aagesen pide apostar por energía autóctona y renovable ante un coste extra de 100.000 millones en la UE por la guerra",
-          "link": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/aagesen-pide-apostar-por-energia-autoctona-y-renovable-ante-un-extracoste-de-100000-millones-en-la-ue-por-la-guerra.html",
-          "source": "El País",
-          "published": "2026-10-15T14:50:39.000Z"
+          "title": "Las incógnitas por despejar para forjar la confluencia electoral en el País Valencià",
+          "link": "https://www.elsaltodiario.com/pais-valenciano/incognitas-despejar-confluencia-pais-valencia?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-15T17:14:00.000Z"
         },
         {
-          "title": "La JEC abre nuevo expediente sancionador a Sánchez por hacer partidismo desde Moncloa",
-          "link": "https://www.europapress.es/nacional/noticia-jec-abre-nuevo-expediente-sancionador-sanchez-hacer-partidismo-moncloa-20261015164433.html",
+          "title": "Una asociación de exiliados presenta alegaciones contra la decisión del Supremo de suspender su derecho de voto",
+          "link": "https://www.eldiario.es/politica/asociacion-exiliados-presenta-alegaciones-decision-supremo-suspender-derecho-voto_1_13589335.html",
+          "source": "elDiario.es",
+          "published": "2026-10-15T17:01:05.000Z"
+        },
+        {
+          "title": "NC-BC, Podemos Canarias, IUC y Sumar Canarias acudirán en alianza al 29N bajo la marca 'Unidad del Pueblo Canario'",
+          "link": "https://www.europapress.es/islas-canarias/noticia-nc-bc-podemos-canarias-iuc-sumar-canarias-acudiran-alianza-29n-marca-unidad-pueblo-canario-20261015185207.html",
           "source": "Europa Press",
-          "published": "2026-10-15T14:44:33.000Z"
+          "published": "2026-10-15T16:52:07.000Z"
         },
         {
-          "title": "La Junta Electoral ordena enviar la documentación para el 29N a todos los inscritos en el extranjero con el aviso de que no todos podrán votar",
-          "link": "https://www.eldiario.es/politica/junta-electoral-ordena-enviar-documentacion-29n-inscritos-extranjero-aviso-no-podran-votar_1_13588746.html",
-          "source": "elDiario.es",
-          "published": "2026-10-15T14:40:39.000Z"
-        },
-        {
-          "title": "Rota da la bienvenida al sexto destructor de la US Navy y refuerza el escudo antimisiles de la OTAN",
-          "link": "https://www.20minutos.es/andalucia/cadiz/base-rota-da-bienvenida-sexto-destructor-us-navy-refuerza-escudo-antimisiles-otan_7049250_0.html",
+          "title": "Abascal se reúne con Meloni en Bruselas y reivindica el modelo italiano: \"España también puede elegirlo\"",
+          "link": "https://www.20minutos.es/nacional/abascal-se-reune-con-giorgia-meloni-bruselas-reivindica-modelo-italiano-espana-tambien-puede-elegirlo_7049336_0.html",
           "source": "20minutos",
-          "published": "2026-10-15T14:25:31.000Z"
+          "published": "2026-10-15T16:48:08.000Z"
         },
         {
-          "title": "Trump da marcha atrás: el Pentágono no retransmitirá la ejecución por fusilamiento de Nidal Malik Hasan",
-          "link": "https://elpais.com/us/2026-10-15/trump-anuncia-que-el-pentagono-no-retransmitira-la-ejecucion-por-fusilamiento-de-hasan.html",
+          "title": "La Fiscalía mantiene su petición de un año de cárcel para el primer teniente general de la Guardia Civil juzgado por corrupción",
+          "link": "https://elpais.com/espana/2026-10-15/la-fiscalia-mantiene-su-peticion-de-un-ano-de-carcel-para-el-primer-teniente-general-de-la-guardia-civil-juzgado-por-corrupcion.html",
           "source": "El País",
-          "published": "2026-10-15T14:25:02.000Z"
+          "published": "2026-10-15T16:41:59.000Z"
         },
         {
-          "title": "Un juzgado de Madrid investiga la filtración de mensajes personales de Zapatero en el caso Plus Ultra",
-          "link": "https://www.eldiario.es/politica/juzgado-madrid-investiga-filtracion-mensajes-personales-zapatero-caso-plus-ultra_1_13588626.html",
+          "title": "Acuerdo histórico en la izquierda canaria: Podemos se une a la candidatura de Nueva Canarias, IU y Sumar en las generales",
+          "link": "https://www.eldiario.es/canariasahora/politica/acuerdo-historico-izquierda-canaria-suma-confluencia-llamara-unidad-pueblo-canario_1_13589265.html",
           "source": "elDiario.es",
-          "published": "2026-10-15T14:11:52.000Z"
+          "published": "2026-10-15T16:41:24.000Z"
         }
       ]
     },
@@ -162,56 +163,67 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-10-15T15:57:50.277Z"
+        },
+        {
+          "title": "Maduro y Cilia Flores se declaran no culpables de nuevos cargos por conspiración para torturar opositores",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261015-maduro-y-cilia-flores-se-declaran-no-culpables-de-nuevos-cargos-por-conspiraci%C3%B3n-para-torturar-opositores",
+          "source": "France 24",
+          "summary": "Nicolás Maduro y su esposa, Cilia Flores, se declararon no culpables ante un tribunal de Nueva York de nuevos cargos por conspiración para cometer torturas contra opositores políticos. El exmandatario venezolano calificó las imputaciones de «falsas acusaciones y testimonios». La Fiscalía también amplió a Flores la imputación por conspiración para cometer narcoterrorismo y el juez aplazó el inicio del juicio hasta el 14 de junio de 2027.",
+          "sources": [
+            "France 24",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-15T20:42:16.612Z"
         }
       ],
       "items": [
         {
-          "title": "Trump descarta retransmitir en directo la ejecución del autor de la matanza de Fort Hood",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-trump-descarta-retransmitir-en-directo-la-ejecuci%C3%B3n-del-autor-de-la-matanza-de-fort-hood",
-          "source": "France 24",
-          "published": "2026-10-15T15:17:47.000Z"
-        },
-        {
-          "title": "¿Cómo ha llegado China a dominar la tecnología de consumo mundial?",
-          "link": "https://www.dw.com/es/¿cómo-ha-llegado-china-a-dominar-la-tecnología-de-consumo-mundial/a-79672360?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-15T15:17:00.000Z"
-        },
-        {
-          "title": "Pena de muerte en EE. UU.: ¿justicia contra el crimen o castigo inhumano?",
-          "link": "https://www.france24.com/es/programas/el-debate/20261015-pena-de-muerte-en-ee-uu-justicia-contra-el-crimen-o-castigo-inhumano",
-          "source": "France 24",
-          "published": "2026-10-15T15:14:20.000Z"
-        },
-        {
-          "title": "Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados en Texas",
-          "link": "https://www.20minutos.es/internacional/trump-cancela-transmision-directo-ejecucion-por-fusilamiento-nidal-hasan-condenado-por-matar-13-soldados-texas_7049270_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-15T14:37:46.000Z"
-        },
-        {
-          "title": "Ataques con drones contra buques mercantes agravan la tensión en el mar Negro",
-          "link": "https://www.france24.com/es/europa/20261015-ataques-con-drones-contra-buques-mercantes-agravan-la-tensi%C3%B3n-en-el-mar-negro",
-          "source": "France 24",
-          "published": "2026-10-15T14:25:17.000Z"
-        },
-        {
-          "title": "Trump cambia de opinión y dice ahora que el fusilamiento del condenado por el ataque de Fort Hood no será retransmitido en streaming",
-          "link": "https://www.eldiario.es/internacional/trump-cambia-opinion-dice-ahora-fusilamiento-condenado-ataque-fort-hood-no-sera-retransmitido-streaming_1_13588704.html",
+          "title": "Del pacto con Putin por el diésel ruso a las interrupciones de SpaceX: Trump sacrifica Ucrania para intentar salvar sus elecciones",
+          "link": "https://www.eldiario.es/internacional/pacto-putin-diesel-ruso-interrupciones-spacex-trump-sacrifica-ucrania-salvar-elecciones_1_13589213.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-15T14:18:19.000Z"
+          "published": "2026-10-15T20:03:51.000Z"
         },
         {
-          "title": "Irán informa de un nuevo petrolero incendiado en Ormuz en plena escalada de ataques contra buques",
-          "link": "https://www.20minutos.es/internacional/iran-informa-un-nuevo-petrolero-incendiado-ormuz-plena-escalada-ataques-contra-buques_7049254_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-15T14:10:48.000Z"
+          "title": "Bally Bagayoko, el alcalde insumiso que abandera el apoyo a las protestas en Francia y desata la ira de los ultras",
+          "link": "https://www.eldiario.es/internacional/bally-bagayoko-alcalde-insumiso-abandera-apoyo-protestas-francia-desata-ira-ultras_1_13589071.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-15T20:03:50.000Z"
         },
         {
-          "title": "India: ¿puede el “Partido de las Cucarachas” erosionar el poder de Modi?",
-          "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261015-india-puede-el-partido-de-las-cucarachas-erosionar-el-poder-de-modi",
+          "title": "José Manuel Albares: \"Tenemos que estar preparados para injerencias externas en las elecciones\"",
+          "link": "https://www.eldiario.es/internacional/jose-manuel-albares-preparados-injerencias-externas-elecciones_128_13587998.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-15T20:03:48.000Z"
+        },
+        {
+          "title": "La dura negociación sobre el presupuesto de la UE amenaza el acuerdo antes del superaño electoral en Europa",
+          "link": "https://elpais.com/internacional/2026-10-15/la-dura-negociacion-sobre-el-presupuesto-de-la-ue-amenaza-el-acuerdo-antes-del-superano-electoral-en-europa.html",
+          "source": "El País Internacional",
+          "published": "2026-10-15T19:26:51.000Z"
+        },
+        {
+          "title": "\"Trump, el protector de Putin en la Casa Blanca\": 'Kyiv Post'",
+          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261015-trump-el-protector-de-putin-en-la-casa-blanca-kyiv-post",
           "source": "France 24",
-          "published": "2026-10-15T14:02:28.000Z"
+          "published": "2026-10-15T19:24:05.000Z"
+        },
+        {
+          "title": "Hutíes lanzan ataque contra el palacio presidencial en Yemen",
+          "link": "https://www.dw.com/es/hutíes-lanzan-ataque-contra-el-palacio-presidencial-en-yemen/a-79674238?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-15T18:54:00.000Z"
+        },
+        {
+          "title": "Aeropuertos, petróleo y religión: ¿cómo desafían los hutíes el poderío militar de Arabia Saudita?",
+          "link": "https://www.france24.com/es/medio-oriente/20261015-aeropuertos-petr%C3%B3leo-y-religi%C3%B3n-c%C3%B3mo-rompieron-los-hut%C3%ADes-el-poder%C3%ADo-militar-de-arabia-saudita",
+          "source": "France 24",
+          "published": "2026-10-15T18:19:44.000Z"
+        },
+        {
+          "title": "Misiles hipersónicos: ¿se anulan mutuamente Corea del Norte y Corea del Sur?",
+          "link": "https://www.dw.com/es/misiles-hipersónicos-¿se-anulan-mutuamente-corea-del-norte-y-corea-del-sur/a-79670665?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-15T17:15:00.000Z"
         }
       ]
     }
