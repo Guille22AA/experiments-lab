@@ -1,12 +1,25 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T15:45:37.514Z",
+  "updatedAt": "2026-10-16T20:14:41.584Z",
   "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "La portavoz del PSOE, Montse Mínguez, dimite tras las críticas por los negocios inmobiliarios de su pareja",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/montse-minguez-deja-la-politica-para-no-perjudicar-la-campana-de-sanchez.html",
+          "source": "El País",
+          "summary": "La diputada anuncia a través de un mensaje en la red que da “un paso al lado”. Pedro Sánchez ha declarado que le pidió no dejar la política",
+          "sources": [
+            "El País",
+            "20minutos",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-16T20:14:41.584Z"
+        },
         {
           "title": "La Audiencia de Madrid reabre la querella de Begoña Gómez contra Vito Quiles",
           "link": "https://www.20minutos.es/nacional/audiencia-madrid-reabre-querella-begona-gomez-contra-vito-quiles-por-acoso_7049732_0.html",
@@ -20,6 +33,30 @@
           "firstSeen": "2026-10-16T15:45:37.514Z"
         },
         {
+          "title": "Última hora de la actualidad política, en directo | El Frente Amplio ofrece a Podemos un “puesto de salida prioritario en Madrid y Cataluña”",
+          "link": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "source": "El País",
+          "summary": "El plazo para inscribir coaliciones expira esta medianoche sin que trasciendan avances importantes en la negociación",
+          "sources": [
+            "El País",
+            "elDiario.es",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-16T20:14:41.584Z"
+        },
+        {
+          "title": "Los sindicatos del Metro desmienten a Ayuso: ellos no pidieron el cierre de la estación de Sol - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUJoazNTTG1LRmRPTGNaMEhKUjFaekhObjJFU1E2bnNOczQxcmNNNFFfNzZzc3UxMkM3U08ySlBqVkF1Z09GNFR6UTRiSTdPVEh2RVRSNVlOaExGeGh2S18wYmoyckJIV1NVNXRFR2p2Q08zbFIyNDZfeU5kTlV4UUV3TkZEejNmNlZERVE5MktSRExkblVVbHktWTYtM3NZdlpQeGZEWGEwNEQyQURZWHZJWEHSAboBQVVfeXFMUGZzUmpjdWdTMUo2NmtJQk5NYlhLZkl5ZnRCQjEwN3pmb2JNS2tZLTBmWnhVREhqYTBUSGpLUDRSZTM5RGxyQVQ2Sk51MmVvREItQWl5cmVUMjRvRkN4bk1iblJIS25mWUlLVWhtV3h0TmZFbzdHTnZOT0lwMmtxMGZ6UVV0a0NKZEYwRHF0cEItYmVoMlMxUFNVTWxDVF9FdklyU29oZ1pJREpHVGdfbDlLYllLel85Z3BB?oc=5",
+          "source": "Público",
+          "summary": "Los sindicatos del Metro desmienten a Ayuso: ellos no pidieron el cierre de la estación de Sol Diario Público",
+          "sources": [
+            "Público",
+            "El Salto",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-16T20:14:41.584Z"
+        },
+        {
           "title": "La Junta Electoral recalca a PP y Vox que la transparencia del voto por correo está regulada en la ley y rechaza medidas extra",
           "link": "https://www.eldiario.es/politica/junta-electoral-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra_1_13590350.html",
           "source": "elDiario.es",
@@ -29,89 +66,56 @@
             "Europa Press"
           ],
           "firstSeen": "2026-10-16T10:20:15.562Z"
-        },
-        {
-          "title": "España e Italia acuerdan buscar medidas alternativas para la retirada de los controles Schengen en una semana",
-          "link": "https://www.europapress.es/nacional/noticia-italia-prorroga-semana-controles-schengen-espera-coordinar-espana-medidas-sustitutivas-20261016100528.html",
-          "source": "Europa Press",
-          "summary": "El presidente del Gobierno, Pedro Sánchez, y la primera ministra italiana, Giorgia Meloni, acordaron este jueves buscar medidas alternativas que permitan la supresión de los controles Schengen que Italia introdujo a principios de agosto después de la entrada masiva de migrantes a Ceuta, según han informado fuentes italianas y españolas.",
-          "sources": [
-            "Europa Press",
-            "El País"
-          ],
-          "firstSeen": "2026-10-16T10:20:15.562Z"
-        },
-        {
-          "title": "Podemos y el Frente Amplio negocian a contrarreloj los “acuerdos de unidad”",
-          "link": "https://diariosocialista.net/2026/10/16/podemos-y-el-frente-amplio-negocian-contrarreloj-los-acuerdos-de-unidad/",
-          "source": "Diario Socialista",
-          "summary": "Las conversaciones llegan al límite del plazo para registrar coaliciones con el principal escollo en quién encabezará la candidatura del espacio a la izquierda del PSOE.",
-          "sources": [
-            "Diario Socialista",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-16T10:20:15.562Z"
-        },
-        {
-          "title": "Los partidos a la izquierda del PSOE concurrirán unidos en la coalición Compromís-Front Valencià",
-          "link": "https://www.europapress.es/comunitat-valenciana/noticia-partidos-izquierda-psoe-concurriran-unidos-coalicion-compromis-front-valencia-20261016160231.html",
-          "source": "Europa Press",
-          "summary": "Las formaciones políticas a la izquierda del PSOE en la Comunitat Valenciana concurrirán unidas en las elecciones generales del 29N bajo la marca Compromís-Front Valencià. Entre ellas figuran Compromís, Esquerra Unida (EUPV), Podem y Esquerra Republicana (ERPV).",
-          "sources": [
-            "Europa Press",
-            "20minutos"
-          ],
-          "firstSeen": "2026-10-16T15:45:37.514Z"
         }
       ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | Las negociaciones avanzan y la izquierda alternativa concurrirá unida el 29-N en la Comunidad Valenciana",
-          "link": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-16T15:40:10.000Z"
-        },
-        {
-          "title": "La Sección de lo Penal del Tribunal de Instancia de Madrid condena a tres activistas medioambientales",
-          "link": "https://www.elsaltodiario.com/medioambiente/seccion-lo-penal-del-tribunal-instancia-madrid-condena-tres-activistas-medioambientales?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-16T14:42:00.000Z"
-        },
-        {
-          "title": "Feijóo reclama “desplegar la Armada” en aguas de Ceuta por la entrada de buques marroquíes",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/feijoo-reclama-una-respuesta-serena-y-firme-a-marruecos-por-la-entrada-de-sus-buques-en-aguas-espanolas-espana-no-tiene-amo.html",
-          "source": "El País",
-          "published": "2026-10-16T14:30:38.000Z"
-        },
-        {
-          "title": "Dinamarca, Polonia e Italia presionan para que el Consejo Europeo censure la regularización migratoria de España",
-          "link": "https://www.eldiario.es/internacional/dinamarca-polonia-e-italia-presionan-consejo-europeo-censure-regularizacion-migratoria-espana_1_13591978.html",
+          "title": "El Defensor del Pueblo recurre ante el Constitucional la suspensión del voto de los nacionalizados con la ley de nietos",
+          "link": "https://www.eldiario.es/politica/defensor-pueblo-recurre-constitucional-suspension-voto-nacionalizados-ley-nietos_1_13592989.html",
           "source": "elDiario.es",
-          "published": "2026-10-16T14:01:37.000Z"
+          "published": "2026-10-16T19:56:27.000Z"
         },
         {
-          "title": "La izquierda valenciana irá unida a las elecciones generales bajo la papeleta 'Compromís-Front Valencià'",
-          "link": "https://www.eldiario.es/comunitat-valenciana/politica/izquierda-valenciana-ira-unida-elecciones-generales-papeleta-compromis-front-valencia_1_13591005.html",
+          "title": "Trump despide a la portavoz de prensa de la Casa Blanca cinco días después de nombrarla",
+          "link": "https://elpais.com/us/2026-10-16/trump-abre-la-puerta-a-una-salida-de-la-portavoz-de-prensa-recien-nombrada-por-el.html",
+          "source": "El País",
+          "published": "2026-10-16T19:31:06.000Z"
+        },
+        {
+          "title": "El PP asegura que la salida de Montse Mínguez demuestra que \"tenían razón\": \"Dimite porque la han pillado\"",
+          "link": "https://www.20minutos.es/nacional/pp-asegura-que-salida-montse-minguez-demuestra-que-tenian-razon-dimite-porque-han-pillado_7049867_0.html",
+          "source": "20minutos",
+          "published": "2026-10-16T18:04:44.000Z"
+        },
+        {
+          "title": "'Compromís: Front Valencià' presenta su candidatura unitaria de izquierdas: \"Es un acuerdo histórico para que toda la gente pueda votar\"",
+          "link": "https://www.eldiario.es/comunitat-valenciana/politica/compromis-front-valencia-presenta-candidatura-unitaria-izquierdas-acuerdo-historico-gente-pueda-votar_1_13592601.html",
           "source": "elDiario.es",
-          "published": "2026-10-16T13:38:02.000Z"
+          "published": "2026-10-16T17:43:23.000Z"
         },
         {
-          "title": "Meloni y Frederiksen reclaman que la UE pueda suspender el derecho de asilo ante crisis como la de Ceuta",
-          "link": "https://www.europapress.es/nacional/noticia-meloni-frederiksen-reclaman-ue-pueda-suspender-derecho-asilo-crisis-ceuta-20261016152922.html",
+          "title": "Trump confiesa que se está replanteando a Katie Zacharia como portavoz porque los medios \"la hacen sufrir\"",
+          "link": "https://www.europapress.es/internacional/noticia-trump-confiesa-replanteando-katie-zacharia-portavoz-porque-medios-hacen-sufrir-20261016194007.html",
           "source": "Europa Press",
-          "published": "2026-10-16T13:29:22.000Z"
+          "published": "2026-10-16T17:40:07.000Z"
         },
         {
-          "title": "El Gobierno defiende que el descuento fiscal a los carburantes se ha trasladado con rapidez a los surtidores",
-          "link": "https://elpais.com/economia/2026-10-16/el-gobierno-defiende-que-el-descuento-fiscal-a-los-carburantes-se-ha-trasladado-con-rapidez-a-los-surtidores.html",
+          "title": "Cristina Morón sustituirá a Montse Mínguez como cabeza de lista del PSC por Lleida",
+          "link": "https://www.20minutos.es/cataluna/lleida/cristina-moron-sustituira-montse-minguez-como-cabeza-lista-psc-por-lleida_7049861_0.html",
+          "source": "20minutos",
+          "published": "2026-10-16T17:39:22.000Z"
+        },
+        {
+          "title": "El CNI dice que las autoridades marroquíes conocían con antelación la entrada masiva en Ceuta: “Eran plenamente conscientes”",
+          "link": "https://elpais.com/espana/2026-10-16/el-cni-dice-que-las-autoridades-marroquies-conocian-con-antelacion-la-entrada-masiva-en-ceuta-eran-plenamente-conscientes.html",
           "source": "El País",
-          "published": "2026-10-16T13:26:29.000Z"
+          "published": "2026-10-16T17:36:09.000Z"
         },
         {
-          "title": "Los sindicatos de Metro desmienten a Ayuso y aseguran que no han solicitado el cierre de la estación de Sol",
-          "link": "https://www.elsaltodiario.com/comunidad-madrid/sindicatos-metro-desmienten-ayuso-aseguran-no-han-solicitado-cierre-estacion-sol?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-16T13:23:00.000Z"
+          "title": "Sánchez lamenta la dimisión de Mínguez y dice que “estaba rota”: “La política maltrata a veces a buenas personas”",
+          "link": "https://elpais.com/espana/2026-10-16/sanchez-lamenta-la-dimision-de-minguez-y-dice-que-estaba-rota-la-politica-maltrata-a-veces-a-buenas-personas.html",
+          "source": "El País",
+          "published": "2026-10-16T17:32:49.000Z"
         }
       ]
     },
@@ -152,56 +156,67 @@
             "France 24"
           ],
           "firstSeen": "2026-10-16T10:20:15.562Z"
+        },
+        {
+          "title": "El Papa habla por teléfono con Putin y le pide un alto el fuego para permitir la entrada de ayuda humanitaria",
+          "link": "https://www.20minutos.es/internacional/papa-habla-por-telefono-con-putin-le-pide-un-alto-fuego-para-permitir-entrada-ayuda-humanitaria_7049874_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Putin \"reafirmó el compromiso de la Santa Sede con la promoción del diálogo y la paz\", según el comunicado del Vaticano.",
+          "sources": [
+            "20minutos Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-10-16T20:14:41.584Z"
         }
       ],
       "items": [
         {
-          "title": "Midterms: cómo funcionan las elecciones de mitad de mandato en Estados Unidos",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261016-midterms-c%C3%B3mo-funcionan-las-elecciones-de-mitad-de-mandato-en-estados-unidos",
-          "source": "France 24",
-          "published": "2026-10-16T15:44:11.000Z"
+          "title": "Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blanca apenas días después de asumirlo",
+          "link": "https://www.bbc.com/mundo/articles/cm86zggzj6e0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-16T19:52:40.000Z"
         },
         {
-          "title": "Ucrania: ¿puede resistir a Rusia sin el respaldo de Estados Unidos?",
-          "link": "https://www.france24.com/es/programas/ventana-a-europa/20261016-ucrania-puede-resistir-a-rusia-sin-el-respaldo-de-estados-unidos",
-          "source": "France 24",
-          "published": "2026-10-16T15:32:33.000Z"
+          "title": "Arabia Saudita: los ataques hutíes amenazan el liderazgo regional de Riad",
+          "link": "https://www.dw.com/es/arabia-saudita-los-ataques-hutíes-amenazan-el-liderazgo-regional-de-riad/a-79684292?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-16T19:16:00.000Z"
         },
         {
-          "title": "El primer ministro británico, Andy Burnham, sobre la independencia de Escocia: \"Se pierde mucho tiempo con dramas\"",
-          "link": "https://www.20minutos.es/internacional/primer-ministro-britanico-andy-burnham-sobre-independencia-escocia-se-pierde-mucho-tiempo-con-dramas_7049794_0.html",
+          "title": "Trump dice que no usará bombas nucleares o tropas sobre el terreno en Irán",
+          "link": "https://www.20minutos.es/internacional/trump-dice-que-no-usara-bombas-nucleares-tropas-sobre-terreno-iran_7049883_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-16T15:04:53.000Z"
+          "published": "2026-10-16T19:06:25.000Z"
         },
         {
-          "title": "Protestas universitarias en Argentina exigen que se cumpla la ley de financiamiento",
-          "link": "https://www.france24.com/es/video/20261016-protestas-universitarias-en-argentina-exigen-que-se-cumpla-la-ley-de-financiamiento",
+          "title": "Directo a... Beirut y la exigencia de EE. UU. a Líbano de no entregar material explosivo a Hezbolá",
+          "link": "https://www.france24.com/es/video/20261016-directo-a-beirut-y-la-exigencia-de-ee-uu-a-l%C3%ADbano-de-no-entregar-material-explosivo-a-hezbol%C3%A1",
           "source": "France 24",
-          "published": "2026-10-16T14:59:49.000Z"
+          "published": "2026-10-16T19:06:11.000Z"
         },
         {
-          "title": "Sin acuerdo en la cumbre de la Unión Europea para el presupuesto de 2027",
-          "link": "https://www.france24.com/es/video/20261016-sin-acuerdo-en-la-cumbre-de-la-uni%C3%B3n-europea-para-el-presupuesto-de-2027",
+          "title": "Detienen en India a fundador y activista del movimiento \"Partido de las Cucarachas\"",
+          "link": "https://www.france24.com/es/video/20261016-detienen-en-india-a-fundador-y-activista-del-movimiento-partido-de-las-cucarachas",
           "source": "France 24",
-          "published": "2026-10-16T14:56:13.000Z"
+          "published": "2026-10-16T18:59:22.000Z"
         },
         {
-          "title": "La justicia británica condena a un adolescente noruego que trabajaba para una organización criminal a sueldo de Irán",
-          "link": "https://elpais.com/internacional/2026-10-16/la-justicia-britanica-condena-a-un-adolescente-noruego-que-trabajaba-para-una-organizacion-criminal-a-sueldo-de-iran.html",
-          "source": "El País Internacional",
-          "published": "2026-10-16T14:50:16.000Z"
+          "title": "La UE apuesta por una revolución de la IA, bajo presión para competir con EE. UU. y China",
+          "link": "https://www.dw.com/es/la-ue-apuesta-por-una-revolución-de-la-ia-bajo-presión-para-competir-con-ee-uu-y-china/a-79684385?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-16T18:49:00.000Z"
         },
         {
-          "title": "El gesto de Zelenski cuando le preguntan si Trump le usa de chivo expiatorio de sus problemas internos: \"Esta es mi respuesta\"",
-          "link": "https://www.20minutos.es/internacional/gesto-zelenski-cuando-le-preguntan-si-trump-le-usa-chivo-expiatorio-sus-problemas-internos-esta-es-mi-respuesta_7049782_0.html",
+          "title": "Francia se prepara para un tenso e imprevisible sábado de descontento social en las calles",
+          "link": "https://www.20minutos.es/internacional/francia-se-prepara-para-un-tenso-imprevisible-sabado-descontento-social-las-calles_7049876_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-16T14:29:45.000Z"
+          "published": "2026-10-16T18:33:27.000Z"
         },
         {
-          "title": "India detiene a los líderes del movimiento juvenil de las \"Cucarachas\" en nuevas protestas electorales",
-          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261016-india-detiene-a-los-l%C3%ADderes-del-movimiento-juvenil-de-las-cucarachas-en-nuevas-protestas-electorales",
+          "title": "Francia: las protestas estudiantiles confluyen con los sindicatos en una marcha nacional",
+          "link": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261016-francia-las-protestas-estudiantiles-confluyen-con-los-sindicatos-en-una-marcha-nacional",
           "source": "France 24",
-          "published": "2026-10-16T14:23:16.000Z"
+          "published": "2026-10-16T18:32:09.000Z"
         }
       ]
     }
