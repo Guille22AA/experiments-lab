@@ -1,12 +1,24 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T10:20:15.562Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-16T15:45:37.514Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "La Audiencia de Madrid reabre la querella de Begoña Gómez contra Vito Quiles",
+          "link": "https://www.20minutos.es/nacional/audiencia-madrid-reabre-querella-begona-gomez-contra-vito-quiles-por-acoso_7049732_0.html",
+          "source": "20minutos",
+          "summary": "La mujer del presidente del Gobierno atribuyó a Quiles presuntos delitos de acoso y lesiones a la salida de un restaurante",
+          "sources": [
+            "20minutos",
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-16T15:45:37.514Z"
+        },
         {
           "title": "La Junta Electoral recalca a PP y Vox que la transparencia del voto por correo está regulada en la ley y rechaza medidas extra",
           "link": "https://www.eldiario.es/politica/junta-electoral-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra_1_13590350.html",
@@ -39,56 +51,67 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-10-16T10:20:15.562Z"
+        },
+        {
+          "title": "Los partidos a la izquierda del PSOE concurrirán unidos en la coalición Compromís-Front Valencià",
+          "link": "https://www.europapress.es/comunitat-valenciana/noticia-partidos-izquierda-psoe-concurriran-unidos-coalicion-compromis-front-valencia-20261016160231.html",
+          "source": "Europa Press",
+          "summary": "Las formaciones políticas a la izquierda del PSOE en la Comunitat Valenciana concurrirán unidas en las elecciones generales del 29N bajo la marca Compromís-Front Valencià. Entre ellas figuran Compromís, Esquerra Unida (EUPV), Podem y Esquerra Republicana (ERPV).",
+          "sources": [
+            "Europa Press",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-16T15:45:37.514Z"
         }
       ],
       "items": [
         {
-          "title": "El FMI advierte de que el “mediocre crecimiento” de la zona euro se prolongará a medio plazo",
-          "link": "https://elpais.com/economia/2026-10-16/el-fmi-advierte-de-que-el-mediocre-crecimiento-de-la-zona-euro-se-prolongara-a-medio-plazo.html",
-          "source": "El País",
-          "published": "2026-10-16T10:00:09.000Z"
-        },
-        {
-          "title": "Última hora de la actualidad política, en directo | Rufián: “He hecho todo lo posible para simplificar la oferta electoral”",
+          "title": "Última hora de la actualidad política, en directo | Las negociaciones avanzan y la izquierda alternativa concurrirá unida el 29-N en la Comunidad Valenciana",
           "link": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-10-16T09:57:50.000Z"
+          "published": "2026-10-16T15:40:10.000Z"
         },
         {
-          "title": "El PP acusa al Gobierno de \"hipócrita y cínico\" por utilizar las pensiones para tapar la polémica de vivienda de Montse Mínguez",
-          "link": "https://www.20minutos.es/nacional/pp-acusa-gobierno-hipocrita-cinico-por-utilizar-las-pensiones-para-tapar-polemica-vivienda-montse-minguez_7049577_0.html",
-          "source": "20minutos",
-          "published": "2026-10-16T09:56:44.000Z"
-        },
-        {
-          "title": "La batalla por el voto de un español de la ley de nietos: “Quien huyó no pensó en armar una carpeta con documentación, se fue con lo puesto”",
-          "link": "https://elpais.com/argentina/2026-10-16/la-batalla-por-el-voto-de-un-espanol-de-la-ley-de-nietos-quien-huyo-no-penso-en-armar-una-carpeta-con-documentacion-se-fue-con-lo-puesto.html",
-          "source": "El País",
-          "published": "2026-10-16T09:30:00.000Z"
-        },
-        {
-          "title": "En manos del \"buen casero\", presión turística en Cádiz y otras cartas de los lectores",
-          "link": "https://www.eldiario.es/economia/una-casa-para-vivir/manos-buen-casero-presion-turistica-cadiz-cartas-lectores_132_13590333.html",
-          "source": "elDiario.es",
-          "published": "2026-10-16T09:25:41.000Z"
-        },
-        {
-          "title": "Ayuso ordena cerrar la estación de Metro en Sol por limpieza y echa la culpa a los acampados, a los que llama \"mamarrachos\"",
-          "link": "https://www.eldiario.es/madrid/somos/ayuso-ordena-cerrar-estacion-sol-limpieza-echa-culpa-acampados-llama-mamarrachos_1_13590340.html",
-          "source": "elDiario.es",
-          "published": "2026-10-16T09:17:22.000Z"
-        },
-        {
-          "title": "Rufián da por muerta la vía de la confluencia con Frente Amplio: “Hemos fracasado”",
-          "link": "https://www.elsaltodiario.com/elecciones/rufian-da-muerta-via-confluencia-frente-amplio-hemos-fracasado?utm_source=feed",
+          "title": "La Sección de lo Penal del Tribunal de Instancia de Madrid condena a tres activistas medioambientales",
+          "link": "https://www.elsaltodiario.com/medioambiente/seccion-lo-penal-del-tribunal-instancia-madrid-condena-tres-activistas-medioambientales?utm_source=feed",
           "source": "El Salto",
-          "published": "2026-10-16T09:15:00.000Z"
+          "published": "2026-10-16T14:42:00.000Z"
         },
         {
-          "title": "Ayuso espera \"trampas\" del Gobierno en las elecciones del 29N: \"La Moncloa hace cirugía electoral\"",
-          "link": "https://www.eldiario.es/madrid/ayuso-espera-trampas-gobierno-elecciones-29n-moncloa-cirugia-electoral_1_13590323.html",
+          "title": "Feijóo reclama “desplegar la Armada” en aguas de Ceuta por la entrada de buques marroquíes",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/feijoo-reclama-una-respuesta-serena-y-firme-a-marruecos-por-la-entrada-de-sus-buques-en-aguas-espanolas-espana-no-tiene-amo.html",
+          "source": "El País",
+          "published": "2026-10-16T14:30:38.000Z"
+        },
+        {
+          "title": "Dinamarca, Polonia e Italia presionan para que el Consejo Europeo censure la regularización migratoria de España",
+          "link": "https://www.eldiario.es/internacional/dinamarca-polonia-e-italia-presionan-consejo-europeo-censure-regularizacion-migratoria-espana_1_13591978.html",
           "source": "elDiario.es",
-          "published": "2026-10-16T09:13:45.000Z"
+          "published": "2026-10-16T14:01:37.000Z"
+        },
+        {
+          "title": "La izquierda valenciana irá unida a las elecciones generales bajo la papeleta 'Compromís-Front Valencià'",
+          "link": "https://www.eldiario.es/comunitat-valenciana/politica/izquierda-valenciana-ira-unida-elecciones-generales-papeleta-compromis-front-valencia_1_13591005.html",
+          "source": "elDiario.es",
+          "published": "2026-10-16T13:38:02.000Z"
+        },
+        {
+          "title": "Meloni y Frederiksen reclaman que la UE pueda suspender el derecho de asilo ante crisis como la de Ceuta",
+          "link": "https://www.europapress.es/nacional/noticia-meloni-frederiksen-reclaman-ue-pueda-suspender-derecho-asilo-crisis-ceuta-20261016152922.html",
+          "source": "Europa Press",
+          "published": "2026-10-16T13:29:22.000Z"
+        },
+        {
+          "title": "El Gobierno defiende que el descuento fiscal a los carburantes se ha trasladado con rapidez a los surtidores",
+          "link": "https://elpais.com/economia/2026-10-16/el-gobierno-defiende-que-el-descuento-fiscal-a-los-carburantes-se-ha-trasladado-con-rapidez-a-los-surtidores.html",
+          "source": "El País",
+          "published": "2026-10-16T13:26:29.000Z"
+        },
+        {
+          "title": "Los sindicatos de Metro desmienten a Ayuso y aseguran que no han solicitado el cierre de la estación de Sol",
+          "link": "https://www.elsaltodiario.com/comunidad-madrid/sindicatos-metro-desmienten-ayuso-aseguran-no-han-solicitado-cierre-estacion-sol?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-16T13:23:00.000Z"
         }
       ]
     },
@@ -103,7 +126,8 @@
           "summary": "Así lo pactaron Sánchez y Meloni en los márgenes del Consejo Europeo en Bruselas. Los ministros del Interior se verán en los próximos días para pactar los siguientes pasos.",
           "sources": [
             "20minutos Internacional",
-            "elDiario.es Internacional"
+            "elDiario.es Internacional",
+            "France 24"
           ],
           "firstSeen": "2026-10-16T10:20:15.562Z"
         },
@@ -132,52 +156,52 @@
       ],
       "items": [
         {
-          "title": "Pekín replica a la portavoz de Trump por decir que China no puede superar a EEUU porque no tiene \"baños como dios manda\"",
-          "link": "https://www.20minutos.es/internacional/pekin-replica-portavoz-trump-por-decir-que-china-no-puede-superar-eeuu-porque-no-tiene-banos-como-dios-manda_7049621_0.html",
+          "title": "Midterms: cómo funcionan las elecciones de mitad de mandato en Estados Unidos",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261016-midterms-c%C3%B3mo-funcionan-las-elecciones-de-mitad-de-mandato-en-estados-unidos",
+          "source": "France 24",
+          "published": "2026-10-16T15:44:11.000Z"
+        },
+        {
+          "title": "Ucrania: ¿puede resistir a Rusia sin el respaldo de Estados Unidos?",
+          "link": "https://www.france24.com/es/programas/ventana-a-europa/20261016-ucrania-puede-resistir-a-rusia-sin-el-respaldo-de-estados-unidos",
+          "source": "France 24",
+          "published": "2026-10-16T15:32:33.000Z"
+        },
+        {
+          "title": "El primer ministro británico, Andy Burnham, sobre la independencia de Escocia: \"Se pierde mucho tiempo con dramas\"",
+          "link": "https://www.20minutos.es/internacional/primer-ministro-britanico-andy-burnham-sobre-independencia-escocia-se-pierde-mucho-tiempo-con-dramas_7049794_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-16T10:08:00.000Z"
+          "published": "2026-10-16T15:04:53.000Z"
         },
         {
-          "title": "La nueva portavoz de la Casa Blanca admite que no aprobó el examen de abogacía pese a que Trump la presentó como letrada",
-          "link": "https://www.20minutos.es/internacional/nueva-portavoz-casa-blanca-admite-que-no-aprobo-examen-abogacia-pese-que-trump-presento-como-letrada_7049590_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-16T10:07:41.000Z"
+          "title": "Protestas universitarias en Argentina exigen que se cumpla la ley de financiamiento",
+          "link": "https://www.france24.com/es/video/20261016-protestas-universitarias-en-argentina-exigen-que-se-cumpla-la-ley-de-financiamiento",
+          "source": "France 24",
+          "published": "2026-10-16T14:59:49.000Z"
         },
         {
-          "title": "El primer ministro de Albania se aferra al poder pese a las protestas y disturbios en las calles de la capital",
-          "link": "https://www.eldiario.es/internacional/theguardian/primer-ministro-albania-aferra-pese-protestas-disturbios-calles-capital_1_13590308.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-16T09:47:11.000Z"
+          "title": "Sin acuerdo en la cumbre de la Unión Europea para el presupuesto de 2027",
+          "link": "https://www.france24.com/es/video/20261016-sin-acuerdo-en-la-cumbre-de-la-uni%C3%B3n-europea-para-el-presupuesto-de-2027",
+          "source": "France 24",
+          "published": "2026-10-16T14:56:13.000Z"
         },
         {
-          "title": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
-          "link": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-16T09:46:06.000Z"
-        },
-        {
-          "title": "La Audiencia Nacional archiva la denuncia contra Netanyahu y varios mandos israelíes por retener a un militar español en abril",
-          "link": "https://www.20minutos.es/internacional/audiencia-nacional-archiva-denuncia-contra-netanyahu-varios-mandos-israelies-por-retener-un-militar-espanol-abril_7049565_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-16T09:33:06.000Z"
-        },
-        {
-          "title": "Escepticismo y desencanto en Iowa: la siderúrgica prometida por Trump despierta viejos fantasmas",
-          "link": "https://elpais.com/us/2026-10-16/escepticismo-y-desencanto-en-iowa-la-siderurgica-prometida-por-trump-despierta-viejos-fantasmas.html",
+          "title": "La justicia británica condena a un adolescente noruego que trabajaba para una organización criminal a sueldo de Irán",
+          "link": "https://elpais.com/internacional/2026-10-16/la-justicia-britanica-condena-a-un-adolescente-noruego-que-trabajaba-para-una-organizacion-criminal-a-sueldo-de-iran.html",
           "source": "El País Internacional",
-          "published": "2026-10-16T09:30:00.000Z"
+          "published": "2026-10-16T14:50:16.000Z"
         },
         {
-          "title": "Estados Unidos, contra Ilhan Omar: así persigue Trump a su mayor enemiga en el Congreso",
-          "link": "https://elpais.com/us/2026-10-16/estados-unidos-contra-ilhan-omar-asi-persigue-trump-a-su-mayor-enemiga-en-el-congreso.html",
-          "source": "El País Internacional",
-          "published": "2026-10-16T09:30:00.000Z"
-        },
-        {
-          "title": "Irán no descarta una ofensiva de EEUU e Israel y advierte que responderá atacando intereses norteamericanos en cualquier país",
-          "link": "https://www.20minutos.es/internacional/iran-no-descarta-una-ofensiva-eeuu-israel-advierte-que-respondera-atacando-intereses-norteamericanos-cualquier-pais_7049545_0.html",
+          "title": "El gesto de Zelenski cuando le preguntan si Trump le usa de chivo expiatorio de sus problemas internos: \"Esta es mi respuesta\"",
+          "link": "https://www.20minutos.es/internacional/gesto-zelenski-cuando-le-preguntan-si-trump-le-usa-chivo-expiatorio-sus-problemas-internos-esta-es-mi-respuesta_7049782_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-16T09:01:48.000Z"
+          "published": "2026-10-16T14:29:45.000Z"
+        },
+        {
+          "title": "India detiene a los líderes del movimiento juvenil de las \"Cucarachas\" en nuevas protestas electorales",
+          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261016-india-detiene-a-los-l%C3%ADderes-del-movimiento-juvenil-de-las-cucarachas-en-nuevas-protestas-electorales",
+          "source": "France 24",
+          "published": "2026-10-16T14:23:16.000Z"
         }
       ]
     }
