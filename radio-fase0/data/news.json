@@ -1,118 +1,94 @@
 {
-  "date": "2026-10-15",
-  "updatedAt": "2026-10-15T20:42:16.612Z",
-  "edition": "tarde",
+  "date": "2026-10-16",
+  "updatedAt": "2026-10-16T10:20:15.562Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "La Junta Electoral expedienta a Sánchez por sus \"manifestaciones valorativas\" en una rueda de prensa en Moncloa",
-          "link": "https://www.eldiario.es/politica/junta-electoral-expedienta-sanchez-manifestaciones-valorativas-rueda-prensa-moncloa_1_13588771.html",
+          "title": "La Junta Electoral recalca a PP y Vox que la transparencia del voto por correo está regulada en la ley y rechaza medidas extra",
+          "link": "https://www.eldiario.es/politica/junta-electoral-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra_1_13590350.html",
           "source": "elDiario.es",
-          "summary": "El organismo exige a la Presidencia del Gobierno que retire las declaraciones del jefe del Ejecutivo sobre la oposición y los logros de España de todos los soportes y pide a Sánchez que \"observe el deber de neutralidad política\" La Junta Electoral ordena enviar la documentación para el 29N a todos los inscritos en el extranjero con el aviso de que no todos podrán votar A juicio de la Junta Electoral, que atiende así parcialmente sendas denuncias presentadas por PP y SALF, en esa rueda de prensa en la Moncloa Sánchez “no se limitó a informar sobre el contenido de los reales decretos leyes…",
+          "summary": "El organismo recuerda que las juntas electorales únicamente pueden actuar si se le trasladan \"denuncias sobre hechos o indicios concretos de irregularidad\" La Junta Electoral ordena enviar la documentación para el 29N a todos los inscritos en el extranjero con el aviso de que no todos podrán votar En las dos resoluciones ante estas peticiones, el organismo arbitral recuerda también a PP y Vox que la Administración electoral “debe aplicar los procedimientos dispuestos en la legislación electoral en tanto no sean modificados por el legislador” y les anima a cambiar la ley si consideran que hay…",
           "sources": [
             "elDiario.es",
-            "20minutos",
-            "El País"
+            "Europa Press"
           ],
-          "firstSeen": "2026-10-15T15:57:50.277Z"
+          "firstSeen": "2026-10-16T10:20:15.562Z"
         },
         {
-          "title": "Defensa remite al juzgado audios de supuestos militares que se jactan de golpear a inmigrantes",
-          "link": "https://elpais.com/espana/2026-10-15/defensa-remite-al-juzgado-audios-de-supuestos-militares-que-se-jactan-de-golpear-a-inmigrantes.html",
-          "source": "El País",
-          "summary": "Pegar “sin guantes mola más”, se escucha en una grabación difundida por ‘eldiario.es’",
-          "sources": [
-            "El País",
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-15T20:42:16.612Z"
-        },
-        {
-          "title": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
-          "source": "El País",
-          "summary": "El vicepresidente primero aleja la idea de cerrar un incremento antes de acudir a las urnas e incide en que se puede acordar con el Ejecutivo en funciones tras los comicios del 29-N. Sánchez dice que las subirán “antes de acabar el año”",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-15T10:33:04.096Z"
-        },
-        {
-          "title": "Ayuso dice que la izquierda \"secuestra las calles\" con huelgas porque se vuelve \"violenta\" al perder las elecciones",
-          "link": "https://www.eldiario.es/madrid/ayuso-echa-culpa-izquierda-huelgas-secuestran-calles-no-reconocen-perdiendo-elecciones_1_13587222.html",
-          "source": "elDiario.es",
-          "summary": "La oposición ha reprochado a la presidenta autonómica que \"Madrid está a punto de reventar desde la vivienda hasta la educación\", con huelgas históricas en diferentes sectores, pero que a ella le \"preocupa más una pancarta que un fondo buitre\" Miles de personas inundan Madrid en defensa de la educación pública: “Ni un paso atrás” Huelga general por la vivienda. Huelga educativa histórica a todos los niveles. Huelga de médicos. Todo para exigir a la Comunidad de Madrid una mayor inversión en servicios públicos y un cambio en las políticas del Gobierno de Isabel Díaz Ayuso. Sin embargo, para la…",
-          "sources": [
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-10-15T10:33:04.096Z"
-        },
-        {
-          "title": "El DAO de la Guardia Civil confirma al juez que Marlaska le llamó tras la filtración del correo de Begoña Gómez",
-          "link": "https://www.europapress.es/nacional/noticia-dao-guardia-civil-confirma-juez-marlaska-le-llamo-filtracion-correo-begona-gomez-20261015105950.html",
+          "title": "España e Italia acuerdan buscar medidas alternativas para la retirada de los controles Schengen en una semana",
+          "link": "https://www.europapress.es/nacional/noticia-italia-prorroga-semana-controles-schengen-espera-coordinar-espana-medidas-sustitutivas-20261016100528.html",
           "source": "Europa Press",
-          "summary": "El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha confirmado al juez de la Audiencia Nacional que investiga el 'caso Leire Díez' que el ministro de Interior, Fernando Grande-Marlaska, le llamó por teléfono tras la filtración del correo electrónico de Begoña Gómez, la mujer del presidente del Gobierno, Pedro Sánchez.",
+          "summary": "El presidente del Gobierno, Pedro Sánchez, y la primera ministra italiana, Giorgia Meloni, acordaron este jueves buscar medidas alternativas que permitan la supresión de los controles Schengen que Italia introdujo a principios de agosto después de la entrada masiva de migrantes a Ceuta, según han informado fuentes italianas y españolas.",
           "sources": [
             "Europa Press",
-            "20minutos"
+            "El País"
           ],
-          "firstSeen": "2026-10-15T10:33:04.096Z"
+          "firstSeen": "2026-10-16T10:20:15.562Z"
+        },
+        {
+          "title": "Podemos y el Frente Amplio negocian a contrarreloj los “acuerdos de unidad”",
+          "link": "https://diariosocialista.net/2026/10/16/podemos-y-el-frente-amplio-negocian-contrarreloj-los-acuerdos-de-unidad/",
+          "source": "Diario Socialista",
+          "summary": "Las conversaciones llegan al límite del plazo para registrar coaliciones con el principal escollo en quién encabezará la candidatura del espacio a la izquierda del PSOE.",
+          "sources": [
+            "Diario Socialista",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-16T10:20:15.562Z"
         }
       ],
       "items": [
         {
-          "title": "Esquerra Unida no irá con Compromís a las generales: el 75% de la dirección rechaza la propuesta de acuerdo",
-          "link": "https://www.eldiario.es/comunitat-valenciana/politica/esquerra-unida-no-ira-compromis-generales-75-direccion-rechaza-propuesta-acuerdo_1_13589690.html",
-          "source": "elDiario.es",
-          "published": "2026-10-15T20:22:39.000Z"
-        },
-        {
-          "title": "“Pedro Sánchez HDP”; “El Gobierno es cómplice de la tiranía”: los mensajes del elegido por De la Espriella como embajador en España",
-          "link": "https://elpais.com/america-colombia/2026-10-15/pedro-sanchez-hdp-el-gobierno-es-complice-de-la-tirania-los-mensajes-del-elegido-por-de-la-espriella-como-embajador-en-espana.html",
+          "title": "El FMI advierte de que el “mediocre crecimiento” de la zona euro se prolongará a medio plazo",
+          "link": "https://elpais.com/economia/2026-10-16/el-fmi-advierte-de-que-el-mediocre-crecimiento-de-la-zona-euro-se-prolongara-a-medio-plazo.html",
           "source": "El País",
-          "published": "2026-10-15T17:25:17.000Z"
+          "published": "2026-10-16T10:00:09.000Z"
         },
         {
-          "title": "Las incógnitas por despejar para forjar la confluencia electoral en el País Valencià",
-          "link": "https://www.elsaltodiario.com/pais-valenciano/incognitas-despejar-confluencia-pais-valencia?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-15T17:14:00.000Z"
+          "title": "Última hora de la actualidad política, en directo | Rufián: “He hecho todo lo posible para simplificar la oferta electoral”",
+          "link": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "source": "El País",
+          "published": "2026-10-16T09:57:50.000Z"
         },
         {
-          "title": "Una asociación de exiliados presenta alegaciones contra la decisión del Supremo de suspender su derecho de voto",
-          "link": "https://www.eldiario.es/politica/asociacion-exiliados-presenta-alegaciones-decision-supremo-suspender-derecho-voto_1_13589335.html",
-          "source": "elDiario.es",
-          "published": "2026-10-15T17:01:05.000Z"
-        },
-        {
-          "title": "NC-BC, Podemos Canarias, IUC y Sumar Canarias acudirán en alianza al 29N bajo la marca 'Unidad del Pueblo Canario'",
-          "link": "https://www.europapress.es/islas-canarias/noticia-nc-bc-podemos-canarias-iuc-sumar-canarias-acudiran-alianza-29n-marca-unidad-pueblo-canario-20261015185207.html",
-          "source": "Europa Press",
-          "published": "2026-10-15T16:52:07.000Z"
-        },
-        {
-          "title": "Abascal se reúne con Meloni en Bruselas y reivindica el modelo italiano: \"España también puede elegirlo\"",
-          "link": "https://www.20minutos.es/nacional/abascal-se-reune-con-giorgia-meloni-bruselas-reivindica-modelo-italiano-espana-tambien-puede-elegirlo_7049336_0.html",
+          "title": "El PP acusa al Gobierno de \"hipócrita y cínico\" por utilizar las pensiones para tapar la polémica de vivienda de Montse Mínguez",
+          "link": "https://www.20minutos.es/nacional/pp-acusa-gobierno-hipocrita-cinico-por-utilizar-las-pensiones-para-tapar-polemica-vivienda-montse-minguez_7049577_0.html",
           "source": "20minutos",
-          "published": "2026-10-15T16:48:08.000Z"
+          "published": "2026-10-16T09:56:44.000Z"
         },
         {
-          "title": "La Fiscalía mantiene su petición de un año de cárcel para el primer teniente general de la Guardia Civil juzgado por corrupción",
-          "link": "https://elpais.com/espana/2026-10-15/la-fiscalia-mantiene-su-peticion-de-un-ano-de-carcel-para-el-primer-teniente-general-de-la-guardia-civil-juzgado-por-corrupcion.html",
+          "title": "La batalla por el voto de un español de la ley de nietos: “Quien huyó no pensó en armar una carpeta con documentación, se fue con lo puesto”",
+          "link": "https://elpais.com/argentina/2026-10-16/la-batalla-por-el-voto-de-un-espanol-de-la-ley-de-nietos-quien-huyo-no-penso-en-armar-una-carpeta-con-documentacion-se-fue-con-lo-puesto.html",
           "source": "El País",
-          "published": "2026-10-15T16:41:59.000Z"
+          "published": "2026-10-16T09:30:00.000Z"
         },
         {
-          "title": "Acuerdo histórico en la izquierda canaria: Podemos se une a la candidatura de Nueva Canarias, IU y Sumar en las generales",
-          "link": "https://www.eldiario.es/canariasahora/politica/acuerdo-historico-izquierda-canaria-suma-confluencia-llamara-unidad-pueblo-canario_1_13589265.html",
+          "title": "En manos del \"buen casero\", presión turística en Cádiz y otras cartas de los lectores",
+          "link": "https://www.eldiario.es/economia/una-casa-para-vivir/manos-buen-casero-presion-turistica-cadiz-cartas-lectores_132_13590333.html",
           "source": "elDiario.es",
-          "published": "2026-10-15T16:41:24.000Z"
+          "published": "2026-10-16T09:25:41.000Z"
+        },
+        {
+          "title": "Ayuso ordena cerrar la estación de Metro en Sol por limpieza y echa la culpa a los acampados, a los que llama \"mamarrachos\"",
+          "link": "https://www.eldiario.es/madrid/somos/ayuso-ordena-cerrar-estacion-sol-limpieza-echa-culpa-acampados-llama-mamarrachos_1_13590340.html",
+          "source": "elDiario.es",
+          "published": "2026-10-16T09:17:22.000Z"
+        },
+        {
+          "title": "Rufián da por muerta la vía de la confluencia con Frente Amplio: “Hemos fracasado”",
+          "link": "https://www.elsaltodiario.com/elecciones/rufian-da-muerta-via-confluencia-frente-amplio-hemos-fracasado?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-16T09:15:00.000Z"
+        },
+        {
+          "title": "Ayuso espera \"trampas\" del Gobierno en las elecciones del 29N: \"La Moncloa hace cirugía electoral\"",
+          "link": "https://www.eldiario.es/madrid/ayuso-espera-trampas-gobierno-elecciones-29n-moncloa-cirugia-electoral_1_13590323.html",
+          "source": "elDiario.es",
+          "published": "2026-10-16T09:13:45.000Z"
         }
       ]
     },
@@ -121,109 +97,87 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Elon Musk pide la salida de Zelenski en medio de las tensiones entre Kiev y Washington",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-elon-musk-pide-la-salida-de-zelenski-en-medio-de-las-tensiones-entre-kiev-y-washington",
-          "source": "France 24",
-          "summary": "El multimillonario Elon Musk pidió la salida del presidente ucraniano, Volodímir Zelenski, en medio de crecientes tensiones entre Kiev y Washington por el apoyoestadounidense frente a la invasión rusa. Ucrania denunció restricciones en el funcionamiento de los servicios de comunicaciones satelitales utilizados en sus operaciones militares. Musk, director ejecutivo de SpaceX, aseguró que cualquier limitación del sistema Starshield, utilizado por las fuerzas ucranianas, es responsabilidad del Gobierno de Estados Unidos y no de su empresa.",
+          "title": "Italia prorroga una semana más los controles fronterizos con España pero ya prepara su eliminación",
+          "link": "https://www.20minutos.es/internacional/italia-prorroga-una-semana-mas-los-controles-fronterizos-con-espana-pero-ya-prepara-su-eliminacion_7049519_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Así lo pactaron Sánchez y Meloni en los márgenes del Consejo Europeo en Bruselas. Los ministros del Interior se verán en los próximos días para pactar los siguientes pasos.",
           "sources": [
-            "France 24",
-            "DW"
+            "20minutos Internacional",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-15T10:33:04.096Z"
+          "firstSeen": "2026-10-16T10:20:15.562Z"
         },
         {
-          "title": "¿Crimen de guerra?: claves del juicio en Alemania contra exmilitar de Ucrania por sabotaje del Nord Stream",
-          "link": "https://www.france24.com/es/europa/20261014-crimen-de-guerra-claves-del-juicio-en-alemania-contra-exmilitar-de-ucrania-por-sabotaje-del-nord-stream",
-          "source": "France 24",
-          "summary": "Este miércoles 14 de octubre comenzó en Hamburgo el juicio que puede determinar si existió o no una implicancia de Ucrania en la explosión que dañó los gasoductos Nord Stream en 2022. El principal señalado es Serhii Kuznietsov, acusado de \"cómplice de crímenes de guerra\" por liderar el grupo que presuntamente llevó a cabo el sabotaje de las infraestructuras de gas que conectan Rusia y Alemania. Su defensa pide su absolución, alegando que no puede hablar por razones de seguridad.",
+          "title": "Trump arremete contra Zelenski por nueva ofensiva de Ucrania contra refinerías rusas",
+          "link": "https://www.dw.com/es/trump-arremete-contra-zelenski-por-nueva-ofensiva-de-ucrania-contra-refinerías-rusas/a-79675859?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "El presidente de Estados Unidos consideró \"una vergüenza\" que Kiev retome sus ataques contra las refinerías rusas.",
           "sources": [
-            "France 24",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-15T10:33:04.096Z"
-        },
-        {
-          "title": "El presidente de Albania culpa a la oposición de los disturbios en las protestas estudiantiles",
-          "link": "https://elpais.com/internacional/2026-10-15/el-presidente-de-albania-culpa-a-la-oposicion-de-los-disturbios-en-las-protestas-estudiantiles.html",
-          "source": "El País Internacional",
-          "summary": "La policía interviene finalmente el tercer día de la movilización, tras los incidentes registrados la víspera",
-          "sources": [
-            "El País Internacional",
+            "DW",
             "France 24"
           ],
-          "firstSeen": "2026-10-15T15:57:50.277Z"
+          "firstSeen": "2026-10-16T10:20:15.562Z"
         },
         {
-          "title": "EEUU plantea lanzar la \"madre de todas las bombas\" sobre Irán, según la CNN",
-          "link": "https://www.eldiario.es/internacional/eeuu-plantea-lanzar-madre-bombas-iran-cnn_1_13588107.html",
-          "source": "elDiario.es Internacional",
-          "summary": "El ejército estadounidense ha elaborado planes de guerra que incluyen el uso de la bomba GBU-43/B Massive Ordnance Air Blast contra infraestructuras energéticas e instalaciones nucleares iraníes si Trump ordena reanudar los bombardeos, según informa este jueves la cadena de noticias CNN El posible despliegue de la bomba no nuclear más grande del arsenal estadounidense supondría una escalada significativa en la guerra unilateral e ilegal lanzada por EEUU e Israel el pasado 28 de febrero, aunque fuentes familiarizadas con las deliberaciones sobre la planificación militar indicaron a la CNN que…",
+          "title": "Tiroteo en escuela de Estados Unidos deja al menos cuatro muertos",
+          "link": "https://www.dw.com/es/tiroteo-en-escuela-de-estados-unidos-deja-al-menos-cuatro-muertos/a-79675038?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Tres niños y una maestra murieron en la escuela primaria Silver Rail de la localidad de Bend. Al menos dos personas fueron hospitalizadas.",
           "sources": [
-            "elDiario.es Internacional",
-            "20minutos Internacional"
+            "DW",
+            "France 24"
           ],
-          "firstSeen": "2026-10-15T15:57:50.277Z"
-        },
-        {
-          "title": "Maduro y Cilia Flores se declaran no culpables de nuevos cargos por conspiración para torturar opositores",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261015-maduro-y-cilia-flores-se-declaran-no-culpables-de-nuevos-cargos-por-conspiraci%C3%B3n-para-torturar-opositores",
-          "source": "France 24",
-          "summary": "Nicolás Maduro y su esposa, Cilia Flores, se declararon no culpables ante un tribunal de Nueva York de nuevos cargos por conspiración para cometer torturas contra opositores políticos. El exmandatario venezolano calificó las imputaciones de «falsas acusaciones y testimonios». La Fiscalía también amplió a Flores la imputación por conspiración para cometer narcoterrorismo y el juez aplazó el inicio del juicio hasta el 14 de junio de 2027.",
-          "sources": [
-            "France 24",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-15T20:42:16.612Z"
+          "firstSeen": "2026-10-16T10:20:15.562Z"
         }
       ],
       "items": [
         {
-          "title": "Del pacto con Putin por el diésel ruso a las interrupciones de SpaceX: Trump sacrifica Ucrania para intentar salvar sus elecciones",
-          "link": "https://www.eldiario.es/internacional/pacto-putin-diesel-ruso-interrupciones-spacex-trump-sacrifica-ucrania-salvar-elecciones_1_13589213.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-15T20:03:51.000Z"
+          "title": "Pekín replica a la portavoz de Trump por decir que China no puede superar a EEUU porque no tiene \"baños como dios manda\"",
+          "link": "https://www.20minutos.es/internacional/pekin-replica-portavoz-trump-por-decir-que-china-no-puede-superar-eeuu-porque-no-tiene-banos-como-dios-manda_7049621_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-16T10:08:00.000Z"
         },
         {
-          "title": "Bally Bagayoko, el alcalde insumiso que abandera el apoyo a las protestas en Francia y desata la ira de los ultras",
-          "link": "https://www.eldiario.es/internacional/bally-bagayoko-alcalde-insumiso-abandera-apoyo-protestas-francia-desata-ira-ultras_1_13589071.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-15T20:03:50.000Z"
+          "title": "La nueva portavoz de la Casa Blanca admite que no aprobó el examen de abogacía pese a que Trump la presentó como letrada",
+          "link": "https://www.20minutos.es/internacional/nueva-portavoz-casa-blanca-admite-que-no-aprobo-examen-abogacia-pese-que-trump-presento-como-letrada_7049590_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-16T10:07:41.000Z"
         },
         {
-          "title": "José Manuel Albares: \"Tenemos que estar preparados para injerencias externas en las elecciones\"",
-          "link": "https://www.eldiario.es/internacional/jose-manuel-albares-preparados-injerencias-externas-elecciones_128_13587998.html",
+          "title": "El primer ministro de Albania se aferra al poder pese a las protestas y disturbios en las calles de la capital",
+          "link": "https://www.eldiario.es/internacional/theguardian/primer-ministro-albania-aferra-pese-protestas-disturbios-calles-capital_1_13590308.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-15T20:03:48.000Z"
+          "published": "2026-10-16T09:47:11.000Z"
         },
         {
-          "title": "La dura negociación sobre el presupuesto de la UE amenaza el acuerdo antes del superaño electoral en Europa",
-          "link": "https://elpais.com/internacional/2026-10-15/la-dura-negociacion-sobre-el-presupuesto-de-la-ue-amenaza-el-acuerdo-antes-del-superano-electoral-en-europa.html",
+          "title": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
+          "link": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-16T09:46:06.000Z"
+        },
+        {
+          "title": "La Audiencia Nacional archiva la denuncia contra Netanyahu y varios mandos israelíes por retener a un militar español en abril",
+          "link": "https://www.20minutos.es/internacional/audiencia-nacional-archiva-denuncia-contra-netanyahu-varios-mandos-israelies-por-retener-un-militar-espanol-abril_7049565_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-16T09:33:06.000Z"
+        },
+        {
+          "title": "Escepticismo y desencanto en Iowa: la siderúrgica prometida por Trump despierta viejos fantasmas",
+          "link": "https://elpais.com/us/2026-10-16/escepticismo-y-desencanto-en-iowa-la-siderurgica-prometida-por-trump-despierta-viejos-fantasmas.html",
           "source": "El País Internacional",
-          "published": "2026-10-15T19:26:51.000Z"
+          "published": "2026-10-16T09:30:00.000Z"
         },
         {
-          "title": "\"Trump, el protector de Putin en la Casa Blanca\": 'Kyiv Post'",
-          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261015-trump-el-protector-de-putin-en-la-casa-blanca-kyiv-post",
-          "source": "France 24",
-          "published": "2026-10-15T19:24:05.000Z"
+          "title": "Estados Unidos, contra Ilhan Omar: así persigue Trump a su mayor enemiga en el Congreso",
+          "link": "https://elpais.com/us/2026-10-16/estados-unidos-contra-ilhan-omar-asi-persigue-trump-a-su-mayor-enemiga-en-el-congreso.html",
+          "source": "El País Internacional",
+          "published": "2026-10-16T09:30:00.000Z"
         },
         {
-          "title": "Hutíes lanzan ataque contra el palacio presidencial en Yemen",
-          "link": "https://www.dw.com/es/hutíes-lanzan-ataque-contra-el-palacio-presidencial-en-yemen/a-79674238?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-15T18:54:00.000Z"
-        },
-        {
-          "title": "Aeropuertos, petróleo y religión: ¿cómo desafían los hutíes el poderío militar de Arabia Saudita?",
-          "link": "https://www.france24.com/es/medio-oriente/20261015-aeropuertos-petr%C3%B3leo-y-religi%C3%B3n-c%C3%B3mo-rompieron-los-hut%C3%ADes-el-poder%C3%ADo-militar-de-arabia-saudita",
-          "source": "France 24",
-          "published": "2026-10-15T18:19:44.000Z"
-        },
-        {
-          "title": "Misiles hipersónicos: ¿se anulan mutuamente Corea del Norte y Corea del Sur?",
-          "link": "https://www.dw.com/es/misiles-hipersónicos-¿se-anulan-mutuamente-corea-del-norte-y-corea-del-sur/a-79670665?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-15T17:15:00.000Z"
+          "title": "Irán no descarta una ofensiva de EEUU e Israel y advierte que responderá atacando intereses norteamericanos en cualquier país",
+          "link": "https://www.20minutos.es/internacional/iran-no-descarta-una-ofensiva-eeuu-israel-advierte-que-respondera-atacando-intereses-norteamericanos-cualquier-pais_7049545_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-16T09:01:48.000Z"
         }
       ]
     }
