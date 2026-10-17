@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T09:52:56.072Z",
+  "updatedAt": "2026-10-17T14:38:20.949Z",
   "edition": "mediodía",
   "sections": [
     {
@@ -34,15 +34,17 @@
           "firstSeen": "2026-10-17T09:52:56.072Z"
         },
         {
-          "title": "Última hora de la actualidad política, en directo | El comité federal del PSOE proclama a Sánchez por unanimidad como candidato a la presidencia del Gobierno de España",
-          "link": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "title": "Frente Amplio pasa página del pacto fallido con Podemos: “Se acabó el tiempo de unir a los partidos, hay que unir a la gente”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-17/frente-amplio-pasa-pagina-sobre-el-fallido-pacto-con-podemos-se-acabo-el-tiempo-de-unir-a-los-partidos-hay-que-unir-a-la-gente.html",
           "source": "El País",
-          "summary": "Los socialistas aprueban unas listas paritarias en las que por primera vez habrá más mujeres que hombres encabezando las candidaturas al Congreso | Rebeca Torró será la nueva portavoz del partido tras la renuncia de Montse Mínguez | Urtasun será el número dos de la candidatura del Frente Amplio en Barcelona",
+          "summary": "“No más drama”, zanjan en la formación mientras Ada Colau pide disculpas por el acuerdo frustrado: “Si alguien no se quiere sentar a una mesa, no se le puede obligar”",
           "sources": [
             "El País",
-            "Europa Press"
+            "20minutos",
+            "Diario Socialista",
+            "El Salto"
           ],
-          "firstSeen": "2026-10-17T09:52:56.072Z"
+          "firstSeen": "2026-10-17T14:38:20.949Z"
         },
         {
           "title": "Feijóo llama \"coalición de desesperados\" al pacto del PSOE y Frente Amplio para el Senado",
@@ -51,70 +53,72 @@
           "summary": "El líder del PP sostiene que los votantes \"habrán tomado nota\" de la \"desesperación\" de Pedro Sánchez, y de una situación que ha calificado de \"sin antecedentes\".",
           "sources": [
             "20minutos",
-            "Europa Press"
+            "Europa Press",
+            "elDiario.es"
           ],
           "firstSeen": "2026-10-17T09:52:56.072Z"
         },
         {
-          "title": "La izquierda fracasa en su búsqueda de la unidad: Frente Amplio y Podemos solo irán juntos en Canarias y Comunidad Valenciana",
-          "link": "https://www.20minutos.es/nacional/izquierda-fracasa-su-busqueda-unidad-frente-amplio-podemos-solo-iran-juntos-canarias-comunidad-valenciana_7049889_0.html",
-          "source": "20minutos",
-          "summary": "La alianza y la formación morada no superan los escollos de unas negociaciones convertidas en un pulso.",
+          "title": "Sánchez mete a Begoña Gómez en campaña: “Nos han intentado quebrar y estamos más fuertes. Te quiero”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-17/sanchez-mete-a-begona-gomez-en-campana-nos-han-intentado-quebrar-y-estamos-mas-fuertes-te-quiero.html",
+          "source": "El País",
+          "summary": "El presidente reivindica a su esposa para movilizar al electorado progresista por lo que considera una persecución judicial con fines políticos en un comité federal de cierre de filas para las elecciones del 29-N",
           "sources": [
-            "20minutos",
-            "elDiario.es"
+            "El País",
+            "elDiario.es",
+            "20minutos"
           ],
-          "firstSeen": "2026-10-17T09:52:56.072Z"
+          "firstSeen": "2026-10-17T14:38:20.949Z"
         }
       ],
       "items": [
         {
-          "title": "El sindicato de maquinistas Semaf llama a una huelga de 24 horas en Renfe para el día 29",
-          "link": "https://elpais.com/economia/2026-10-17/el-sindicato-de-maquinistas-semaf-llama-a-una-huelga-de-24-horas-en-renfe-para-el-dia-29.html",
-          "source": "El País",
-          "published": "2026-10-17T09:03:26.000Z"
-        },
-        {
-          "title": "Page se ausenta del Comité Federal del PSOE porque no hay posibilidad de intervenir",
-          "link": "https://www.europapress.es/nacional/noticia-page-ausenta-comite-federal-psoe-porque-no-hay-posibilidad-intervenir-20261017110153.html",
-          "source": "Europa Press",
-          "published": "2026-10-17T09:01:53.000Z"
-        },
-        {
-          "title": "La Ejecutiva del PSOE nombra a Rebeca Torró nueva portavoz tras la dimisión de Montse Mínguez",
-          "link": "https://www.europapress.es/nacional/noticia-ejecutiva-psoe-nombra-rebeca-torro-nueva-portavoz-dimision-montse-minguez-20261017100324.html",
-          "source": "Europa Press",
-          "published": "2026-10-17T08:03:24.000Z"
-        },
-        {
-          "title": "Los Comuns ratifican a Urtasun como número 2 de Frente Amplio por Barcelona",
-          "link": "https://www.europapress.es/catalunya/noticia-comuns-ratifican-urtasun-numero-frente-amplio-barcelona-20261017092905.html",
-          "source": "Europa Press",
-          "published": "2026-10-17T07:29:05.000Z"
-        },
-        {
-          "title": "Sánchez cierra un comité marcado por la dimisión de Mínguez y Frente Amplio y Podemos consuman su fractura con dos actos separados",
-          "link": "https://www.20minutos.es/nacional/elecciones-generales-ultima-hora-los-actos-electorales-directo-sanchez-convierte-mitin-comite-psoe-mientras-frente-amplio-podemos-consuman-su-fractura-con-dos-actos-por-separado_7049917_6.html",
+          "title": "Destrozan el altar que los vecinos levantaron en memoria de Maricarmen en su calle",
+          "link": "https://www.20minutos.es/madrid/destrozan-altar-que-los-vecinos-levantaron-memoria-maricarmen-su-calle_7050005_0.html",
           "source": "20minutos",
-          "published": "2026-10-17T07:20:09.000Z"
+          "published": "2026-10-17T14:17:12.000Z"
         },
         {
-          "title": "La afiliación de CCOO y UGT se estanca en Catalunya: la CGT crece un 40%",
-          "link": "https://diariosocialista.net/2026/10/17/la-afiliacion-de-ccoo-y-ugt-se-estanca-en-catalunya-la-cgt-crece-un-40/",
-          "source": "Diario Socialista",
-          "published": "2026-10-17T07:00:38.000Z"
+          "title": "Última hora de la actualidad política, en directo | García Albiol será el candidato del PP al Congreso por Barcelona",
+          "link": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "source": "El País",
+          "published": "2026-10-17T14:07:00.000Z"
         },
         {
-          "title": "Xi Jinping pide “reforzar la disciplina interna y la lucha contra la corrupción” en el PCCh",
-          "link": "https://diariosocialista.net/2026/10/17/xi-jinping-pide-reforzar-la-disciplina-interna-y-la-lucha-contra-la-corrupcion-en-el-pcch/",
-          "source": "Diario Socialista",
-          "published": "2026-10-17T07:00:19.000Z"
+          "title": "Detenidos dos menores por la muerte de una mujer de 83 años durante un robo en su casa en Burgos",
+          "link": "https://www.eldiario.es/castilla-y-leon/provincias/burgos/detenidos-menores-muerte-mujer-83-anos-durante-robo-casa-burgos_1_13594035.html",
+          "source": "elDiario.es",
+          "published": "2026-10-17T13:12:00.000Z"
         },
         {
-          "title": "Ocho compañeros del subinspector maltratador de Granada procesados por espiar en el sistema VioGén",
-          "link": "https://diariosocialista.net/2026/10/17/ocho-companeros-del-subinspector-maltratador-de-granada-procesados-por-espiar-en-el-sistema-viogen/",
-          "source": "Diario Socialista",
-          "published": "2026-10-17T07:00:19.000Z"
+          "title": "Sanchez llama a la movilización contra PP y Vox: \"Si les gustan las motosierras, al aserradero pero las pensiones no se tocan\" - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcF9qaGZESWFIdGFsWDdEOU4xMGVRV3pQekRTbjJSRVFPbEd4WEgya1RucFFaU1U1bmJuR1pvbGpkU2U0VHh0SS11a19PaGtIdDRqWlhUMlZuczlMSUZ6VkoxUDJ3bXVKc0gzRlBGbEZORXZqUERmQjRDeC1RRWNhWW81eDdlUUdtV3FLREZsVFJjeUhzVEVvekktNFgyczRuNGhqZEFidlZjSUxEdXlCajVCQWdKMzhkTVRtZzRTR1l3RzB2TXNIaEJR0gHPAUFVX3lxTE05OEhUYTMwZ09yMkhwMGgxbm5lYm84UTBBZko1ay1NQ1ZQamNoNFA3cVNmQXhTZjBHVUJVd2ZOSlhuMVpnbENTbUkzZ0hMWDRvQWdmeC1ZV3FRTld5a3RNUS1za2NKOVpsSU9IODRqM2tQLXg5RzNSX3UzcmltUk1QQVVDTHlwSVFRRHI4NUpST240cXZCTElqSGtLMGtnYWFBX3BXMWhuUXJWMWZ6cmFPS2Via0ZJXzFlWmRURkZTcUhVN3l3UUNjdzlKcFdTZw?oc=5",
+          "source": "Público",
+          "published": "2026-10-17T11:55:39.000Z"
+        },
+        {
+          "title": "El Frente Amplio pide \"unidad\" frente al \"fascismo\" y pasa página de la crisis con Podemos: \"Si alguien no se quiere sentar a una mesa no se le puede obligar\"",
+          "link": "https://www.eldiario.es/politica/frente-amplio-pide-unidad-frente-fascismo-pasa-pagina-crisis-si-alguien-no-quiere-sentar-mesa-no-le-obligar_1_13593637.html",
+          "source": "elDiario.es",
+          "published": "2026-10-17T11:53:25.000Z"
+        },
+        {
+          "title": "Montero y Belarra acusan a Frente Amplio de preferir pactar con el PSOE en el Senado antes que con Podemos en las Comunidades",
+          "link": "https://www.20minutos.es/nacional/montero-belarra-acusan-frente-amplio-preferir-pactar-con-psoe-senado-antes-que-con-podemos-las-comunidades_7049985_0.html",
+          "source": "20minutos",
+          "published": "2026-10-17T11:35:53.000Z"
+        },
+        {
+          "title": "Sánchez lanza la precampaña apelando a la movilización y alertando contra \"la motosierra\" a las pensiones",
+          "link": "https://www.europapress.es/nacional/noticia-sanchez-lanza-precampana-apelando-movilizacion-alertando-contra-motosierra-pensiones-20261017133128.html",
+          "source": "Europa Press",
+          "published": "2026-10-17T11:31:28.000Z"
+        },
+        {
+          "title": "Nogueras reivindica el papel de Junts para frenar a los \"dos bloques españoles\"",
+          "link": "https://www.europapress.es/catalunya/noticia-nogueras-reivindica-papel-junts-frenar-dos-bloques-espanoles-20261017132256.html",
+          "source": "Europa Press",
+          "published": "2026-10-17T11:22:56.000Z"
         }
       ]
     },
@@ -150,52 +154,52 @@
       ],
       "items": [
         {
-          "title": "Nueva jornada de protestas multitudinarias en Francia",
-          "link": "https://www.dw.com/es/nueva-jornada-de-protestas-multitudinarias-en-francia/a-79686533?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Ucrania lamenta la decisión de Trump sobre las sanciones a Rusia y Moscú la califica de \"histórica\"",
+          "link": "https://www.dw.com/es/ucrania-lamenta-la-decisión-de-trump-sobre-las-sanciones-a-rusia-y-moscú-la-califica-de-histórica/a-79688156?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-17T09:35:00.000Z"
+          "published": "2026-10-17T13:45:00.000Z"
         },
         {
-          "title": "Análisis BBC: Katie Zacharia fue arrojada a un torbellino y falló en un momento clave para Trump",
-          "link": "https://www.bbc.com/mundo/articles/cj040dx1yx0vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-17T09:14:04.000Z"
+          "title": "La fotógrafa de EEUU atacada por colonos israelíes en Cisjordania tiene cuatro vértebras rotas y una costilla fracturada",
+          "link": "https://www.eldiario.es/internacional/fotografa-eeuu-atacada-colonos-israelies-cisjordania-cuatro-vertebras-rotas-costilla-fracturada_1_13593636.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-17T13:33:14.000Z"
         },
         {
-          "title": "Condenan a 158 años de cárcel a tres hombres por el asesinato de dos hermanos surfistas australianos y su amigo estadounidense en México",
-          "link": "https://www.bbc.com/mundo/articles/ck1wve08vzyro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-17T06:41:13.000Z"
-        },
-        {
-          "title": "Ucrania y Rusia se encaminan a una batalla de desgaste energético en el invierno: \"Las guerras terminan cuando faltan recursos\"",
-          "link": "https://www.20minutos.es/internacional/ucrania-rusia-se-encaminan-una-batalla-desgaste-energetico-invierno-las-guerras-terminan-cuando-faltan-recursos_7049397_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-17T05:50:34.000Z"
-        },
-        {
-          "title": "Michigan, Iowa, Ohio, Texas... estos son los estados clave que escudriña Trump para evitar perder las 'midterms' de noviembre",
-          "link": "https://www.20minutos.es/internacional/donde-puede-trump-ganar-perder-las-elecciones-medio-mandato-noviembre_7049622_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-17T05:49:52.000Z"
-        },
-        {
-          "title": "Feijóo refuerza su imagen europea en la precampaña electoral con el trasfondo de Ceuta y la crisis migratoria en la UE",
-          "link": "https://www.20minutos.es/internacional/feijoo-refuerza-su-imagen-europea-precampana-electoral-con-trasfondo-ceuta-crisis-migratoria-ue_7049361_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-17T05:44:55.000Z"
-        },
-        {
-          "title": "Kast y Paz se reúnen para mejorar las relaciones entre Bolivia y Chile, tensas desde hace décadas",
-          "link": "https://www.france24.com/es/video/20261017-kast-y-paz-se-re%C3%BAnen-para-mejorar-las-relaciones-entre-bolivia-y-chile-tensas-desde-hace-d%C3%A9cadas",
+          "title": "Nord Stream y Starlink: ¿se resquebraja el apoyo de EE. UU. a Ucrania?",
+          "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261017-nord-stream-y-starlink-se-resquebraja-el-apoyo-de-ee-uu-a-ucrania",
           "source": "France 24",
-          "published": "2026-10-17T04:05:12.000Z"
+          "published": "2026-10-17T13:32:15.000Z"
         },
         {
-          "title": "Por qué Irlanda es uno de los países del mundo más críticos con Israel por la guerra en Gaza",
-          "link": "https://www.bbc.com/mundo/articles/c8r4vy17rx62o?at_medium=RSS&at_campaign=rss",
+          "title": "Marco Robles: \"El Roadster es más para mostrar que Tesla tiene la tecnología, no para la utilidad\"",
+          "link": "https://www.france24.com/es/video/20261017-marco-robles-el-roadster-es-m%C3%A1s-para-mostrar-que-tesla-tiene-la-tecnolog%C3%ADa-no-para-la-utilidad",
+          "source": "France 24",
+          "published": "2026-10-17T12:49:57.000Z"
+        },
+        {
+          "title": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
+          "link": "https://www.bbc.com/mundo/articles/cq70pz32x83do?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-17T04:00:42.000Z"
+          "published": "2026-10-17T12:29:58.000Z"
+        },
+        {
+          "title": "Pedro Sánchez se muestra en su primer acto electoral tras ser ratificado como candidato confiado en que ganará las elecciones en España",
+          "link": "https://www.dw.com/es/pedro-sánchez-se-muestra-en-su-primer-acto-electoral-tras-ser-ratificado-como-candidato-confiado-en-que-ganará-las-elecciones-en-españa/a-79687538?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-17T11:47:00.000Z"
+        },
+        {
+          "title": "Así es 'el Martillo de Thor': el dron de ataque guiado por IA con el que Ucrania quiere seguir golpeando a Rusia",
+          "link": "https://www.20minutos.es/internacional/asi-es-martillo-thor-dron-ataque-guiado-ia-ucrania-quiere-seguir-golpeando-rusia_7049984_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-17T11:32:03.000Z"
+        },
+        {
+          "title": "El consejo a Kate Zacharia del que hasta ahora era el jefe de prensa de la Casa Blanca más breve: \"El Universo te ha hecho un favor\"",
+          "link": "https://www.20minutos.es/internacional/consejo-kate-zacharia-hasta-ahora-jefe-prensa-casa-blanca-mas-breve-universo-favor_7049976_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-17T11:03:31.000Z"
         }
       ]
     }
