@@ -1,124 +1,72 @@
 {
-  "date": "2026-10-17",
-  "updatedAt": "2026-10-17T19:50:29.504Z",
-  "edition": "tarde",
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T10:05:27.289Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Así queda el mapa de coaliciones de izquierda tras la fractura entre Frente Amplio y Podemos",
-          "link": "https://www.20minutos.es/nacional/asi-queda-mapa-coaliciones-izquierda-tras-fractura-frente-amplio-podemos_7049913_0.html",
+          "title": "Rufián se disculpa por el \"ridículo\" de la izquierda y pide el voto \"aunque sea desilusionado o cabreado\"",
+          "link": "https://www.20minutos.es/nacional/rufian-se-disculpa-por-ridiculo-izquierda-pide-voto-aunque-sea-desilusionado-cabreado-29n_7050101_0.html",
           "source": "20minutos",
-          "summary": "La falta de acuerdos finales provocan la fragmentación electoral con la excepción de Valencia como hito de unidad.",
+          "summary": "El portavoz de ERC en el Congreso ha calificado de \"fracaso absoluto\" el intento de la izquierda de concurrir unida y ha advertido de que \"PP y Vox ya están en 210 diputados (...) pueden cambiar la Constitución si quieren\".",
           "sources": [
             "20minutos",
-            "Diario Socialista",
-            "El Salto",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-17T09:52:56.072Z"
-        },
-        {
-          "title": "El PSOE, el Frente Amplio e izquierdas territoriales se unen en listas conjuntas para el Senado - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQl9mNDNXNnpCU2pxMHdTd2ZGczIxN2tPMTVRZnFQSm40dzFOVG5IUXhEY2tCbkhnTWdNek82bjNOM2NuOEFoWWxtTVctaFByNmd2SEtWM212UHctNUg2elhYNDRGQnRLb1dYVnpMVG9yNXBNXzlBSlZKckZfOW92MlFLWUgtUzFhY1JkU0FzaDhnV0NfY1c2bi1QSFRUOWlVZ3d4UjFTbHVFQ0lWcnpUZjhod3hZcG5uYUpLTg?oc=5",
-          "source": "Público",
-          "summary": "El PSOE, el Frente Amplio e izquierdas territoriales se unen en listas conjuntas para el Senado Diario Público",
-          "sources": [
-            "Público",
-            "20minutos",
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-17T09:52:56.072Z"
-        },
-        {
-          "title": "Frente Amplio pasa página del pacto fallido con Podemos: “Se acabó el tiempo de unir a los partidos, hay que unir a la gente”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-17/frente-amplio-pasa-pagina-sobre-el-fallido-pacto-con-podemos-se-acabo-el-tiempo-de-unir-a-los-partidos-hay-que-unir-a-la-gente.html",
-          "source": "El País",
-          "summary": "“No más drama”, zanjan en la formación mientras Ada Colau pide disculpas por el acuerdo frustrado: “Si alguien no se quiere sentar a una mesa, no se le puede obligar”",
-          "sources": [
-            "El País",
-            "20minutos",
-            "Diario Socialista",
-            "El Salto"
-          ],
-          "firstSeen": "2026-10-17T14:38:20.949Z"
-        },
-        {
-          "title": "Feijóo llama \"coalición de desesperados\" al pacto del PSOE y Frente Amplio para el Senado",
-          "link": "https://www.20minutos.es/nacional/feijoo-llama-coalicion-desesperados-pacto-psoe-frente-amplio-senado-hipocresia-mas_7049957_0.html",
-          "source": "20minutos",
-          "summary": "El líder del PP sostiene que los votantes \"habrán tomado nota\" de la \"desesperación\" de Pedro Sánchez, y de una situación que ha calificado de \"sin antecedentes\".",
-          "sources": [
-            "20minutos",
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-17T09:52:56.072Z"
-        },
-        {
-          "title": "Sánchez mete a Begoña Gómez en campaña: “Nos han intentado quebrar y estamos más fuertes. Te quiero”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-17/sanchez-mete-a-begona-gomez-en-campana-nos-han-intentado-quebrar-y-estamos-mas-fuertes-te-quiero.html",
-          "source": "El País",
-          "summary": "El presidente reivindica a su esposa para movilizar al electorado progresista por lo que considera una persecución judicial con fines políticos en un comité federal de cierre de filas para las elecciones del 29-N",
-          "sources": [
-            "El País",
-            "elDiario.es",
-            "20minutos"
-          ],
-          "firstSeen": "2026-10-17T14:38:20.949Z"
+          "firstSeen": "2026-10-18T10:05:27.289Z"
         }
       ],
       "items": [
         {
-          "title": "La Ertzaintza detiene en Irún a dos personas acusadas de terrorismo y con información sobre las fuerzas de seguridad",
-          "link": "https://elpais.com/espana/2026-10-17/la-ertzaintza-detiene-en-irun-a-dos-personas-acusadas-de-terrorismo-y-con-informacion-sobre-las-fuerzas-de-seguridad.html",
+          "title": "Última hora de la actualidad política, en directo | Feijóo protagoniza el primer gran acto de precampaña del PP en Cataluña",
+          "link": "https://elpais.com/espana/2026-10-18/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-10-17T18:57:42.000Z"
+          "published": "2026-10-18T09:32:19.000Z"
         },
         {
-          "title": "El beso de Sánchez y Begoña Gómez acaba en un cruce de mensajes entre PSOE y PP: del \"tú eliges\" de Bolaños a un montaje con Ábalos",
-          "link": "https://www.20minutos.es/nacional/beso-sanchez-begona-gomez-acaba-un-cruce-mensajes-entre-psoe-pp-tu-eliges-bolanos-un-montaje-con-abalos_7050042_0.html",
+          "title": "Dos personas mueren y varias llegan heridas a El Hierro en un cayuco con 132 ocupantes",
+          "link": "https://www.20minutos.es/canarias/dos-personas-mueren-varias-llegan-heridas-hierro-un-cayuco-con-132-ocupantes_7050116_0.html",
           "source": "20minutos",
-          "published": "2026-10-17T17:02:22.000Z"
+          "published": "2026-10-18T09:28:28.000Z"
         },
         {
-          "title": "Iustitia Europa pide al Constitucional rechazar la petición del Defensor del Pueblo sobre la 'ley de nietos'",
-          "link": "https://www.europapress.es/nacional/noticia-iustitia-europa-pide-constitucional-rechazar-peticion-defensor-pueblo-ley-nietos-20261017183106.html",
+          "title": "La Policía realiza el primer operativo en los barrios de Ceuta para localizar a migrantes y decenas de ellos huyen por los montes",
+          "link": "https://www.20minutos.es/nacional/policia-realiza-primer-operativo-los-barrios-ceuta-para-localizar-migrantes-decenas-ellos-huyen-por-los-montes_7050113_0.html",
+          "source": "20minutos",
+          "published": "2026-10-18T09:15:32.000Z"
+        },
+        {
+          "title": "Los 'deberes' del próximo Congreso: dos reformas estatutarias, cinco leyes de parlamentos autonómicos y siete ILP",
+          "link": "https://www.europapress.es/nacional/noticia-deberes-proximo-congreso-dos-reformas-estatutarias-cinco-leyes-parlamentos-autonomicos-siete-ilp-20261018110548.html",
           "source": "Europa Press",
-          "published": "2026-10-17T16:31:06.000Z"
+          "published": "2026-10-18T09:05:48.000Z"
         },
         {
-          "title": "Vox baraja no presentarse al Senado en algunas provincias para evitar una mayoría de izquierdas",
-          "link": "https://elpais.com/espana/2026-10-17/vox-baraja-no-presentarse-al-senado-en-algunas-provincias-para-evitar-una-mayoria-de-izquierdas.html",
-          "source": "El País",
-          "published": "2026-10-17T15:29:38.000Z"
+          "title": "La clave digital del 29N: Sánchez y Feijóo pugnan por rentabilizar las redes sociales",
+          "link": "https://www.europapress.es/nacional/noticia-clave-digital-29n-sanchez-feijoo-pugnan-rentabilizar-redes-sociales-20261018105448.html",
+          "source": "Europa Press",
+          "published": "2026-10-18T08:54:48.000Z"
         },
         {
-          "title": "Jérome Fourquet, sobre las protestas de estudiantes en Francia: “Estamos ante el final de un reinado”",
-          "link": "https://elpais.com/internacional/2026-10-17/jerome-fourquet-sociologo-estamos-ante-el-final-de-un-reinado-en-francia.html",
-          "source": "El País",
-          "published": "2026-10-17T15:04:42.000Z"
+          "title": "La mayoría de los españoles desconoce a la mitad de los ministros, según el CIS de fin de legislatura",
+          "link": "https://www.europapress.es/nacional/noticia-mayoria-espanoles-desconoce-mitad-ministros-cis-fin-legislatura-20261018105048.html",
+          "source": "Europa Press",
+          "published": "2026-10-18T08:50:48.000Z"
         },
         {
-          "title": "Montero asegura que Frente Amplio ha bloqueado acuerdos territoriales que alcanzaron en otros territorios",
-          "link": "https://www.elsaltodiario.com/elecciones/montero-asegura-frente-amplio-ha-bloqueado-acuerdos-territoriales-alcanzaron-otros-territorios?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-17T14:44:00.000Z"
+          "title": "Feijóo dosifica los anuncios de las listas del PP mientras crece el nerviosismo entre sus parlamentarios",
+          "link": "https://www.europapress.es/nacional/noticia-feijoo-dosifica-anuncios-listas-pp-mientras-crece-nerviosismo-parlamentarios-20261018104855.html",
+          "source": "Europa Press",
+          "published": "2026-10-18T08:48:55.000Z"
         },
         {
-          "title": "El PP sitúa a Albiol como candidato por Barcelona el 29-N para frenar a Vox",
-          "link": "https://elpais.com/espana/catalunya/2026-10-17/el-pp-situa-a-albiol-como-candidato-por-barcelona-el-29-n-para-frenar-a-vox.html",
-          "source": "El País",
-          "published": "2026-10-17T14:39:13.000Z"
-        },
-        {
-          "title": "Destrozan el altar que los vecinos levantaron en memoria de Maricarmen en su calle",
-          "link": "https://www.20minutos.es/madrid/destrozan-altar-que-los-vecinos-levantaron-memoria-maricarmen-su-calle_7050005_0.html",
-          "source": "20minutos",
-          "published": "2026-10-17T14:17:12.000Z"
+          "title": "El Senado valora usar la IA para traducir lenguas cooficiales, a la espera del resultado electoral del 29-N",
+          "link": "https://www.europapress.es/nacional/noticia-senado-valora-usar-ia-traducir-lenguas-cooficiales-espera-resultado-electoral-29-20261018104549.html",
+          "source": "Europa Press",
+          "published": "2026-10-18T08:45:49.000Z"
         }
       ]
     },
@@ -127,90 +75,90 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Katie Zacharia sale del cargo de portavoz de la Casa Blanca apenas una semana después de asumirlo",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261016-destituida-trump-sugiere-a-la-portavoz-de-la-casa-blanca-dejar-su-cargo-tras-una-semana-de-asumirlo",
-          "source": "France 24",
-          "summary": "Katie Zacharia confirmó el viernes 16 de octubre que no seguirá como portavoz de la Casa Blanca, un cargo que asumió apenas hace una semana. Horas antes, Donald Trump le sugirió \"reconsiderar\" su continuidad, luego de siete días de duras críticas por su desempeño y su preparación. Si bien el republicano consideró que la vocera ha sido \"tratada de forma muy injusta\", insinuó que ella no podría ser \"feliz\" en ese puesto.",
+          "title": "Colonos israelíes con los rostros cubiertos atacan a diplomáticos europeos en Cisjordania",
+          "link": "https://www.bbc.com/mundo/articles/cq9vzdedy0wdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "El ejército israelí condena la violencia, pero el despacho del primer ministro afirma que forma parte de una campaña de desprestigio.",
           "sources": [
-            "France 24",
             "BBC Mundo",
-            "El País Internacional",
-            "20minutos Internacional"
+            "DW",
+            "France 24",
+            "El País Internacional"
           ],
-          "firstSeen": "2026-10-17T09:52:56.072Z"
+          "firstSeen": "2026-10-18T10:05:27.289Z"
         },
         {
-          "title": "Trump levanta las sanciones contra Rusia por la guerra en pleno giro hacia Putin por motivos de \"interés nacional\"",
-          "link": "https://www.20minutos.es/internacional/trump-levanta-las-sanciones-contra-rusia-por-guerra-pleno-giro-hacia-putin-por-motivos-interes-nacional_7049933_0.html",
+          "title": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
+          "link": "https://www.20minutos.es/internacional/ucrania-lanza-contra-san-petersburgo-uno-los-mayores-ataques-con-drones-guerra_7050104_0.html",
           "source": "20minutos Internacional",
-          "summary": "Las medidas habían sido aprobadas por el Congreso hace un mes. Esta decisión supone un nuevo giro a favor del Kremlin y en contra de Zelenski.",
+          "summary": "Una persona ha fallecido y otras cinco han resultado heridas. El gobernador ha confirmado el derribo de 144 aparatos no tripulados enemigos y ha señalado que más de 20.000 personas se han quedado sin electricidad.",
           "sources": [
             "20minutos Internacional",
-            "El País Internacional",
-            "France 24"
+            "DW",
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-17T09:52:56.072Z"
+          "firstSeen": "2026-10-18T10:05:27.289Z"
         },
         {
-          "title": "Cazas F-16 rumanos derriban dos drones sobre aguas territoriales rumanas",
-          "link": "https://www.dw.com/es/cazas-f-16-rumanos-derriban-dos-drones-sobre-aguas-territoriales-rumanas/a-79689734?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El país miembro de la OTAN comparte una frontera de 614 km con Ucrania y desde la invasión rusa en 2022 ha reportado en repetidas ocasiones incursiones de drones rusos en su espacio aéreo.",
+          "title": "¿Por qué Trump ordenó la suspensión de varias sanciones contra Rusia?",
+          "link": "https://www.france24.com/es/video/20261018-por-qu%C3%A9-trump-orden%C3%B3-la-suspensi%C3%B3n-de-varias-sanciones-contra-rusia",
+          "source": "France 24",
+          "summary": "De cara a las midterms, el presidente de Estados Unidos, Donald Trump, firmó una orden ejecutiva que suspende de forma temporal varias sanciones que pesaban sobre Rusia alegando intereses nacionales. Según Ivan Dinev Ivanov, profesor de relaciones internacionales y política comparada de la Universidad de Cincinnati, se trata de una \"medida de desesperación para demostrar a los votantes que está haciendo algo sobre los precios\".",
           "sources": [
-            "DW",
-            "20minutos Internacional"
+            "France 24",
+            "BBC Mundo"
           ],
-          "firstSeen": "2026-10-17T19:50:29.504Z"
+          "firstSeen": "2026-10-18T10:05:27.289Z"
         }
       ],
       "items": [
         {
-          "title": "El regreso de los ‘chalecos amarillos’ y la rabia estudiantil incendian Francia",
-          "link": "https://elpais.com/internacional/2026-10-17/la-rabia-de-los-estudiantes-los-agricultores-y-los-funcionarios-confluye-en-una-gran-protesta-en-toda-francia.html",
+          "title": "Ucrania lanza un intenso ataque sobre San Petersburgo y golpea una terminal petrolera, un centro de datos y un centro logístico",
+          "link": "https://elpais.com/internacional/2026-10-18/ucrania-lanza-un-intenso-ataque-sobre-san-petersburgo-y-golpea-una-terminal-petrolera-un-centro-de-datos-y-un-centro-logistico.html",
           "source": "El País Internacional",
-          "published": "2026-10-17T17:56:26.000Z"
+          "published": "2026-10-18T08:52:03.000Z"
         },
         {
-          "title": "Los jóvenes de India tienen un nuevo compañero de trabajo: la IA",
-          "link": "https://www.dw.com/es/los-jóvenes-de-india-tienen-un-nuevo-compañero-de-trabajo-la-ia/a-79685980?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Manifestantes violentos boicotean el directo de Mavi Doñate, la corresponsal de TVE en París: \"Es difícil hacer la conexión\"",
+          "link": "https://www.20minutos.es/internacional/manifestantes-violentos-boicotean-directo-mavi-donate-corresponsal-tve-paris-dificil-hacer-conexion_7050099_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-18T08:00:15.000Z"
+        },
+        {
+          "title": "Dos muertos al estrellarse helicóptero militar saudí en Yemen mientras los hutíes se atribuyen haberlo derribado",
+          "link": "https://www.dw.com/es/dos-muertos-al-estrellarse-helicóptero-militar-saudí-en-yemen-mientras-los-hutíes-se-atribuyen-haberlo-derribado/a-79691037?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-17T17:39:00.000Z"
+          "published": "2026-10-18T07:07:00.000Z"
         },
         {
-          "title": "Un grupo de colonos israelíes ataca a una comitiva de diplomáticos europeos en Cisjordania",
-          "link": "https://elpais.com/internacional/2026-10-17/un-grupo-de-colonos-israelies-ataca-a-una-comitiva-de-diplomaticos-europeos-en-cisjordania.html",
-          "source": "El País Internacional",
-          "published": "2026-10-17T17:29:37.000Z"
+          "title": "Un grave incendio en una base militar canadiense de Alberta causa muertos y heridos",
+          "link": "https://www.eldiario.es/internacional/grave-incendio-base-militar-canadiense-alberta-causa-muertos-heridos_1_13594811.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-18T06:56:18.000Z"
         },
         {
-          "title": "Estudiantes, sindicatos y 'Chalecos amarillos' marchan en París contra el costo de vida y Macron",
-          "link": "https://www.france24.com/es/video/20261017-estudiantes-sindicatos-y-chalecos-amarillos-marchan-en-par%C3%ADs-contra-el-costo-de-vida-y-macron",
-          "source": "France 24",
-          "published": "2026-10-17T17:28:21.000Z"
+          "title": "Caos en las protestas contra el coste de la vida en toda Francia: un muerto, más de 1.200 detenidos, 150 policías heridos, saqueos e incendios...",
+          "link": "https://www.20minutos.es/internacional/caos-protestas-contra-coeste-vida-toda-francia-detenidos-policias-heridos-saqueos-incendios_7050092_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-18T06:50:30.000Z"
         },
         {
-          "title": "Des-Informando: ¿Estados Unidos anunció nuevos benefecios migratorios?",
-          "link": "https://www.france24.com/es/video/20261017-des-informando-estados-unidos-anuncio%CC%81-nuevos-benefecios-migratorios",
-          "source": "France 24",
-          "published": "2026-10-17T17:07:57.000Z"
+          "title": "La UE vuelve a la lógica de la crisis del 2008 con el choque entre el norte y el sur por los presupuestos comunitarios",
+          "link": "https://www.20minutos.es/internacional/ue-vuelve-logica-crisis-2008-con-choque-entre-norte-sur-por-los-presupuestos-comunitarios_7049306_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-18T06:09:03.000Z"
         },
         {
-          "title": "Israel afronta unas elecciones decisivas con Netanyahu y la oposición lejos de la mayoría",
-          "link": "https://elpais.com/internacional/2026-10-17/israel-afronta-unas-elecciones-decisivas-en-un-escenario-de-total-incertidumbre.html",
-          "source": "El País Internacional",
-          "published": "2026-10-17T17:05:12.000Z"
+          "title": "Así es el misil LORA que Marruecos negocia comprar a Israel: su alcance es de 500kms y llegaría a territorios de España y Argelia",
+          "link": "https://www.20minutos.es/internacional/asi-es-misil-lora-que-marruecos-negocia-comprar-israel-su-alcance-es-500kms-llegaria-territorios-espana-argelia_7049064_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-18T06:05:05.000Z"
         },
         {
-          "title": "El juicio a una heredera millonaria que desató al mayor escándalo de espionaje de los últimos tiempos en Alemania",
-          "link": "https://www.bbc.com/mundo/articles/cmd6dgeyy7j5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-17T16:41:34.000Z"
-        },
-        {
-          "title": "Cisjordania ocupada: colonos atacan un convoy diplomático y golpean a un alcalde francés",
-          "link": "https://www.france24.com/es/medio-oriente/20261017-cisjordania-ocupada-colonos-atacan-un-convoy-diplom%C3%A1tico-y-golpean-a-un-alcalde-franc%C3%A9s",
-          "source": "France 24",
-          "published": "2026-10-17T15:22:54.000Z"
+          "title": "Protesta por crisis de vivienda se propaga a Portugal",
+          "link": "https://www.dw.com/es/protesta-por-crisis-de-vivienda-se-propaga-a-portugal/a-79690521?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-18T03:45:00.000Z"
         }
       ]
     }
