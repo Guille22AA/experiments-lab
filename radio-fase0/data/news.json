@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T17:56:47.714Z",
+  "updatedAt": "2026-10-19T21:56:09.498Z",
   "edition": "tarde",
   "sections": [
     {
@@ -19,6 +19,18 @@
             "El País"
           ],
           "firstSeen": "2026-10-19T17:56:47.714Z"
+        },
+        {
+          "title": "Renuncia toda la lista del PSOE de Palencia al Congreso al cambiar Ferraz al número uno",
+          "link": "https://www.20minutos.es/castilla-y-leon/palencia/renuncia-toda-lista-psoe-palencia-congreso-cambiar-ferraz-numero-uno_7050730_0.html",
+          "source": "20minutos",
+          "summary": "La decisión ratificada por el Comité Federal choca frontalmente con la voluntad mayoritaria de la militancia palentina.",
+          "sources": [
+            "20minutos",
+            "elDiario.es",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-19T21:56:09.498Z"
         },
         {
           "title": "Rufián, en su nuevo libro: \"Aspiro a someter al PSOE en un Gobierno del PSOE\"",
@@ -52,25 +64,44 @@
             "El País"
           ],
           "firstSeen": "2026-10-19T11:32:45.421Z"
-        },
-        {
-          "title": "Exteriores admite que será \"muy difícil\" comprobar a tiempo quién puede votar el 29N por la ley de nietos",
-          "link": "https://www.20minutos.es/nacional/exteriores-admite-que-sera-muy-dificil-que-los-consulados-comprueben-tiempo-quien-puede-votar-29n-por-ley-nietos_7050359_0.html",
-          "source": "20minutos",
-          "summary": "El ministro Albares explica que el proceso es manual y que se están poniendo todos los medios posibles para cumplir con lo dictado por el Supremo.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-19T11:32:45.421Z"
         }
       ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | Sánchez protagoniza un acto de precampaña en Valladolid",
-          "link": "https://elpais.com/espana/2026-10-19/actualidad-politica-en-directo.html",
+          "title": "La Guardia Civil detiene a dos migrantes tras una persecución marítima en Ceuta",
+          "link": "https://elpais.com/espana/2026-10-19/la-guardia-civil-detiene-a-dos-migrantes-tras-una-persecucion-maritima-en-ceuta.html",
           "source": "El País",
-          "published": "2026-10-19T17:45:38.000Z"
+          "published": "2026-10-19T21:28:10.000Z"
+        },
+        {
+          "title": "La Justicia concluye que Espinosa de los Monteros engañó a Hacienda en una operación inmobiliaria de lujo",
+          "link": "https://www.eldiario.es/politica/justicia-concluye-espinosa-monteros-engano-hacienda-operacion-inmobiliaria-lujo_1_13596663.html",
+          "source": "elDiario.es",
+          "published": "2026-10-19T19:27:43.000Z"
+        },
+        {
+          "title": "Sánchez se compromete a subir el salario mínimo cada año si gobierna",
+          "link": "https://www.20minutos.es/nacional/sanchez-se-compromete-subir-salario-minimo-cada-ano-si-gobierna-pide-una-mayoria-mas-amplia-que-2023_7050735_0.html",
+          "source": "20minutos",
+          "published": "2026-10-19T19:15:49.000Z"
+        },
+        {
+          "title": "Sánchez apela al voto útil de la izquierda al PSOE como garante del Estado del Bienestar frente al modelo “que deja a la intemperie” de PP y Vox",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-19/sanchez-apela-al-voto-util-de-la-izquierda-al-psoe-como-garante-del-estado-del-bienestar-frente-al-modelo-que-deja-a-la-intemperie-de-pp-y-vox.html",
+          "source": "El País",
+          "published": "2026-10-19T19:02:31.000Z"
+        },
+        {
+          "title": "Los gobernadores de los bancos centrales de España y Francia y el exvicepresidente del BCE debatirán en el World In Progress 2026",
+          "link": "https://elpais.com/internacional/2026-10-19/los-gobernadores-de-los-bancos-centrales-de-espana-y-francia-y-el-exvicepresidente-del-bce-debatiran-en-el-world-in-progress.html",
+          "source": "El País",
+          "published": "2026-10-19T18:46:48.000Z"
+        },
+        {
+          "title": "La CPI, el líder opositor de Tanzania y dos activistas iraníes, finalistas del Sajarov del Parlamento Europeo",
+          "link": "https://www.20minutos.es/internacional/corte-penal-internacional-lider-opositor-tanzania-dos-activistas-iranies-finalistas-premio-sajarov-parlamento-europeo_7050411_0.html",
+          "source": "20minutos",
+          "published": "2026-10-19T18:26:18.000Z"
         },
         {
           "title": "El Gobierno aprobará que las parejas con hijos accedan a la pensión de viudedad aunque no estén registradas",
@@ -79,40 +110,10 @@
           "published": "2026-10-19T17:35:22.000Z"
         },
         {
-          "title": "Última hora del temporal en España, en directo | Cuatro muertos por la dana que provoca inundaciones en Valencia y Alicante",
-          "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
-          "source": "El País",
-          "published": "2026-10-19T17:03:47.000Z"
-        },
-        {
-          "title": "El Gobierno estrena los “martes sociales” con subida de pensiones para huérfanos de violencia machista e incapacidad temporal para víctimas",
-          "link": "https://elpais.com/sociedad/2026-10-19/el-gobierno-estrena-los-martes-sociales-con-subida-de-pensiones-para-huerfanos-de-violencia-machista-e-incapacidad-temporal-para-victimas.html",
-          "source": "El País",
-          "published": "2026-10-19T16:34:19.000Z"
-        },
-        {
-          "title": "La Comunidad de Madrid pide al Tribunal de Cuentas que no investigue el ático del Gobierno de Ayuso: “Se ajusta a la legalidad”",
-          "link": "https://www.eldiario.es/politica/comunidad-madrid-pide-tribunal-cuentas-no-investigue-atico-gobierno-ayuso-ajusta-legalidad_1_13598206.html",
-          "source": "elDiario.es",
-          "published": "2026-10-19T16:28:53.000Z"
-        },
-        {
-          "title": "Permiten a Francesc Augé recibir la eutanasia después de que su padre lo haya impedido durante dos años",
-          "link": "https://www.20minutos.es/cataluna/barcelona/justicia-permite-francesc-auge-recibir-eutanasia-despues-que-su-padre-haya-impedido-desde-hacia-dos-anos_7050627_0.html",
-          "source": "20minutos",
-          "published": "2026-10-19T16:25:29.000Z"
-        },
-        {
-          "title": "La Fiscalía de EEUU emite una orden de detención contra el expresidente de Cuba Raúl Castro",
-          "link": "https://www.europapress.es/internacional/noticia-fiscalia-eeuu-emite-orden-detencion-contra-expresidente-cuba-raul-castro-20261019181956.html",
-          "source": "Europa Press",
-          "published": "2026-10-19T16:19:56.000Z"
-        },
-        {
-          "title": "Las parejas con hijos tendrán derecho a la pensión de viudedad si acreditan dos años de convivencia",
-          "link": "https://elpais.com/economia/2026-10-19/las-parejas-con-hijos-tendran-derecho-a-la-pension-de-viudedad-si-acreditan-dos-anos-de-convivencia.html",
-          "source": "El País",
-          "published": "2026-10-19T16:15:26.000Z"
+          "title": "La Comunidad de Madrid pide al Tribunal de Cuentas archivar la causa que investiga la compra del ático del Gobierno de Ayuso - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjhrYlpodjlKTE4zVE1UUldSMlF6RUxBUDJQdUd6ZGVaTHNpRGRhNE5sZ2ZCN2JveFBrZDExeGFUb0FvdXNiOFBRRVBMdXVkeTZKR3lHdXJJWkZLeGJUYlJxOGJhTlJ6alVHWnRXNkt5N2twT1k4TWJyaHhTSnRBS0JxT0kweDJORWxmU1pTaGZGajZvRUxId3FxUW96akxucXVHd0lnWmN0XzFWVnZhOVEzM0tQX2ZfdjZnaExhU2RZM0YyVGk0bGRuTkdWdURtdUJBX2Zn0gHbAUFVX3lxTE9IUjFLVVRROUhPMXBER3dnUjdCdTNKOUJlVm0xYmVxbFFKQWRHQm9mWm8zU0ZveUpjVDBXU0ZzMFlRaExWMF9ad05ES2NGNTNSd0NHSHJVbFl2QzJKZTg0THMySmo3VmFVRko0NllNQ1JvUVRadE9nSEZxY1VyWHhha1hFRmxOTExFcmZIVU5IOHZpVktLa2hEclp5a2NpWXR1bFJ5NTR4bXR1VFhKWU9aNE9GSF9FQnpkaTVTTEpoaGpvbUl6eGNhM3F3cVJKYW9xcU50bGpiRjh1QQ?oc=5",
+          "source": "Público",
+          "published": "2026-10-19T16:48:51.000Z"
         }
       ]
     },
@@ -181,52 +182,52 @@
       ],
       "items": [
         {
-          "title": "El gobierno de Francia decreta toques de queda y condena a los \"ladrones\" y \"delincuentes\" detrás de los violentos disturbios",
-          "link": "https://www.bbc.com/mundo/articles/cv1j3zdrygw7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-19T17:02:27.000Z"
+          "title": "Trump cree que París \"será muy pronto una ciudad musulmana\"",
+          "link": "https://www.20minutos.es/internacional/trump-cree-que-paris-sera-muy-pronto-una-ciudad-musulmana_7050765_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-19T20:42:58.000Z"
         },
         {
-          "title": "El futuro climático del planeta se juega en las elecciones de Brasil",
-          "link": "https://www.dw.com/es/el-futuro-climático-del-planeta-se-juega-en-las-elecciones-de-brasil/a-79706695?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Kiev denuncia nuevos ataques sin aviso previo aliado en plena escalada entre Trump y Zelenski",
+          "link": "https://elpais.com/internacional/2026-10-19/kiev-denuncia-nuevos-bombardeos-sin-aviso-previo-de-sus-aliados-tras-otro-ataque-verbal-de-trump-a-zelenski.html",
+          "source": "El País Internacional",
+          "published": "2026-10-19T20:41:42.000Z"
+        },
+        {
+          "title": "Alberta, rica en petróleo, vota sobre su independencia de Canadá bajo la sombra de Trump",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261019-alberta-rica-en-petr%C3%B3leo-vota-sobre-su-independencia-de-canad%C3%A1-bajo-la-sombra-de-trump",
+          "source": "France 24",
+          "published": "2026-10-19T20:33:18.000Z"
+        },
+        {
+          "title": "De Francia a España: qué impulsa la ola de protestas, disturbios y huelgas en Europa",
+          "link": "https://www.dw.com/es/de-francia-a-españa-qué-impulsa-la-ola-de-protestas-disturbios-y-huelgas-en-europa/a-79707436?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-19T17:00:00.000Z"
+          "published": "2026-10-19T20:23:00.000Z"
         },
         {
           "title": "Deepfakes y bots: la IA transforma las elecciones en Israel",
           "link": "https://www.dw.com/es/deepfakes-y-bots-la-ia-transforma-las-elecciones-en-israel/a-79705809?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-19T16:44:00.000Z"
+          "published": "2026-10-19T20:22:00.000Z"
         },
         {
-          "title": "Las entradas irregulares de migrantes a la UE bajan un tercio, salvo en la ruta del Estrecho",
-          "link": "https://www.20minutos.es/internacional/las-entradas-irregulares-migrantes-ue-bajan-un-tercio-salvo-ruta-estrecho_7050676_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-19T16:36:14.000Z"
+          "title": "Berlín: la posible coalición entre izquierda, verdes y socialdemócratas genera polémica",
+          "link": "https://www.dw.com/es/berlín-la-posible-coalición-entre-izquierda-verdes-y-socialdemócratas-genera-polémica/a-79707489?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-19T20:15:00.000Z"
         },
         {
-          "title": "Condenado a 18 años de cárcel por agredir sexualmente a una niña de 11 años en Melilla",
-          "link": "https://www.20minutos.es/internacional/condenado-18-anos-carcel-por-agredir-sexualmente-una-nina-11-anos-melilla_7050675_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-19T16:31:40.000Z"
-        },
-        {
-          "title": "Hungría subirá los impuestos a los más ricos para financiar reducciones a las rentas bajas",
-          "link": "https://www.20minutos.es/internacional/hungria-subira-los-impuestos-los-mas-ricos-para-financiar-rebajas-las-rentas-bajas_7050672_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-19T16:24:11.000Z"
-        },
-        {
-          "title": "\"Protestas en Francia el 17 de octubre: anatomía de un fiasco\": 'Liberation'",
-          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261019-protestas-en-francia-el-17-de-octubre-anatom%C3%ADa-de-un-fiasco-liberation",
+          "title": "Directo Latam y el decreto de Sheinbaum que obliga a redes sociales a proteger a menores",
+          "link": "https://www.france24.com/es/video/20261019-directo-latam-y-el-decreto-de-sheinbaum-que-obliga-a-redes-sociales-a-proteger-a-menores",
           "source": "France 24",
-          "published": "2026-10-19T16:20:10.000Z"
+          "published": "2026-10-19T20:10:05.000Z"
         },
         {
-          "title": "Italia: violentas protestas dejan decenas de detenidos; desabastecimiento por huelga de camioneros",
-          "link": "https://www.france24.com/es/video/20261019-italia-violentas-protestas-dejan-decenas-de-detenidos-desabastecimiento-por-huelga-de-camioneros",
+          "title": "Habitantes de Alberta van a las urnas para decidir si permanecen o se separan de Canadá",
+          "link": "https://www.france24.com/es/video/20261019-habitantes-de-alberta-van-a-las-urnas-para-decidir-si-permanecen-o-se-separan-de-canad%C3%A1",
           "source": "France 24",
-          "published": "2026-10-19T16:03:14.000Z"
+          "published": "2026-10-19T20:09:08.000Z"
         }
       ]
     }
