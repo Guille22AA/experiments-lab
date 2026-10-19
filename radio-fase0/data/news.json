@@ -1,12 +1,25 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T11:32:45.421Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-19T17:56:47.714Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "La jueza Tardón cita como testigos a tres consejeros de Ceuta y reclama nuevos informes, grabaciones e imágenes satelitales",
+          "link": "https://www.20minutos.es/nacional/jueza-tardon-cita-como-testigos-tres-consejeros-ceuta-reclama-nuevos-informes-grabaciones-imagenes-satelitales_7050529_0.html",
+          "source": "20minutos",
+          "summary": "La instructora manda requerimientos a la Guardia Civil, la Policía Nacional, el Estado Mayor de la Defensa, la Ciudad Autónoma de Ceuta y la Delegación del Gobierno.",
+          "sources": [
+            "20minutos",
+            "elDiario.es",
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-10-19T17:56:47.714Z"
+        },
         {
           "title": "Rufián, en su nuevo libro: \"Aspiro a someter al PSOE en un Gobierno del PSOE\"",
           "link": "https://www.20minutos.es/cataluna/barcelona/rufian-su-nuevo-libro-aspiro-someter-psoe-un-gobierno-psoe_7050452_0.html",
@@ -50,67 +63,56 @@
             "Europa Press"
           ],
           "firstSeen": "2026-10-19T11:32:45.421Z"
-        },
-        {
-          "title": "El juez Llarena confirma el levantamiento de la orden de detención de Puigdemont",
-          "link": "https://www.20minutos.es/nacional/llarena-critica-decision-tc-sobre-amnistia-pero-rechaza-reactivar-orden-detencion-puigdemont_7050347_0.html",
-          "source": "20minutos",
-          "summary": "El instructor del procés explica que \"la doctrina del Tribunal Constitucional debe aplicase, aunque no se compartan las razones en las que se apoya\".",
-          "sources": [
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-19T11:32:45.421Z"
         }
       ],
       "items": [
         {
-          "title": "Un ministro de Netanyahu: “Tenemos a Vox y Abascal como nuestro portavoz”",
-          "link": "https://diariosocialista.net/2026/10/19/un-ministro-de-netanyahu-tenemos-a-vox-y-abascal-como-nuestro-portavoz/",
-          "source": "Diario Socialista",
-          "published": "2026-10-19T11:26:10.000Z"
+          "title": "Última hora de la actualidad política, en directo | Sánchez protagoniza un acto de precampaña en Valladolid",
+          "link": "https://elpais.com/espana/2026-10-19/actualidad-politica-en-directo.html",
+          "source": "El País",
+          "published": "2026-10-19T17:45:38.000Z"
         },
         {
-          "title": "Última hora del temporal en España, en directo | Una mujer en Oliva, tercera víctima mortal del temporal que ha dejado inundaciones en Valencia y Alicante",
+          "title": "El Gobierno aprobará que las parejas con hijos accedan a la pensión de viudedad aunque no estén registradas",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprobara-que-las-parejas-con-hijos-puedan-acceder-pension-viudedad-aunque-no-esten-registradas_7050703_0.html",
+          "source": "20minutos",
+          "published": "2026-10-19T17:35:22.000Z"
+        },
+        {
+          "title": "Última hora del temporal en España, en directo | Cuatro muertos por la dana que provoca inundaciones en Valencia y Alicante",
           "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
           "source": "El País",
-          "published": "2026-10-19T11:25:29.000Z"
+          "published": "2026-10-19T17:03:47.000Z"
         },
         {
-          "title": "UGT registra la convocatoria de huelga general del 11 de noviembre para reclamar soluciones a la crisis de vivienda y mejoras laborales",
-          "link": "https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la",
-          "source": "UGT",
-          "published": "2026-10-19T11:23:28.000Z"
-        },
-        {
-          "title": "La jueza Tardón pide más informes al Ejército sobre Ceuta y cita a tres consejeros del Gobierno ceutí y a tres policías",
-          "link": "https://elpais.com/espana/2026-10-19/la-jueza-tardon-pide-mas-informes-al-ejercito-sobre-ceuta-y-cita-a-tres-consejeros-del-gobierno-ceuti-y-a-tres-policias.html",
+          "title": "El Gobierno estrena los “martes sociales” con subida de pensiones para huérfanos de violencia machista e incapacidad temporal para víctimas",
+          "link": "https://elpais.com/sociedad/2026-10-19/el-gobierno-estrena-los-martes-sociales-con-subida-de-pensiones-para-huerfanos-de-violencia-machista-e-incapacidad-temporal-para-victimas.html",
           "source": "El País",
-          "published": "2026-10-19T11:18:43.000Z"
+          "published": "2026-10-19T16:34:19.000Z"
         },
         {
-          "title": "Feijóo firma su \"contrato con España\" con 12 compromisos para que el país \"vuelva a funcionar\" con la clase media como \"motor\"",
-          "link": "https://www.20minutos.es/nacional/feijoo-firma-su-contrato-con-espana-con-12-compromisos-para-que-pais-vuelva-funcionar-con-clase-media-como-motor_7050461_0.html",
-          "source": "20minutos",
-          "published": "2026-10-19T11:15:24.000Z"
-        },
-        {
-          "title": "Feijóo firma su \"contrato con España\" si gobierna tras las elecciones del 29 de noviembre sin revelar una sola medida nueva",
-          "link": "https://www.eldiario.es/politica/feijoo-firma-contrato-espana-si-gobierna-elecciones-29-noviembre-revelar-sola-medida-nueva_1_13596902.html",
+          "title": "La Comunidad de Madrid pide al Tribunal de Cuentas que no investigue el ático del Gobierno de Ayuso: “Se ajusta a la legalidad”",
+          "link": "https://www.eldiario.es/politica/comunidad-madrid-pide-tribunal-cuentas-no-investigue-atico-gobierno-ayuso-ajusta-legalidad_1_13598206.html",
           "source": "elDiario.es",
-          "published": "2026-10-19T11:12:29.000Z"
+          "published": "2026-10-19T16:28:53.000Z"
         },
         {
-          "title": "La cuarta jornada de la huelga de profesores en Madrid discurre con menor seguimiento, boicot a actos de la consejera y protestas",
-          "link": "https://www.20minutos.es/madrid/cuarta-jornada-huelga-profesores-madrid-discurre-con-menor-seguimiento-boicot-los-actos-consejera-protestas_7050381_0.html",
+          "title": "Permiten a Francesc Augé recibir la eutanasia después de que su padre lo haya impedido durante dos años",
+          "link": "https://www.20minutos.es/cataluna/barcelona/justicia-permite-francesc-auge-recibir-eutanasia-despues-que-su-padre-haya-impedido-desde-hacia-dos-anos_7050627_0.html",
           "source": "20minutos",
-          "published": "2026-10-19T10:59:29.000Z"
+          "published": "2026-10-19T16:25:29.000Z"
         },
         {
-          "title": "Confinan 145 municipios tras una DANA que deja grandes inundaciones y personas atrapadas",
-          "link": "https://www.20minutos.es/nacional/generalitat-valenciana-confina-145-municipios-tras-una-dana-que-provoca-grandes-inundaciones-personas-atrapadas_7050463_0.html",
-          "source": "20minutos",
-          "published": "2026-10-19T10:57:41.000Z"
+          "title": "La Fiscalía de EEUU emite una orden de detención contra el expresidente de Cuba Raúl Castro",
+          "link": "https://www.europapress.es/internacional/noticia-fiscalia-eeuu-emite-orden-detencion-contra-expresidente-cuba-raul-castro-20261019181956.html",
+          "source": "Europa Press",
+          "published": "2026-10-19T16:19:56.000Z"
+        },
+        {
+          "title": "Las parejas con hijos tendrán derecho a la pensión de viudedad si acreditan dos años de convivencia",
+          "link": "https://elpais.com/economia/2026-10-19/las-parejas-con-hijos-tendran-derecho-a-la-pension-de-viudedad-si-acreditan-dos-anos-de-convivencia.html",
+          "source": "El País",
+          "published": "2026-10-19T16:15:26.000Z"
         }
       ]
     },
@@ -119,13 +121,27 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
+          "title": "Florida emite una orden de arresto contra Raúl Castro por el derribo de dos avionetas en 1996",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-florida-emite-una-orden-de-arresto-contra-ra%C3%BAl-castro-por-el-derribo-de-dos-avionetas-en-1996",
+          "source": "France 24",
+          "summary": "La Fiscalía de Florida obtuvo una orden de arresto estatal contra el expresidente cubano Raúl Castro por su presunta participación en el derribo de dos avionetas de la organización humanitaria Hermanos al Rescate en 1996, un ataque en el que murieron cuatro personas.",
+          "sources": [
+            "France 24",
+            "elDiario.es Internacional",
+            "BBC Mundo",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-19T17:56:47.714Z"
+        },
+        {
           "title": "El Gobierno francés anuncia toques de queda en varias ciudades por los disturbios del fin de semana",
           "link": "https://www.eldiario.es/internacional/gobierno-frances-anuncia-toques-queda-ciudades-disturbios-semana_1_13596961.html",
           "source": "elDiario.es Internacional",
           "summary": "El primer ministro, Sebastián Lecornu, pedirá a las Prefecturas que decreten esta medida en distintas localidades, todavía sin concretar cuáles Fin de semana caótico de disturbios y reivindicaciones en París: “Esto es lo que pasa cuando el Gobierno no escucha y reprime” El primer ministro francés, Sébastien Lecornu, anunció este lunes que pedirá a las Prefecturas que decreten toques de queda parciales en varias ciudades de Francia, sin concretar todavía cuáles, debido a la oleada de disturbios en el país. “Es un toque de queda por territorios, parcial, me parece que, en este momento, es un…",
           "sources": [
             "elDiario.es Internacional",
-            "El País Internacional"
+            "El País Internacional",
+            "20minutos Internacional"
           ],
           "firstSeen": "2026-10-19T11:32:45.421Z"
         },
@@ -150,56 +166,67 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-10-19T11:32:45.421Z"
+        },
+        {
+          "title": "La diputada australiana Helen Haines, en estado crítico tras ser atropellada de forma deliberada",
+          "link": "https://elpais.com/internacional/2026-10-19/la-diputada-australiana-helen-haines-en-estado-critico-tras-ser-atropellada-de-forma-deliberada.html",
+          "source": "El País Internacional",
+          "summary": "El primer ministro del país, Anthony Albanese, asegura que se trata de un “ataque”. Se desconoce por el momento la motivación del agresor",
+          "sources": [
+            "El País Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-19T17:56:47.714Z"
         }
       ],
       "items": [
         {
-          "title": "Israel detiene a 10 colonos por ataques a fotoperiodista del Washington Post y a diplomáticos europeos en Cisjordania",
-          "link": "https://www.dw.com/es/israel-detiene-a-10-colonos-por-ataques-a-fotoperiodista-del-washington-post-y-a-diplomáticos-europeos-en-cisjordania/a-79696522?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "El gobierno de Francia decreta toques de queda y condena a los \"ladrones\" y \"delincuentes\" detrás de los violentos disturbios",
+          "link": "https://www.bbc.com/mundo/articles/cv1j3zdrygw7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-19T17:02:27.000Z"
+        },
+        {
+          "title": "El futuro climático del planeta se juega en las elecciones de Brasil",
+          "link": "https://www.dw.com/es/el-futuro-climático-del-planeta-se-juega-en-las-elecciones-de-brasil/a-79706695?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-19T10:33:00.000Z"
+          "published": "2026-10-19T17:00:00.000Z"
         },
         {
-          "title": "Rusia bombardea Kiev en represalia por el ataque ucraniano contra San Petersburgo: deja al menos un muerto y ocho heridos",
-          "link": "https://www.20minutos.es/internacional/rusia-bombardea-kiev-represalia-por-ataque-ucraniano-contra-san-petersburgo-deja-menos-un-muerto-ocho-heridos_7050422_0.html",
+          "title": "Deepfakes y bots: la IA transforma las elecciones en Israel",
+          "link": "https://www.dw.com/es/deepfakes-y-bots-la-ia-transforma-las-elecciones-en-israel/a-79705809?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-19T16:44:00.000Z"
+        },
+        {
+          "title": "Las entradas irregulares de migrantes a la UE bajan un tercio, salvo en la ruta del Estrecho",
+          "link": "https://www.20minutos.es/internacional/las-entradas-irregulares-migrantes-ue-bajan-un-tercio-salvo-ruta-estrecho_7050676_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-19T10:13:05.000Z"
+          "published": "2026-10-19T16:36:14.000Z"
         },
         {
-          "title": "Una diputada australiana en estado crítico tras ser atropellada intencionalmente",
-          "link": "https://www.20minutos.es/internacional/una-diputada-australiana-estado-critico-tras-ser-atropellada-intencionalmente_7050417_0.html",
+          "title": "Condenado a 18 años de cárcel por agredir sexualmente a una niña de 11 años en Melilla",
+          "link": "https://www.20minutos.es/internacional/condenado-18-anos-carcel-por-agredir-sexualmente-una-nina-11-anos-melilla_7050675_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-19T10:12:16.000Z"
+          "published": "2026-10-19T16:31:40.000Z"
         },
         {
-          "title": "Cinco estrategias de los demócratas contra Trump",
-          "link": "https://elpais.com/us/2026-10-19/cinco-estrategias-de-los-democratas-contra-trump.html",
-          "source": "El País Internacional",
-          "published": "2026-10-19T09:30:00.000Z"
-        },
-        {
-          "title": "El líder británico de los verdes asegura que Israel no tiene derecho a existir porque no cree que “ningún Estado” lo tenga",
-          "link": "https://www.eldiario.es/internacional/lider-britanico-verdes-asegura-israel-no-derecho-existir-no-cree-tenga_1_13596267.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-19T09:20:19.000Z"
-        },
-        {
-          "title": "Putin propone una reunión a tres bandas con Trump y Xi para abordar un pacto en Ucrania",
-          "link": "https://www.20minutos.es/internacional/putin-propone-una-reunion-tres-bandas-con-trump-xi-para-abordar-un-pacto-ucrania_7050369_0.html",
+          "title": "Hungría subirá los impuestos a los más ricos para financiar reducciones a las rentas bajas",
+          "link": "https://www.20minutos.es/internacional/hungria-subira-los-impuestos-los-mas-ricos-para-financiar-rebajas-las-rentas-bajas_7050672_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-19T09:10:36.000Z"
+          "published": "2026-10-19T16:24:11.000Z"
         },
         {
-          "title": "Macron rechaza la dimisión del ministro del Interior y le pide más contundencia contra los violentos que están incendiando el país",
-          "link": "https://www.20minutos.es/internacional/macron-rechaza-dimision-ministro-interior-le-pide-mas-contundencia-contra-los-violentos-que-estan-incendiando-pais_7050370_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-19T09:04:27.000Z"
+          "title": "\"Protestas en Francia el 17 de octubre: anatomía de un fiasco\": 'Liberation'",
+          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261019-protestas-en-francia-el-17-de-octubre-anatom%C3%ADa-de-un-fiasco-liberation",
+          "source": "France 24",
+          "published": "2026-10-19T16:20:10.000Z"
         },
         {
-          "title": "Una joven de 17 años pierde la visión de un ojo por el impacto de gas lacrimógeno lanzado por la Policía francesa",
-          "link": "https://www.20minutos.es/internacional/una-joven-17-anos-pierde-vision-un-ojo-por-impacto-gas-lacrimogeno-lanzado-por-policia-francesa_7050366_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-19T08:57:15.000Z"
+          "title": "Italia: violentas protestas dejan decenas de detenidos; desabastecimiento por huelga de camioneros",
+          "link": "https://www.france24.com/es/video/20261019-italia-violentas-protestas-dejan-decenas-de-detenidos-desabastecimiento-por-huelga-de-camioneros",
+          "source": "France 24",
+          "published": "2026-10-19T16:03:14.000Z"
         }
       ]
     }
