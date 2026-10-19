@@ -1,72 +1,116 @@
 {
-  "date": "2026-10-18",
-  "updatedAt": "2026-10-18T19:50:59.696Z",
-  "edition": "tarde",
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T11:32:45.421Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Rufián se disculpa por el \"ridículo\" de la izquierda y pide el voto \"aunque sea desilusionado o cabreado\"",
-          "link": "https://www.20minutos.es/nacional/rufian-se-disculpa-por-ridiculo-izquierda-pide-voto-aunque-sea-desilusionado-cabreado-29n_7050101_0.html",
+          "title": "Rufián, en su nuevo libro: \"Aspiro a someter al PSOE en un Gobierno del PSOE\"",
+          "link": "https://www.20minutos.es/cataluna/barcelona/rufian-su-nuevo-libro-aspiro-someter-psoe-un-gobierno-psoe_7050452_0.html",
           "source": "20minutos",
-          "summary": "El portavoz de ERC en el Congreso ha calificado de \"fracaso absoluto\" el intento de la izquierda de concurrir unida y ha advertido de que \"PP y Vox ya están en 210 diputados (...) pueden cambiar la Constitución si quieren\".",
+          "summary": "El líder republicano envía un mensaje a la dirección de ERC: \"Quien pone la cara debe tener medios y mando\".",
+          "sources": [
+            "20minutos",
+            "Público"
+          ],
+          "firstSeen": "2026-10-19T11:32:45.421Z"
+        },
+        {
+          "title": "Landaluce anuncia su dimisión como alcalde de Algeciras el domingo para evitar la moción de censura",
+          "link": "https://www.eldiario.es/andalucia/landaluce-anuncia-dimision-alcalde-algeciras-proximo-25-octubre-pasar-mocion-censura_1_13596661.html",
+          "source": "elDiario.es",
+          "summary": "La moción de censura estaba prevista para tres días después, pero el alcalde ha decidido adelantarse reiterando que los hechos que se le atribuyen, en relación a presuntas agresiones sexuales a dos militantes del PP, son \"falsas\" PP y Vox firman la moción de censura contra el alcalde de Algeciras, acusado de acoso sexual El alcalde de Algeciras (Cádiz), José Ignacio Landaluce, ha anunciado que dejará el cargo el próximo domingo 25 de octubre, evitando tener que pasar por la moción de censura presentada por PP y Vox, prevista tres días después. En un vídeo difundido en sus redes sociales…",
+          "sources": [
+            "elDiario.es",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-19T11:32:45.421Z"
+        },
+        {
+          "title": "El Gobierno aprobará mañana un decreto con mejoras sociales para viudas y víctimas de violencia de género",
+          "link": "https://www.europapress.es/economia/laboral-00346/noticia-gobierno-aprobara-manana-decreto-mejoras-sociales-viudas-victimas-violencia-genero-20261019114533.html",
+          "source": "Europa Press",
+          "summary": "El Consejo de Ministros de este martes aprobará un Real Decreto-ley, que requerirá su convalidación en un mes en la Diputación Permanente del Congreso, con distintas mejores sociales para colectivos como los viudos y viudas de parejas de hecho, víctimas de violencia de género y padres con menores que sufren enfermedades graves.",
+          "sources": [
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-10-19T11:32:45.421Z"
+        },
+        {
+          "title": "Exteriores admite que será \"muy difícil\" comprobar a tiempo quién puede votar el 29N por la ley de nietos",
+          "link": "https://www.20minutos.es/nacional/exteriores-admite-que-sera-muy-dificil-que-los-consulados-comprueben-tiempo-quien-puede-votar-29n-por-ley-nietos_7050359_0.html",
+          "source": "20minutos",
+          "summary": "El ministro Albares explica que el proceso es manual y que se están poniendo todos los medios posibles para cumplir con lo dictado por el Supremo.",
           "sources": [
             "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-18T10:05:27.289Z"
+          "firstSeen": "2026-10-19T11:32:45.421Z"
+        },
+        {
+          "title": "El juez Llarena confirma el levantamiento de la orden de detención de Puigdemont",
+          "link": "https://www.20minutos.es/nacional/llarena-critica-decision-tc-sobre-amnistia-pero-rechaza-reactivar-orden-detencion-puigdemont_7050347_0.html",
+          "source": "20minutos",
+          "summary": "El instructor del procés explica que \"la doctrina del Tribunal Constitucional debe aplicase, aunque no se compartan las razones en las que se apoya\".",
+          "sources": [
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-19T11:32:45.421Z"
         }
       ],
       "items": [
         {
-          "title": "La DANA no da tregua y deja una víctima mortal y más de 1.000 incidencias: alertas y clases suspendidas mañana",
-          "link": "https://www.20minutos.es/nacional/dana-no-da-tregua-deja-una-victima-mortal-mas-1-000-incidencias-nuevas-alertas-clases-suspendidas-este-lunes_7050202_0.html",
-          "source": "20minutos",
-          "published": "2026-10-18T19:25:47.000Z"
+          "title": "Un ministro de Netanyahu: “Tenemos a Vox y Abascal como nuestro portavoz”",
+          "link": "https://diariosocialista.net/2026/10/19/un-ministro-de-netanyahu-tenemos-a-vox-y-abascal-como-nuestro-portavoz/",
+          "source": "Diario Socialista",
+          "published": "2026-10-19T11:26:10.000Z"
         },
         {
-          "title": "La UME se despliega en Ibiza y Mallorca para colaborar en las incidencias provocadas por la dana ‘Adam’",
-          "link": "https://elpais.com/el-tiempo/2026-10-18/la-ume-se-despliega-en-ibiza-y-mallorca-para-colaborar-en-las-incidencias-provocadas-por-la-dana-adam.html",
+          "title": "Última hora del temporal en España, en directo | Una mujer en Oliva, tercera víctima mortal del temporal que ha dejado inundaciones en Valencia y Alicante",
+          "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
           "source": "El País",
-          "published": "2026-10-18T18:29:02.000Z"
+          "published": "2026-10-19T11:25:29.000Z"
         },
         {
-          "title": "Pepe Cerezo, tras los intereses de la IA: \"Trump quiere que hablemos de una 'superinteligencia' bajo el control de Estados Unidos\"",
-          "link": "https://www.20minutos.es/tecnologia/pepe-cerezo-tras-los-intereses-ia-trump-quiere-que-hablemos-una-superinteligencia-bajo-control-estados-unidos_7049607_0.html",
-          "source": "20minutos",
-          "published": "2026-10-18T18:04:31.000Z"
+          "title": "UGT registra la convocatoria de huelga general del 11 de noviembre para reclamar soluciones a la crisis de vivienda y mejoras laborales",
+          "link": "https://www.ugt.es/ugt-registra-la-convocatoria-de-huelga-general-del-11-de-noviembre-para-reclamar-soluciones-la",
+          "source": "UGT",
+          "published": "2026-10-19T11:23:28.000Z"
         },
         {
-          "title": "El Govern suspende las clases en Mallorca, Eivissa y Formentera este lunes y pide la ayuda de la UME",
-          "link": "https://www.eldiario.es/illes-balears/govern-balear-suspende-clases-mallorca-eivissa-formentera-lunes-pide-ayuda-ume_1_13595662.html",
-          "source": "elDiario.es",
-          "published": "2026-10-18T16:51:10.000Z"
-        },
-        {
-          "title": "Vox pide al Constitucional inadmitir el recurso del Defensor del Pueblo sobre la 'ley de nietos'",
-          "link": "https://www.europapress.es/nacional/noticia-vox-pide-constitucional-inadmitir-recurso-defensor-pueblo-ley-nietos-20261018183352.html",
-          "source": "Europa Press",
-          "published": "2026-10-18T16:33:52.000Z"
-        },
-        {
-          "title": "Las protestas por la inflación y la vivienda se contagian por Europa: caos en Francia, Italia y Albania y acampadas de España y Portugal",
-          "link": "https://www.20minutos.es/internacional/protestas-inflacion-vivienda-contagian-europa-caos-francia-italia-albania-acampadas-espana-portugal_7050196_0.html",
-          "source": "20minutos",
-          "published": "2026-10-18T15:40:07.000Z"
-        },
-        {
-          "title": "Trump apoya a Netanyahu ante las elecciones israelíes tras los ataques de colonos en Cisjordania y con la guerra en Irán abierta",
-          "link": "https://www.eldiario.es/internacional/trump-apoya-netanyahu-elecciones-israelies-ataques-colonos-cisjordania-guerra-iran-abierta_1_13595558.html",
-          "source": "elDiario.es",
-          "published": "2026-10-18T15:26:55.000Z"
-        },
-        {
-          "title": "Las izquierdas acarician un Gobierno en Berlín que nacionalizará fondos inmobiliarios para abaratar el alquiler",
-          "link": "https://elpais.com/internacional/2026-10-18/las-izquierdas-acarician-un-gobierno-en-berlin-que-nacionalizara-fondos-inmobiliarios-para-abaratar-el-alquiler.html",
+          "title": "La jueza Tardón pide más informes al Ejército sobre Ceuta y cita a tres consejeros del Gobierno ceutí y a tres policías",
+          "link": "https://elpais.com/espana/2026-10-19/la-jueza-tardon-pide-mas-informes-al-ejercito-sobre-ceuta-y-cita-a-tres-consejeros-del-gobierno-ceuti-y-a-tres-policias.html",
           "source": "El País",
-          "published": "2026-10-18T13:56:27.000Z"
+          "published": "2026-10-19T11:18:43.000Z"
+        },
+        {
+          "title": "Feijóo firma su \"contrato con España\" con 12 compromisos para que el país \"vuelva a funcionar\" con la clase media como \"motor\"",
+          "link": "https://www.20minutos.es/nacional/feijoo-firma-su-contrato-con-espana-con-12-compromisos-para-que-pais-vuelva-funcionar-con-clase-media-como-motor_7050461_0.html",
+          "source": "20minutos",
+          "published": "2026-10-19T11:15:24.000Z"
+        },
+        {
+          "title": "Feijóo firma su \"contrato con España\" si gobierna tras las elecciones del 29 de noviembre sin revelar una sola medida nueva",
+          "link": "https://www.eldiario.es/politica/feijoo-firma-contrato-espana-si-gobierna-elecciones-29-noviembre-revelar-sola-medida-nueva_1_13596902.html",
+          "source": "elDiario.es",
+          "published": "2026-10-19T11:12:29.000Z"
+        },
+        {
+          "title": "La cuarta jornada de la huelga de profesores en Madrid discurre con menor seguimiento, boicot a actos de la consejera y protestas",
+          "link": "https://www.20minutos.es/madrid/cuarta-jornada-huelga-profesores-madrid-discurre-con-menor-seguimiento-boicot-los-actos-consejera-protestas_7050381_0.html",
+          "source": "20minutos",
+          "published": "2026-10-19T10:59:29.000Z"
+        },
+        {
+          "title": "Confinan 145 municipios tras una DANA que deja grandes inundaciones y personas atrapadas",
+          "link": "https://www.20minutos.es/nacional/generalitat-valenciana-confina-145-municipios-tras-una-dana-que-provoca-grandes-inundaciones-personas-atrapadas_7050463_0.html",
+          "source": "20minutos",
+          "published": "2026-10-19T10:57:41.000Z"
         }
       ]
     },
@@ -75,101 +119,87 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Colonos israelíes con los rostros cubiertos atacan a diplomáticos europeos en Cisjordania",
-          "link": "https://www.bbc.com/mundo/articles/cq9vzdedy0wdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El ejército israelí condena la violencia, pero el despacho del primer ministro afirma que forma parte de una campaña de desprestigio.",
+          "title": "El Gobierno francés anuncia toques de queda en varias ciudades por los disturbios del fin de semana",
+          "link": "https://www.eldiario.es/internacional/gobierno-frances-anuncia-toques-queda-ciudades-disturbios-semana_1_13596961.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El primer ministro, Sebastián Lecornu, pedirá a las Prefecturas que decreten esta medida en distintas localidades, todavía sin concretar cuáles Fin de semana caótico de disturbios y reivindicaciones en París: “Esto es lo que pasa cuando el Gobierno no escucha y reprime” El primer ministro francés, Sébastien Lecornu, anunció este lunes que pedirá a las Prefecturas que decreten toques de queda parciales en varias ciudades de Francia, sin concretar todavía cuáles, debido a la oleada de disturbios en el país. “Es un toque de queda por territorios, parcial, me parece que, en este momento, es un…",
           "sources": [
-            "BBC Mundo",
-            "DW",
-            "France 24",
+            "elDiario.es Internacional",
             "El País Internacional"
           ],
-          "firstSeen": "2026-10-18T10:05:27.289Z"
+          "firstSeen": "2026-10-19T11:32:45.421Z"
         },
         {
-          "title": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
-          "link": "https://www.20minutos.es/internacional/ucrania-lanza-contra-san-petersburgo-uno-los-mayores-ataques-con-drones-guerra_7050104_0.html",
+          "title": "Trump defiende el alivio de las sanciones contra Rusia pese al rechazo entre los republicanos",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261019-trump-defiende-el-alivio-de-las-sanciones-contra-rusia-pese-al-rechazo-entre-los-republicanos",
+          "source": "France 24",
+          "summary": "El presidente estadounidense, Donald Trump, aseguró que busca evitar medidas que alejen a Rusia de las negociaciones para poner fin a la guerra en Ucrania. Marco Rubio dijo que el mandatario se tomará hasta 60 días para evaluar las sanciones, mientras Volodímir Zelenski confirmó que Washington reanudó el intercambio de inteligencia con Kiev.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-10-19T11:32:45.421Z"
+        },
+        {
+          "title": "Zelenski afirma que Trump está intentando forzar que Ucrania se rinda ante Rusia",
+          "link": "https://www.20minutos.es/internacional/zelenski-afirma-que-trump-esta-intentando-forzar-que-ucrania-se-rinda-ante-rusia_7050245_0.html",
           "source": "20minutos Internacional",
-          "summary": "Una persona ha fallecido y otras cinco han resultado heridas. El gobernador ha confirmado el derribo de 144 aparatos no tripulados enemigos y ha señalado que más de 20.000 personas se han quedado sin electricidad.",
+          "summary": "\"No estoy diciendo que este sea el objetivo de nuestros aliados, pero eso es lo que parece\", ha dicho el presidente ucraniano en una entrevista en Bloomberg.",
           "sources": [
             "20minutos Internacional",
-            "DW",
-            "elDiario.es Internacional"
+            "El País Internacional"
           ],
-          "firstSeen": "2026-10-18T10:05:27.289Z"
-        },
-        {
-          "title": "¿Por qué Trump ordenó la suspensión de varias sanciones contra Rusia?",
-          "link": "https://www.france24.com/es/video/20261018-por-qu%C3%A9-trump-orden%C3%B3-la-suspensi%C3%B3n-de-varias-sanciones-contra-rusia",
-          "source": "France 24",
-          "summary": "De cara a las midterms, el presidente de Estados Unidos, Donald Trump, firmó una orden ejecutiva que suspende de forma temporal varias sanciones que pesaban sobre Rusia alegando intereses nacionales. Según Ivan Dinev Ivanov, profesor de relaciones internacionales y política comparada de la Universidad de Cincinnati, se trata de una \"medida de desesperación para demostrar a los votantes que está haciendo algo sobre los precios\".",
-          "sources": [
-            "France 24",
-            "BBC Mundo"
-          ],
-          "firstSeen": "2026-10-18T10:05:27.289Z"
-        },
-        {
-          "title": "Protestas masivas en Francia: disturbios, ayuntamiento incendiado y presión sobre el Gobierno",
-          "link": "https://www.france24.com/es/video/20261018-protestas-masivas-en-francia-disturbios-ayuntamiento-incendiado-y-presi%C3%B3n-sobre-el-gobierno",
-          "source": "France 24",
-          "summary": "En la masiva jornada de manifestaciones del 17 de octubre en Francia, el país vivió escenas de caos. En París, calles enteras quedaron devastadas; en Limoges, el ayuntamiento fue incendiado y en Marsella un grupo de personas logró entrar en la alcaldía. Los alcaldes criticaron el caos y los destrozos. La oposición pidió la dimisión del ministro del Interior. Los manifestantes salieron a la calle por mejores condiciones de vida y en rechazo al Gobierno, mientras un grupo de individuos provocó disturbios.",
-          "sources": [
-            "France 24",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-18T15:04:54.736Z"
+          "firstSeen": "2026-10-19T11:32:45.421Z"
         }
       ],
       "items": [
         {
-          "title": "Macron acusa de la violencia a la extrema izquierda, apoya a la Policía y comerciantes y anuncia que se podrán prohibir \"ciertas reuniones\" en Francia",
-          "link": "https://www.20minutos.es/internacional/macron-acusa-violencia-extrema-izquierda-apoya-policia-comerciantes-anuncia-que-se-podran-prohibir-ciertas-reuniones-francia_7050235_0.html",
+          "title": "Israel detiene a 10 colonos por ataques a fotoperiodista del Washington Post y a diplomáticos europeos en Cisjordania",
+          "link": "https://www.dw.com/es/israel-detiene-a-10-colonos-por-ataques-a-fotoperiodista-del-washington-post-y-a-diplomáticos-europeos-en-cisjordania/a-79696522?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-19T10:33:00.000Z"
+        },
+        {
+          "title": "Rusia bombardea Kiev en represalia por el ataque ucraniano contra San Petersburgo: deja al menos un muerto y ocho heridos",
+          "link": "https://www.20minutos.es/internacional/rusia-bombardea-kiev-represalia-por-ataque-ucraniano-contra-san-petersburgo-deja-menos-un-muerto-ocho-heridos_7050422_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-18T19:10:33.000Z"
+          "published": "2026-10-19T10:13:05.000Z"
         },
         {
-          "title": "Eugénie Richard: \"Macron habló más de castigar la violencia que de dar soluciones a la población\"",
-          "link": "https://www.france24.com/es/video/20261018-eug%C3%A9nie-richard-macron-habl%C3%B3-m%C3%A1s-de-castigar-la-violencia-que-de-dar-soluciones-a-la-poblaci%C3%B3n",
-          "source": "France 24",
-          "published": "2026-10-18T18:36:35.000Z"
+          "title": "Una diputada australiana en estado crítico tras ser atropellada intencionalmente",
+          "link": "https://www.20minutos.es/internacional/una-diputada-australiana-estado-critico-tras-ser-atropellada-intencionalmente_7050417_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-19T10:12:16.000Z"
         },
         {
-          "title": "Zelenski: sería \"un error histórico\" que Estados Unidos apoye a Rusia",
-          "link": "https://www.dw.com/es/zelenski-sería-un-error-histórico-que-estados-unidos-apoye-a-rusia/a-79693787?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-18T18:20:00.000Z"
-        },
-        {
-          "title": "Trump ofrece \"apoyo pleno y total\" a Netanyahu en próximas elecciones en Israel",
-          "link": "https://www.dw.com/es/trump-ofrece-apoyo-pleno-y-total-a-netanyahu-en-próximas-elecciones-en-israel/a-79693796?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-18T18:03:00.000Z"
-        },
-        {
-          "title": "Trump respalda a Netanyahu, bajo presión política, de cara a las elecciones del 27 de octubre",
-          "link": "https://www.france24.com/es/medio-oriente/20261018-trump-respalda-a-netanyahu-bajo-presi%C3%B3n-pol%C3%ADtica-de-cara-a-las-elecciones-del-27-de-octubre",
-          "source": "France 24",
-          "published": "2026-10-18T17:42:44.000Z"
-        },
-        {
-          "title": "Trump respalda a Netanyahu a nueve días de las elecciones israelíes: “Es un gran guerrero, fuerte, valiente y brillante”",
-          "link": "https://elpais.com/internacional/2026-10-18/trump-respalda-a-netanyahu-a-nueve-dias-de-las-elecciones-israelies-es-un-gran-guerrero-fuerte-valiente-y-brillante.html",
+          "title": "Cinco estrategias de los demócratas contra Trump",
+          "link": "https://elpais.com/us/2026-10-19/cinco-estrategias-de-los-democratas-contra-trump.html",
           "source": "El País Internacional",
-          "published": "2026-10-18T17:26:37.000Z"
+          "published": "2026-10-19T09:30:00.000Z"
         },
         {
-          "title": "Macron acusa a la \"ultraizquierda\" de la violencia y advierte: \"Tendrán que responder por ello\"",
-          "link": "https://www.eldiario.es/internacional/jornada-caotica-disturbios-reivindicaciones-paris-pasa-gobierno-no-escucha-reprime_1_13595669.html",
+          "title": "El líder británico de los verdes asegura que Israel no tiene derecho a existir porque no cree que “ningún Estado” lo tenga",
+          "link": "https://www.eldiario.es/internacional/lider-britanico-verdes-asegura-israel-no-derecho-existir-no-cree-tenga_1_13596267.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-18T17:12:25.000Z"
+          "published": "2026-10-19T09:20:19.000Z"
         },
         {
-          "title": "En plena tensión con Trump, Ucrania apunta al diésel ruso con un ataque masivo en San Petersburgo",
-          "link": "https://www.france24.com/es/europa/20261018-en-plena-tensi%C3%B3n-con-trump-ucrania-apunta-al-di%C3%A9sel-ruso-con-un-ataque-masivo-en-san-petersburgo",
-          "source": "France 24",
-          "published": "2026-10-18T15:40:34.000Z"
+          "title": "Putin propone una reunión a tres bandas con Trump y Xi para abordar un pacto en Ucrania",
+          "link": "https://www.20minutos.es/internacional/putin-propone-una-reunion-tres-bandas-con-trump-xi-para-abordar-un-pacto-ucrania_7050369_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-19T09:10:36.000Z"
+        },
+        {
+          "title": "Macron rechaza la dimisión del ministro del Interior y le pide más contundencia contra los violentos que están incendiando el país",
+          "link": "https://www.20minutos.es/internacional/macron-rechaza-dimision-ministro-interior-le-pide-mas-contundencia-contra-los-violentos-que-estan-incendiando-pais_7050370_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-19T09:04:27.000Z"
+        },
+        {
+          "title": "Una joven de 17 años pierde la visión de un ojo por el impacto de gas lacrimógeno lanzado por la Policía francesa",
+          "link": "https://www.20minutos.es/internacional/una-joven-17-anos-pierde-vision-un-ojo-por-impacto-gas-lacrimogeno-lanzado-por-policia-francesa_7050366_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-19T08:57:15.000Z"
         }
       ]
     }
