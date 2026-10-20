@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T16:01:10.046Z",
+  "updatedAt": "2026-10-20T20:59:45.231Z",
   "edition": "tarde",
   "sections": [
     {
@@ -44,6 +44,18 @@
           "firstSeen": "2026-10-20T16:01:10.046Z"
         },
         {
+          "title": "El Gobierno garantiza a los sindicatos que el sueldo de los funcionarios subirá un 4,5% desde el 1 de enero",
+          "link": "https://www.europapress.es/economia/laboral-00346/noticia-gobierno-garantiza-sindicatos-sueldo-funcionarios-subira-45-enero-20261020194527.html",
+          "source": "Europa Press",
+          "summary": "El Ministerio de Transformación Digital y para la Función Pública ha garantizado este martes a CSIF, CCOO y UGT que el sueldo de los empleados públicos subirá un 4,5% a partir del 1 de enero de 2027, tal y como pactaron ambas partes en el acuerdo marco que firmaron el pasado mes de noviembre.",
+          "sources": [
+            "Europa Press",
+            "El País",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-20T20:59:45.231Z"
+        },
+        {
           "title": "UGT denuncia a Idealista y Fotocasa por presunta publicidad engañosa",
           "link": "https://www.ugt.es/ugt-denuncia-idealista-y-fotocasa-por-presunta-publicidad-enganosa",
           "source": "UGT",
@@ -53,67 +65,56 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-10-20T10:37:58.996Z"
-        },
-        {
-          "title": "Hallado el cadáver de un agricultor en la marjal de Pego-Oliva tras el paso de la dana Adam que ha causado cinco muertes",
-          "link": "https://www.eldiario.es/comunitat-valenciana/hallado-cadaver-agricultor-marjal-pego-oliva-paso-dana-adam-causado-cinco-muertes_1_13599159.html",
-          "source": "elDiario.es",
-          "summary": "Las autoridades investigan si la víctima está vinculada al episodio meteorológico, que se suma a los otros cuatro fallecidos confirmados en la Comunitat Valenciana y Catalunya tras registrar acumulados históricos de hasta 720 mm. Cinco muertos, un millar de rescates y registros históricos por la dana Adam: “Mucha gente lo ha perdido todo como en 2024” Los servicios de emergencia y rescate han localizado el cuerpo sin vida de un agricultor en la marjal de Pego-Oliva, un entorno natural gravemente golpeado por las inundaciones causadas por la DANA Adam. Fuentes conocedoras del caso han…",
-          "sources": [
-            "elDiario.es",
-            "Público"
-          ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
         }
       ],
       "items": [
         {
-          "title": "El empresario Julio Martínez asegura ante el juez Calama que iba “informando a Zapatero de las necesidades de Plus Ultra”",
-          "link": "https://elpais.com/espana/2026-10-20/el-empresario-julio-martinez-ante-el-juez-calama-voy-informando-a-zapatero-de-las-necesidades-de-plus-ultra.html",
+          "title": "Trump dice que España sufrió una entrada “masiva y repentina” de inmigrantes de Ceuta y el gobierno “no está haciendo nada”",
+          "link": "https://elpais.com/us/2026-10-20/trump-dice-que-espana-sufrio-una-entrada-masiva-y-repentina-de-inmigrantes-de-ceuta-y-el-gobierno-no-esta-haciendo-nada.html",
           "source": "El País",
-          "published": "2026-10-20T15:50:55.000Z"
+          "published": "2026-10-20T20:34:04.000Z"
         },
         {
-          "title": "Dos detenidos y 100 migrantes localizados en una operación de la Policía contra los pisos patera en Ceuta",
-          "link": "https://www.europapress.es/nacional/noticia-dos-detenidos-100-migrantes-localizados-operacion-policia-contra-pisos-patera-ceuta-20261020174439.html",
-          "source": "Europa Press",
-          "published": "2026-10-20T15:44:39.000Z"
+          "title": "La visita de Milei incomoda a la derecha en plena polémica preelectoral sobre el futuro de las pensiones",
+          "link": "https://elpais.com/espana/2026-10-20/la-visita-de-milei-incomoda-a-la-derecha-en-plena-polemica-preelectoral-sobre-el-futuro-de-las-pensiones.html",
+          "source": "El País",
+          "published": "2026-10-20T20:00:33.000Z"
         },
         {
-          "title": "El Supremo rechaza que Hacienda pueda tasar una vivienda solo con el Catastro y Google Maps sin visitarla",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/supremo-rechaza-que-hacienda-pueda-tasar-una-vivienda-solo-con-catastro-google-maps-sin-visitarla_7051139_0.html",
+          "title": "Cientos de profesores recorren de noche Madrid como protesta por la violencia policial: “Somos docentes, no delincuentes”",
+          "link": "https://www.eldiario.es/madrid/somos/cientos-profesores-recorren-noche-madrid-protesta-violencia-policial-docentes-no-delincuentes_1_13601683.html",
+          "source": "elDiario.es",
+          "published": "2026-10-20T19:11:40.000Z"
+        },
+        {
+          "title": "Zelenski traslada al enviado de Donald Trump propuestas de paz para que se las presente a Putin este miércoles en San Petersburgo",
+          "link": "https://www.20minutos.es/internacional/zelenski-traslada-enviado-trump-propuestas-paz-para-que-se-las-presente-putin-este-miercoles-moscu_7051254_0.html",
           "source": "20minutos",
-          "published": "2026-10-20T15:02:07.000Z"
+          "published": "2026-10-20T18:17:05.000Z"
         },
         {
-          "title": "Los partidos locales de Ceuta piden depurar responsabilidades por los audios de militares sobre sus palizas a migrantes",
-          "link": "https://www.eldiario.es/desalambre/partidos-locales-ceuta-piden-depurar-responsabilidades-audios-militares-palizas-migrantes_1_13600711.html",
-          "source": "elDiario.es",
-          "published": "2026-10-20T14:41:40.000Z"
-        },
-        {
-          "title": "El legado de Feijóo en la sanidad gallega: 91 días de espera para una cirugía y 120 ayuntamientos sin pediatra",
-          "link": "https://www.elsaltodiario.com/galicia/legado-feijoo-sanidad-gallega-91-dias-espera-una-cirugia-120-concellos-pediatra?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-20T14:39:00.000Z"
-        },
-        {
-          "title": "La portavoz de la derecha judicial aspira a presidir el tribunal clave para el futuro de la pareja de Ayuso y Begoña Gómez",
-          "link": "https://www.eldiario.es/politica/portavoz-derecha-judicial-aspira-presidir-tribunal-clave-futuro-pareja-ayuso-begona-gomez_1_13600239.html",
-          "source": "elDiario.es",
-          "published": "2026-10-20T14:36:11.000Z"
-        },
-        {
-          "title": "El Supremo condena a una empresa por despido \"discriminatorio\" por violencia de género en una pionera sentencia",
-          "link": "https://www.eldiario.es/economia/supremo-condena-empresa-despido-discriminatorio-violencia-genero-pionera-sentencia_1_13600601.html",
-          "source": "elDiario.es",
-          "published": "2026-10-20T14:25:45.000Z"
-        },
-        {
-          "title": "Choque entre el Gobierno de Ceuta y La Moncloa por la devolución de migrantes pendiente",
-          "link": "https://elpais.com/espana/2026-10-20/choque-entre-el-gobierno-de-ceuta-y-la-moncloa-por-la-devolucion-de-migrantes-pendiente.html",
+          "title": "El juez envía a prisión por terrorismo a los dos disidentes de la izquierda ‘abertzale’ detenidos por la Ertzaintza",
+          "link": "https://elpais.com/espana/2026-10-20/el-juez-envia-a-prision-por-terrorismo-a-los-dos-disidentes-de-la-izquierda-abertzale-detenidos-por-la-ertzaintza.html",
           "source": "El País",
-          "published": "2026-10-20T14:02:06.000Z"
+          "published": "2026-10-20T17:52:47.000Z"
+        },
+        {
+          "title": "Zelenski se reúne con el enviado de Trump en el peor momento de las relaciones con la Casa Blanca",
+          "link": "https://elpais.com/internacional/2026-10-20/zelenski-se-reune-con-los-enviados-de-trump-en-el-peor-momento-de-las-relaciones-con-la-casa-blanca.html",
+          "source": "El País",
+          "published": "2026-10-20T17:35:22.000Z"
+        },
+        {
+          "title": "La comunidad que menos invierte en Educación y que más segrega: los motivos para una huelga en Madrid",
+          "link": "https://www.elsaltodiario.com/comunidad-madrid/comunidad-menos-invierte-educacion-segrega-motivos-una-huelga-madrid?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-20T17:19:00.000Z"
+        },
+        {
+          "title": "Trump llega en su peor momento a la recta final de las elecciones que definirán su mandato",
+          "link": "https://elpais.com/us/2026-10-20/trump-llega-en-su-peor-momento-a-la-recta-final-de-las-elecciones-que-definiran-su-mandato.html",
+          "source": "El País",
+          "published": "2026-10-20T16:45:09.000Z"
         }
       ]
     },
@@ -132,6 +133,18 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-10-20T10:37:58.996Z"
+        },
+        {
+          "title": "Meloni aprueba el arresto preventivo de menores y envía 500 militares a Milán tras los disturbios",
+          "link": "https://www.eldiario.es/internacional/meloni-aprueba-arresto-preventivo-menores-envia-500-militares-milan-disturbios_1_13601631.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El Gobierno ha aprobado medidas que incluyen la creación del delito de participación violenta en una manifestación, con penas de hasta cinco años de prisión y multas de hasta 20.000 euros para quienes participen en acciones violentas en grupo El Gobierno de Meloni quiere desplegar soldados en las calles de Milán tras los disturbios del pasado fin de semana El Gobierno de Italia autorizó este martes reforzar con otros 500 soldados el dispositivo de seguridad pública en Milán (norte) tras los disturbios y saqueos del pasado fin de semana, según confirmó la primera ministra, Giorgia Meloni, en…",
+          "sources": [
+            "elDiario.es Internacional",
+            "El País Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-20T20:59:45.231Z"
         },
         {
           "title": "Donald Trump dispuesto a reunirse con Vladímir Putin y Xi Jinping en China",
@@ -165,67 +178,56 @@
             "elDiario.es Internacional"
           ],
           "firstSeen": "2026-10-20T10:37:58.996Z"
-        },
-        {
-          "title": "Florida emite una orden de arresto contra Raúl Castro por el derribo de avionetas de EEUU",
-          "link": "https://www.eldiario.es/internacional/florida-emite-orden-arresto-raul-castro-derribo-avionetas-eeuu_1_13598281.html",
-          "source": "elDiario.es Internacional",
-          "summary": "La orden fue emitida por un juez después de que el el fiscal general del estado ordenara el año pasado reabrir la investigación sobre la participación del cubano Trump estrecha el cerco sobre Cuba con la acusación contra Raúl Castro: “Les estamos liberando” La Fiscalía de Florida obtuvo una orden de arresto estatal contra el expresidente cubano Raúl Castro por conspiración para cometer asesinato en primer grado por el derribo en 1996 de dos avionetas de EEUU de la organización humanitaria Hermanos al Rescate, anunció este lunes el fiscal general del estado, James Uthmeier. La orden fue…",
-          "sources": [
-            "elDiario.es Internacional",
-            "BBC Mundo"
-          ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
         }
       ],
       "items": [
         {
-          "title": "Rumania pone fin a seis meses de bloqueo político con la investidura del diplomático Luca Niculescu",
-          "link": "https://elpais.com/internacional/2026-10-20/rumania-pone-fin-a-seis-meses-de-bloqueo-politico-con-la-investidura-del-diplomatico-luca-niculescu.html",
-          "source": "El País Internacional",
-          "published": "2026-10-20T15:02:14.000Z"
+          "title": "Yemen: los hutíes afirman que ocho pescadores murieron en bombardeos de Arabia Saudita",
+          "link": "https://www.france24.com/es/medio-oriente/20261020-yemen-los-hut%C3%ADes-afirman-que-ocho-pescadores-murieron-en-bombardeos-de-arabia-saudita",
+          "source": "France 24",
+          "published": "2026-10-20T20:35:15.000Z"
         },
         {
-          "title": "Rubio asegura que Trump está \"enfadado y frustrado\" con Zelenski por acusarle de bloquear el apoyo a Ucrania",
-          "link": "https://www.20minutos.es/internacional/rubio-asegura-que-trump-esta-enfadado-frustrado-con-zelenski-por-acusarle-bloquear-apoyo-ucrania_7051146_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-20T14:53:27.000Z"
-        },
-        {
-          "title": "Amazon invertirá 16.000 millones en Alemania en 2027, incluidas inversiones en infraestructuras de IA",
-          "link": "https://www.dw.com/es/amazon-invertirá-16-000-millones-en-alemania-en-2027-incluidas-inversiones-en-infraestructuras-de-ia/a-79715544?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-20T14:45:00.000Z"
-        },
-        {
-          "title": "El Parlamento Europeo pide crear reservas comunes de tierras raras y restringir su exportación para hacer frente a China y EEUU",
-          "link": "https://www.20minutos.es/internacional/parlamento-europeo-pide-crear-reservas-comunes-tierras-raras-restringir-su-exportacion-para-hacer-frente-china-eeuu_7051136_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-20T14:44:33.000Z"
-        },
-        {
-          "title": "La UE busca reforzar su influencia en la disputada región del Ártico",
-          "link": "https://elpais.com/internacional/2026-10-20/la-ue-busca-reforzar-su-influencia-en-la-disputada-region-del-artico.html",
-          "source": "El País Internacional",
-          "published": "2026-10-20T14:02:51.000Z"
-        },
-        {
-          "title": "En gráficos: ¿cómo le está yendo a la economía de EE.UU. bajo la presidencia de Trump?",
+          "title": "En gráficos: ¿cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump?",
           "link": "https://www.bbc.com/mundo/articles/cq0ldk70n888o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-20T13:52:34.000Z"
+          "published": "2026-10-20T20:30:06.000Z"
         },
         {
-          "title": "Acampados portugueses prometen volver a las plazas tras desalojo y piden \"huelga general ibérica\" por vivienda",
-          "link": "https://www.dw.com/es/acampados-portugueses-prometen-volver-a-las-plazas-tras-desalojo-y-piden-huelga-general-ibérica-por-vivienda/a-79714736?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Gloria Guevara, presidenta de WTTC: \"El Mundial puso a México frente a millones de personas y dejó infraestructura y experiencia\"",
+          "link": "https://www.dw.com/es/gloria-guevara-presidenta-de-wttc-el-mundial-puso-a-méxico-frente-a-millones-de-personas-y-dejó-infraestructura-y-experiencia/a-79716894?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-20T13:49:00.000Z"
+          "published": "2026-10-20T20:27:00.000Z"
         },
         {
-          "title": "Bruselas quiere unir la UE con Groenlandia y Canadá a través de un gran cable submarino para consolidarse en el Ártico frente a Trump",
-          "link": "https://www.20minutos.es/internacional/bruselas-quiere-unir-ue-con-groenlandia-canada-traves-un-gran-clave-submarino-para-consolidarse-artico-frente-trump_7050814_0.html",
+          "title": "Trump usa las violentas protestas en Francia para fortalecer su discurso antimigración en Kansas",
+          "link": "https://www.france24.com/es/video/20261020-trump-usa-las-violentas-protestas-en-francia-para-fortalecer-su-discurso-antimigraci%C3%B3n-en-kansas",
+          "source": "France 24",
+          "published": "2026-10-20T20:18:13.000Z"
+        },
+        {
+          "title": "Hegseth visita Israel por sorpresa y antes de las elecciones, que ya no cuentan con Benny Gantz",
+          "link": "https://www.france24.com/es/video/20261020-hegseth-visita-israel-por-sorpresa-y-antes-de-las-elecciones-que-ya-no-cuentan-con-benny-gantz",
+          "source": "France 24",
+          "published": "2026-10-20T20:15:06.000Z"
+        },
+        {
+          "title": "Volodimir Zelenski plantea a Steve Witkoff ideas sobre la paz para transmitir a Vladimir Putin en San Petersburgo",
+          "link": "https://www.dw.com/es/volodimir-zelenski-plantea-a-steve-witkoff-ideas-sobre-la-paz-para-transmitir-a-vladimir-putin-en-san-petersburgo/a-79717797?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-20T20:02:00.000Z"
+        },
+        {
+          "title": "La Casa Blanca vuelve a vetar a CNN: impide que un equipo de la cadena vuele con Trump a bordo del Air Force One",
+          "link": "https://www.20minutos.es/internacional/casa-blanca-vuelve-vetar-cnn-impide-que-un-equipo-cadena-vuele-con-trump-bordo-air-force-one_7051282_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-20T12:54:41.000Z"
+          "published": "2026-10-20T19:56:39.000Z"
+        },
+        {
+          "title": "El Ejército israelí afirma haber matado a un alto cargo de Hamás en la Franja de Gaza",
+          "link": "https://www.20minutos.es/internacional/ejercito-israeli-afirma-haber-matado-un-alto-cargo-hamas-franja-gaza_7051284_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-20T19:56:32.000Z"
         }
       ]
     }
