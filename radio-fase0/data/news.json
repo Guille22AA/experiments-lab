@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T10:37:58.996Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-20T16:01:10.046Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -32,6 +32,18 @@
           "firstSeen": "2026-10-20T10:37:58.996Z"
         },
         {
+          "title": "El Supremo amnistía a los líderes del 'procés' entre críticas a la \"innecesaria grandilocuencia\" del TC",
+          "link": "https://www.20minutos.es/nacional/supremo-amnistia-los-condenados-proces-entre-criticas-innecesaria-grandilocuencia-constitucional_7051013_0.html",
+          "source": "20minutos",
+          "summary": "La decisión de la Sala Segunda no afecta por el momento a Carles Puigdemont, procesado por Pablo Llarena, pero despeja su futura amnistía.",
+          "sources": [
+            "20minutos",
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-10-20T16:01:10.046Z"
+        },
+        {
           "title": "UGT denuncia a Idealista y Fotocasa por presunta publicidad engañosa",
           "link": "https://www.ugt.es/ugt-denuncia-idealista-y-fotocasa-por-presunta-publicidad-enganosa",
           "source": "UGT",
@@ -52,67 +64,56 @@
             "Público"
           ],
           "firstSeen": "2026-10-20T10:37:58.996Z"
-        },
-        {
-          "title": "Feijoo confirma que negocia con Vox una fórmula para que el \"sanchismo\" no logre controlar el Senado con el 29N",
-          "link": "https://www.20minutos.es/nacional/pp-vox-buscan-una-formula-para-no-facilitar-sanchismo-control-senado-pero-mantienen-discrecion_7050850_0.html",
-          "source": "20minutos",
-          "summary": "Feijóo admite que ambos partidos están manteniendo conversaciones para atar una mayoría de tres quintos en la Cámara Alta. Propone que Vox no se presente en determinadas provincias y sugiere cederle a cambio senadores por designación autonómica.",
-          "sources": [
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
         }
       ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | El Gobierno aprueba un paquete para mejorar prestaciones sociales",
-          "link": "https://elpais.com/espana/2026-10-20/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "title": "El empresario Julio Martínez asegura ante el juez Calama que iba “informando a Zapatero de las necesidades de Plus Ultra”",
+          "link": "https://elpais.com/espana/2026-10-20/el-empresario-julio-martinez-ante-el-juez-calama-voy-informando-a-zapatero-de-las-necesidades-de-plus-ultra.html",
           "source": "El País",
-          "published": "2026-10-20T10:36:28.000Z"
+          "published": "2026-10-20T15:50:55.000Z"
         },
         {
-          "title": "El Gobierno amplía las prestaciones de padres de hijos enfermos, víctimas de violencia de género y catástrofes",
-          "link": "https://www.eldiario.es/economia/gobierno-amplia-prestaciones-padres-hijos-enfermos-victimas-violencia-genero-catastrofes_1_13599382.html",
+          "title": "Dos detenidos y 100 migrantes localizados en una operación de la Policía contra los pisos patera en Ceuta",
+          "link": "https://www.europapress.es/nacional/noticia-dos-detenidos-100-migrantes-localizados-operacion-policia-contra-pisos-patera-ceuta-20261020174439.html",
+          "source": "Europa Press",
+          "published": "2026-10-20T15:44:39.000Z"
+        },
+        {
+          "title": "El Supremo rechaza que Hacienda pueda tasar una vivienda solo con el Catastro y Google Maps sin visitarla",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/supremo-rechaza-que-hacienda-pueda-tasar-una-vivienda-solo-con-catastro-google-maps-sin-visitarla_7051139_0.html",
+          "source": "20minutos",
+          "published": "2026-10-20T15:02:07.000Z"
+        },
+        {
+          "title": "Los partidos locales de Ceuta piden depurar responsabilidades por los audios de militares sobre sus palizas a migrantes",
+          "link": "https://www.eldiario.es/desalambre/partidos-locales-ceuta-piden-depurar-responsabilidades-audios-militares-palizas-migrantes_1_13600711.html",
           "source": "elDiario.es",
-          "published": "2026-10-20T10:25:27.000Z"
+          "published": "2026-10-20T14:41:40.000Z"
         },
         {
-          "title": "Pepe Álvarez: \"No hay salario ni convenio que pueda permitirnos acceder a una vivienda\"",
-          "link": "https://www.ugt.es/pepe-alvarez-no-hay-salario-ni-convenio-que-pueda-permitirnos-acceder-una-vivienda",
-          "source": "UGT",
-          "published": "2026-10-20T10:17:29.000Z"
+          "title": "El legado de Feijóo en la sanidad gallega: 91 días de espera para una cirugía y 120 ayuntamientos sin pediatra",
+          "link": "https://www.elsaltodiario.com/galicia/legado-feijoo-sanidad-gallega-91-dias-espera-una-cirugia-120-concellos-pediatra?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-20T14:39:00.000Z"
         },
         {
-          "title": "El Gobierno de Ceuta decide llevar al Supremo la \"inactividad\" del Estado para tramitar los expedientes de migrantes",
-          "link": "https://www.europapress.es/nacional/noticia-gobierno-ceuta-decide-llevar-supremo-inactividad-estado-tramitar-expedientes-migrantes-20261020120012.html",
-          "source": "Europa Press",
-          "published": "2026-10-20T10:00:12.000Z"
+          "title": "La portavoz de la derecha judicial aspira a presidir el tribunal clave para el futuro de la pareja de Ayuso y Begoña Gómez",
+          "link": "https://www.eldiario.es/politica/portavoz-derecha-judicial-aspira-presidir-tribunal-clave-futuro-pareja-ayuso-begona-gomez_1_13600239.html",
+          "source": "elDiario.es",
+          "published": "2026-10-20T14:36:11.000Z"
         },
         {
-          "title": "Delegación del Gobierno investigará las cargas contra manifestantes por la Educación en el acto de Ayuso",
-          "link": "https://www.europapress.es/madrid/noticia-delegacion-gobierno-defiende-analice-actuacion-policial-cuando-no-sea-proporcional-oportuna-20261020113942.html",
-          "source": "Europa Press",
-          "published": "2026-10-20T09:39:42.000Z"
+          "title": "El Supremo condena a una empresa por despido \"discriminatorio\" por violencia de género en una pionera sentencia",
+          "link": "https://www.eldiario.es/economia/supremo-condena-empresa-despido-discriminatorio-violencia-genero-pionera-sentencia_1_13600601.html",
+          "source": "elDiario.es",
+          "published": "2026-10-20T14:25:45.000Z"
         },
         {
-          "title": "La Delegación del Gobierno en Madrid anuncia otra investigación sobre las cargas policiales contra los profesores",
-          "link": "https://elpais.com/educacion/2026-10-20/la-delegacion-del-gobierno-en-madrid-anuncia-otra-investigacion-sobre-las-violentas-cargas-policiales-contra-los-profesores.html",
+          "title": "Choque entre el Gobierno de Ceuta y La Moncloa por la devolución de migrantes pendiente",
+          "link": "https://elpais.com/espana/2026-10-20/choque-entre-el-gobierno-de-ceuta-y-la-moncloa-por-la-devolucion-de-migrantes-pendiente.html",
           "source": "El País",
-          "published": "2026-10-20T09:36:29.000Z"
-        },
-        {
-          "title": "Una IA de reconocimiento facial permite calcular el riesgo de muerte de pacientes con cáncer y personalizar tratamientos",
-          "link": "https://www.eldiario.es/sociedad/ia-reconocimiento-facial-permite-calcular-riesgo-muerte-pacientes-cancer-personalizar-tratamientos_1_13598768.html",
-          "source": "elDiario.es",
-          "published": "2026-10-20T09:34:01.000Z"
-        },
-        {
-          "title": "Presentan el Centro de Medios del Sur Global en China",
-          "link": "https://diariosocialista.net/2026/10/20/presentan-el-centro-de-medios-del-sur-global-en-china/",
-          "source": "Diario Socialista",
-          "published": "2026-10-20T09:00:43.000Z"
+          "published": "2026-10-20T14:02:06.000Z"
         }
       ]
     },
@@ -179,52 +180,52 @@
       ],
       "items": [
         {
-          "title": "Una diputada australiana pierde una pierna tras ser atropellada intencionadamente",
-          "link": "https://www.eldiario.es/internacional/diputada-australiana-pierde-pierna-atropellada_1_13599443.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-20T10:17:24.000Z"
-        },
-        {
-          "title": "Trump utiliza a Melania para tratar de conectar con el voto femenino desencantado por sus excesos",
-          "link": "https://elpais.com/us/2026-10-20/trump-utiliza-a-melania-para-tratar-de-conectar-con-el-voto-femenino-desencantado-por-sus-excesos.html",
+          "title": "Rumania pone fin a seis meses de bloqueo político con la investidura del diplomático Luca Niculescu",
+          "link": "https://elpais.com/internacional/2026-10-20/rumania-pone-fin-a-seis-meses-de-bloqueo-politico-con-la-investidura-del-diplomatico-luca-niculescu.html",
           "source": "El País Internacional",
-          "published": "2026-10-20T09:30:00.000Z"
+          "published": "2026-10-20T15:02:14.000Z"
         },
         {
-          "title": "La Casa Blanca redobla su presión a California como laboratorio para sus injerencias de cara a las ‘midterms’",
-          "link": "https://elpais.com/us/2026-10-20/la-casa-blanca-redobla-su-presion-a-california-como-laboratorio-para-sus-injerencias-de-cara-a-las-midterms.html",
-          "source": "El País Internacional",
-          "published": "2026-10-20T09:30:00.000Z"
-        },
-        {
-          "title": "El Gobierno de Mansouri gira al centroizquierda ante el descontento ciudadano en Marruecos",
-          "link": "https://elpais.com/internacional/2026-10-20/el-gobierno-de-mansouri-gira-al-centroizquierda-ante-el-descontento-ciudadano-en-marruecos.html",
-          "source": "El País Internacional",
-          "published": "2026-10-20T08:56:16.000Z"
-        },
-        {
-          "title": "Entre rumores y fotografías oficiales: la incertidumbre sobre la salud de Kim Jong-un",
-          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261020-entre-rumores-y-fotograf%C3%ADas-oficiales-la-incertidumbre-sobre-la-salud-de-kim-jong-un",
-          "source": "France 24",
-          "published": "2026-10-20T08:46:32.000Z"
-        },
-        {
-          "title": "China denuncia ingreso de buque militar de EE.UU. en aguas disputadas del mar Meridional",
-          "link": "https://www.dw.com/es/china-denuncia-ingreso-de-buque-militar-de-ee-uu-en-aguas-disputadas-del-mar-meridional/a-79708681?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-20T08:18:00.000Z"
-        },
-        {
-          "title": "Detenido un hombre por el incendio del Ayuntamiento de Limoges durante las protestas",
-          "link": "https://www.20minutos.es/internacional/detenido-un-hombre-por-incendio-ayuntamiento-limoges-durante-las-protestas_7050847_0.html",
+          "title": "Rubio asegura que Trump está \"enfadado y frustrado\" con Zelenski por acusarle de bloquear el apoyo a Ucrania",
+          "link": "https://www.20minutos.es/internacional/rubio-asegura-que-trump-esta-enfadado-frustrado-con-zelenski-por-acusarle-bloquear-apoyo-ucrania_7051146_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-20T07:43:46.000Z"
+          "published": "2026-10-20T14:53:27.000Z"
         },
         {
-          "title": "Israel creará brigada espacial para \"vigilar, defender y atacar desde el espacio\"",
-          "link": "https://www.dw.com/es/israel-creará-brigada-espacial-para-vigilar-defender-y-atacar-desde-el-espacio/a-79708640?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Amazon invertirá 16.000 millones en Alemania en 2027, incluidas inversiones en infraestructuras de IA",
+          "link": "https://www.dw.com/es/amazon-invertirá-16-000-millones-en-alemania-en-2027-incluidas-inversiones-en-infraestructuras-de-ia/a-79715544?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-20T07:42:00.000Z"
+          "published": "2026-10-20T14:45:00.000Z"
+        },
+        {
+          "title": "El Parlamento Europeo pide crear reservas comunes de tierras raras y restringir su exportación para hacer frente a China y EEUU",
+          "link": "https://www.20minutos.es/internacional/parlamento-europeo-pide-crear-reservas-comunes-tierras-raras-restringir-su-exportacion-para-hacer-frente-china-eeuu_7051136_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-20T14:44:33.000Z"
+        },
+        {
+          "title": "La UE busca reforzar su influencia en la disputada región del Ártico",
+          "link": "https://elpais.com/internacional/2026-10-20/la-ue-busca-reforzar-su-influencia-en-la-disputada-region-del-artico.html",
+          "source": "El País Internacional",
+          "published": "2026-10-20T14:02:51.000Z"
+        },
+        {
+          "title": "En gráficos: ¿cómo le está yendo a la economía de EE.UU. bajo la presidencia de Trump?",
+          "link": "https://www.bbc.com/mundo/articles/cq0ldk70n888o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-20T13:52:34.000Z"
+        },
+        {
+          "title": "Acampados portugueses prometen volver a las plazas tras desalojo y piden \"huelga general ibérica\" por vivienda",
+          "link": "https://www.dw.com/es/acampados-portugueses-prometen-volver-a-las-plazas-tras-desalojo-y-piden-huelga-general-ibérica-por-vivienda/a-79714736?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-20T13:49:00.000Z"
+        },
+        {
+          "title": "Bruselas quiere unir la UE con Groenlandia y Canadá a través de un gran cable submarino para consolidarse en el Ártico frente a Trump",
+          "link": "https://www.20minutos.es/internacional/bruselas-quiere-unir-ue-con-groenlandia-canada-traves-un-gran-clave-submarino-para-consolidarse-artico-frente-trump_7050814_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-20T12:54:41.000Z"
         }
       ]
     }
