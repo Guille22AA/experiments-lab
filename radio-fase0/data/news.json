@@ -1,120 +1,107 @@
 {
-  "date": "2026-10-20",
-  "updatedAt": "2026-10-20T20:59:45.231Z",
-  "edition": "tarde",
+  "date": "2026-10-21",
+  "updatedAt": "2026-10-21T10:49:23.184Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Ayuso estudia el traslado temporal de su despacho por la acampada: \"No reúne las condiciones de seguridad\"",
-          "link": "https://www.20minutos.es/madrid/ayuso-estudia-traslado-temporal-su-despacho-por-acampada-sol-no-reune-las-condiciones-seguridad_7050903_0.html",
-          "source": "20minutos",
-          "summary": "El Gobierno de la Comunidad de Madrid considera que la Casa de Correos, sede del Ejecutivo regional, no reúne \"las condiciones necesarias, especialmente de seguridad, para llevar a cabo el trabajo institucional\".",
+          "title": "Milei llama en Madrid “impresentable dictador” a Sánchez y pide “sacar a patadas a los socialistas”",
+          "link": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
+          "source": "El País",
+          "summary": "El presidente argentino se reconoce amigo de Abascal y Ayuso y asegura que visita España para apoyarles en plena precampaña electoral",
           "sources": [
-            "20minutos",
             "El País",
+            "Europa Press",
             "elDiario.es"
           ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
+          "firstSeen": "2026-10-21T10:49:23.184Z"
         },
         {
-          "title": "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-20/monica-garcia-renuncia-a-la-lista-del-frente-amplio-siempre-he-antepuesto-el-bien-comun-al-personal.html",
-          "source": "El País",
-          "summary": "La actual ministra de Sanidad asegura que seguirá en Más Madrid. La actual diputada Tesh Sidi será la número dos en la papeleta",
+          "title": "Trump veta la entrada de Ada Colau en Puerto Rico por su participación en la flotilla a Gaza",
+          "link": "https://www.elsaltodiario.com/estados-unidos/trump-veta-ada-colau-puerto-rico-flotilla-gaza?utm_source=feed",
+          "source": "El Salto",
+          "summary": "La ex alcaldesa de Barcelona y candidata del Frente Amplio iba a participar en el encuentro municipalista Fearless Cities, al que también tenía previsto acudir inicialmente el alcalde de Nueva York, Zohran Mamdani. Temas principal: Estados Unidos Leer artículo completo",
           "sources": [
-            "El País",
+            "El Salto",
             "20minutos",
-            "Europa Press"
+            "elDiario.es"
           ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
+          "firstSeen": "2026-10-21T10:49:23.184Z"
         },
         {
-          "title": "El Supremo amnistía a los líderes del 'procés' entre críticas a la \"innecesaria grandilocuencia\" del TC",
-          "link": "https://www.20minutos.es/nacional/supremo-amnistia-los-condenados-proces-entre-criticas-innecesaria-grandilocuencia-constitucional_7051013_0.html",
-          "source": "20minutos",
-          "summary": "La decisión de la Sala Segunda no afecta por el momento a Carles Puigdemont, procesado por Pablo Llarena, pero despeja su futura amnistía.",
+          "title": "Ceuta sufre un apagón de cerca de una hora en toda la ciudad",
+          "link": "https://www.eldiario.es/economia/ceuta-sufre-apagon-cerca-hora-ciudad_1_13602484.html",
+          "source": "elDiario.es",
+          "summary": "El Gobierno autonómico indica que se \"ha caído\" el grupo 11, que distribuye en el centro, produciendo el \"cero de tensión\"; según Endesa, el origen está en una subestación de REE en Algeciras Según han informado a EFE fuentes del Gobierno ceutí, el “cero energético” se ha producido alrededor de las 09.45 horas de esta mañana y se ha comenzado a recuperar sobre las 10.15 horas, aunque por zonas. No obstante, la luz ha vuelto de forma progresiva y por fases, principalmente en la zona centro, que ha sido la más perjudicada por esta situación, por lo que en algunos lugares el apagón se ha…",
           "sources": [
-            "20minutos",
             "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-10-20T16:01:10.046Z"
-        },
-        {
-          "title": "El Gobierno garantiza a los sindicatos que el sueldo de los funcionarios subirá un 4,5% desde el 1 de enero",
-          "link": "https://www.europapress.es/economia/laboral-00346/noticia-gobierno-garantiza-sindicatos-sueldo-funcionarios-subira-45-enero-20261020194527.html",
-          "source": "Europa Press",
-          "summary": "El Ministerio de Transformación Digital y para la Función Pública ha garantizado este martes a CSIF, CCOO y UGT que el sueldo de los empleados públicos subirá un 4,5% a partir del 1 de enero de 2027, tal y como pactaron ambas partes en el acuerdo marco que firmaron el pasado mes de noviembre.",
-          "sources": [
-            "Europa Press",
-            "El País",
             "20minutos"
           ],
-          "firstSeen": "2026-10-20T20:59:45.231Z"
+          "firstSeen": "2026-10-21T10:49:23.184Z"
         },
         {
-          "title": "UGT denuncia a Idealista y Fotocasa por presunta publicidad engañosa",
-          "link": "https://www.ugt.es/ugt-denuncia-idealista-y-fotocasa-por-presunta-publicidad-enganosa",
-          "source": "UGT",
-          "summary": "UGT denuncia a Idealista y Fotocasa por presunta publicidad engañosa Tener un contrato de alquiler o un derecho de usufructo no es ocupar ilegalmente una vivienda sgarciab Mar, 20/10/2026 - 12:31 Videos Abrir en pestaña nueva Desactivado Etiquetas Denuncia Derecho a la Vivienda Huelga 11N Añadir nuevo comentario",
+          "title": "Sánchez da la bienvenida a Milei con una lona en Ferraz y un vídeo: “Orgullosos de ser zurdos”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-da-la-bienvenida-a-milei-con-una-lona-en-ferraz-y-un-video-orgullosos-de-ser-zurdos.html",
+          "source": "El País",
+          "summary": "El PSOE aprovecha la visita del presidente argentino a Madrid para visibilizar la incomodidad de la derecha y reivindicar las políticas del Gobierno de España frente a los recortes del líder ultraderechista",
           "sources": [
-            "UGT",
-            "elDiario.es"
+            "El País",
+            "Europa Press"
           ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
+          "firstSeen": "2026-10-21T10:49:23.184Z"
         }
       ],
       "items": [
         {
-          "title": "Trump dice que España sufrió una entrada “masiva y repentina” de inmigrantes de Ceuta y el gobierno “no está haciendo nada”",
-          "link": "https://elpais.com/us/2026-10-20/trump-dice-que-espana-sufrio-una-entrada-masiva-y-repentina-de-inmigrantes-de-ceuta-y-el-gobierno-no-esta-haciendo-nada.html",
+          "title": "Última hora de la actualidad política, en directo | Feijóo promete rebajas de impuestos a los jóvenes que compren una casa y construir un millón de viviendas si llega a La Moncloa",
+          "link": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-10-20T20:34:04.000Z"
+          "published": "2026-10-21T10:46:22.000Z"
         },
         {
-          "title": "La visita de Milei incomoda a la derecha en plena polémica preelectoral sobre el futuro de las pensiones",
-          "link": "https://elpais.com/espana/2026-10-20/la-visita-de-milei-incomoda-a-la-derecha-en-plena-polemica-preelectoral-sobre-el-futuro-de-las-pensiones.html",
-          "source": "El País",
-          "published": "2026-10-20T20:00:33.000Z"
-        },
-        {
-          "title": "Cientos de profesores recorren de noche Madrid como protesta por la violencia policial: “Somos docentes, no delincuentes”",
-          "link": "https://www.eldiario.es/madrid/somos/cientos-profesores-recorren-noche-madrid-protesta-violencia-policial-docentes-no-delincuentes_1_13601683.html",
-          "source": "elDiario.es",
-          "published": "2026-10-20T19:11:40.000Z"
-        },
-        {
-          "title": "Zelenski traslada al enviado de Donald Trump propuestas de paz para que se las presente a Putin este miércoles en San Petersburgo",
-          "link": "https://www.20minutos.es/internacional/zelenski-traslada-enviado-trump-propuestas-paz-para-que-se-las-presente-putin-este-miercoles-moscu_7051254_0.html",
-          "source": "20minutos",
-          "published": "2026-10-20T18:17:05.000Z"
-        },
-        {
-          "title": "El juez envía a prisión por terrorismo a los dos disidentes de la izquierda ‘abertzale’ detenidos por la Ertzaintza",
-          "link": "https://elpais.com/espana/2026-10-20/el-juez-envia-a-prision-por-terrorismo-a-los-dos-disidentes-de-la-izquierda-abertzale-detenidos-por-la-ertzaintza.html",
-          "source": "El País",
-          "published": "2026-10-20T17:52:47.000Z"
-        },
-        {
-          "title": "Zelenski se reúne con el enviado de Trump en el peor momento de las relaciones con la Casa Blanca",
-          "link": "https://elpais.com/internacional/2026-10-20/zelenski-se-reune-con-los-enviados-de-trump-en-el-peor-momento-de-las-relaciones-con-la-casa-blanca.html",
-          "source": "El País",
-          "published": "2026-10-20T17:35:22.000Z"
-        },
-        {
-          "title": "La comunidad que menos invierte en Educación y que más segrega: los motivos para una huelga en Madrid",
-          "link": "https://www.elsaltodiario.com/comunidad-madrid/comunidad-menos-invierte-educacion-segrega-motivos-una-huelga-madrid?utm_source=feed",
+          "title": "Una asociación pide frenar la subasta de objetos del Pazo de Meirás que sacan a la venta los herederos de Franco",
+          "link": "https://www.elsaltodiario.com/galicia/una-asociacion-pide-frenar-subasta-objetos-del-pazo-meiras-sacan-venta-herederos-franco?utm_source=feed",
           "source": "El Salto",
-          "published": "2026-10-20T17:19:00.000Z"
+          "published": "2026-10-21T10:34:00.000Z"
         },
         {
-          "title": "Trump llega en su peor momento a la recta final de las elecciones que definirán su mandato",
-          "link": "https://elpais.com/us/2026-10-20/trump-llega-en-su-peor-momento-a-la-recta-final-de-las-elecciones-que-definiran-su-mandato.html",
+          "title": "Las empresas del gran consumo piden atajar el \"absentismo\": \"No es un problema de salud sino de gestión\"",
+          "link": "https://www.eldiario.es/economia/empresas-gran-consumo-piden-atajar-absentismo-no-problema-salud-gestion_1_13602759.html",
+          "source": "elDiario.es",
+          "published": "2026-10-21T10:29:28.000Z"
+        },
+        {
+          "title": "La colíder de Sumar y portavoz en el Congreso irá en el cuarto puesto de la lista de Frente Amplio en Madrid",
+          "link": "https://www.europapress.es/nacional/noticia-colider-sumar-portavoz-congreso-ira-cuarto-puesto-lista-frente-amplio-madrid-20261021122303.html",
+          "source": "Europa Press",
+          "published": "2026-10-21T10:23:03.000Z"
+        },
+        {
+          "title": "Bruselas sospecha que Booking no hace lo suficiente para vigilar los fraudes en las reservas y los datos de los clientes",
+          "link": "https://elpais.com/economia/2026-10-21/bruselas-sospecha-que-booking-no-hace-lo-suficiente-para-vigilar-los-fraudes-en-las-reservas-y-los-datos-de-los-clientes.html",
           "source": "El País",
-          "published": "2026-10-20T16:45:09.000Z"
+          "published": "2026-10-21T10:10:40.000Z"
+        },
+        {
+          "title": "Un juzgado abre una causa contra la creadora de la instrucción sobre la ley de nietos tras una denuncia de HazteOír",
+          "link": "https://www.eldiario.es/politica/juzgado-abre-causa-creadora-instruccion-ley-nietos-denuncia-hazteoir_1_13602700.html",
+          "source": "elDiario.es",
+          "published": "2026-10-21T10:05:10.000Z"
+        },
+        {
+          "title": "Sánchez cesa a delegados en Cataluña, Andalucía, Asturias, C.Valenciana y Aragón para que entren en listas",
+          "link": "https://www.europapress.es/nacional/noticia-sanchez-cesa-delegados-cataluna-andalucia-asturias-cvalenciana-aragon-entren-listas-20261021115933.html",
+          "source": "Europa Press",
+          "published": "2026-10-21T09:59:33.000Z"
+        },
+        {
+          "title": "Feijóo elaborará un plan nacional de vivienda con todas las administraciones y concederá deducciones para renovar alquileres",
+          "link": "https://www.20minutos.es/nacional/feijoo-elaborara-un-plan-nacional-vivienda-con-todas-las-administraciones-concedera-deducciones-fiscales-para-renovar-alquileres_7051446_0.html",
+          "source": "20minutos",
+          "published": "2026-10-21T09:53:11.000Z"
         }
       ]
     },
@@ -122,18 +109,6 @@
       "id": "mundo",
       "title": "Mundo · Geopolítica",
       "highlights": [
-        {
-          "title": "Alberta vota por seguir formando parte de Canadá, una victoria para el primer ministro Carney",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261020-alberta-vota-por-seguir-formando-parte-de-canad%C3%A1-una-victoria-para-el-primer-ministro-carney",
-          "source": "France 24",
-          "summary": "Los votantes de Alberta, una provincia rica en petróleo, respaldaron abrumadoramente la permanencia en Canadá en su primer referendo sobre la separación. Los resultados preliminares de este martes suponen un impulso a los esfuerzos del primer ministro Mark Carney por preservar la unidad nacional en medio de la guerra comercial y las amenazas de anexión del presidente estadounidense Donald Trump.",
-          "sources": [
-            "France 24",
-            "DW",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
-        },
         {
           "title": "Meloni aprueba el arresto preventivo de menores y envía 500 militares a Milán tras los disturbios",
           "link": "https://www.eldiario.es/internacional/meloni-aprueba-arresto-preventivo-menores-envia-500-militares-milan-disturbios_1_13601631.html",
@@ -144,90 +119,68 @@
             "El País Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-20T20:59:45.231Z"
+          "firstSeen": "2026-10-21T10:49:23.184Z"
         },
         {
-          "title": "Donald Trump dispuesto a reunirse con Vladímir Putin y Xi Jinping en China",
-          "link": "https://www.dw.com/es/donald-trump-dispuesto-a-reunirse-con-vladímir-putin-y-xi-jinping-en-china/a-79707835?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Israelí afirma que mató a un alto cargo de Hamás en la Franja de Gaza",
+          "link": "https://www.dw.com/es/israelí-afirma-que-mató-a-un-alto-cargo-de-hamás-en-la-franja-de-gaza/a-79718456?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "summary": "El mandatario estadounidense dijo que quiere conversar con sus pares de Rusia y China para \"negociar\" el fin de la guerra en Ucrania.",
+          "summary": "Rescatistas y hospitales de Gaza confirmaron la muerte de siete palestinos en varios bombardeos israelíes.",
           "sources": [
             "DW",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
-        },
-        {
-          "title": "Trump cree que París \"será muy pronto una ciudad musulmana\"",
-          "link": "https://www.20minutos.es/internacional/trump-cree-que-paris-sera-muy-pronto-una-ciudad-musulmana_7050765_0.html",
-          "source": "20minutos Internacional",
-          "summary": "\"Han arruinado a Francia. Va a ser difícil recuperarla\", ha manifestado el presidente de Estados Unidos.",
-          "sources": [
-            "20minutos Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
-        },
-        {
-          "title": "De Francia a España: qué impulsa la ola de protestas, disturbios y huelgas en Europa",
-          "link": "https://www.dw.com/es/de-francia-a-españa-qué-impulsa-la-ola-de-protestas-disturbios-y-huelgas-en-europa/a-79707436?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Combustibles, alimentos y alquileres cada vez más caros: crecen las protestas en Europa contra el costo de vida y los recortes educativos. Muchas manifestaciones terminan en enfrentamientos violentos.",
-          "sources": [
-            "DW",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-20T10:37:58.996Z"
+          "firstSeen": "2026-10-21T10:49:23.184Z"
         }
       ],
       "items": [
         {
-          "title": "Yemen: los hutíes afirman que ocho pescadores murieron en bombardeos de Arabia Saudita",
-          "link": "https://www.france24.com/es/medio-oriente/20261020-yemen-los-hut%C3%ADes-afirman-que-ocho-pescadores-murieron-en-bombardeos-de-arabia-saudita",
-          "source": "France 24",
-          "published": "2026-10-20T20:35:15.000Z"
+          "title": "Italia sospecha que el caos de Milán no fue espontáneo y cree que un actor extranjero pudo agitar a los jóvenes",
+          "link": "https://elpais.com/internacional/2026-10-21/italia-sospecha-que-el-caos-de-milan-no-fue-espontaneo-y-cree-que-un-actor-extranjero-pudo-agitar-a-los-jovenes.html",
+          "source": "El País Internacional",
+          "published": "2026-10-21T10:30:49.000Z"
         },
         {
-          "title": "En gráficos: ¿cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump?",
-          "link": "https://www.bbc.com/mundo/articles/cq0ldk70n888o?at_medium=RSS&at_campaign=rss",
+          "title": "A pesar de un renovado optimismo, ¿puede Zelenski seguir considerando a Trump como un aliado en la guerra contra Rusia?",
+          "link": "https://www.bbc.com/mundo/articles/cm0rl0e9ejv2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-20T20:30:06.000Z"
+          "published": "2026-10-21T10:19:07.000Z"
         },
         {
-          "title": "Gloria Guevara, presidenta de WTTC: \"El Mundial puso a México frente a millones de personas y dejó infraestructura y experiencia\"",
-          "link": "https://www.dw.com/es/gloria-guevara-presidenta-de-wttc-el-mundial-puso-a-méxico-frente-a-millones-de-personas-y-dejó-infraestructura-y-experiencia/a-79716894?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-20T20:27:00.000Z"
+          "title": "Rusia libera al estadounidense Stephen Hubbard en pleno acercamiento entre Trump y Putin",
+          "link": "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html",
+          "source": "El País Internacional",
+          "published": "2026-10-21T10:05:27.000Z"
         },
         {
-          "title": "Trump usa las violentas protestas en Francia para fortalecer su discurso antimigración en Kansas",
-          "link": "https://www.france24.com/es/video/20261020-trump-usa-las-violentas-protestas-en-francia-para-fortalecer-su-discurso-antimigraci%C3%B3n-en-kansas",
-          "source": "France 24",
-          "published": "2026-10-20T20:18:13.000Z"
-        },
-        {
-          "title": "Hegseth visita Israel por sorpresa y antes de las elecciones, que ya no cuentan con Benny Gantz",
-          "link": "https://www.france24.com/es/video/20261020-hegseth-visita-israel-por-sorpresa-y-antes-de-las-elecciones-que-ya-no-cuentan-con-benny-gantz",
-          "source": "France 24",
-          "published": "2026-10-20T20:15:06.000Z"
-        },
-        {
-          "title": "Volodimir Zelenski plantea a Steve Witkoff ideas sobre la paz para transmitir a Vladimir Putin en San Petersburgo",
-          "link": "https://www.dw.com/es/volodimir-zelenski-plantea-a-steve-witkoff-ideas-sobre-la-paz-para-transmitir-a-vladimir-putin-en-san-petersburgo/a-79717797?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-20T20:02:00.000Z"
-        },
-        {
-          "title": "La Casa Blanca vuelve a vetar a CNN: impide que un equipo de la cadena vuele con Trump a bordo del Air Force One",
-          "link": "https://www.20minutos.es/internacional/casa-blanca-vuelve-vetar-cnn-impide-que-un-equipo-cadena-vuele-con-trump-bordo-air-force-one_7051282_0.html",
+          "title": "Cambio de hora: ¿Por qué Europa no llegan a un acuerdo si su deseo es ponerle fin?",
+          "link": "https://www.20minutos.es/internacional/cambio-hora-por-que-europa-no-acuerdo-deseo-ponerle-fin_7051413_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-20T19:56:39.000Z"
+          "published": "2026-10-21T09:59:08.000Z"
         },
         {
-          "title": "El Ejército israelí afirma haber matado a un alto cargo de Hamás en la Franja de Gaza",
-          "link": "https://www.20minutos.es/internacional/ejercito-israeli-afirma-haber-matado-un-alto-cargo-hamas-franja-gaza_7051284_0.html",
+          "title": "Detenido György Matolcsy, exjefe del banco central de Hungría y estrecho colaborador de Orbán",
+          "link": "https://elpais.com/internacional/2026-10-21/detenido-gyorgy-matolcsy-exjefe-del-banco-central-de-hungria-y-estrecho-colaborador-de-orban.html",
+          "source": "El País Internacional",
+          "published": "2026-10-21T09:06:18.000Z"
+        },
+        {
+          "title": "Costa y Von der Leyen endurecen su mensaje para distanciar a la UE de EEUU y China: \"Hay que tener fuerza y recursos\"",
+          "link": "https://www.20minutos.es/internacional/costa-von-der-leyen-endurecen-su-mensaje-para-distanciar-ue-eeuu-china-hay-que-tener-fuerza-recursos_7051410_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-20T19:56:32.000Z"
+          "published": "2026-10-21T08:58:58.000Z"
+        },
+        {
+          "title": "EEUU vuelve a compartir inteligencia con Ucrania mientras Witkoff se reúne con Putin para tratar de relanzar la paz",
+          "link": "https://www.20minutos.es/internacional/eeuu-vuelve-compartir-inteligencia-con-ucrania-mientras-witkoff-se-reune-con-putin-para-tratar-relanzar-paz_7051396_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-21T08:53:40.000Z"
+        },
+        {
+          "title": "El Gobierno británico vuelve a autorizar perforaciones de gas en el mar del Norte por la “inestabilidad global” provocada por la guerra de Irán",
+          "link": "https://www.eldiario.es/internacional/gobierno-britanico-vuelve-autorizar-perforaciones-gas-mar-norte-inestabilidad-global-provocada-guerra-iran_1_13602226.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-21T08:17:33.000Z"
         }
       ]
     }
