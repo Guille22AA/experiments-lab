@@ -1,12 +1,25 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-21T10:49:23.184Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-21T16:17:46.294Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "Un acto de Abascal en A Coruña acaba con cargas policiales y jóvenes antifascistas heridos",
+          "link": "https://elpais.com/espana/galicia/2026-10-21/un-acto-de-abascal-en-a-coruna-acaba-con-cargas-policiales-y-jovenes-antifascistas-heridos.html",
+          "source": "El País",
+          "summary": "Asistentes y convocantes de la multitudinaria protesta contra Vox, cercada por un gran despliegue policial, denuncian una actuación “desproporcionada” de los agentes",
+          "sources": [
+            "El País",
+            "20minutos",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-21T16:17:46.294Z"
+        },
         {
           "title": "Milei llama en Madrid “impresentable dictador” a Sánchez y pide “sacar a patadas a los socialistas”",
           "link": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
@@ -32,6 +45,18 @@
           "firstSeen": "2026-10-21T10:49:23.184Z"
         },
         {
+          "title": "La jueza pregunta a Defensa si buques de guerra marroquíes ingresaron en aguas de Ceuta entre julio y agosto",
+          "link": "https://www.europapress.es/nacional/noticia-jueza-pregunta-defensa-si-buques-guerra-marroquies-ingresaron-aguas-ceuta-julio-agosto-20261021143813.html",
+          "source": "Europa Press",
+          "summary": "La jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva en Ceuta de migrantes procedentes de Marruecos, ha preguntado al Ministerio de Defensa si tiene constancia de la entrada en aguas de la ciudad autónoma de buques de guerra o embarcaciones militares marroquíes entre el 29 de julio, un día antes de los hechos, y el 10 de agosto.",
+          "sources": [
+            "Europa Press",
+            "20minutos",
+            "El País"
+          ],
+          "firstSeen": "2026-10-21T16:17:46.294Z"
+        },
+        {
           "title": "Ceuta sufre un apagón de cerca de una hora en toda la ciudad",
           "link": "https://www.eldiario.es/economia/ceuta-sufre-apagon-cerca-hora-ciudad_1_13602484.html",
           "source": "elDiario.es",
@@ -41,67 +66,56 @@
             "20minutos"
           ],
           "firstSeen": "2026-10-21T10:49:23.184Z"
-        },
-        {
-          "title": "Sánchez da la bienvenida a Milei con una lona en Ferraz y un vídeo: “Orgullosos de ser zurdos”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-da-la-bienvenida-a-milei-con-una-lona-en-ferraz-y-un-video-orgullosos-de-ser-zurdos.html",
-          "source": "El País",
-          "summary": "El PSOE aprovecha la visita del presidente argentino a Madrid para visibilizar la incomodidad de la derecha y reivindicar las políticas del Gobierno de España frente a los recortes del líder ultraderechista",
-          "sources": [
-            "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-21T10:49:23.184Z"
         }
       ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | Feijóo promete rebajas de impuestos a los jóvenes que compren una casa y construir un millón de viviendas si llega a La Moncloa",
+          "title": "Última hora de la actualidad política, en directo | Ayuso recibe calurosamente a Milei en Madrid ante el silencio del resto del PP",
           "link": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-10-21T10:46:22.000Z"
+          "published": "2026-10-21T16:17:14.000Z"
         },
         {
-          "title": "Una asociación pide frenar la subasta de objetos del Pazo de Meirás que sacan a la venta los herederos de Franco",
-          "link": "https://www.elsaltodiario.com/galicia/una-asociacion-pide-frenar-subasta-objetos-del-pazo-meiras-sacan-venta-herederos-franco?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-21T10:34:00.000Z"
-        },
-        {
-          "title": "Las empresas del gran consumo piden atajar el \"absentismo\": \"No es un problema de salud sino de gestión\"",
-          "link": "https://www.eldiario.es/economia/empresas-gran-consumo-piden-atajar-absentismo-no-problema-salud-gestion_1_13602759.html",
+          "title": "PP y Vox planean gravar más a las renovables en Castilla y León: “Un nuevo impuesto al sol”",
+          "link": "https://www.eldiario.es/economia/pp-vox-planean-gravar-renovables-castilla-leon-nuevo-impuesto-sol_1_13604345.html",
           "source": "elDiario.es",
-          "published": "2026-10-21T10:29:28.000Z"
+          "published": "2026-10-21T15:53:28.000Z"
         },
         {
-          "title": "La colíder de Sumar y portavoz en el Congreso irá en el cuarto puesto de la lista de Frente Amplio en Madrid",
-          "link": "https://www.europapress.es/nacional/noticia-colider-sumar-portavoz-congreso-ira-cuarto-puesto-lista-frente-amplio-madrid-20261021122303.html",
-          "source": "Europa Press",
-          "published": "2026-10-21T10:23:03.000Z"
+          "title": "Francisco Camps define como \"pandemia de horror\" el bulo del 'caso Bar España': \"Usaron mi nombre para darle mayor eco\"",
+          "link": "https://www.eldiario.es/comunitat-valenciana/francisco-camps-define-pandemia-horror-bulo-caso-bar-espana-usaron-nombre-darle-mayor-eco_1_13604024.html",
+          "source": "elDiario.es",
+          "published": "2026-10-21T15:31:53.000Z"
         },
         {
-          "title": "Bruselas sospecha que Booking no hace lo suficiente para vigilar los fraudes en las reservas y los datos de los clientes",
-          "link": "https://elpais.com/economia/2026-10-21/bruselas-sospecha-que-booking-no-hace-lo-suficiente-para-vigilar-los-fraudes-en-las-reservas-y-los-datos-de-los-clientes.html",
+          "title": "Milei magnifica en Madrid sus logros en Argentina y omite datos desfavorables",
+          "link": "https://elpais.com/argentina/2026-10-21/milei-agrava-la-herencia-recibida-magnifica-sus-logros-y-omite-datos-desfavorables-en-su-viaje-a-madrid.html",
           "source": "El País",
-          "published": "2026-10-21T10:10:40.000Z"
+          "published": "2026-10-21T15:24:26.000Z"
         },
         {
-          "title": "Un juzgado abre una causa contra la creadora de la instrucción sobre la ley de nietos tras una denuncia de HazteOír",
-          "link": "https://www.eldiario.es/politica/juzgado-abre-causa-creadora-instruccion-ley-nietos-denuncia-hazteoir_1_13602700.html",
-          "source": "elDiario.es",
-          "published": "2026-10-21T10:05:10.000Z"
+          "title": "La policía carga contra una multitudinaria manifestación antifascista en A Coruña: una decena de heridos y varios detenidos",
+          "link": "https://diariosocialista.net/2026/10/21/la-policia-carga-contra-una-multitudinaria-manifestacion-antifascista-en-a-coruna-una-decena-de-heridos-y-varios-detenidos/",
+          "source": "Diario Socialista",
+          "published": "2026-10-21T15:18:04.000Z"
         },
         {
-          "title": "Sánchez cesa a delegados en Cataluña, Andalucía, Asturias, C.Valenciana y Aragón para que entren en listas",
-          "link": "https://www.europapress.es/nacional/noticia-sanchez-cesa-delegados-cataluna-andalucia-asturias-cvalenciana-aragon-entren-listas-20261021115933.html",
-          "source": "Europa Press",
-          "published": "2026-10-21T09:59:33.000Z"
-        },
-        {
-          "title": "Feijóo elaborará un plan nacional de vivienda con todas las administraciones y concederá deducciones para renovar alquileres",
-          "link": "https://www.20minutos.es/nacional/feijoo-elaborara-un-plan-nacional-vivienda-con-todas-las-administraciones-concedera-deducciones-fiscales-para-renovar-alquileres_7051446_0.html",
+          "title": "El Gobierno condena los insultos de Milei contra Sánchez y los tilda de \"indignos\"",
+          "link": "https://www.20minutos.es/nacional/exteriores-condena-los-insultos-milei-contra-sanchez-los-tilda-indignos_7051693_0.html",
           "source": "20minutos",
-          "published": "2026-10-21T09:53:11.000Z"
+          "published": "2026-10-21T15:15:29.000Z"
+        },
+        {
+          "title": "Exteriores ve \"indigno\" que Milei venga a España a insultar a Sánchez y \"fomentar la polarización entre españoles\"",
+          "link": "https://www.europapress.es/nacional/noticia-exteriores-ve-indigno-milei-venga-espana-insultar-sanchez-fomentar-polarizacion-espanoles-20261021170604.html",
+          "source": "Europa Press",
+          "published": "2026-10-21T15:06:04.000Z"
+        },
+        {
+          "title": "La jueza víctima del bulo del ‘bar España’: “Me acusaron de asesinar y violar a niños. He sentido miedo físico”",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-21/la-jueza-victima-del-bulo-del-bar-espana-me-acusaron-de-asesinar-y-violar-a-ninos-he-sentido-miedo-fisico.html",
+          "source": "El País",
+          "published": "2026-10-21T15:05:11.000Z"
         }
       ]
     },
@@ -131,56 +145,78 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-10-21T10:49:23.184Z"
+        },
+        {
+          "title": "Putin acepta reanudar las negociaciones con Ucrania y EEUU en noviembre",
+          "link": "https://www.eldiario.es/internacional/putin-acepta-reanudar-negociaciones-ucrania-eeuu-noviembre_1_13604001.html",
+          "source": "elDiario.es Internacional",
+          "summary": "\"En principio, estamos dispuestos a reanudar las negociaciones tripartitas en torno al 10 de noviembre sobre el asunto más importante: la creación de un sistema de seguridad para Rusia y Ucrania al término del conflicto\", ha dicho Yuri Ushakov, asesor del Kremlin, tras la reunión mantenida con el emisario de la Casa Blanca, Steve Witkoff Del pacto con Putin por el diésel ruso a las interrupciones de SpaceX: Trump sacrifica Ucrania para intentar salvar sus elecciones El presidente ruso, Vladímir Putin, se ha mostrado este miércoles dispuesto a reanudar en noviembre las negociaciones de paz…",
+          "sources": [
+            "elDiario.es Internacional",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-21T16:17:46.294Z"
+        },
+        {
+          "title": "Javier Milei llama \"impresentable dictador\" a Pedro Sánchez",
+          "link": "https://www.dw.com/es/javier-milei-llama-impresentable-dictador-a-pedro-sánchez/a-79720677?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "El presidente ultraliberal de Argentina, Javier Milei, criticó al jefe del Gobierno español, el socialista Pedro Sánchez, en una visita a Madrid, a casi un mes de las elecciones generales españolas del 29 de noviembre.",
+          "sources": [
+            "DW",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-21T16:17:46.294Z"
         }
       ],
       "items": [
         {
-          "title": "Italia sospecha que el caos de Milán no fue espontáneo y cree que un actor extranjero pudo agitar a los jóvenes",
-          "link": "https://elpais.com/internacional/2026-10-21/italia-sospecha-que-el-caos-de-milan-no-fue-espontaneo-y-cree-que-un-actor-extranjero-pudo-agitar-a-los-jovenes.html",
+          "title": "Israel detiene brevemente en Cisjordania al candidato demócrata estadounidense Brad Lander",
+          "link": "https://elpais.com/internacional/2026-10-21/israel-detiene-en-cisjordania-a-brad-lander-candidato-democrata-al-congreso-estadounidense-y-aliado-de-mamdani.html",
           "source": "El País Internacional",
-          "published": "2026-10-21T10:30:49.000Z"
+          "published": "2026-10-21T16:08:03.000Z"
         },
         {
-          "title": "A pesar de un renovado optimismo, ¿puede Zelenski seguir considerando a Trump como un aliado en la guerra contra Rusia?",
-          "link": "https://www.bbc.com/mundo/articles/cm0rl0e9ejv2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-21T10:19:07.000Z"
-        },
-        {
-          "title": "Rusia libera al estadounidense Stephen Hubbard en pleno acercamiento entre Trump y Putin",
-          "link": "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html",
+          "title": "Netanyahu alimenta el temor a un nuevo ataque a Irán a días de las elecciones en Israel y EE UU",
+          "link": "https://elpais.com/internacional/2026-10-21/netanyahu-alimenta-el-temor-a-un-nuevo-ataque-a-iran-a-dias-de-las-elecciones-en-israel-y-ee-uu.html",
           "source": "El País Internacional",
-          "published": "2026-10-21T10:05:27.000Z"
+          "published": "2026-10-21T16:02:33.000Z"
         },
         {
-          "title": "Cambio de hora: ¿Por qué Europa no llegan a un acuerdo si su deseo es ponerle fin?",
-          "link": "https://www.20minutos.es/internacional/cambio-hora-por-que-europa-no-acuerdo-deseo-ponerle-fin_7051413_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-21T09:59:08.000Z"
+          "title": "La líder de la ultraderecha AfD lleva a la Eurocámara su discurso antieuropeo contra el Estado del Bienestar",
+          "link": "https://www.eldiario.es/internacional/lider-ultraderecha-afd-lleva-eurocamara-discurso-antieuropeo-bienestar_1_13604079.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-21T15:52:38.000Z"
+        },
+        {
+          "title": "Directo París y la oficialización de la solicitud de protesta de los chalecos amarillos",
+          "link": "https://www.france24.com/es/video/20261021-directo-par%C3%ADs-y-la-oficializaci%C3%B3n-de-la-solicitud-de-protesta-de-los-chalecos-amarillos",
+          "source": "France 24",
+          "published": "2026-10-21T15:38:38.000Z"
+        },
+        {
+          "title": "El Constitucional español no admite el recurso del Defensor del Pueblo por ley de nietos",
+          "link": "https://www.dw.com/es/el-constitucional-español-no-admite-el-recurso-del-defensor-del-pueblo-por-ley-de-nietos/a-79725364?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-21T15:21:00.000Z"
+        },
+        {
+          "title": "Miles de estudiantes y profesores protestan en Grecia por los recortes en educación y el coste de la vida",
+          "link": "https://elpais.com/internacional/2026-10-21/miles-de-estudiantes-y-profesores-protestan-en-grecia-por-los-recortes-en-educacion-y-el-coste-de-la-vida.html",
+          "source": "El País Internacional",
+          "published": "2026-10-21T14:58:51.000Z"
+        },
+        {
+          "title": "Líbano: ¿quién garantizará la seguridad tras la salida de la Fuerza Provisional de las Naciones Unidas?",
+          "link": "https://www.dw.com/es/líbano-¿quién-garantizará-la-seguridad-tras-la-salida-de-la-fuerza-provisional-de-las-naciones-unidas/a-79724562?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-21T14:58:00.000Z"
         },
         {
           "title": "Detenido György Matolcsy, exjefe del banco central de Hungría y estrecho colaborador de Orbán",
           "link": "https://elpais.com/internacional/2026-10-21/detenido-gyorgy-matolcsy-exjefe-del-banco-central-de-hungria-y-estrecho-colaborador-de-orban.html",
           "source": "El País Internacional",
-          "published": "2026-10-21T09:06:18.000Z"
-        },
-        {
-          "title": "Costa y Von der Leyen endurecen su mensaje para distanciar a la UE de EEUU y China: \"Hay que tener fuerza y recursos\"",
-          "link": "https://www.20minutos.es/internacional/costa-von-der-leyen-endurecen-su-mensaje-para-distanciar-ue-eeuu-china-hay-que-tener-fuerza-recursos_7051410_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-21T08:58:58.000Z"
-        },
-        {
-          "title": "EEUU vuelve a compartir inteligencia con Ucrania mientras Witkoff se reúne con Putin para tratar de relanzar la paz",
-          "link": "https://www.20minutos.es/internacional/eeuu-vuelve-compartir-inteligencia-con-ucrania-mientras-witkoff-se-reune-con-putin-para-tratar-relanzar-paz_7051396_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-21T08:53:40.000Z"
-        },
-        {
-          "title": "El Gobierno británico vuelve a autorizar perforaciones de gas en el mar del Norte por la “inestabilidad global” provocada por la guerra de Irán",
-          "link": "https://www.eldiario.es/internacional/gobierno-britanico-vuelve-autorizar-perforaciones-gas-mar-norte-inestabilidad-global-provocada-guerra-iran_1_13602226.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-21T08:17:33.000Z"
+          "published": "2026-10-21T14:56:58.000Z"
         }
       ]
     }
