@@ -1,122 +1,95 @@
 {
-  "date": "2026-10-21",
-  "updatedAt": "2026-10-21T21:01:18.699Z",
-  "edition": "tarde",
+  "date": "2026-10-22",
+  "updatedAt": "2026-10-22T10:50:19.585Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Un acto de Abascal en A Coruña acaba con cargas policiales y jóvenes antifascistas heridos",
-          "link": "https://elpais.com/espana/galicia/2026-10-21/un-acto-de-abascal-en-a-coruna-acaba-con-cargas-policiales-y-jovenes-antifascistas-heridos.html",
+          "title": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
+          "link": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html",
           "source": "El País",
-          "summary": "Asistentes y convocantes de la multitudinaria protesta contra Vox, cercada por un gran despliegue policial, denuncian una actuación “desproporcionada” de los agentes",
+          "summary": "La diputada madrileña y el parlamentario vasco, que han tenido discrepancias en el pasado, representan las dos almas del PP",
           "sources": [
             "El País",
-            "20minutos",
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-21T16:17:46.294Z"
-        },
-        {
-          "title": "Milei llama en Madrid “impresentable dictador” a Sánchez y pide “sacar a patadas a los socialistas”",
-          "link": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
-          "source": "El País",
-          "summary": "El presidente argentino se reconoce amigo de Abascal y Ayuso y asegura que visita España para apoyarles en plena precampaña electoral",
-          "sources": [
-            "El País",
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-21T10:49:23.184Z"
-        },
-        {
-          "title": "Trump veta la entrada de Ada Colau en Puerto Rico por su participación en la flotilla a Gaza",
-          "link": "https://www.elsaltodiario.com/estados-unidos/trump-veta-ada-colau-puerto-rico-flotilla-gaza?utm_source=feed",
-          "source": "El Salto",
-          "summary": "La ex alcaldesa de Barcelona y candidata del Frente Amplio iba a participar en el encuentro municipalista Fearless Cities, al que también tenía previsto acudir inicialmente el alcalde de Nueva York, Zohran Mamdani. Temas principal: Estados Unidos Leer artículo completo",
-          "sources": [
-            "El Salto",
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-21T10:49:23.184Z"
-        },
-        {
-          "title": "La jueza pregunta a Defensa si buques de guerra marroquíes ingresaron en aguas de Ceuta entre julio y agosto",
-          "link": "https://www.europapress.es/nacional/noticia-jueza-pregunta-defensa-si-buques-guerra-marroquies-ingresaron-aguas-ceuta-julio-agosto-20261021143813.html",
-          "source": "Europa Press",
-          "summary": "La jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva en Ceuta de migrantes procedentes de Marruecos, ha preguntado al Ministerio de Defensa si tiene constancia de la entrada en aguas de la ciudad autónoma de buques de guerra o embarcaciones militares marroquíes entre el 29 de julio, un día antes de los hechos, y el 10 de agosto.",
-          "sources": [
-            "Europa Press",
-            "20minutos",
-            "El País"
-          ],
-          "firstSeen": "2026-10-21T16:17:46.294Z"
-        },
-        {
-          "title": "El Constitucional rechaza el amparo por la ‘ley de nietos’ y deja en el aire el voto de 160.000 españoles",
-          "link": "https://elpais.com/espana/2026-10-21/el-constitucional-rechaza-el-amparo-por-la-ley-de-nietos-con-el-voto-en-contra-de-dos-magistrados-progresistas.html",
-          "source": "El País",
-          "summary": "Diez magistrados del órgano de garantías consideran que debe agotarse primero la vía del Supremo y se inadmite el recurso del Defensor del Pueblo con el voto en contra de dos progresistas",
-          "sources": [
-            "El País",
-            "20minutos",
+            "elDiario.es",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-21T21:01:18.699Z"
+          "firstSeen": "2026-10-22T10:50:19.585Z"
+        },
+        {
+          "title": "Ayuso defiende el abrazo con Milei y la oposición responde: \"Se ha reunido más veces con él que con los profesores\"",
+          "link": "https://www.eldiario.es/madrid/ayuso-defiende-abrazo-milei-oposicion-responde-reunido-veces-profesores_1_13605631.html",
+          "source": "elDiario.es",
+          "summary": "La presidenta de la Comunidad de Madrid justifica la reunión con el dirigente argentino y equipara a Pedro Sánchez con Nicolás Maduro después de que Milei llamara \"dictador\" al presidente del Gobierno español La irrupción en campaña de Milei pone en apuros a PP y Vox y regala otra baza electoral a Sánchez Las protestas de cientos de personas a las puertas de la Asamblea de Madrid son este jueves la banda sonora de un nuevo pleno tenso, solo un día después de la imagen del abrazo que dejaba la reunión entre Isabel Díaz Ayuso y Javier Milei. La líder madrileña ha justificado el encuentro en las…",
+          "sources": [
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-10-22T10:50:19.585Z"
+        },
+        {
+          "title": "El juez propone juzgar a otros cuatro exjefes de ETA por el atentado mortal de Santa Pola de 2002",
+          "link": "https://elpais.com/espana/2026-10-22/el-juez-propone-juzgar-a-otros-cuatro-exjefes-de-eta-por-el-atentado-mortal-de-santa-pola-de-2002.html",
+          "source": "El País",
+          "summary": "Olarra, Múgica, Iparraguirre y Esparza se suman a los también exdirigentes Albisu y Sagarzazu, ya procesados en la causa en agosto de 2024",
+          "sources": [
+            "El País",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-22T10:50:19.585Z"
         }
       ],
       "items": [
         {
-          "title": "Las protestas contra la actuación policial tras el acto de Abascal en A Coruña terminan con nuevos altercados",
-          "link": "https://www.eldiario.es/galicia/protestas-actuacion-policial-acto-abascal-coruna-terminan-nuevos-altercados_1_13604996.html",
-          "source": "elDiario.es",
-          "published": "2026-10-21T20:35:07.000Z"
-        },
-        {
-          "title": "Gabriela Sánchez, sobre las palizas de militares a personas migrantes en Ceuta: “Después de todo lo publicado, siguen denunciando casos\"",
-          "link": "https://www.eldiario.es/desalambre/gabriela-sanchez-denuncias-palizas-militares-personas-migrantes-ceuta-haciendo-vista-gorda_1_13604945.html",
-          "source": "elDiario.es",
-          "published": "2026-10-21T19:43:26.000Z"
-        },
-        {
-          "title": "A Coruña responde masivamente a la violencia policial ejercida durante el acto de Vox en María Pita",
-          "link": "https://www.elsaltodiario.com/galicia/coruna-responde-masivamente-violencia-policial-ejercida-durante-acto-vox-maria-pita?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-21T19:13:00.000Z"
-        },
-        {
-          "title": "Multa histórica para Meta: pagará 25.000 millones de dólares en Nuevo México por las malas prácticas de Facebook",
-          "link": "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
+          "title": "El PP da un paso más en su campaña y suplanta la identidad de Begoña Gómez, Zapatero y Ábalos: “¿Irse de putas? Sí, soy zurdo”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-pp-da-un-paso-mas-en-su-campana-y-suplanta-la-identidad-de-begona-gomez-zapatero-y-abalos-irse-de-putas-si-soy-zurdo.html",
           "source": "El País",
-          "published": "2026-10-21T18:56:28.000Z"
+          "published": "2026-10-22T10:43:28.000Z"
         },
         {
-          "title": "Sánchez exprime la visita de Milei para alertar contra PP y Vox: \"No proponen alternancia, es involución\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-exprime-visita-milei-para-alertar-contra-pp-vox-no-proponen-alternancia-es-una-involucion_7051777_0.html",
-          "source": "20minutos",
-          "published": "2026-10-21T18:56:23.000Z"
+          "title": "Unos 3.000 profesores llevan su protesta a la Asamblea de Madrid para reclamar una negociación",
+          "link": "https://elpais.com/espana/madrid/2026-10-22/unos-3000-profesores-llevan-su-protesta-a-la-asamblea-de-madrid-para-reclamar-una-negociacion.html",
+          "source": "El País",
+          "published": "2026-10-22T10:39:30.000Z"
         },
         {
-          "title": "Pedro Sánchez visitará 'La Revuelta' este jueves en plena precampaña electoral para el 29N",
-          "link": "https://www.20minutos.es/television/pedro-sanchez-visitara-revuelta-este-jueves-plena-precampana-electoral_7051776_0.html",
-          "source": "20minutos",
-          "published": "2026-10-21T18:54:13.000Z"
+          "title": "La portavoz de los Comuns en el Congreso, Aina Vidal, sale de las listas del 29N",
+          "link": "https://www.eldiario.es/catalunya/portavoz-comuns-congreso-aina-vidal-sale-listas-29n_1_13606003.html",
+          "source": "elDiario.es",
+          "published": "2026-10-22T10:23:05.000Z"
         },
         {
-          "title": "La videollamada entre Javier Milei y Santiago Abascal: \"No hay nada más divertido que patear culos zurdos\"",
-          "link": "https://www.20minutos.es/nacional/videollamada-entre-milei-abascal-tras-los-insultos-argentino-sanchez-no-hay-nada-mas-divertido-que-patear-culos-zurdos_7051767_0.html",
-          "source": "20minutos",
-          "published": "2026-10-21T18:52:32.000Z"
+          "title": "El Estado Mayor británico pide a la población “asumir sacrificios por la guerra”",
+          "link": "https://diariosocialista.net/2026/10/22/el-estado-mayor-britanico-pide-a-la-poblacion-asumir-sacrificios-por-la-guerra/",
+          "source": "Diario Socialista",
+          "published": "2026-10-22T10:00:39.000Z"
         },
         {
-          "title": "El enfrentamiento entre Milei y Lali Espósito que ha recordado Pedro Sánchez por la visita del presidente argentino a España",
-          "link": "https://www.20minutos.es/gente/enfrentamiento-entre-milei-lali-esposito-que-ha-recordado-pedro-sanchez-por-visita-presidente-argentino-espana_7051731_0.html",
+          "title": "Vox: “Prioridad nacional”, financiación extranjera",
+          "link": "https://diariosocialista.net/2026/10/22/vox-prioridad-nacional-financiacion-extranjera/",
+          "source": "Diario Socialista",
+          "published": "2026-10-22T10:00:02.000Z"
+        },
+        {
+          "title": "Katrin Ortega, la alcaldesa más votada de Málaga, deja el PSOE: \"No me siento representada\"",
+          "link": "https://www.20minutos.es/andalucia/malaga/katrin-ortega-alcaldesa-mas-votada-malaga-deja-psoe-no-me-siento-representada-nivel-nacional_7051964_0.html",
           "source": "20minutos",
-          "published": "2026-10-21T18:41:25.000Z"
+          "published": "2026-10-22T09:59:10.000Z"
+        },
+        {
+          "title": "Puente condena los actos violentos contra Abascal en Galicia y recuerda que \"la mejor forma de parar al fascismo es votando el 29N\"",
+          "link": "https://www.20minutos.es/nacional/puente-condena-los-actos-violentos-contra-abascal-galicia-recuerda-que-mejor-forma-parar-fascismo-es-votando-29n_7051942_0.html",
+          "source": "20minutos",
+          "published": "2026-10-22T09:44:32.000Z"
+        },
+        {
+          "title": "Gran despliegue policial para desahuciar a un científico en Burjassot: \"Me he sentido como si fuese un puñetero terrorista de Al Qaeda\"",
+          "link": "https://www.eldiario.es/comunitat-valenciana/sociedad/amplio-despliegue-policial-desahuciar-cientifico-burjassot-he-sentido-si-fuese-punetero-terrorista-qaeda_1_13605696.html",
+          "source": "elDiario.es",
+          "published": "2026-10-22T09:31:00.000Z"
         }
       ]
     },
@@ -125,110 +98,112 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Meloni aprueba el arresto preventivo de menores y envía 500 militares a Milán tras los disturbios",
-          "link": "https://www.eldiario.es/internacional/meloni-aprueba-arresto-preventivo-menores-envia-500-militares-milan-disturbios_1_13601631.html",
-          "source": "elDiario.es Internacional",
-          "summary": "El Gobierno ha aprobado medidas que incluyen la creación del delito de participación violenta en una manifestación, con penas de hasta cinco años de prisión y multas de hasta 20.000 euros para quienes participen en acciones violentas en grupo El Gobierno de Meloni quiere desplegar soldados en las calles de Milán tras los disturbios del pasado fin de semana El Gobierno de Italia autorizó este martes reforzar con otros 500 soldados el dispositivo de seguridad pública en Milán (norte) tras los disturbios y saqueos del pasado fin de semana, según confirmó la primera ministra, Giorgia Meloni, en…",
+          "title": "La Corte Penal Internacional gana el Premio Sájarov de derechos humanos de la UE",
+          "link": "https://www.france24.com/es/europa/20261022-la-corte-penal-internacional-gana-el-premio-s%C3%A1jarov-de-derechos-humanos-de-la-ue",
+          "source": "France 24",
+          "summary": "La Corte Penal Internacional, que la Administración del presidente estadounidense Donald Trump ha amenazado con desmantelar \"ladrillo a ladrillo\", ha sido galardonada con el Premio Sájarov de derechos humanos de la Unión Europea.",
           "sources": [
-            "elDiario.es Internacional",
+            "France 24",
             "El País Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-21T10:49:23.184Z"
-        },
-        {
-          "title": "Israelí afirma que mató a un alto cargo de Hamás en la Franja de Gaza",
-          "link": "https://www.dw.com/es/israelí-afirma-que-mató-a-un-alto-cargo-de-hamás-en-la-franja-de-gaza/a-79718456?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Rescatistas y hospitales de Gaza confirmaron la muerte de siete palestinos en varios bombardeos israelíes.",
-          "sources": [
-            "DW",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-21T10:49:23.184Z"
-        },
-        {
-          "title": "Putin acepta reanudar las negociaciones con Ucrania y EEUU en noviembre",
-          "link": "https://www.eldiario.es/internacional/putin-acepta-reanudar-negociaciones-ucrania-eeuu-noviembre_1_13604001.html",
-          "source": "elDiario.es Internacional",
-          "summary": "\"En principio, estamos dispuestos a reanudar las negociaciones tripartitas en torno al 10 de noviembre sobre el asunto más importante: la creación de un sistema de seguridad para Rusia y Ucrania al término del conflicto\", ha dicho Yuri Ushakov, asesor del Kremlin, tras la reunión mantenida con el emisario de la Casa Blanca, Steve Witkoff Del pacto con Putin por el diésel ruso a las interrupciones de SpaceX: Trump sacrifica Ucrania para intentar salvar sus elecciones El presidente ruso, Vladímir Putin, se ha mostrado este miércoles dispuesto a reanudar en noviembre las negociaciones de paz…",
-          "sources": [
             "elDiario.es Internacional",
-            "France 24"
+            "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-21T16:17:46.294Z"
+          "firstSeen": "2026-10-22T10:50:19.585Z"
         },
         {
-          "title": "Javier Milei llama \"impresentable dictador\" a Pedro Sánchez",
-          "link": "https://www.dw.com/es/javier-milei-llama-impresentable-dictador-a-pedro-sánchez/a-79720677?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El presidente ultraliberal de Argentina, Javier Milei, criticó al jefe del Gobierno español, el socialista Pedro Sánchez, en una visita a Madrid, a casi un mes de las elecciones generales españolas del 29 de noviembre.",
+          "title": "Caso Cambridge Analytica: Meta recibe una sanción de 25.000 millones de dólares en Nuevo México",
+          "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261022-caso-cambridge-analytica-meta-recibe-una-sanci%C3%B3n-de-25-000-millones-de-d%C3%B3lares-en-nuevo-m%C3%A9xico",
+          "source": "France 24",
+          "summary": "Un juez de Nuevo México ordenó a Meta pagar 25.000 millones de dólares por engañar a los usuarios sobre el uso de sus datos personales, en un caso vinculado al escándalo de Cambridge Analytica, según medios estadounidenses. La compañía calificó la sanción de \"impuesto a la libertad de expresión\" y anunció que apelará.",
           "sources": [
+            "France 24",
             "DW",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-21T16:17:46.294Z"
+          "firstSeen": "2026-10-22T10:50:19.585Z"
         },
         {
-          "title": "Meta condenada a pagar 25.000 millones de dólares por engañar en las condiciones de uso en un caso relacionado con el de Cambridge Analytica",
-          "link": "https://www.dw.com/es/meta-condenada-a-pagar-25-000-millones-de-dólares-por-engañar-en-las-condiciones-de-uso-en-un-caso-relacionado-con-el-de-cambridge-analytica/a-79726547?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Un juez de Nuevo México dictaminó que la compañía pague esa cantidad al Estado después de que un jurado determinara que el gigante de las redes sociales engañó a los usuarios en un caso relacionado con ese escándalo.",
+          "title": "EEUU retira al personal diplomático no esencial de Arabia Saudí ante la escalada de ataques",
+          "link": "https://www.20minutos.es/internacional/eeuu-retira-personal-diplomatico-no-esencial-arabia-saudi-ante-escalada-ataques_7051822_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El Departamento de Estado asegura que la seguridad de su personal y sus familias es su \"máxima prioridad\" y que adoptará las medidas necesarias para facilitar su regreso a Estados Unidos.",
           "sources": [
-            "DW",
-            "20minutos Internacional"
+            "20minutos Internacional",
+            "DW"
           ],
-          "firstSeen": "2026-10-21T21:01:18.699Z"
+          "firstSeen": "2026-10-22T10:50:19.585Z"
+        },
+        {
+          "title": "Informe desde San Salvador: Bukele desafía a pandillas de Haití y exige liberación de soldados",
+          "link": "https://www.france24.com/es/video/20261022-informe-desde-san-salvador-bukele-desaf%C3%ADa-a-pandillas-de-hait%C3%AD-y-exige-liberaci%C3%B3n-de-soldados",
+          "source": "France 24",
+          "summary": "El presidente salvadoreño Nayib Bukele lanzó una dura advertencia a las pandillas que mantienen retenidos a cuatro salvadoreños en Haití. Según el mandatario, los secuestrados son técnicos de aviación que participan en una misión internacional de apoyo y evacuación médica, no combatientes. Bukele anunció el inicio de una operación militar de rescate y aseguró que las acciones podrían intensificarse si los rehenes no son liberados sanos y salvos.",
+          "sources": [
+            "France 24",
+            "BBC Mundo"
+          ],
+          "firstSeen": "2026-10-22T10:50:19.585Z"
+        },
+        {
+          "title": "¿Quién es Stephen Hubbard, el maestro estadounidense liberado por Rusia a instancias de Trump?",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261021-qui%C3%A9n-es-stephen-hubbard-el-maestro-estadounidense-liberado-por-rusia-a-instancias-de-trump",
+          "source": "France 24",
+          "summary": "El estadounidense Stephen James Hubbard, liberado el miércoles 21 de octubre por Vladimir Putin, en medio de un inusual acercamiento de Rusia con el Gobierno de Donald Trump, es un profesor de inglés de 74 años. Hubbard había sido capturado hace cuatro años en Ucrania por las fuerzas rusas y condenado por mercenarismo.",
+          "sources": [
+            "France 24",
+            "BBC Mundo"
+          ],
+          "firstSeen": "2026-10-22T10:50:19.585Z"
         }
       ],
       "items": [
         {
-          "title": "A pesar de un renovado optimismo, ¿puede Zelensky seguir considerando a Trump como un aliado en la guerra contra Rusia?",
-          "link": "https://www.bbc.com/mundo/articles/cm0rl0e9ejv2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-21T20:38:01.000Z"
+          "title": "Rusia golpea Kiev con varias oleadas de misiles balísticos horas después de la propuesta ucrania de negociación",
+          "link": "https://elpais.com/internacional/2026-10-22/rusia-golpea-kiev-con-varias-oleadas-de-misiles-balisticos-unas-horas-despues-de-la-propuesta-ucrania-de-negociacion.html",
+          "source": "El País Internacional",
+          "published": "2026-10-22T09:27:09.000Z"
         },
         {
-          "title": "El Supremo de EEUU impide al Gobierno de Trump limitar tratamientos a reclusos trans",
-          "link": "https://www.20minutos.es/internacional/supremo-eeuu-impide-gobierno-trump-limitar-tratamientos-reclusos-trans_7051780_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-21T20:23:43.000Z"
-        },
-        {
-          "title": "Detenido un hombre en Kansas por amenazar de muerte a Trump en redes sociales: \"Voy a matar a este pedófilo\"",
-          "link": "https://www.20minutos.es/internacional/detenido-un-hombre-kansas-por-amenazar-muerte-trump-redes-sociales-voy-matar-este-pedofilo_7051802_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-21T20:23:12.000Z"
-        },
-        {
-          "title": "Grecia se suma a la ola de protestas: miles de personas salen a las calles para denunciar la precariedad de la educación y la vivienda",
-          "link": "https://www.20minutos.es/internacional/grecia-se-suma-ola-protestas-miles-personas-salen-las-calles-para-denunciar-precariedad-educacion-vivienda_7051798_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-21T20:07:31.000Z"
-        },
-        {
-          "title": "El voto del algoritmo en Brasil: ¿qué rol juega la IA?",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261021-el-voto-del-algoritmo-en-brasil-qu%C3%A9-rol-juega-la-ia",
+          "title": "La Cámara Baja irlandesa avanza en la eliminación del aval de la ONU para sus misiones de paz",
+          "link": "https://www.france24.com/es/europa/20261022-la-c%C3%A1mara-baja-irlandesa-avanza-en-la-eliminaci%C3%B3n-del-aval-de-la-onu-para-sus-misiones-de-paz",
           "source": "France 24",
-          "published": "2026-10-21T20:02:05.000Z"
+          "published": "2026-10-22T09:04:51.000Z"
         },
         {
-          "title": "Por qué la ola de disturbios en Francia acorrala a un Macron cada vez más aislado",
-          "link": "https://www.eldiario.es/internacional/theguardian/ola-disturbios-francia-acorrala-macron-vez-aislado_129_13603031.html",
+          "title": "Christa Pike, la condenada a muerte que sobrevivió dos veces la inyección letal en Tennessee, comienza a caminar de nuevo",
+          "link": "https://www.20minutos.es/internacional/christa-pike-condenada-muerte-que-sobrevivio-dos-veces-inyeccion-letal-tennessee-comienza-caminar-nuevo_7051928_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-22T08:43:49.000Z"
+        },
+        {
+          "title": "EEUU e Israel planifican una ofensiva contra Irán después de las elecciones de mitad de mandato, según el 'New York Times'",
+          "link": "https://www.20minutos.es/internacional/eeuu-israel-planifican-una-ofensiva-contra-iran-despues-las-elecciones-mitad-mandato-segun-new-york-times_7051922_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-22T08:34:21.000Z"
+        },
+        {
+          "title": "España acuerda con Italia poner fin a los controles fronterizos impuestos tras la crisis de Ceuta",
+          "link": "https://www.eldiario.es/internacional/espana-acuerda-italia-poner-controles-fronterizos-impuestos-crisis-ceuta_1_13605485.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-21T19:53:35.000Z"
+          "published": "2026-10-22T08:27:38.000Z"
         },
         {
-          "title": "Rusia recupera la fe en Trump tras su choque con Zelenski: “Aprovechemos para devolver Ucrania a la Edad de Piedra”",
-          "link": "https://www.eldiario.es/internacional/rusia-recupera-fe-trump-choque-zelenski-aprovechemos-devolver-ucrania-edad-piedra_1_13604397.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-21T19:53:34.000Z"
+          "title": "Bruselas contrapone su mensaje al de Trump sobre la IA y dice que regularla \"genera confianza\" en los ciudadanos",
+          "link": "https://www.20minutos.es/internacional/bruselas-contrapone-su-mensaje-trump-sobre-ia-dice-que-regularla-genera-confianza-los-ciudadanos_7051915_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-22T08:24:45.000Z"
         },
         {
-          "title": "Rusia dice estar dispuesta a reanudar las conversaciones con Ucrania y EE.UU. para poner fin a la guerra",
-          "link": "https://www.bbc.com/mundo/articles/c6wyrp0kyynwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-21T19:52:35.000Z"
+          "title": "La cumbre de Shenzen: una vuelta al colonialismo",
+          "link": "https://www.20minutos.es/internacional/cumbre-shenzen-una-vuelta-colonialismo_7051917_3.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-22T08:18:32.000Z"
+        },
+        {
+          "title": "Bruselas prohíbe el uso de patinetes eléctricos en los barrios más conflictivos para frenar el narcotráfico y los tiroteos",
+          "link": "https://www.20minutos.es/internacional/bruselas-prohibe-uso-patinetes-electricos-los-barrios-mas-conflictivos-para-frenar-narcotrafico-los-tiroteos_7051898_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-22T08:01:56.000Z"
         }
       ]
     }
