@@ -1,12 +1,26 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T16:16:32.672Z",
+  "updatedAt": "2026-10-22T20:58:25.229Z",
   "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "El PSOE acepta un cara a cara con Feijóo el 16 de noviembre y un debate a cuatro el día 26",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-psoe-acepta-un-cara-a-cara-con-feijoo-el-16-de-noviembre.html",
+          "source": "El País",
+          "summary": "Los socialistas quieren que el debate a cuatro se celebre en TVE y no en Atresmedia, como proponen los populares",
+          "sources": [
+            "El País",
+            "elDiario.es",
+            "Público",
+            "Europa Press",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-22T16:16:32.672Z"
+        },
         {
           "title": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
           "link": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html",
@@ -43,17 +57,6 @@
           "firstSeen": "2026-10-22T10:50:19.585Z"
         },
         {
-          "title": "El PSOE acepta un cara a cara con Feijóo el 16 de noviembre y un debate a cuatro el día 26",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-psoe-acepta-un-cara-a-cara-con-feijoo-el-16-de-noviembre.html",
-          "source": "El País",
-          "summary": "Los socialistas quieren que el debate a cuatro se celebre en TVE y no en Atresmedia, como proponen los populares",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-22T16:16:32.672Z"
-        },
-        {
           "title": "Felipe González cree que Sánchez tiene opciones en los comicios generales “si Milei visita España 15 veces más”",
           "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/gonzalez-confirma-que-votara-en-blanco-el-29-n-y-ve-opciones-para-sanchez-si-milei-visita-espana-15-veces-mas.html",
           "source": "El País",
@@ -67,52 +70,52 @@
       ],
       "items": [
         {
-          "title": "IU ratifica que se presentará en Teruel sin Chunta y trata de cerrar el debate de retirar listas en provincias pequeñas",
-          "link": "https://www.eldiario.es/politica/iu-ratifica-presentara-teruel-chunta-trata-cerrar-debate-retirar-listas-provincias-pequenas_1_13607573.html",
-          "source": "elDiario.es",
-          "published": "2026-10-22T15:55:36.000Z"
-        },
-        {
-          "title": "El vicepresidente andaluz de Vox llama a gritos “sinvergüenza” a María Jesús Montero en el Parlamento andaluz",
-          "link": "https://elpais.com/espana/2026-10-22/el-vicepresidente-andaluz-de-vox-llama-a-gritos-sinverguenza-a-maria-jesus-montero-en-el-parlamento-andaluz.html",
+          "title": "Última hora de la actualidad política, en directo | Sánchez, en ‘La Revuelta’: “Los casos de corrupción en mi partido han sido una decepción doble”",
+          "link": "https://elpais.com/espana/2026-10-22/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-10-22T15:46:12.000Z"
+          "published": "2026-10-22T20:54:46.000Z"
         },
         {
-          "title": "El exconseller Puig regresa al Parlament: \"Sigo declarándome convencidamente independentista\"",
-          "link": "https://www.eldiario.es/catalunya/exconseller-puig-regresa-parlament-sigo-declarandome-convencidamente-independentista_1_13607272.html",
+          "title": "La CEOE da marcha atrás y renuncia a recurrir la huelga general del 11N",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ceoe-da-marcha-atras-renuncia-recurrir-huelga-general-11-noviembre_7052337_0.html",
+          "source": "20minutos",
+          "published": "2026-10-22T19:16:57.000Z"
+        },
+        {
+          "title": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
+          "link": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
+          "source": "El País",
+          "published": "2026-10-22T19:07:59.000Z"
+        },
+        {
+          "title": "El PP de Moreno apoya el plan de Vox de \"deportar\" inmigrantes para solucionar el “colapso” de la vivienda en España",
+          "link": "https://www.eldiario.es/andalucia/pp-moreno-vota-plan-vox-deportar-inmigrantes-solucionar-colapso-vivienda-espana_1_13607776.html",
           "source": "elDiario.es",
-          "published": "2026-10-22T15:23:14.000Z"
+          "published": "2026-10-22T18:11:25.000Z"
         },
         {
-          "title": "Luz verde a la ley de Page para convertir cuarteles o superficies comerciales en desuso en vivienda protegida",
-          "link": "https://www.eldiario.es/castilla-la-mancha/vivienda/luz-verde-ley-page-convertir-cuarteles-superficies-comerciales-desuso-vivienda-protegida_1_13605796.html",
+          "title": "La promesa de Sánchez a Broncano si gana las elecciones: \"Cuatro años más de 'La Revuelta' si el programa quiere\"",
+          "link": "https://www.20minutos.es/nacional/pedro-sanchez-revuelta-directo-presidente-gobierno-acude-por-primera-vez-programa-david-broncano_7052299_6.html",
+          "source": "20minutos",
+          "published": "2026-10-22T18:00:49.000Z"
+        },
+        {
+          "title": "La cuestión de Ceuta y Melilla reemerge en Marruecos durante el debate de investidura de la primera ministra tras un largo silencio oficial",
+          "link": "https://elpais.com/espana/2026-10-22/la-cuestion-de-ceuta-y-melilla-reemerge-en-marruecos-en-el-debate-de-investidura-de-la-primera-ministra-tras-un-largo-silencio-oficial.html",
+          "source": "El País",
+          "published": "2026-10-22T17:47:36.000Z"
+        },
+        {
+          "title": "Abascal ordena vetar la investigación por la crisis de los cribados en Andalucía un año después de pedir la dimisión de Moreno",
+          "link": "https://www.eldiario.es/andalucia/abascal-ordena-vetar-investigacion-crisis-cribados-andalucia-ano-despues-pedir-dimision-moreno_1_13605622.html",
           "source": "elDiario.es",
-          "published": "2026-10-22T15:16:49.000Z"
+          "published": "2026-10-22T17:05:49.000Z"
         },
         {
-          "title": "Milei redobla sus ataques contra Sánchez y le tacha de \"ladrón\", \"liberticida\" y \"autoritario\"",
-          "link": "https://www.europapress.es/internacional/noticia-milei-redobla-ataques-contra-sanchez-le-tacha-ladron-liberticida-autoritario-20261022165808.html",
-          "source": "Europa Press",
-          "published": "2026-10-22T14:58:08.000Z"
-        },
-        {
-          "title": "El vicepresidente del Parlamento marroquí defiende los \"derechos legítimos\" de Marruecos de reivindicar Ceuta y Melilla",
-          "link": "https://www.europapress.es/nacional/noticia-vicepresidente-parlamento-marroqui-defiende-derechos-legitimos-marruecos-reivindicar-ceuta-melilla-20261022165229.html",
-          "source": "Europa Press",
-          "published": "2026-10-22T14:52:29.000Z"
-        },
-        {
-          "title": "El micrófono abierto de Moreno pilla al vicepresidente andaluz de Vox insultando a Montero: \"Sinvergüenza\"",
-          "link": "https://www.eldiario.es/andalucia/microfono-abierto-moreno-pilla-vicepresidente-andaluz-vox-insultando-montero-sinverguenza_1_13607183.html",
-          "source": "elDiario.es",
-          "published": "2026-10-22T14:42:03.000Z"
-        },
-        {
-          "title": "La JEC rechaza abrir otro expediente a Pedro Sánchez, pero le recuerda su deber de neutralidad",
-          "link": "https://www.europapress.es/nacional/noticia-jec-descarta-expedientar-nuevo-sanchez-declaraciones-bruselas-le-ruega-neutralidad-20261022164035.html",
-          "source": "Europa Press",
-          "published": "2026-10-22T14:40:35.000Z"
+          "title": "Ordenan a Trump declarar antes del 11 de diciembre en su demanda por difamación contra la BBC",
+          "link": "https://www.20minutos.es/internacional/un-juez-ordena-trump-declarar-bajo-juramento-antes-11-diciembre-su-demanda-por-difamacion-contra-bbc_7052289_0.html",
+          "source": "20minutos",
+          "published": "2026-10-22T17:01:08.000Z"
         }
       ]
     },
@@ -160,76 +163,78 @@
           "firstSeen": "2026-10-22T10:50:19.585Z"
         },
         {
-          "title": "EEUU retira al personal diplomático no esencial de Arabia Saudí ante la escalada de ataques",
-          "link": "https://www.20minutos.es/internacional/eeuu-retira-personal-diplomatico-no-esencial-arabia-saudi-ante-escalada-ataques_7051822_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El Departamento de Estado asegura que la seguridad de su personal y sus familias es su \"máxima prioridad\" y que adoptará las medidas necesarias para facilitar su regreso a Estados Unidos.",
-          "sources": [
-            "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-10-22T10:50:19.585Z"
-        },
-        {
-          "title": "Informe desde San Salvador: Bukele desafía a pandillas de Haití y exige liberación de soldados",
-          "link": "https://www.france24.com/es/video/20261022-informe-desde-san-salvador-bukele-desaf%C3%ADa-a-pandillas-de-hait%C3%AD-y-exige-liberaci%C3%B3n-de-soldados",
+          "title": "Un terremoto de magnitud 7 sacude el Tíbet; se registran réplicas",
+          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261022-un-terremoto-de-magnitud-7-sacude-el-t%C3%ADbet-se-registran-r%C3%A9plicas",
           "source": "France 24",
-          "summary": "El presidente salvadoreño Nayib Bukele lanzó una dura advertencia a las pandillas que mantienen retenidos a cuatro salvadoreños en Haití. Según el mandatario, los secuestrados son técnicos de aviación que participan en una misión internacional de apoyo y evacuación médica, no combatientes. Bukele anunció el inicio de una operación militar de rescate y aseguró que las acciones podrían intensificarse si los rehenes no son liberados sanos y salvos.",
+          "summary": "Un potente terremoto de magnitud 7 sacudió el Tíbet sobre las 16.33 horas GMT de este jueves 22 de octubre, informó el Servicio Geológico de Estados Unidos. Autoridades en China confirmaron dos réplicas, de magnitudes 5,2 y 5.",
           "sources": [
             "France 24",
-            "BBC Mundo"
+            "El País Internacional",
+            "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-22T10:50:19.585Z"
+          "firstSeen": "2026-10-22T20:58:25.229Z"
+        },
+        {
+          "title": "La CPI recibe el Premio Sájarov 2026 en medio de las sanciones de Trump",
+          "link": "https://www.france24.com/es/video/20261022-la-cpi-recibe-el-premio-s%C3%A1jarov-2026-en-medio-de-las-sanciones-de-trump",
+          "source": "France 24",
+          "summary": "El Parlamento Europeo concedió el Premio Sájarov 2026, su máxima distinción en derechos humanos, a la Corte Penal Internacional (CPI) y a sus funcionarios, en medio de las sanciones y presiones de la Administración estadounidense de Donald Trump. La presidenta de la CPI, Tomoko Akane, celebró el reconocimiento como un respaldo a la independencia judicial y a la cooperación internacional. Informe de nuestra corresponsal, Esther Herrera.",
+          "sources": [
+            "France 24",
+            "elDiario.es Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-22T20:58:25.229Z"
         }
       ],
       "items": [
         {
-          "title": "El Parlamento Europeo propone una misión naval de la UE en el mar Negro tras los últimos ataques de drones contra buques comerciales",
-          "link": "https://elpais.com/internacional/2026-10-22/el-parlamento-europeo-propone-una-mision-naval-de-la-ue-en-el-mar-negro-tras-los-ultimos-ataques-de-drones-contra-buques-comerciales.html",
-          "source": "El País Internacional",
-          "published": "2026-10-22T15:57:36.000Z"
+          "title": "José Bautista, investigador: \"La frontera española se ha convertido en un negocio para empresas vinculadas a Israel\"",
+          "link": "https://www.eldiario.es/internacional/jose-bautista-investigador-frontera-espanola-convertido-negocio-empresas-vinculadas-israel_128_13595719.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-22T20:11:15.000Z"
         },
         {
-          "title": "¿Por qué es importante el Premio Sájarov concedido a la CPI en pleno asedio de EE. UU.?",
-          "link": "https://www.france24.com/es/europa/20261022-por-qu%C3%A9-es-importante-el-premio-s%C3%A1jarov-concedido-a-la-cpi-en-pleno-asedio-de-ee-uu",
+          "title": "El movimiento de protesta estudiantil que puede derrotar al líder ultranacionalista de Serbia en las elecciones",
+          "link": "https://www.eldiario.es/internacional/theguardian/movimiento-protesta-estudiantil-derrotar-lider-ultranacionalista-serbia-elecciones_1_13606697.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-22T20:11:14.000Z"
+        },
+        {
+          "title": "Gadi Eisenkot, el exgeneral que puede desbancar a Netanyahu con más belicismo y una cara amable en las elecciones",
+          "link": "https://www.eldiario.es/internacional/gadi-eisenkot-exgeneral-desbancar-netanyahu-belicismo-cara-amable-elecciones_1_13576421.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-22T20:11:13.000Z"
+        },
+        {
+          "title": "Estados Unidos redibuja los mapas electorales para las midterms",
+          "link": "https://www.france24.com/es/programas/en-contexto/20261022-estados-unidos-redibuja-los-mapas-electorales-para-las-midterms",
           "source": "France 24",
-          "published": "2026-10-22T15:54:17.000Z"
+          "published": "2026-10-22T20:11:04.000Z"
         },
         {
-          "title": "La guerra de Ucrania golpea la aviación civil en Rusia",
-          "link": "https://www.dw.com/es/la-guerra-de-ucrania-golpea-la-aviación-civil-en-rusia/a-79734990?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-22T15:36:00.000Z"
+          "title": "Miles de mujeres protestan en Polonia por el derecho al aborto y contra el Gobierno de Tusk: “Estamos hartas de promesas”",
+          "link": "https://www.eldiario.es/internacional/miles-mujeres-protestan-polonia-derecho-aborto-gobierno-tusk-hartas-promesas_1_13608138.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-22T19:15:36.000Z"
         },
         {
-          "title": "Indonesia: humo tóxico, corrupción y protestas por los incendios",
-          "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261022-indonesia-humo-t%C3%B3xico-corrupci%C3%B3n-y-protestas-por-los-incendios",
+          "title": "Directo Latam y la polémica por la aprobación de dos versiones del Presupuesto 2027 en Colombia",
+          "link": "https://www.france24.com/es/video/20261022-directo-a-latam-y-la-pol%C3%A9mica-por-la-aprobaci%C3%B3n-de-dos-versiones-del-presupuesto-2027-en-colombia",
           "source": "France 24",
-          "published": "2026-10-22T15:01:55.000Z"
+          "published": "2026-10-22T18:57:32.000Z"
         },
         {
-          "title": "El estadounidense Stephen James Hubbard regresa a EEUU tras pasar cuatro años preso en Rusia y ser liberado a petición de Trump",
-          "link": "https://www.20minutos.es/internacional/estadounidense-stephen-james-hubbard-regresa-eeuu-tras-pasar-cuatro-anos-preso-rusia-ser-liberado-peticion-trump_7052200_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-22T15:00:23.000Z"
-        },
-        {
-          "title": "La huelga de camioneros en el sur de Italia vacía los supermercados y desabastece de combustible aeropuertos y gasolineras",
-          "link": "https://elpais.com/internacional/2026-10-22/la-huelga-de-camioneros-en-italia-vacia-los-supermercados-y-desabastece-de-combustible-aeropuertos-y-gasolineras.html",
-          "source": "El País Internacional",
-          "published": "2026-10-22T14:18:44.000Z"
-        },
-        {
-          "title": "Con Trump y Putin más cerca, ¿qué busca Washington en Ucrania?",
-          "link": "https://www.france24.com/es/programas/el-debate/20261022-con-trump-y-putin-m%C3%A1s-cerca-qu%C3%A9-busca-washington-en-ucrania",
+          "title": "Protestas en Francia a pesar de las limitaciones del Gobierno de Macron",
+          "link": "https://www.france24.com/es/video/20261022-protestas-en-francia-a-pesar-de-las-limitaciones-del-gobierno-de-macron",
           "source": "France 24",
-          "published": "2026-10-22T14:14:52.000Z"
+          "published": "2026-10-22T18:53:43.000Z"
         },
         {
-          "title": "Alemania detiene a un sospechoso de espiar para Rusia y entregar información sobre bases militares",
-          "link": "https://elpais.com/internacional/2026-10-22/alemania-detiene-a-un-sospechoso-de-espiar-para-rusia.html",
-          "source": "El País Internacional",
-          "published": "2026-10-22T13:46:48.000Z"
+          "title": "Aramco evacúa su sede en Arabia Saudita tras ataques hutíes contra el reino",
+          "link": "https://www.france24.com/es/video/20261022-aramco-evac%C3%BAa-su-sede-en-arabia-saudita-tras-ataques-hut%C3%ADes-contra-el-reino",
+          "source": "France 24",
+          "published": "2026-10-22T18:52:25.000Z"
         }
       ]
     }
