@@ -1,121 +1,94 @@
 {
-  "date": "2026-10-22",
-  "updatedAt": "2026-10-22T20:58:25.229Z",
-  "edition": "tarde",
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23T10:42:03.588Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El PSOE acepta un cara a cara con Feijóo el 16 de noviembre y un debate a cuatro el día 26",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-psoe-acepta-un-cara-a-cara-con-feijoo-el-16-de-noviembre.html",
+          "title": "La Ertzaintza carga en Vitoria contra los jovénes que protestaban para evitar el desahucio de una familia con seis hijos",
+          "link": "https://elpais.com/espana/2026-10-23/la-ertzaintza-carga-en-vitoria-contra-los-jovenes-que-protestaban-para-evitar-el-desahucio-de-una-familia-con-seis-hijos.html",
           "source": "El País",
-          "summary": "Los socialistas quieren que el debate a cuatro se celebre en TVE y no en Atresmedia, como proponen los populares",
+          "summary": "El Sindicato de Vivienda reclama al Ayuntamiento que ofrezca una alternativa habitacional a la familia",
           "sources": [
             "El País",
-            "elDiario.es",
-            "Público",
-            "Europa Press",
-            "20minutos"
+            "elDiario.es"
           ],
-          "firstSeen": "2026-10-22T16:16:32.672Z"
+          "firstSeen": "2026-10-23T10:42:03.588Z"
         },
         {
-          "title": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
-          "link": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html",
+          "title": "Leire Díez se querella contra el PP por el vídeo generado con IA para atacar al PSOE",
+          "link": "https://elpais.com/espana/2026-10-23/leire-diez-se-querella-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
           "source": "El País",
-          "summary": "La diputada madrileña y el parlamentario vasco, que han tenido discrepancias en el pasado, representan las dos almas del PP",
+          "summary": "La exmilitante, que reclama la retirada de las imágenes, atribuye a los populares delitos de calumnias, contra la integridad moral y suplantación de identidad",
           "sources": [
             "El País",
-            "elDiario.es",
-            "Europa Press",
-            "20minutos"
+            "elDiario.es"
           ],
-          "firstSeen": "2026-10-22T10:50:19.585Z"
+          "firstSeen": "2026-10-23T10:42:03.588Z"
         },
         {
-          "title": "Ayuso defiende el abrazo con Milei y la oposición responde: \"Se ha reunido más veces con él que con los profesores\"",
-          "link": "https://www.eldiario.es/madrid/ayuso-defiende-abrazo-milei-oposicion-responde-reunido-veces-profesores_1_13605631.html",
-          "source": "elDiario.es",
-          "summary": "La presidenta de la Comunidad de Madrid justifica la reunión con el dirigente argentino y equipara a Pedro Sánchez con Nicolás Maduro después de que Milei llamara \"dictador\" al presidente del Gobierno español La irrupción en campaña de Milei pone en apuros a PP y Vox y regala otra baza electoral a Sánchez Las protestas de cientos de personas a las puertas de la Asamblea de Madrid son este jueves la banda sonora de un nuevo pleno tenso, solo un día después de la imagen del abrazo que dejaba la reunión entre Isabel Díaz Ayuso y Javier Milei. La líder madrileña ha justificado el encuentro en las…",
-          "sources": [
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-10-22T10:50:19.585Z"
-        },
-        {
-          "title": "El juez propone juzgar a otros cuatro exjefes de ETA por el atentado mortal de Santa Pola de 2002",
-          "link": "https://elpais.com/espana/2026-10-22/el-juez-propone-juzgar-a-otros-cuatro-exjefes-de-eta-por-el-atentado-mortal-de-santa-pola-de-2002.html",
+          "title": "Feijóo intentará gobernar aunque no sea la lista más votada: “Mi primer objetivo es que Sánchez se vaya”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-intentara-gobernar-aunque-no-sea-la-lista-mas-votada-mi-primer-objetivo-es-que-sanchez-se-vaya.html",
           "source": "El País",
-          "summary": "Olarra, Múgica, Iparraguirre y Esparza se suman a los también exdirigentes Albisu y Sagarzazu, ya procesados en la causa en agosto de 2024",
+          "summary": "El líder del PP eliminará el Ministerio de Igualdad, cuestiona que las menores de 16 años puedan abortar sin consentimiento de sus padres y quiere reformar la ley de eutanasia",
           "sources": [
             "El País",
             "Europa Press"
           ],
-          "firstSeen": "2026-10-22T10:50:19.585Z"
-        },
-        {
-          "title": "Felipe González cree que Sánchez tiene opciones en los comicios generales “si Milei visita España 15 veces más”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/gonzalez-confirma-que-votara-en-blanco-el-29-n-y-ve-opciones-para-sanchez-si-milei-visita-espana-15-veces-mas.html",
-          "source": "El País",
-          "summary": "El expresidente del Gobierno asegura que votará en blanco porque no se siente representado por ningún candidato",
-          "sources": [
-            "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-22T16:16:32.672Z"
+          "firstSeen": "2026-10-23T10:42:03.588Z"
         }
       ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | Sánchez, en ‘La Revuelta’: “Los casos de corrupción en mi partido han sido una decepción doble”",
-          "link": "https://elpais.com/espana/2026-10-22/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "title": "El Supremo da cinco días al Gobierno para entregar los nombres de los 160.000 nacionalizados por la ‘ley de nietos’ a los que ha suspendido el voto",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/el-supremo-da-cinco-dias-a-bolanos-y-albares-para-entregar-los-nombres-de-los-mas-de-160000-nacionalizados-por-la-ley-de-nietos-a-los-que-ha-suspendido-el-derecho-al-voto.html",
           "source": "El País",
-          "published": "2026-10-22T20:54:46.000Z"
+          "published": "2026-10-23T10:31:47.000Z"
         },
         {
-          "title": "La CEOE da marcha atrás y renuncia a recurrir la huelga general del 11N",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ceoe-da-marcha-atras-renuncia-recurrir-huelga-general-11-noviembre_7052337_0.html",
-          "source": "20minutos",
-          "published": "2026-10-22T19:16:57.000Z"
-        },
-        {
-          "title": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
-          "link": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
-          "source": "El País",
-          "published": "2026-10-22T19:07:59.000Z"
-        },
-        {
-          "title": "El PP de Moreno apoya el plan de Vox de \"deportar\" inmigrantes para solucionar el “colapso” de la vivienda en España",
-          "link": "https://www.eldiario.es/andalucia/pp-moreno-vota-plan-vox-deportar-inmigrantes-solucionar-colapso-vivienda-espana_1_13607776.html",
+          "title": "El Supremo pide al Gobierno la lista de 160.000 nacionalizados con la ley de nietos y advierte de su \"responsabilidad penal\" si no la entrega",
+          "link": "https://www.eldiario.es/politica/supremo-pide-gobierno-lista-160-000-nacionalizados-ley-nietos-advierte-responsabilidad-penal-si-no-entrega_1_13609262.html",
           "source": "elDiario.es",
-          "published": "2026-10-22T18:11:25.000Z"
+          "published": "2026-10-23T10:31:10.000Z"
         },
         {
-          "title": "La promesa de Sánchez a Broncano si gana las elecciones: \"Cuatro años más de 'La Revuelta' si el programa quiere\"",
-          "link": "https://www.20minutos.es/nacional/pedro-sanchez-revuelta-directo-presidente-gobierno-acude-por-primera-vez-programa-david-broncano_7052299_6.html",
-          "source": "20minutos",
-          "published": "2026-10-22T18:00:49.000Z"
-        },
-        {
-          "title": "La cuestión de Ceuta y Melilla reemerge en Marruecos durante el debate de investidura de la primera ministra tras un largo silencio oficial",
-          "link": "https://elpais.com/espana/2026-10-22/la-cuestion-de-ceuta-y-melilla-reemerge-en-marruecos-en-el-debate-de-investidura-de-la-primera-ministra-tras-un-largo-silencio-oficial.html",
-          "source": "El País",
-          "published": "2026-10-22T17:47:36.000Z"
-        },
-        {
-          "title": "Abascal ordena vetar la investigación por la crisis de los cribados en Andalucía un año después de pedir la dimisión de Moreno",
-          "link": "https://www.eldiario.es/andalucia/abascal-ordena-vetar-investigacion-crisis-cribados-andalucia-ano-despues-pedir-dimision-moreno_1_13605622.html",
+          "title": "Las falsedades de Feijóo sobre la eutanasia: no es cierto que los médicos tengan un papel “secundario”",
+          "link": "https://www.eldiario.es/sociedad/falsedades-feijoo-eutanasia-no-medicos-tengan-papel-secundario-cat_1_13609219.html",
           "source": "elDiario.es",
-          "published": "2026-10-22T17:05:49.000Z"
+          "published": "2026-10-23T10:18:37.000Z"
         },
         {
-          "title": "Ordenan a Trump declarar antes del 11 de diciembre en su demanda por difamación contra la BBC",
-          "link": "https://www.20minutos.es/internacional/un-juez-ordena-trump-declarar-bajo-juramento-antes-11-diciembre-su-demanda-por-difamacion-contra-bbc_7052289_0.html",
-          "source": "20minutos",
-          "published": "2026-10-22T17:01:08.000Z"
+          "title": "La patronal renovable critica el nuevo impuesto del PP y Vox en Castilla y León: “Va contra la sociedad en su conjunto”",
+          "link": "https://www.eldiario.es/economia/patronal-renovable-critica-nuevo-impuesto-pp-vox-castilla-leon-sociedad-conjunto_1_13609210.html",
+          "source": "elDiario.es",
+          "published": "2026-10-23T10:14:23.000Z"
+        },
+        {
+          "title": "El despacho de Baltasar Garzón busca la vía para que el veto al voto por la ley de nietos regrese al Constitucional",
+          "link": "https://www.eldiario.es/politica/despacho-baltasar-garzon-busca-via-veto-voto-ley-nietos-regrese-constitucional_1_13609038.html",
+          "source": "elDiario.es",
+          "published": "2026-10-23T09:35:22.000Z"
+        },
+        {
+          "title": "El Supremo condena a la TVG por vulnerar la libertad sindical y elegir a dedo los tribunales de contratación",
+          "link": "https://www.elsaltodiario.com/galicia/supremo-condena-crtvg-vulnerar-libertad-sindical-tres-procesos-seleccion?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-23T09:30:00.000Z"
+        },
+        {
+          "title": "Prisión para un ceutí que regentaba una ‘casa patera’ en el barrio de El Príncipe con 74 migrantes hacinados y una sola cama",
+          "link": "https://elpais.com/espana/2026-10-23/prision-para-un-ceuti-que-regentaba-una-casa-patera-en-el-barrio-de-el-principe-con-74-migrantes-hacinados-y-una-sola-cama.html",
+          "source": "El País",
+          "published": "2026-10-23T09:26:59.000Z"
+        },
+        {
+          "title": "El futuro del programa, las preguntas clásicas, Candela Peña... Cinco momentos de Pedro Sánchez en ‘La revuelta’",
+          "link": "https://elpais.com/television/2026-10-23/el-futuro-del-programa-las-preguntas-clasicas-candela-pena-cinco-momentos-de-pedro-sanchez-en-la-revuelta.html",
+          "source": "El País",
+          "published": "2026-10-23T09:26:00.000Z"
         }
       ]
     },
@@ -124,117 +97,91 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "La Corte Penal Internacional gana el Premio Sájarov de derechos humanos de la UE",
-          "link": "https://www.france24.com/es/europa/20261022-la-corte-penal-internacional-gana-el-premio-s%C3%A1jarov-de-derechos-humanos-de-la-ue",
-          "source": "France 24",
-          "summary": "La Corte Penal Internacional, que la Administración del presidente estadounidense Donald Trump ha amenazado con desmantelar \"ladrillo a ladrillo\", ha sido galardonada con el Premio Sájarov de derechos humanos de la Unión Europea.",
+          "title": "Un terremoto de magnitud 7 causa al menos 16 muertos en el Tíbet",
+          "link": "https://elpais.com/internacional/2026-10-23/un-terremoto-de-magnitud-7-causa-al-menos-16-muertos-en-el-tibet.html",
+          "source": "El País Internacional",
+          "summary": "El temblor más potente registrado en China desde enero de 2024 afecta a una zona de gran altitud y población dispersa",
           "sources": [
-            "France 24",
             "El País Internacional",
             "elDiario.es Internacional",
-            "20minutos Internacional",
-            "DW"
+            "DW",
+            "France 24",
+            "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-22T10:50:19.585Z"
+          "firstSeen": "2026-10-23T10:42:03.588Z"
         },
         {
-          "title": "Macron anuncia una prohibición de las manifestaciones no organizadas por sindicatos en Francia",
-          "link": "https://www.eldiario.es/internacional/macron-anuncia-prohibicion-manifestaciones-no-organizadas-sindicatos-francia_1_13606510.html",
+          "title": "Netanyahu ordena el cierre de toda Cisjordania a pocos días de las elecciones tras un ataque cerca de Hebrón",
+          "link": "https://www.eldiario.es/internacional/netanyahu-ordena-cierre-cisjordania-dias-elecciones-ataque-cerca-hebron_1_13608925.html",
           "source": "elDiario.es Internacional",
-          "summary": "\"La recomendación general es que no haya manifestaciones en los próximos días\", ha declarado el presidente tras los disturbios del fin de semana, y también ha convocado un Consejo de Defensa para este viernes con el fin de adoptar medidas adicionales Por qué la ola de disturbios en Francia acorrala a un Macron cada vez más aislado El presidente francés, Emmanuel Macron, ha anunciado este jueves que las autoridades restringirán las manifestaciones en los próximos días para restablecer el orden tras los disturbios del pasado sábado y ha convocado un Consejo de Defensa para el viernes con el fin…",
+          "summary": "Cinco israelíes resultaron heridos en el tiroteo perpetrado supuestamente por dos palestinos, matados posteriormente por las fuerzas israelíes, que dieron comienzo a una operación de seguridad en la zona y redadas en las casas de los asaltantes y otros sospechosos, según el Ejército El incidente tiene lugar a cuatro días de que se celebren elecciones generales en Israel, con la tensión muy elevada en el país y en los territorios palestinos ocupados, ante una cita con las urnas crucial para el primer ministro, Benjamín Netanyahu. Poco después del tiroteo, el mandatario ha ordenado cercar de…",
           "sources": [
             "elDiario.es Internacional",
-            "DW",
             "20minutos Internacional",
-            "France 24"
+            "El País Internacional"
           ],
-          "firstSeen": "2026-10-22T16:16:32.672Z"
+          "firstSeen": "2026-10-23T10:42:03.588Z"
         },
         {
-          "title": "Caso Cambridge Analytica: Meta recibe una sanción de 25.000 millones de dólares en Nuevo México",
-          "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261022-caso-cambridge-analytica-meta-recibe-una-sanci%C3%B3n-de-25-000-millones-de-d%C3%B3lares-en-nuevo-m%C3%A9xico",
-          "source": "France 24",
-          "summary": "Un juez de Nuevo México ordenó a Meta pagar 25.000 millones de dólares por engañar a los usuarios sobre el uso de sus datos personales, en un caso vinculado al escándalo de Cambridge Analytica, según medios estadounidenses. La compañía calificó la sanción de \"impuesto a la libertad de expresión\" y anunció que apelará.",
+          "title": "La justicia le ordena a Trump responder preguntas bajo juramento en su demanda contra la BBC",
+          "link": "https://www.bbc.com/mundo/articles/c51kd0dm8m23o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "El presidente de EE.UU. demandó a la BBC por un episodio del programa documental Panorama que editó y unió dos secciones diferentes de un discurso que pronunció en 2021.",
           "sources": [
-            "France 24",
-            "DW",
+            "BBC Mundo",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-10-22T10:50:19.585Z"
-        },
-        {
-          "title": "Un terremoto de magnitud 7 sacude el Tíbet; se registran réplicas",
-          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261022-un-terremoto-de-magnitud-7-sacude-el-t%C3%ADbet-se-registran-r%C3%A9plicas",
-          "source": "France 24",
-          "summary": "Un potente terremoto de magnitud 7 sacudió el Tíbet sobre las 16.33 horas GMT de este jueves 22 de octubre, informó el Servicio Geológico de Estados Unidos. Autoridades en China confirmaron dos réplicas, de magnitudes 5,2 y 5.",
-          "sources": [
-            "France 24",
-            "El País Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-22T20:58:25.229Z"
-        },
-        {
-          "title": "La CPI recibe el Premio Sájarov 2026 en medio de las sanciones de Trump",
-          "link": "https://www.france24.com/es/video/20261022-la-cpi-recibe-el-premio-s%C3%A1jarov-2026-en-medio-de-las-sanciones-de-trump",
-          "source": "France 24",
-          "summary": "El Parlamento Europeo concedió el Premio Sájarov 2026, su máxima distinción en derechos humanos, a la Corte Penal Internacional (CPI) y a sus funcionarios, en medio de las sanciones y presiones de la Administración estadounidense de Donald Trump. La presidenta de la CPI, Tomoko Akane, celebró el reconocimiento como un respaldo a la independencia judicial y a la cooperación internacional. Informe de nuestra corresponsal, Esther Herrera.",
-          "sources": [
-            "France 24",
-            "elDiario.es Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-22T20:58:25.229Z"
+          "firstSeen": "2026-10-23T10:42:03.588Z"
         }
       ],
       "items": [
         {
-          "title": "José Bautista, investigador: \"La frontera española se ha convertido en un negocio para empresas vinculadas a Israel\"",
-          "link": "https://www.eldiario.es/internacional/jose-bautista-investigador-frontera-espanola-convertido-negocio-empresas-vinculadas-israel_128_13595719.html",
+          "title": "\"Me avergüenza trabajar en una empresa que impulsa la IA con fines militares\": los empleados de Google que renuncian por los acuerdos con el ejército de EE.UU.",
+          "link": "https://www.bbc.com/mundo/articles/cxg5j1d93993o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-23T09:35:57.000Z"
+        },
+        {
+          "title": "Sangre nueva para frenar a Trump",
+          "link": "https://elpais.com/us/2026-10-23/sangre-nueva-para-frenar-a-trump.html",
+          "source": "El País Internacional",
+          "published": "2026-10-23T09:30:00.000Z"
+        },
+        {
+          "title": "Las encuestas muestran que los demócratas están encaminados a lograr la mayoría en el Senado",
+          "link": "https://elpais.com/us/2026-10-23/las-encuestas-muestran-que-los-democratas-estan-encaminados-a-lograr-la-mayoria-en-el-senado.html",
+          "source": "El País Internacional",
+          "published": "2026-10-23T09:30:00.000Z"
+        },
+        {
+          "title": "Corea del Norte ha colocado un millón de minas en la zona desmilitarizada, según Corea del Sur",
+          "link": "https://elpais.com/internacional/2026-10-23/corea-del-norte-ha-colocado-un-millon-de-minas-en-la-zona-desmilitarizada-segun-corea-del-sur.html",
+          "source": "El País Internacional",
+          "published": "2026-10-23T09:27:14.000Z"
+        },
+        {
+          "title": "Macron trata de retomar el control con la prohibición de manifestaciones y el blindaje de las ciudades",
+          "link": "https://elpais.com/internacional/2026-10-23/macron-trata-de-retomar-el-control-con-la-prohibicion-de-manifestaciones-y-el-blindaje-de-las-ciudades.html",
+          "source": "El País Internacional",
+          "published": "2026-10-23T09:20:25.000Z"
+        },
+        {
+          "title": "Trump deja caer que tiene \"derecho\" a presentarse en 2028 porque le \"robaron\" las elecciones de 2020",
+          "link": "https://www.20minutos.es/internacional/trump-deja-caer-que-tiene-derecho-presentarse-2028-porque-le-robaron-las-elecciones-2020_7052478_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-23T08:58:42.000Z"
+        },
+        {
+          "title": "El partido gobernante de Marruecos pide \"recuperar Ceuta, Melilla e islas marroquíes ocupadas\"",
+          "link": "https://www.eldiario.es/internacional/partido-gobernante-marruecos-pide-recuperar-ceuta-melilla-e-islas-marroquies-ocupadas_1_13608649.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-22T20:11:15.000Z"
+          "published": "2026-10-23T08:33:36.000Z"
         },
         {
-          "title": "El movimiento de protesta estudiantil que puede derrotar al líder ultranacionalista de Serbia en las elecciones",
-          "link": "https://www.eldiario.es/internacional/theguardian/movimiento-protesta-estudiantil-derrotar-lider-ultranacionalista-serbia-elecciones_1_13606697.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-22T20:11:14.000Z"
-        },
-        {
-          "title": "Gadi Eisenkot, el exgeneral que puede desbancar a Netanyahu con más belicismo y una cara amable en las elecciones",
-          "link": "https://www.eldiario.es/internacional/gadi-eisenkot-exgeneral-desbancar-netanyahu-belicismo-cara-amable-elecciones_1_13576421.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-22T20:11:13.000Z"
-        },
-        {
-          "title": "Estados Unidos redibuja los mapas electorales para las midterms",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261022-estados-unidos-redibuja-los-mapas-electorales-para-las-midterms",
-          "source": "France 24",
-          "published": "2026-10-22T20:11:04.000Z"
-        },
-        {
-          "title": "Miles de mujeres protestan en Polonia por el derecho al aborto y contra el Gobierno de Tusk: “Estamos hartas de promesas”",
-          "link": "https://www.eldiario.es/internacional/miles-mujeres-protestan-polonia-derecho-aborto-gobierno-tusk-hartas-promesas_1_13608138.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-22T19:15:36.000Z"
-        },
-        {
-          "title": "Directo Latam y la polémica por la aprobación de dos versiones del Presupuesto 2027 en Colombia",
-          "link": "https://www.france24.com/es/video/20261022-directo-a-latam-y-la-pol%C3%A9mica-por-la-aprobaci%C3%B3n-de-dos-versiones-del-presupuesto-2027-en-colombia",
-          "source": "France 24",
-          "published": "2026-10-22T18:57:32.000Z"
-        },
-        {
-          "title": "Protestas en Francia a pesar de las limitaciones del Gobierno de Macron",
-          "link": "https://www.france24.com/es/video/20261022-protestas-en-francia-a-pesar-de-las-limitaciones-del-gobierno-de-macron",
-          "source": "France 24",
-          "published": "2026-10-22T18:53:43.000Z"
-        },
-        {
-          "title": "Aramco evacúa su sede en Arabia Saudita tras ataques hutíes contra el reino",
-          "link": "https://www.france24.com/es/video/20261022-aramco-evac%C3%BAa-su-sede-en-arabia-saudita-tras-ataques-hut%C3%ADes-contra-el-reino",
-          "source": "France 24",
-          "published": "2026-10-22T18:52:25.000Z"
+          "title": "El tifón ‘Champi’ paraliza Taiwán y deja un muerto y 171 heridos",
+          "link": "https://elpais.com/internacional/2026-10-23/el-tifon-champi-paraliza-taiwan-y-deja-un-muerto-y-171-heridos.html",
+          "source": "El País Internacional",
+          "published": "2026-10-23T08:10:49.000Z"
         }
       ]
     }
