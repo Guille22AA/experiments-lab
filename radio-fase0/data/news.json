@@ -1,12 +1,48 @@
 {
   "date": "2026-10-23",
-  "updatedAt": "2026-10-23T10:42:03.588Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-23T16:06:35.495Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "El juez pide a Patrimonio que detalle los regalos a Presidencia del Gobierno de 2004 a 2011 para aclarar el origen de las joyas de Zapatero",
+          "link": "https://elpais.com/espana/2026-10-23/el-juez-pide-a-patrimonio-que-aclare-los-regalos-a-presidencia-del-gobierno-de-2004-a-2011-para-aclarar-el-origen-de-las-joyas-de-zapatero.html",
+          "source": "El País",
+          "summary": "La Fiscalía pide que se investigue un delito de malversación que no estaría prescrito",
+          "sources": [
+            "El País",
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-23T16:06:35.495Z"
+        },
+        {
+          "title": "El juez Pedraz da 15 días al PSOE para entregar \"sin demora\" la documentación sobre sus abogados",
+          "link": "https://www.20minutos.es/nacional/juez-pedraz-da-quince-dias-psoe-para-entregar-sin-mas-demora-documentacion-sobre-sus-abogados_7052662_0.html",
+          "source": "20minutos",
+          "summary": "El magistrado rechaza que la consulta del PSOE a la Abogacía suspenda el requerimiento y le exige identificar los documentos afectados por el secreto profesional.",
+          "sources": [
+            "20minutos",
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-10-23T16:06:35.495Z"
+        },
+        {
+          "title": "El Supremo da 5 días al Gobierno para darle la lista de afectados sin voto de la 'ley de nietos' y avisa de multa",
+          "link": "https://www.europapress.es/nacional/noticia-ts-da-dias-gobierno-darle-lista-afectados-voto-suspender-ley-nietos-avisa-multa-20261023124830.html",
+          "source": "Europa Press",
+          "summary": "Advierte de que pueden quedarse sin votar \"por la inacción de la Administración\" y de \"responsabilidad penal que pudiera corresponder\"",
+          "sources": [
+            "Europa Press",
+            "20minutos",
+            "El País"
+          ],
+          "firstSeen": "2026-10-23T16:06:35.495Z"
+        },
         {
           "title": "La Ertzaintza carga en Vitoria contra los jovénes que protestaban para evitar el desahucio de una familia con seis hijos",
           "link": "https://elpais.com/espana/2026-10-23/la-ertzaintza-carga-en-vitoria-contra-los-jovenes-que-protestaban-para-evitar-el-desahucio-de-una-familia-con-seis-hijos.html",
@@ -28,67 +64,56 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-10-23T10:42:03.588Z"
-        },
-        {
-          "title": "Feijóo intentará gobernar aunque no sea la lista más votada: “Mi primer objetivo es que Sánchez se vaya”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-intentara-gobernar-aunque-no-sea-la-lista-mas-votada-mi-primer-objetivo-es-que-sanchez-se-vaya.html",
-          "source": "El País",
-          "summary": "El líder del PP eliminará el Ministerio de Igualdad, cuestiona que las menores de 16 años puedan abortar sin consentimiento de sus padres y quiere reformar la ley de eutanasia",
-          "sources": [
-            "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-23T10:42:03.588Z"
         }
       ],
       "items": [
         {
-          "title": "El Supremo da cinco días al Gobierno para entregar los nombres de los 160.000 nacionalizados por la ‘ley de nietos’ a los que ha suspendido el voto",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/el-supremo-da-cinco-dias-a-bolanos-y-albares-para-entregar-los-nombres-de-los-mas-de-160000-nacionalizados-por-la-ley-de-nietos-a-los-que-ha-suspendido-el-derecho-al-voto.html",
+          "title": "UGT pide a los partidos políticos que defiendan el derecho al aborto",
+          "link": "https://www.ugt.es/ugt-pide-los-partidos-politicos-que-defiendan-el-derecho-al-aborto",
+          "source": "UGT",
+          "published": "2026-10-23T15:58:35.000Z"
+        },
+        {
+          "title": "El petróleo y el temor a una burbuja de la IA dejan una semana de pérdidas en las Bolsas pese al rebote final",
+          "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
           "source": "El País",
-          "published": "2026-10-23T10:31:47.000Z"
+          "published": "2026-10-23T15:55:52.000Z"
         },
         {
-          "title": "El Supremo pide al Gobierno la lista de 160.000 nacionalizados con la ley de nietos y advierte de su \"responsabilidad penal\" si no la entrega",
-          "link": "https://www.eldiario.es/politica/supremo-pide-gobierno-lista-160-000-nacionalizados-ley-nietos-advierte-responsabilidad-penal-si-no-entrega_1_13609262.html",
+          "title": "Interior detecta mensajes yihadistas instando a atentar contra policías y manifestantes en las protestas ciudadanas",
+          "link": "https://www.europapress.es/nacional/noticia-interior-detecta-mensajes-yihadistas-instando-atentar-contra-policias-manifestantes-protestas-ciudadanas-20261023174419.html",
+          "source": "Europa Press",
+          "published": "2026-10-23T15:44:19.000Z"
+        },
+        {
+          "title": "Solo 91 de los 31.390 expedientes revisados de la 'ley de nietos' acreditan por ahora los requisitos para votar el 29N",
+          "link": "https://www.20minutos.es/nacional/solo-91-los-31-390-expedientes-revisados-ley-nietos-acreditan-por-ahora-los-requisitos-para-votar-29n_7052777_0.html",
+          "source": "20minutos",
+          "published": "2026-10-23T15:32:10.000Z"
+        },
+        {
+          "title": "Los falsos acusados del crimen de Burgos irán a juicio para señalar a la extrema derecha",
+          "link": "https://www.20minutos.es/castilla-y-leon/burgos/los-falsos-acusados-crimen-burgos-iran-juicio-para-senalar-extrema-derecha_7052746_0.html",
+          "source": "20minutos",
+          "published": "2026-10-23T14:45:55.000Z"
+        },
+        {
+          "title": "El ático del Gobierno de Ayuso pasa a ser Oferta Pública Permanente al no conseguir comprador por segunda vez",
+          "link": "https://www.eldiario.es/madrid/atico-gobierno-ayuso-pasa-oferta-publica-permanente-no-comprador-segunda-vez_1_13599754.html",
           "source": "elDiario.es",
-          "published": "2026-10-23T10:31:10.000Z"
+          "published": "2026-10-23T14:29:58.000Z"
         },
         {
-          "title": "Las falsedades de Feijóo sobre la eutanasia: no es cierto que los médicos tengan un papel “secundario”",
-          "link": "https://www.eldiario.es/sociedad/falsedades-feijoo-eutanasia-no-medicos-tengan-papel-secundario-cat_1_13609219.html",
-          "source": "elDiario.es",
-          "published": "2026-10-23T10:18:37.000Z"
+          "title": "Interior advierte de un llamamiento yihadista para atacar a manifestantes y policías en las protestas",
+          "link": "https://www.20minutos.es/nacional/interior-advierte-un-llamamiento-yihadista-para-atacar-policias-manifestantes-durante-las-protestas-espana_7052730_0.html",
+          "source": "20minutos",
+          "published": "2026-10-23T14:26:27.000Z"
         },
         {
-          "title": "La patronal renovable critica el nuevo impuesto del PP y Vox en Castilla y León: “Va contra la sociedad en su conjunto”",
-          "link": "https://www.eldiario.es/economia/patronal-renovable-critica-nuevo-impuesto-pp-vox-castilla-leon-sociedad-conjunto_1_13609210.html",
-          "source": "elDiario.es",
-          "published": "2026-10-23T10:14:23.000Z"
-        },
-        {
-          "title": "El despacho de Baltasar Garzón busca la vía para que el veto al voto por la ley de nietos regrese al Constitucional",
-          "link": "https://www.eldiario.es/politica/despacho-baltasar-garzon-busca-via-veto-voto-ley-nietos-regrese-constitucional_1_13609038.html",
-          "source": "elDiario.es",
-          "published": "2026-10-23T09:35:22.000Z"
-        },
-        {
-          "title": "El Supremo condena a la TVG por vulnerar la libertad sindical y elegir a dedo los tribunales de contratación",
-          "link": "https://www.elsaltodiario.com/galicia/supremo-condena-crtvg-vulnerar-libertad-sindical-tres-procesos-seleccion?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-23T09:30:00.000Z"
-        },
-        {
-          "title": "Prisión para un ceutí que regentaba una ‘casa patera’ en el barrio de El Príncipe con 74 migrantes hacinados y una sola cama",
-          "link": "https://elpais.com/espana/2026-10-23/prision-para-un-ceuti-que-regentaba-una-casa-patera-en-el-barrio-de-el-principe-con-74-migrantes-hacinados-y-una-sola-cama.html",
+          "title": "Feijóo, dispuesto a “completar” la mayoría con Vox: “Mi primer objetivo es que Sánchez se vaya”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-intentara-gobernar-aunque-no-sea-la-lista-mas-votada-mi-primer-objetivo-es-que-sanchez-se-vaya.html",
           "source": "El País",
-          "published": "2026-10-23T09:26:59.000Z"
-        },
-        {
-          "title": "El futuro del programa, las preguntas clásicas, Candela Peña... Cinco momentos de Pedro Sánchez en ‘La revuelta’",
-          "link": "https://elpais.com/television/2026-10-23/el-futuro-del-programa-las-preguntas-clasicas-candela-pena-cinco-momentos-de-pedro-sanchez-en-la-revuelta.html",
-          "source": "El País",
-          "published": "2026-10-23T09:26:00.000Z"
+          "published": "2026-10-23T14:05:28.000Z"
         }
       ]
     },
@@ -123,6 +148,18 @@
           "firstSeen": "2026-10-23T10:42:03.588Z"
         },
         {
+          "title": "Netanyahu ordena una gran operación en Cisjordania tras la muerte de dos soldados en un ataque palestino",
+          "link": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
+          "source": "El País Internacional",
+          "summary": "El primer ministro prevé ir “casa por casa” a desmantelar las “estructuras terroristas”. A cuatro días de las elecciones israelíes, Hamás pide intensificar las agresiones contra soldados y colonos",
+          "sources": [
+            "El País Internacional",
+            "France 24",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-23T16:06:35.495Z"
+        },
+        {
           "title": "La justicia le ordena a Trump responder preguntas bajo juramento en su demanda contra la BBC",
           "link": "https://www.bbc.com/mundo/articles/c51kd0dm8m23o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
@@ -132,56 +169,67 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-10-23T10:42:03.588Z"
+        },
+        {
+          "title": "Francia movilizará a 70.000 policías ante las nuevas convocatorias de protestas y saqueos este sábado",
+          "link": "https://www.20minutos.es/internacional/francia-movilizara-70-000-policias-ante-las-nuevas-convocatorias-protestas-saqueos-este-sabado_7052697_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Lo ha confirmado el ministro del Interior galo, Laurent Núñez, quien ha señalado que sólo se autorizarán manifestaciones de sindicatos u organizaciones a través de los prefectos.",
+          "sources": [
+            "20minutos Internacional",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-23T16:06:35.495Z"
         }
       ],
       "items": [
         {
-          "title": "\"Me avergüenza trabajar en una empresa que impulsa la IA con fines militares\": los empleados de Google que renuncian por los acuerdos con el ejército de EE.UU.",
-          "link": "https://www.bbc.com/mundo/articles/cxg5j1d93993o?at_medium=RSS&at_campaign=rss",
+          "title": "Francia investiga como \"terrorismo\" un tiroteo mortal cerca de París",
+          "link": "https://www.bbc.com/mundo/articles/c6pwgkqq8p75o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-23T09:35:57.000Z"
+          "published": "2026-10-23T15:59:31.000Z"
         },
         {
-          "title": "Sangre nueva para frenar a Trump",
-          "link": "https://elpais.com/us/2026-10-23/sangre-nueva-para-frenar-a-trump.html",
-          "source": "El País Internacional",
-          "published": "2026-10-23T09:30:00.000Z"
+          "title": "\"Solo piel y huesos\": los gemelos recién nacidos que tratan de sobrevivir a la guerra y el hambre en Yemen",
+          "link": "https://www.bbc.com/mundo/articles/crz658114vvqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-23T15:21:10.000Z"
         },
         {
-          "title": "Las encuestas muestran que los demócratas están encaminados a lograr la mayoría en el Senado",
-          "link": "https://elpais.com/us/2026-10-23/las-encuestas-muestran-que-los-democratas-estan-encaminados-a-lograr-la-mayoria-en-el-senado.html",
-          "source": "El País Internacional",
-          "published": "2026-10-23T09:30:00.000Z"
-        },
-        {
-          "title": "Corea del Norte ha colocado un millón de minas en la zona desmilitarizada, según Corea del Sur",
-          "link": "https://elpais.com/internacional/2026-10-23/corea-del-norte-ha-colocado-un-millon-de-minas-en-la-zona-desmilitarizada-segun-corea-del-sur.html",
-          "source": "El País Internacional",
-          "published": "2026-10-23T09:27:14.000Z"
-        },
-        {
-          "title": "Macron trata de retomar el control con la prohibición de manifestaciones y el blindaje de las ciudades",
-          "link": "https://elpais.com/internacional/2026-10-23/macron-trata-de-retomar-el-control-con-la-prohibicion-de-manifestaciones-y-el-blindaje-de-las-ciudades.html",
-          "source": "El País Internacional",
-          "published": "2026-10-23T09:20:25.000Z"
-        },
-        {
-          "title": "Trump deja caer que tiene \"derecho\" a presentarse en 2028 porque le \"robaron\" las elecciones de 2020",
-          "link": "https://www.20minutos.es/internacional/trump-deja-caer-que-tiene-derecho-presentarse-2028-porque-le-robaron-las-elecciones-2020_7052478_0.html",
+          "title": "Rusia y Ucrania intercambian un total de 540 prisioneros de guerra en un nuevo canje",
+          "link": "https://www.20minutos.es/internacional/rusia-ucrania-intercambian-un-total-540-prisioneros-guerra-un-nuevo-canje_7052769_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-23T08:58:42.000Z"
+          "published": "2026-10-23T15:14:43.000Z"
         },
         {
-          "title": "El partido gobernante de Marruecos pide \"recuperar Ceuta, Melilla e islas marroquíes ocupadas\"",
-          "link": "https://www.eldiario.es/internacional/partido-gobernante-marruecos-pide-recuperar-ceuta-melilla-e-islas-marroquies-ocupadas_1_13608649.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-23T08:33:36.000Z"
+          "title": "Italia: ¿el alto costo de vida pone a Meloni contra las cuerdas?",
+          "link": "https://www.france24.com/es/programas/ventana-a-europa/20261023-italia-el-alto-costo-de-vida-pone-a-meloni-contra-las-cuerdas",
+          "source": "France 24",
+          "published": "2026-10-23T15:10:43.000Z"
         },
         {
-          "title": "El tifón ‘Champi’ paraliza Taiwán y deja un muerto y 171 heridos",
-          "link": "https://elpais.com/internacional/2026-10-23/el-tifon-champi-paraliza-taiwan-y-deja-un-muerto-y-171-heridos.html",
+          "title": "Turquía y Grecia: una nueva disputa marítima en el Mediterráneo",
+          "link": "https://www.dw.com/es/turquía-y-grecia-una-nueva-disputa-marítima-en-el-mediterráneo/a-79745108?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-23T14:51:00.000Z"
+        },
+        {
+          "title": "EE UU lanza un órdago en la ONU al Frente Polisario para que acepte la soberanía de Marruecos en el Sáhara",
+          "link": "https://elpais.com/internacional/2026-10-23/ee-uu-lanza-un-ordago-en-la-onu-al-frente-polisario-para-que-acepte-la-soberania-de-marruecos-en-el-sahara.html",
           "source": "El País Internacional",
-          "published": "2026-10-23T08:10:49.000Z"
+          "published": "2026-10-23T14:35:11.000Z"
+        },
+        {
+          "title": "Balotaje en Brasil: ¿continuidad del lulismo o vuelta al bolsonarismo?",
+          "link": "https://www.france24.com/es/video/20261023-balotaje-en-brasil-continuidad-del-lulismo-o-vuelta-al-bolsonarismo",
+          "source": "France 24",
+          "published": "2026-10-23T14:34:05.000Z"
+        },
+        {
+          "title": "Melania Trump anuncia un alto el fuego entre Rusia y Ucrania en la ciudad ocupada de Oleshki mediado por ella",
+          "link": "https://www.eldiario.es/internacional/melania-trump-anuncia-alto-fuego-rusia-ucrania-ciudad-oleshky-mediado_1_13610460.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-23T14:28:41.000Z"
         }
       ]
     }
