@@ -1,119 +1,72 @@
 {
-  "date": "2026-10-23",
-  "updatedAt": "2026-10-23T20:47:49.092Z",
-  "edition": "tarde",
+  "date": "2026-10-24",
+  "updatedAt": "2026-10-24T09:59:03.914Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El juez pide a Patrimonio que detalle los regalos a Presidencia del Gobierno de 2004 a 2011 para aclarar el origen de las joyas de Zapatero",
-          "link": "https://elpais.com/espana/2026-10-23/el-juez-pide-a-patrimonio-que-aclare-los-regalos-a-presidencia-del-gobierno-de-2004-a-2011-para-aclarar-el-origen-de-las-joyas-de-zapatero.html",
-          "source": "El País",
-          "summary": "La Fiscalía pide que se investigue un delito de malversación que no estaría prescrito",
-          "sources": [
-            "El País",
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-23T16:06:35.495Z"
-        },
-        {
-          "title": "El juez Pedraz da 15 días al PSOE para entregar \"sin demora\" la documentación sobre sus abogados",
-          "link": "https://www.20minutos.es/nacional/juez-pedraz-da-quince-dias-psoe-para-entregar-sin-mas-demora-documentacion-sobre-sus-abogados_7052662_0.html",
+          "title": "Sánchez invoca el 'No a la guerra' en un vídeo frente al 'Guernica' y presume de mantener los mismos principios \"sin dobles raseros\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-invoca-no-guerra-un-video-frente-guernica-presume-mantener-los-mismos-principios-sin-dobles-raseros_7052910_0.html",
           "source": "20minutos",
-          "summary": "El magistrado rechaza que la consulta del PSOE a la Abogacía suspenda el requerimiento y le exige identificar los documentos afectados por el secreto profesional.",
+          "summary": "El presidente de Gobierno aparece en un vídeo publicado en sus redes sociales junto al 'Guernica' de Pablo Picasso, una obra de arte que, asegura, representa \"qué sucede cuando la barbarie se impone a la razón\".",
           "sources": [
             "20minutos",
-            "Europa Press",
-            "El País"
+            "Europa Press"
           ],
-          "firstSeen": "2026-10-23T16:06:35.495Z"
-        },
-        {
-          "title": "El Supremo da 5 días al Gobierno para darle la lista de afectados sin voto de la 'ley de nietos' y avisa de multa",
-          "link": "https://www.europapress.es/nacional/noticia-ts-da-dias-gobierno-darle-lista-afectados-voto-suspender-ley-nietos-avisa-multa-20261023124830.html",
-          "source": "Europa Press",
-          "summary": "Advierte de que pueden quedarse sin votar \"por la inacción de la Administración\" y de \"responsabilidad penal que pudiera corresponder\"",
-          "sources": [
-            "Europa Press",
-            "20minutos",
-            "El País"
-          ],
-          "firstSeen": "2026-10-23T16:06:35.495Z"
-        },
-        {
-          "title": "La Ertzaintza carga en Vitoria contra los jovénes que protestaban para evitar el desahucio de una familia con seis hijos",
-          "link": "https://elpais.com/espana/2026-10-23/la-ertzaintza-carga-en-vitoria-contra-los-jovenes-que-protestaban-para-evitar-el-desahucio-de-una-familia-con-seis-hijos.html",
-          "source": "El País",
-          "summary": "El Sindicato de Vivienda reclama al Ayuntamiento que ofrezca una alternativa habitacional a la familia",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-23T10:42:03.588Z"
-        },
-        {
-          "title": "Leire Díez se querella contra el PP por el vídeo generado con IA para atacar al PSOE",
-          "link": "https://elpais.com/espana/2026-10-23/leire-diez-se-querella-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
-          "source": "El País",
-          "summary": "La exmilitante, que reclama la retirada de las imágenes, atribuye a los populares delitos de calumnias, contra la integridad moral y suplantación de identidad",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-23T10:42:03.588Z"
+          "firstSeen": "2026-10-24T09:59:03.914Z"
         }
       ],
       "items": [
         {
-          "title": "Trump asegura que Estados Unidos y México “están muy cerca” de cerrar un acuerdo comercial",
-          "link": "https://elpais.com/us/2026-10-23/trump-asegura-que-estados-unidos-y-mexico-estan-muy-cerca-de-cerrar-un-acuerdo-comercial.html",
+          "title": "Última hora de la actualidad política, en directo | Los líderes de PP, PSOE y Vox se vuelcan en la precampaña",
+          "link": "https://elpais.com/espana/2026-10-24/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-10-23T20:08:02.000Z"
+          "published": "2026-10-24T09:54:34.000Z"
         },
         {
-          "title": "Muere ahogado un niño de 20 meses y reanimado otro de tres años al caer a una piscina en Valencia",
-          "link": "https://www.20minutos.es/comunidad-valenciana/valencia/muere-ahogado-un-nino-20-meses-reanimado-otro-tres-anos-caer-piscina-valencia_7052854_0.html",
+          "title": "La Justicia confirma 19 años de cárcel a un hombre por maltratar y violar a su esposa más de medio siglo",
+          "link": "https://www.20minutos.es/andalucia/jaen/justicia-confirma-19-anos-carcel-un-hombre-por-maltratar-violar-su-esposa-durante-mas-medio-siglo_7052916_0.html",
           "source": "20minutos",
-          "published": "2026-10-23T18:43:47.000Z"
+          "published": "2026-10-24T09:38:35.000Z"
         },
         {
-          "title": "El Frente Amplio tendrá el 30% de los puestos en las listas conjuntas con el PSOE para el Senado",
-          "link": "https://www.eldiario.es/politica/frente-amplio-tendra-30-puestos-listas-conjuntas-psoe-senado_1_13611215.html",
-          "source": "elDiario.es",
-          "published": "2026-10-23T18:12:53.000Z"
+          "title": "Las empresas israelíes detrás del negocio de la vigilancia biométrica en Ceuta y Melilla",
+          "link": "https://diariosocialista.net/2026/10/24/las-empresas-israelies-detras-del-negocio-de-la-vigilancia-biometrica-en-ceuta-y-melilla/",
+          "source": "Diario Socialista",
+          "published": "2026-10-24T09:18:26.000Z"
         },
         {
-          "title": "Abascal censura el \"papel lamentable\" de Sánchez en 'La Revuelta\": \"Chistecitos como si no hubiera mentido\"",
-          "link": "https://www.europapress.es/nacional/noticia-abascal-censura-papel-lamentable-sanchez-revuelta-chistecitos-si-no-hubiera-mentido-20261023200942.html",
+          "title": "Los reproches entre Constitucional y Supremo se recrudecen en la fase final de la amnistía: de excederse a \"injerencia\"",
+          "link": "https://www.europapress.es/nacional/noticia-reproches-constitucional-supremo-recrudecen-fase-final-amnistia-excederse-injerencia-20261024111748.html",
           "source": "Europa Press",
-          "published": "2026-10-23T18:09:42.000Z"
+          "published": "2026-10-24T09:17:48.000Z"
         },
         {
-          "title": "Feijóo pide \"estar a la altura\" para \"pasar página\" de Sánchez el 29N: \"España necesita un servidor y no un impostor\"",
-          "link": "https://www.europapress.es/comunitat-valenciana/noticia-feijoo-pide-estar-altura-pasar-pagina-sanchez-29n-espana-necesita-servidor-no-impostor-20261023195713.html",
+          "title": "Feijóo echa mano de consejeros y alcaldes para sus listas, aprovechando la excepción que permite los Estatutos",
+          "link": "https://www.europapress.es/nacional/noticia-feijoo-echa-mano-consejeros-alcaldes-listas-aprovechando-excepcion-permite-estatutos-20261024105955.html",
           "source": "Europa Press",
-          "published": "2026-10-23T17:57:13.000Z"
+          "published": "2026-10-24T08:59:55.000Z"
         },
         {
-          "title": "Garton Ash advierte a Europa en los Princesa de Asturias: \"Todo lo conseguido desde 1945 se encuentra hoy amenazado\"",
-          "link": "https://www.eldiario.es/asturias/garton-ash-advierte-europa-princesa-asturias-conseguido-1945-encuentra-hoy-amenazado_1_13610776.html",
+          "title": "Mujeres Caballas convoca en Madrid una manifestación este domingo por Ceuta y exigen una solución a la crisis en 30 días",
+          "link": "https://www.europapress.es/nacional/noticia-mujeres-caballas-convoca-madrid-manifestacion-domingo-ceuta-exigen-solucion-crisis-30-dias-20261024102954.html",
+          "source": "Europa Press",
+          "published": "2026-10-24T08:29:54.000Z"
+        },
+        {
+          "title": "Nogueras reivindica a Junts como \"único partido de obediencia estrictamente catalana\"",
+          "link": "https://www.europapress.es/catalunya/noticia-nogueras-reivindica-junts-unico-partido-obediencia-estrictamente-catalana-20261024102939.html",
+          "source": "Europa Press",
+          "published": "2026-10-24T08:29:39.000Z"
+        },
+        {
+          "title": "Los tres consejos de Mamdani para saber cómo actuar ante las redadas del ICE: \"No estáis solos\"",
+          "link": "https://www.eldiario.es/rastreador/consejos-mamdani-actuar-redadas-ice-no-solos-ciudad-no-ayuda-cumplir-ley-inmigracion-civil_132_13611744.html",
           "source": "elDiario.es",
-          "published": "2026-10-23T17:30:50.000Z"
-        },
-        {
-          "title": "Ábalos reprocha a Sánchez sus críticas en 'La Revuelta' y le recuerda que su lealtad es lo que le permitió llegar donde está",
-          "link": "https://www.20minutos.es/nacional/abalos-reprocha-sanchez-sus-criticas-revuelta-le-recuerda-que-su-lealtad-le-permitio-llegar-donde-esta_7052831_0.html",
-          "source": "20minutos",
-          "published": "2026-10-23T17:22:45.000Z"
-        },
-        {
-          "title": "Trump vuelve a insultar a una periodista: \"Eres una horrible reporterilla\"",
-          "link": "https://www.20minutos.es/internacional/trump-vuelve-insultar-una-periodista-eres-una-horrible-reporterilla_7052824_0.html",
-          "source": "20minutos",
-          "published": "2026-10-23T17:05:28.000Z"
+          "published": "2026-10-24T07:23:36.000Z"
         }
       ]
     },
@@ -122,116 +75,65 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Un terremoto de magnitud 7 causa al menos 16 muertos en el Tíbet",
-          "link": "https://elpais.com/internacional/2026-10-23/un-terremoto-de-magnitud-7-causa-al-menos-16-muertos-en-el-tibet.html",
-          "source": "El País Internacional",
-          "summary": "El temblor más potente registrado en China desde enero de 2024 afecta a una zona de gran altitud y población dispersa",
+          "title": "Directo midterms y la demanda de Trump para bloquear los resultados del Senado en Alaska",
+          "link": "https://www.france24.com/es/video/20261024-directo-midterms-y-la-demanda-de-trump-para-bloquear-los-resultados-del-senado-en-alaska",
+          "source": "France 24",
+          "summary": "El presidente estadounidense Donald Trump presentó una demanda que busca bloquear los resultados del Senado en el estado de Alaska si no gana el candidato republicano. El mandatario justifica su petición por la similitud de nombres entre el candidato republicano, Dan S. Sullivan, y un aspirante independiente, Daniel J. Sullinvan, que puede dar lugar a engaños. Una sentencia previa ya había aclarado que se trata de un caso completamente legal y se puede proceder con las elecciones. Nuestra corresponsal Carolina Valladares nos amplió la información.",
           "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional",
-            "DW",
             "France 24",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-23T10:42:03.588Z"
-        },
-        {
-          "title": "Netanyahu ordena el cierre de toda Cisjordania a pocos días de las elecciones tras un ataque cerca de Hebrón",
-          "link": "https://www.eldiario.es/internacional/netanyahu-ordena-cierre-cisjordania-dias-elecciones-ataque-cerca-hebron_1_13608925.html",
-          "source": "elDiario.es Internacional",
-          "summary": "Cinco israelíes resultaron heridos en el tiroteo perpetrado supuestamente por dos palestinos, matados posteriormente por las fuerzas israelíes, que dieron comienzo a una operación de seguridad en la zona y redadas en las casas de los asaltantes y otros sospechosos, según el Ejército El incidente tiene lugar a cuatro días de que se celebren elecciones generales en Israel, con la tensión muy elevada en el país y en los territorios palestinos ocupados, ante una cita con las urnas crucial para el primer ministro, Benjamín Netanyahu. Poco después del tiroteo, el mandatario ha ordenado cercar de…",
-          "sources": [
-            "elDiario.es Internacional",
-            "20minutos Internacional",
             "El País Internacional"
           ],
-          "firstSeen": "2026-10-23T10:42:03.588Z"
-        },
-        {
-          "title": "Netanyahu ordena una gran operación en Cisjordania tras la muerte de dos soldados en un ataque palestino",
-          "link": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
-          "source": "El País Internacional",
-          "summary": "El primer ministro prevé ir “casa por casa” a desmantelar las “estructuras terroristas”. A cuatro días de las elecciones israelíes, Hamás pide intensificar las agresiones contra soldados y colonos",
-          "sources": [
-            "El País Internacional",
-            "France 24",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-23T16:06:35.495Z"
-        },
-        {
-          "title": "Un muerto y al menos cuatro heridos en un atentado racista en una localidad de las afueras de París",
-          "link": "https://elpais.com/internacional/2026-10-23/un-muerto-y-varios-heridos-en-tiroteos-en-una-localidad-de-las-afueras-de-paris.html",
-          "source": "El País Internacional",
-          "summary": "El atacante ha disparado desde un coche varias ráfagas seleccionando a gente que circulaba por la calle por su color de piel. Macron califica el ataque como “terrorismo racista”",
-          "sources": [
-            "El País Internacional",
-            "France 24",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-23T20:47:49.092Z"
-        },
-        {
-          "title": "Melania Trump logra un alto al fuego en ciudad ucraniana de Oleshki",
-          "link": "https://www.dw.com/es/melania-trump-logra-un-alto-al-fuego-en-ciudad-ucraniana-de-oleshki/a-79746911?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Rusia ratificó el anuncio y dijo que los militares ya están elaborando el calendario de una tregua en el lugar, después del sorpresivo anuncio de la primera dama estadounidense.",
-          "sources": [
-            "DW",
-            "20minutos Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-23T20:47:49.092Z"
+          "firstSeen": "2026-10-24T09:59:03.914Z"
         }
       ],
       "items": [
         {
-          "title": "Cómo maniobró el líder ultranacionalista de Serbia en un plan \"ilegal\" para favorecer los negocios de los Trump",
-          "link": "https://www.eldiario.es/internacional/theguardian/maniobro-lider-ultranacionalista-serbia-plan-ilegal-favorecer-negocios-trump_1_13609034.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-23T20:40:11.000Z"
+          "title": "Voto por primera vez en las elecciones y usé un chatbot de IA para informarme. Esto es lo que descubrí",
+          "link": "https://elpais.com/us/2026-10-24/voto-por-primera-vez-en-las-elecciones-y-use-un-chatbot-de-ia-para-informarme-esto-es-lo-que-descubri.html",
+          "source": "El País Internacional",
+          "published": "2026-10-24T09:30:00.000Z"
         },
         {
-          "title": "Flávio Bolsonaro, el candidato con vínculos paramilitares que acaricia la presidencia de Brasil",
-          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-candidato-vinculos-paramilitares-acaricia-presidencia-brasil_1_13609053.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-23T20:40:09.000Z"
-        },
-        {
-          "title": "¿Quién tiene la llave del Gobierno de Israel tras las elecciones?",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261023-qui%C3%A9n-tiene-la-llave-del-gobierno-de-israel-tras-las-elecciones",
-          "source": "France 24",
-          "published": "2026-10-23T20:36:14.000Z"
-        },
-        {
-          "title": "La amenaza de un nuevo fin de semana de caos por las protestas planea sobre Francia",
-          "link": "https://www.20minutos.es/internacional/amenaza-un-nuevo-fin-semana-caos-por-las-protestas-planea-sobre-francia_7052866_0.html",
+          "title": "El español gana 10 millones de hablantes en un año y crece su aprendizaje en China",
+          "link": "https://www.20minutos.es/internacional/espanol-gana-10-millones-hablantes-un-ano-crece-su-aprendizaje-china_7052907_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-23T20:01:27.000Z"
+          "published": "2026-10-24T09:09:26.000Z"
         },
         {
-          "title": "Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños \"secuestrados\" por pandillas",
-          "link": "https://www.bbc.com/mundo/articles/ckm230z1vngqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-23T19:43:24.000Z"
+          "title": "Francia contiene el aliento ante una nueva jornada de protestas",
+          "link": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
+          "source": "El País Internacional",
+          "published": "2026-10-24T09:00:33.000Z"
         },
         {
-          "title": "Macron afirma que el atentado \"terrorista racista\" de este viernes marca \"un punto de inflexión\" en Francia",
-          "link": "https://www.20minutos.es/internacional/macron-afirma-que-atentado-terrorista-racista-este-viernes-marca-un-punto-inflexion-francia_7052859_0.html",
+          "title": "El ejército israelí realiza redadas y expulsa a decenas de familias de sus hogares en Hebrón tras el ataque palestino en el que murieron dos soldados",
+          "link": "https://elpais.com/internacional/2026-10-24/el-ejercito-israeli-realiza-redadas-y-expulsa-a-decenas-de-familias-de-sus-hogares-en-hebron-tras-el-ataque-palestino-en-el-que-murieron-dos-soldados.html",
+          "source": "El País Internacional",
+          "published": "2026-10-24T08:44:28.000Z"
+        },
+        {
+          "title": "Irán informa de explosiones e incendios en otros dos superpetroleros en Ormuz",
+          "link": "https://www.20minutos.es/internacional/iran-informa-explosiones-incendios-otros-dos-superpetroleros-ormuz_7052901_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-23T19:15:04.000Z"
+          "published": "2026-10-24T08:23:43.000Z"
         },
         {
-          "title": "Ossoff, El-Sayed y Ramaswamy: tres campañas que reflejan la batalla de las midterms en EE. UU.",
-          "link": "https://www.france24.com/es/video/20261023-ossoff-el-sayed-y-ramaswamy-tres-campa%C3%B1as-que-reflejan-la-batalla-de-las-midterms-en-ee-uu",
-          "source": "France 24",
-          "published": "2026-10-23T19:00:54.000Z"
+          "title": "La Inteligencia de Estados Unidos asegura que Irán ha intensificado sus planes para atacar a funcionarios estadounidenses",
+          "link": "https://www.20minutos.es/internacional/inteligencia-estados-unidos-asegura-que-iran-ha-intensificado-sus-planes-para-atacar-funcionarios-estadounidenses_7052893_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-24T08:12:16.000Z"
         },
         {
-          "title": "Netanyahu ordena cerrar Cisjordania ocupada, confinar Hebrón y amenaza con lanzar “gran ofensiva”",
-          "link": "https://www.france24.com/es/video/20261023-netanyahu-ordena-cerrar-cisjordania-ocupada-confinar-hebr%C3%B3n-y-amenaza-con-lanzar-gran-ofensiva",
-          "source": "France 24",
-          "published": "2026-10-23T18:57:17.000Z"
+          "title": "Milei llama de nuevo \"ladrón corrupto\" a Pedro Sánchez tras su polémico viaje a Madrid",
+          "link": "https://www.20minutos.es/internacional/milei-llama-nuevo-ladron-corrupto-pedro-sanchez-tras-su-polemico-viaje-madrid_7052885_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-24T07:02:59.000Z"
+        },
+        {
+          "title": "Flávio Bolsonaro llama \"nueve dedos\" a Lula, que le acusa de \"lamer las botas\" de Trump durante el último debate",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-llama-nueve-dedos-lula-le-acusa-lamer-botas-trump-durante-ultimo-debate_1_13611727.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-24T06:28:07.000Z"
         }
       ]
     }
