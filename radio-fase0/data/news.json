@@ -1,105 +1,72 @@
 {
-  "date": "2026-10-24",
-  "updatedAt": "2026-10-24T19:58:15.602Z",
-  "edition": "tarde",
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25T10:22:52.244Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Sánchez invoca el 'No a la guerra' en un vídeo frente al 'Guernica' y presume de mantener los mismos principios \"sin dobles raseros\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-invoca-no-guerra-un-video-frente-guernica-presume-mantener-los-mismos-principios-sin-dobles-raseros_7052910_0.html",
-          "source": "20minutos",
-          "summary": "El presidente de Gobierno aparece en un vídeo publicado en sus redes sociales junto al 'Guernica' de Pablo Picasso, una obra de arte que, asegura, representa \"qué sucede cuando la barbarie se impone a la razón\".",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-24T09:59:03.914Z"
-        },
-        {
-          "title": "Feijóo promete una rebaja fiscal a jóvenes y autónomos y critica a quien \"agita la calle\": \"¿Queremos lo de Francia?\"",
-          "link": "https://www.20minutos.es/nacional/feijoo-promete-rebaja-fiscal-jovenes-familias-autonomos-critica-quien-agita-calle-queremos-francia_7052963_0.html",
-          "source": "20minutos",
-          "summary": "El líder del PP, en un mitin en Vigo, ha exigido a Zapatero que explique \"de dónde salieron las joyas\" y que \"pida perdón a los españoles\".",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-24T15:02:59.520Z"
-        },
-        {
-          "title": "Sánchez reivindica “la España de Lorca” frente a la “involución” del PP y Vox",
-          "link": "https://elpais.com/espana/2026-10-24/sanchez-reivindica-la-espana-de-lorca-frente-a-la-involucion-del-pp-y-vox.html",
-          "source": "El País",
-          "summary": "El candidato socialista se compromete desde Granada a reforzar la protección del aborto, a defender la cultura de los vetos del “club de la motosierra” y a llegar “antes” y “más lejos” en sus medidas sobre vivienda",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-24T15:02:59.520Z"
-        },
-        {
-          "title": "Frente Amplio propone que ninguna pensión esté por debajo del SMI y fijar en 65 años la edad máxima de jubilación",
-          "link": "https://www.europapress.es/nacional/noticia-frente-amplio-propone-ninguna-pension-debajo-smi-fijar-65-anos-edad-maxima-jubilacion-20261024130942.html",
+          "title": "Sánchez: \"Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años\"",
+          "link": "https://www.europapress.es/nacional/noticia-sanchez-gobierno-pp-vox-no-alternancia-retroceder-50-anos-20261025102254.html",
           "source": "Europa Press",
-          "summary": "Frente Amplio ha propuesto este sábado que ninguna pensión esté por debajo del Salario Mínimo Interprofesional (SMI) y que la edad máxima para poder jubilarse no supere los 65 años, frente al \"peligro\" del sistema que proclaman tanto desde el PP como desde Vox.",
+          "summary": "El presidente del Gobierno afirma que su mayor error fue \"no ver la corrupción de Ábalos\" y asegura que el SMI subirá próximamente",
           "sources": [
             "Europa Press",
-            "20minutos"
+            "El País"
           ],
-          "firstSeen": "2026-10-24T15:02:59.520Z"
+          "firstSeen": "2026-10-25T10:22:52.244Z"
         }
       ],
       "items": [
         {
-          "title": "Altercados, saqueos y cargas en el centro de Barcelona en una protesta juvenil \"contra el sistema\"",
-          "link": "https://www.eldiario.es/catalunya/altercados-saqueos-cargas-centro-barcelona-protesta-juvenil-sistema_1_13612854.html",
-          "source": "elDiario.es",
-          "published": "2026-10-24T19:13:49.000Z"
-        },
-        {
-          "title": "El alcalde de Puertollano renuncia a estar en la lista del PP al Congreso y el PSOE recuerda su imputación por acoso laboral",
-          "link": "https://www.eldiario.es/castilla-la-mancha/politica/alcalde-puertollano-renuncia-lista-pp-congreso-imputado-acoso-laboral-dice-psoe_1_13612822.html",
-          "source": "elDiario.es",
-          "published": "2026-10-24T18:03:56.000Z"
-        },
-        {
-          "title": "Juan del Val lanza una pulla a Pedro Sánchez después de que le llamara 'Julio Valls': \"Tú te equivocas de verdad\"",
-          "link": "https://www.20minutos.es/television/juan-val-lanza-una-pulla-pedro-sanchez-despues-que-le-llamara-julio-valls-tu-te-equivocas-verdad_7053007_0.html",
-          "source": "20minutos",
-          "published": "2026-10-24T18:00:27.000Z"
-        },
-        {
-          "title": "Abascal confía desde Eivissa en poder \"convencer a muchos más\" socialistas para que voten a Vox: \"Fueron estafados\"",
-          "link": "https://www.europapress.es/illes-balears/noticia-abascal-confia-eivissa-poder-convencer-muchos-mas-socialistas-voten-vox-fueron-estafados-20261024195935.html",
+          "title": "Abascal asegura que defiende la identidad catalana, que está \"amenazada por el islamismo\"",
+          "link": "https://www.europapress.es/catalunya/noticia-abascal-asegura-defiende-identidad-catalana-amenazada-islamismo-20261025110056.html",
           "source": "Europa Press",
-          "published": "2026-10-24T17:59:35.000Z"
+          "published": "2026-10-25T10:00:56.000Z"
         },
         {
-          "title": "El 'Nostradamus' estadounidense predice una guerra nuclear que empezará en 2028 y durará casi tres décadas",
-          "link": "https://www.20minutos.es/internacional/nostradamus-estadounidense-predice-guerra-nuclear-empezara-durara-casi-tres-decadas_7053004_0.html",
+          "title": "Gonzalo Bernardos, sobre las pensiones: \"Deberíamos retrasar la edad de jubilación\"",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-economista-sobre-las-pensiones-deberiamos-retrasar-edad-jubilacion_7053045_0.html",
           "source": "20minutos",
-          "published": "2026-10-24T17:45:57.000Z"
+          "published": "2026-10-25T08:41:04.000Z"
         },
         {
-          "title": "Vecinos de El Verger continúan con sus casas inundadas tras las lluvias de la DANA Adam: \"Lo he perdido prácticamente todo\"",
-          "link": "https://www.20minutos.es/comunidad-valenciana/alicante/vecinos-verger-continuan-con-sus-casas-inundadas-tras-las-lluvias-dana-adam-he-perdido-practicamente-todo_7052255_0.html",
+          "title": "Ofrecer imágenes falsas en una campaña con la IA es un recurso legítimo para el PP",
+          "link": "https://www.eldiario.es/blog/politica-para-supervivientes/ofrecer-imagenes-falsas-campana-ia-recurso-legitimo-pp_132_13611045.html",
+          "source": "elDiario.es",
+          "published": "2026-10-25T07:07:16.000Z"
+        },
+        {
+          "title": "Universidades, FP o ratios educativas: el Gobierno acelera para sacar del cajón decretos antes del 29-N",
+          "link": "https://www.20minutos.es/nacional/universidades-fp-ratios-educativas-gobierno-acelera-para-sacar-cajon-decretos-pendientes-antes-29-n_7052122_0.html",
           "source": "20minutos",
-          "published": "2026-10-24T17:20:27.000Z"
+          "published": "2026-10-25T07:04:05.000Z"
         },
         {
-          "title": "La alta participación de los palestinos de Israel busca derrocar a Netanyahu: “Tiene que marcharse ya”",
-          "link": "https://elpais.com/internacional/2026-10-25/la-alta-participacion-de-los-palestinos-de-israel-busca-derrocar-a-netanyahu-tiene-que-marcharse-ya.html",
-          "source": "El País",
-          "published": "2026-10-24T16:57:07.000Z"
+          "title": "PP y Vox apuran los plazos para lograr un acuerdo en el Senado que les permita atar una mayoría suficiente contra la izquierda",
+          "link": "https://www.20minutos.es/nacional/pp-vox-apuran-los-plazos-para-lograr-un-acuerdo-senado-que-les-permita-atar-una-mayoria-suficiente-contra-izquierda_7052499_0.html",
+          "source": "20minutos",
+          "published": "2026-10-25T07:00:01.000Z"
         },
         {
-          "title": "La primera vacuna contra el melanoma abre una nueva vía para tratamientos personalizados contra el cáncer",
-          "link": "https://elpais.com/salud-y-bienestar/2026-10-24/la-primera-vacuna-contra-el-melanoma-abre-una-nueva-via-para-tratamientos-personalizados-contra-el-cancer.html",
-          "source": "El País",
-          "published": "2026-10-24T16:54:22.000Z"
+          "title": "El último movimiento del despacho de Garzón abre la puerta a que el TC debata de nuevo sobre la 'ley de nietos' antes del 29N",
+          "link": "https://www.20minutos.es/nacional/ultimo-movimiento-despacho-garzon-abre-puerta-que-constitucional-debata-nuevo-sobre-ley-nietos-antes-29n_7052628_0.html",
+          "source": "20minutos",
+          "published": "2026-10-25T06:59:37.000Z"
+        },
+        {
+          "title": "La ‘pesoizada’ mediática y el clientelismo del “Todo va bien”",
+          "link": "https://diariosocialista.net/2026/10/25/el-clientelismo-mediatico-del-psoe-y-el-progresismo/",
+          "source": "Diario Socialista",
+          "published": "2026-10-25T06:00:00.000Z"
+        },
+        {
+          "title": "La mentira tiene clientes",
+          "link": "https://diariosocialista.net/2026/10/25/la-mentira-tiene-clientes/",
+          "source": "Diario Socialista",
+          "published": "2026-10-25T06:00:00.000Z"
         }
       ]
     },
@@ -108,98 +75,76 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Directo midterms y la demanda de Trump para bloquear los resultados del Senado en Alaska",
-          "link": "https://www.france24.com/es/video/20261024-directo-midterms-y-la-demanda-de-trump-para-bloquear-los-resultados-del-senado-en-alaska",
+          "title": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
+          "link": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
+          "source": "El País Internacional",
+          "summary": "El senador ultra y el presidente izquierdista se disputan la presidencia en unas elecciones reñidas como nunca",
+          "sources": [
+            "El País Internacional",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-25T10:22:52.244Z"
+        },
+        {
+          "title": "Directo midterms y el voto anticipado de Trump, pese a sus críticas al voto por correo",
+          "link": "https://www.france24.com/es/video/20261025-directo-midterms-y-el-voto-anticipado-de-trump-pese-a-sus-cr%C3%ADticas-al-voto-por-correo",
           "source": "France 24",
-          "summary": "El presidente estadounidense Donald Trump presentó una demanda que busca bloquear los resultados del Senado en el estado de Alaska si no gana el candidato republicano. El mandatario justifica su petición por la similitud de nombres entre el candidato republicano, Dan S. Sullivan, y un aspirante independiente, Daniel J. Sullinvan, que puede dar lugar a engaños. Una sentencia previa ya había aclarado que se trata de un caso completamente legal y se puede proceder con las elecciones. Nuestra corresponsal Carolina Valladares nos amplió la información.",
+          "summary": "El presidente de Estados Unidos, Donald Trump, y la primera dama, Melania Trump, emitieron su voto anticipado en Florida de cara a las elecciones de medio término, que se celebrarán el próximo 3 de noviembre. El alcalde de Nueva York, Zohran Mamdani, también votó de forma anticipada e hizo un llamado a la ciudadanía a apoyar los referendos. Por su parte, el expresidente Barack Obama criticó a la Administración Trump en un mitin de campaña a favor del candidato demócrata en Ohio. Nuestro corresponsal Antoni Belchi nos amplió los detalles.",
           "sources": [
             "France 24",
             "El País Internacional"
           ],
-          "firstSeen": "2026-10-24T09:59:03.914Z"
-        },
-        {
-          "title": "Informe desde París: más de 70.000 policías desplegados en nueva jornada de protestas en Francia",
-          "link": "https://www.france24.com/es/video/20261024-informe-desde-par%C3%ADs-m%C3%A1s-de-70-000-polic%C3%ADas-desplegados-en-nueva-jornada-de-protestas-en-francia",
-          "source": "France 24",
-          "summary": "Francia vive una nueva jornada de protestas marcada por un amplio despliegue de seguridad. Las movilizaciones, convocadas por estudiantes y sindicatos, se producen en medio del descontento en el ámbito educativo. Según las autoridades, más de 70.000 policías han sido desplegados en todo el país para prevenir nuevos disturbios. Desde París, nuestra periodista Natalia Ruiz Giraldo nos cuenta más detalles.",
-          "sources": [
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-24T15:02:59.520Z"
-        },
-        {
-          "title": "Tifón Champi golpea con fuerza: miles de evacuados y cortes de electricidad en Taiwan",
-          "link": "https://www.france24.com/es/video/20261024-tif%C3%B3n-champi-golpea-con-fuerza-miles-de-evacuados-y-cortes-de-electricidad-en-taiwan",
-          "source": "France 24",
-          "summary": "El tifón Champi, con fuertes vientos y condiciones meteorológicas extremas, ha dejado más de 55 mil hogares sin electricidad y al menos cinco mil personas evacuadas en Taiwan. Los vientos alcanzaron 176 kilómetros por hora, un fenómeno amplificado por el Fenómeno de El Niño. El tifón se aleja de las costas de Taiwan y se acerca a China y Japón, países que ya reportan fuertes vientos y lluvias en la zona sur.",
-          "sources": [
-            "France 24",
-            "DW"
-          ],
-          "firstSeen": "2026-10-24T19:58:15.602Z"
-        },
-        {
-          "title": "Almodóvar, Bardem y artistas de todo el mundo piden el voto para Lula para \"combatir a los fascistas\"",
-          "link": "https://www.eldiario.es/internacional/almodovar-bardem-artistas-mudo-piden-voto-lula-combatir-fascistas_1_13612561.html",
-          "source": "elDiario.es Internacional",
-          "summary": "Guillermo del Toro, Mark Ruffalo, Juliette Binoche o Tilda Swinton también participan en el vídeo. Dentro de Brasil, Lula ya ha recibido el apoyo de buena parte de las principales personalidades de la cultura, como Caetano Veloso, Wagner Moura o Fernanda Torres Flávio Bolsonaro llama “nueve dedos” a Lula, que le acusa de “lamer las botas” de Trump durante el último debate Los directores de cine Pedro Almodóvar y Guillermo del Toro, los actores Javier Bardem y Mark Ruffalo y otros artistas de todo el mundo llamaron este viernes a votar al presidente brasileño y candidato a la reelección, Luiz…",
-          "sources": [
-            "elDiario.es Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-24T19:58:15.602Z"
+          "firstSeen": "2026-10-25T10:22:52.244Z"
         }
       ],
       "items": [
         {
-          "title": "Miles de personas piden el fin del Gobierno de Netanyahu tres días antes de las elecciones",
-          "link": "https://elpais.com/internacional/2026-10-24/miles-de-personas-piden-el-fin-del-gobierno-de-netanyahu-tres-dias-antes-de-las-elecciones.html",
+          "title": "Al menos 250 familias han sido expulsadas de sus casas en Hebrón por el ejército israelí tras un ataque palestino",
+          "link": "https://elpais.com/internacional/2026-10-25/al-menos-250-familias-han-sido-expulsadas-de-sus-casas-en-hebron-por-el-ejercito-israeli-tras-un-ataque-palestino.html",
           "source": "El País Internacional",
-          "published": "2026-10-24T19:21:56.000Z"
+          "published": "2026-10-25T10:16:41.000Z"
         },
         {
-          "title": "¿Qué tanto pueden las protestas afectar el panorama electoral del 2027 en Francia?",
-          "link": "https://www.france24.com/es/video/20261024-qu%C3%A9-tanto-pueden-las-protestas-afectar-el-panorama-electoral-del-2027-en-francia",
-          "source": "France 24",
-          "published": "2026-10-24T19:12:29.000Z"
-        },
-        {
-          "title": "Crecidos en el ultranacionalismo y la era Netanyahu: el voto joven en Israel se inclina a la derecha",
-          "link": "https://www.france24.com/es/video/20261024-crecidos-en-el-ultranacionalismo-y-la-era-netanyahu-el-voto-joven-en-israel-se-inclina-a-la-derecha",
-          "source": "France 24",
-          "published": "2026-10-24T19:05:28.000Z"
-        },
-        {
-          "title": "Karoline Leavitt defiende a Katie Zacharia, la secretaria de prensa de Trump más breve: \"Solo 37 personas han ocupado ese puesto\"",
-          "link": "https://www.20minutos.es/internacional/karoline-leavitt-defiende-katie-zacharia-secretaria-prensa-trump-mas-breve_7053019_0.html",
+          "title": "Trump tacha a Obama de \"sumamente incompetente\" tras sus críticas a la guerra contra Irán",
+          "link": "https://www.20minutos.es/internacional/trump-tacha-obama-sumamente-incompetente-tras-sus-criticas-guerra-contra-iran_7053063_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-24T18:53:14.000Z"
+          "published": "2026-10-25T10:14:46.000Z"
         },
         {
-          "title": "Segundo fin de semana de disturbios en Italia: choques entre manifestantes y policía en Roma y otras ciudades como Bolonia",
-          "link": "https://www.20minutos.es/internacional/segundo-fin-semana-disturbios-italia-choques-entre-manifestantes-policia-roma-otras-ciudades-como-bolonia_7053021_0.html",
+          "title": "Los estudiantes de Serbia disputan el poder a Vucic en las urnas tras casi dos años de protestas",
+          "link": "https://elpais.com/internacional/2026-10-25/los-estudiantes-de-serbia-disputan-el-poder-a-vucic-en-las-urnas-tras-casi-dos-anos-de-protestas.html",
+          "source": "El País Internacional",
+          "published": "2026-10-25T07:49:54.000Z"
+        },
+        {
+          "title": "Europa asume que Trump no quiere ayudar a Ucrania y se mentaliza para sostener sola a Zelenski",
+          "link": "https://www.20minutos.es/internacional/europa-asume-que-trump-no-quiere-ayudar-ucrania-se-mentaliza-para-sostener-sola-zelenski_7051389_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-24T18:49:01.000Z"
+          "published": "2026-10-25T07:03:20.000Z"
         },
         {
-          "title": "Marine Le Pen lanzará su candidatura en un congreso ultraderechista blindado por las protestas",
-          "link": "https://www.france24.com/es/francia/20261024-marine-le-pen-lanzar%C3%A1-su-candidatura-en-un-congreso-ultraderechista-blindado-por-las-protestas",
-          "source": "France 24",
-          "published": "2026-10-24T18:46:26.000Z"
-        },
-        {
-          "title": "¿Puede Alemania reformar su economía antes de que la AfD siga creciendo?",
-          "link": "https://www.dw.com/es/¿puede-alemania-reformar-su-economía-antes-de-que-la-afd-siga-creciendo/a-79749406?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Comienza la primera vuelta de las elecciones presidenciales de Bulgaria",
+          "link": "https://www.dw.com/es/comienza-la-primera-vuelta-de-las-elecciones-presidenciales-de-bulgaria/a-79753592?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-24T17:57:00.000Z"
+          "published": "2026-10-25T06:27:00.000Z"
         },
         {
-          "title": "La calle mantiene la presión sobre Macron con marchas masivas pese a las trabas del Gobierno",
-          "link": "https://www.eldiario.es/internacional/movilizacion-social-mantiene-presion-emmanuel-macron-pese-trabas-derecho-manifestarse-decretadas-gobierno-semana_1_13612830.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-24T17:55:51.000Z"
+          "title": "¡Otra Yalta no, por favor!",
+          "link": "https://elpais.com/internacional/2026-10-25/otra-yalta-no-por-favor.html",
+          "source": "El País Internacional",
+          "published": "2026-10-25T04:45:01.000Z"
+        },
+        {
+          "title": "Viaje a la zona cero de la revuelta en Francia",
+          "link": "https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html",
+          "source": "El País Internacional",
+          "published": "2026-10-25T04:45:01.000Z"
+        },
+        {
+          "title": "Benjamín Netanyahu, un superviviente político aferrado a las guerras para ganar una vez más",
+          "link": "https://elpais.com/internacional/2026-10-25/benjamin-netanyahu-un-superviviente-politico-aferrado-a-las-guerras-para-ganar-una-vez-mas.html",
+          "source": "El País Internacional",
+          "published": "2026-10-25T04:45:01.000Z"
         }
       ]
     }
