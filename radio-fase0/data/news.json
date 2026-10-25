@@ -1,12 +1,25 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T15:15:00.390Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-25T20:08:27.554Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "Francisco Martín dimite como delegado del Gobierno tras quedar fuera de las listas del PSOE y en plena acampada en Sol",
+          "link": "https://www.europapress.es/madrid/noticia-francisco-martin-dimite-delegado-gobierno-madrid-20261025175742.html",
+          "source": "Europa Press",
+          "summary": "Francisco Martín Aguirre ha dimitido este domingo como delegado del Gobierno en la Comunidad de Madrid, cargo que ocupaba desde marzo de 2023, una decisión que llega una vez que se ha conocido que quedaba fuera de las listas del PSOE para las elecciones generales del próximo 29 de noviembre y en medio de las últimas polémicas por la acampada por la vivienda en la Puerta del SOl, sumado a las críticas por las cargas policiales en las protestas por la educación pública.",
+          "sources": [
+            "Europa Press",
+            "20minutos",
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-10-25T20:08:27.554Z"
+        },
         {
           "title": "Rufián ve \"probable\" que la extrema derecha esté detrás de los disturbios en Barcelona",
           "link": "https://www.20minutos.es/cataluna/barcelona/rufian-ve-probable-que-extrema-derecha-este-detras-los-disturbios-barcelona_7053125_0.html",
@@ -45,52 +58,52 @@
       ],
       "items": [
         {
-          "title": "Miles de personas apoyan en Madrid a las Mujeres Caballas para que Ceuta vuelva a la normalidad: \"Ceuta no se rinde\"",
-          "link": "https://www.europapress.es/sociedad/noticia-miles-personas-apoyan-madrid-mujeres-caballas-ceuta-vuelva-normalidad-ceuta-no-rinde-20261025144024.html",
-          "source": "Europa Press",
-          "published": "2026-10-25T13:40:24.000Z"
+          "title": "Resultados de las elecciones en Brasil, en vivo|Cierran las urnas y comienza el conteo de votos para elegir presidente entre Lula y Bolsonaro",
+          "link": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
+          "source": "El País",
+          "published": "2026-10-25T19:52:59.000Z"
+        },
+        {
+          "title": "El PP designa a Camarero como número 1 al Senado por Valencia y obliga a Pérez Llorca a remodelar el Consell",
+          "link": "https://www.eldiario.es/comunitat-valenciana/pp-designa-camarero-numero-1-senado-valencia-tendra-gobierno-valenciano_1_13614101.html",
+          "source": "elDiario.es",
+          "published": "2026-10-25T19:50:51.000Z"
+        },
+        {
+          "title": "La china Moonshot dice que ha limitado las capacidades de ciberataques en su nuevo modelo de IA",
+          "link": "https://www.20minutos.es/tecnologia/actualidad/china-moonshot-dice-que-ha-limitado-las-capacidades-ciberataques-su-nuevo-modelo-ia_7053194_0.html",
+          "source": "20minutos",
+          "published": "2026-10-25T19:26:33.000Z"
+        },
+        {
+          "title": "Las protestas en Barcelona tensan la precampaña: el PSC dice que irá hasta el final y Feijóo responsabiliza al Gobierno",
+          "link": "https://www.20minutos.es/nacional/las-protestas-barcelona-tensan-precampana-psc-dice-que-ira-hasta-final-feijoo-responsabiliza-gobierno_7053161_0.html",
+          "source": "20minutos",
+          "published": "2026-10-25T19:15:40.000Z"
+        },
+        {
+          "title": "El PP incluye a sus alcaldes de la dana de Utiel y Algemessí en sus listas al Congreso, dos de los municipios más afectados",
+          "link": "https://www.eldiario.es/comunitat-valenciana/pp-incluye-alcaldes-dana-utiel-algemessi-listas-congreso-municipios-afectados_1_13613936.html",
+          "source": "elDiario.es",
+          "published": "2026-10-25T17:58:22.000Z"
+        },
+        {
+          "title": "Los acampados de Sol retiran algunas tiendas para evitar molestias a comerciantes",
+          "link": "https://www.20minutos.es/madrid/los-acampados-sol-retiran-algunas-tiendas-para-evitar-molestias-comerciantes_7053162_0.html",
+          "source": "20minutos",
+          "published": "2026-10-25T16:56:18.000Z"
+        },
+        {
+          "title": "Las protestas multitudinarias desbaratan en Francia la estrategia del miedo de Macron",
+          "link": "https://www.elsaltodiario.com/francia/protestas-multitudinarias-desbaratan-estrategia-miedo-macron?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-25T13:56:00.000Z"
         },
         {
           "title": "El exconseller Comín cruza la frontera a pie para escenificar su vuelta tras nueve años en Bélgica",
           "link": "https://www.eldiario.es/catalunya/toni-comin-exconseller-junts-cruza-frontera-pie-regreso-bruselas_1_13613715.html",
           "source": "elDiario.es",
           "published": "2026-10-25T13:33:53.000Z"
-        },
-        {
-          "title": "Frente Amplio carga contra los políticos de izquierda con \"piquito de oro\" y que \"no ponen el cuerpo\" para defender los derechos",
-          "link": "https://www.eldiario.es/politica/frene-amplio-carga-politicos-izquierda-piquito-oro-no-ponen-cuerpo-defender-derechos_1_13613685.html",
-          "source": "elDiario.es",
-          "published": "2026-10-25T13:29:39.000Z"
-        },
-        {
-          "title": "Feijóo culpa a Sánchez y \"los discípulos del muro\" de los disturbios: \"Como han perdido la calle quieren incendiarla\"",
-          "link": "https://www.20minutos.es/nacional/feijoo-culpa-sanchez-los-discipulos-muro-los-disturbios-barcelona-como-han-perdido-calle-quieren-incendiarla_7053113_0.html",
-          "source": "20minutos",
-          "published": "2026-10-25T13:13:03.000Z"
-        },
-        {
-          "title": "Varapalo del juzgado al conseller de Sanidad: estima que vulneró la ley por dificultar al PSPV el acceso a los pagos a la privada",
-          "link": "https://www.eldiario.es/comunitat-valenciana/varapalo-juezgado-conseller-sanidad-estima-vulnero-ley-dificular-pspv-acceso-pagos-privada_1_13613489.html",
-          "source": "elDiario.es",
-          "published": "2026-10-25T12:48:57.000Z"
-        },
-        {
-          "title": "Feijóo culpa a Sánchez sin pruebas de los disturbios en Barcelona: \"Se están resistiendo a abandonar el poder con violencia\"",
-          "link": "https://www.eldiario.es/politica/feijoo-culpa-sanchez-pruebas-disturbios-barcelona-resistiendo-abandonar-violencia_1_13613552.html",
-          "source": "elDiario.es",
-          "published": "2026-10-25T12:39:05.000Z"
-        },
-        {
-          "title": "Netanyahu estrangula Cisjordania en la antesala de las elecciones israelíes",
-          "link": "https://www.elsaltodiario.com/ocupacion-israeli/netanyahu-estrangula-cisjordania-elecciones?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-25T12:11:00.000Z"
-        },
-        {
-          "title": "Miles de personas se manifiestan por Ceuta y las 'caballas' con Vivas al frente: \"Por una Ceuta segura, española y europea\"",
-          "link": "https://www.20minutos.es/nacional/miles-personas-se-manifiestan-madrid-por-ceuta-las-caballas-con-vivas-frente-por-una-ceuta-segura-espanola-europea_7053097_0.html",
-          "source": "20minutos",
-          "published": "2026-10-25T11:46:36.000Z"
         }
       ]
     },
@@ -130,56 +143,67 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-10-25T15:15:00.390Z"
+        },
+        {
+          "title": "Trump, tras el regreso de María Corina Machado a Venezuela: \"Espero que esté a salvo\"",
+          "link": "https://www.20minutos.es/internacional/trump-tras-regreso-maria-corina-machado-venezuela-espero-que-este-salvo_7053169_0.html",
+          "source": "20minutos Internacional",
+          "summary": "La líder opositora ha reaparecido en una iglesia del estado Lara tras casi un año fuera de Venezuela. Por el momento, se desconocen los detalles de su regreso y si Washington participó en él.",
+          "sources": [
+            "20minutos Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-25T20:08:27.554Z"
         }
       ],
       "items": [
         {
-          "title": "Bukele descarta que los cuerpos encontrados en Haití sean los de los 4 soldados salvadoreños secuestrados por pandillas pero la fuerza internacional no confirma ni desmiente",
-          "link": "https://www.bbc.com/mundo/articles/cqev3nexxp91o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-25T15:09:21.000Z"
+          "title": "Brasil, en vilo tras las elecciones más ajustadas de la historia",
+          "link": "https://www.eldiario.es/internacional/brasil-vilo-elecciones-ajustadas-historia_1_13614113.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-25T19:46:10.000Z"
         },
         {
-          "title": "Netanyahu alarma a los israelíes con \"sanciones bancarias\" y una \"bomba nuclear sobre Tel Aviv\"",
-          "link": "https://www.france24.com/es/video/20261025-netanyahu-alarma-a-los-israel%C3%ADes-con-sanciones-bancarias-y-una-bomba-nuclear-sobre-tel-aviv",
+          "title": "Informe desde Río de Janeiro: qué esperan los ciudadanos de la reñida elección en Brasil",
+          "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-qu%C3%A9-esperan-los-ciudadanos-de-la-re%C3%B1ida-elecci%C3%B3n-en-brasil",
           "source": "France 24",
-          "published": "2026-10-25T15:04:31.000Z"
+          "published": "2026-10-25T18:47:00.000Z"
         },
         {
-          "title": "“¡Basta ya!”: Obama irrumpe en campaña de las midterms y acusa a Trump de “caos, crueldad y corrupción”",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261025-basta-ya-obama-irrumpe-en-campa%C3%B1a-de-las-midterms-y-acusa-a-trump-de-caos-crueldad-y-corrupci%C3%B3n",
+          "title": "Netanyahu afronta elecciones bajo tensión: ofensiva en Hebrón, polémica por criptomonedas y amenazas contra Irán",
+          "link": "https://www.france24.com/es/medio-oriente/20261025-netanyahu-afronta-elecciones-bajo-tensi%C3%B3n-ofensiva-en-hebr%C3%B3n-pol%C3%A9mica-por-criptomonedas-y-amenazas-contra-ir%C3%A1n",
           "source": "France 24",
-          "published": "2026-10-25T14:24:59.000Z"
+          "published": "2026-10-25T18:01:35.000Z"
         },
         {
-          "title": "Irán ataca con drones una base de rebeldes kurdos iraníes en Irak",
-          "link": "https://www.dw.com/es/irán-ataca-con-drones-una-base-de-rebeldes-kurdos-iraníes-en-irak/a-79755780?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-25T14:20:00.000Z"
-        },
-        {
-          "title": "Informe desde São Paulo: ¿por qué este estado es clave en la elección presidencial?",
-          "link": "https://www.france24.com/es/video/20261025-informe-desde-s%C3%A3o-paulo-por-qu%C3%A9-este-estado-es-clave-en-la-elecci%C3%B3n-presidencial",
+          "title": "¿Qué representa la oficialización de la candidatura de Marine Le Pen para Francia?",
+          "link": "https://www.france24.com/es/video/20261025-qu%C3%A9-representa-la-oficializaci%C3%B3n-de-la-candidatura-de-marine-le-pen-para-francia",
           "source": "France 24",
-          "published": "2026-10-25T13:46:19.000Z"
+          "published": "2026-10-25T17:48:14.000Z"
         },
         {
-          "title": "Informe desde Río de Janeiro: avanza con normalidad la jornada electoral a pesar de las lluvias",
-          "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-avanza-con-normalidad-la-jornada-electoral-a-pesar-de-las-lluvias",
+          "title": "Marien Le Pen: \"Francia no está en este estado por su pueblo sino por sus líderes\"",
+          "link": "https://www.france24.com/es/video/20261025-marien-le-pen-francia-no-est%C3%A1-en-este-estado-por-su-pueblo-sino-por-sus-l%C3%ADderes",
           "source": "France 24",
-          "published": "2026-10-25T13:42:04.000Z"
+          "published": "2026-10-25T17:46:55.000Z"
         },
         {
-          "title": "Putin dice que Europa recurre a Rusia para GNL y rechaza implicación en protestas",
-          "link": "https://www.dw.com/es/putin-dice-que-europa-recurre-a-rusia-para-gnl-y-rechaza-implicación-en-protestas/a-79755379?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-25T13:16:00.000Z"
-        },
-        {
-          "title": "La amenaza de Putin lleva a Reino Unido a efectuar en Alemania la mayor operación paracaidista desde la II Guerra Mundial",
-          "link": "https://www.20minutos.es/internacional/amenaza-putin-lleva-reino-unido-efectuar-alemania-mayor-operacion-paracaidista-desde-ii-guerra-mundial_7053073_0.html",
+          "title": "Trump alerta de los \"cientos de miles\" de \"gentes airadas\" que entraron en España \"hace un mes\"",
+          "link": "https://www.20minutos.es/internacional/trump-alerta-los-cientos-miles-gentes-airadas-que-entraron-espana-hace-un-mes_7053153_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-25T10:54:30.000Z"
+          "published": "2026-10-25T16:19:33.000Z"
+        },
+        {
+          "title": "Netanyahu amenaza a Irán con un golpe \"aplastante\" a dos días de las elecciones",
+          "link": "https://www.20minutos.es/internacional/netanyahu-amenaza-iran-con-un-golpe-aplastante-dos-dias-las-elecciones_7053152_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-25T16:11:29.000Z"
+        },
+        {
+          "title": "“Estoy aquí”: María Corina Machado regresa a Venezuela tras casi un año fuera del país",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-estoy-aqu%C3%AD-mar%C3%ADa-corina-machado-regresa-a-venezuela-tras-casi-un-a%C3%B1o-fuera-del-pa%C3%ADs",
+          "source": "France 24",
+          "published": "2026-10-25T16:08:16.000Z"
         }
       ]
     }
