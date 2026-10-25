@@ -1,12 +1,36 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T10:22:52.244Z",
+  "updatedAt": "2026-10-25T15:15:00.390Z",
   "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "Rufián ve \"probable\" que la extrema derecha esté detrás de los disturbios en Barcelona",
+          "link": "https://www.20minutos.es/cataluna/barcelona/rufian-ve-probable-que-extrema-derecha-este-detras-los-disturbios-barcelona_7053125_0.html",
+          "source": "20minutos",
+          "summary": "En declaraciones a los periodistas tras la presentación de su libro 'Cómo ganar a los fachas', el líder de ERC ha destacado que \"hay gente que quiere cargarse cualquier posibilidad de gobiernos progresistas en el Estado\".",
+          "sources": [
+            "20minutos",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-25T15:15:00.390Z"
+        },
+        {
+          "title": "Feijóo señala a Sánchez por los disturbios en Barcelona: “Está jugando con fuego”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-25/feijoo-senala-a-sanchez-por-los-disturbios-en-barcelona-esta-jugando-con-fuego.html",
+          "source": "El País",
+          "summary": "El líder del carga contra el presidente del Gobierno en un acto en Salamanca para presentar a los cabeza de lista del PP al Congreso",
+          "sources": [
+            "El País",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-25T15:15:00.390Z"
+        },
         {
           "title": "Sánchez: \"Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años\"",
           "link": "https://www.europapress.es/nacional/noticia-sanchez-gobierno-pp-vox-no-alternancia-retroceder-50-anos-20261025102254.html",
@@ -21,52 +45,52 @@
       ],
       "items": [
         {
-          "title": "Abascal asegura que defiende la identidad catalana, que está \"amenazada por el islamismo\"",
-          "link": "https://www.europapress.es/catalunya/noticia-abascal-asegura-defiende-identidad-catalana-amenazada-islamismo-20261025110056.html",
+          "title": "Miles de personas apoyan en Madrid a las Mujeres Caballas para que Ceuta vuelva a la normalidad: \"Ceuta no se rinde\"",
+          "link": "https://www.europapress.es/sociedad/noticia-miles-personas-apoyan-madrid-mujeres-caballas-ceuta-vuelva-normalidad-ceuta-no-rinde-20261025144024.html",
           "source": "Europa Press",
-          "published": "2026-10-25T10:00:56.000Z"
+          "published": "2026-10-25T13:40:24.000Z"
         },
         {
-          "title": "Gonzalo Bernardos, sobre las pensiones: \"Deberíamos retrasar la edad de jubilación\"",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-economista-sobre-las-pensiones-deberiamos-retrasar-edad-jubilacion_7053045_0.html",
-          "source": "20minutos",
-          "published": "2026-10-25T08:41:04.000Z"
-        },
-        {
-          "title": "Ofrecer imágenes falsas en una campaña con la IA es un recurso legítimo para el PP",
-          "link": "https://www.eldiario.es/blog/politica-para-supervivientes/ofrecer-imagenes-falsas-campana-ia-recurso-legitimo-pp_132_13611045.html",
+          "title": "El exconseller Comín cruza la frontera a pie para escenificar su vuelta tras nueve años en Bélgica",
+          "link": "https://www.eldiario.es/catalunya/toni-comin-exconseller-junts-cruza-frontera-pie-regreso-bruselas_1_13613715.html",
           "source": "elDiario.es",
-          "published": "2026-10-25T07:07:16.000Z"
+          "published": "2026-10-25T13:33:53.000Z"
         },
         {
-          "title": "Universidades, FP o ratios educativas: el Gobierno acelera para sacar del cajón decretos antes del 29-N",
-          "link": "https://www.20minutos.es/nacional/universidades-fp-ratios-educativas-gobierno-acelera-para-sacar-cajon-decretos-pendientes-antes-29-n_7052122_0.html",
+          "title": "Frente Amplio carga contra los políticos de izquierda con \"piquito de oro\" y que \"no ponen el cuerpo\" para defender los derechos",
+          "link": "https://www.eldiario.es/politica/frene-amplio-carga-politicos-izquierda-piquito-oro-no-ponen-cuerpo-defender-derechos_1_13613685.html",
+          "source": "elDiario.es",
+          "published": "2026-10-25T13:29:39.000Z"
+        },
+        {
+          "title": "Feijóo culpa a Sánchez y \"los discípulos del muro\" de los disturbios: \"Como han perdido la calle quieren incendiarla\"",
+          "link": "https://www.20minutos.es/nacional/feijoo-culpa-sanchez-los-discipulos-muro-los-disturbios-barcelona-como-han-perdido-calle-quieren-incendiarla_7053113_0.html",
           "source": "20minutos",
-          "published": "2026-10-25T07:04:05.000Z"
+          "published": "2026-10-25T13:13:03.000Z"
         },
         {
-          "title": "PP y Vox apuran los plazos para lograr un acuerdo en el Senado que les permita atar una mayoría suficiente contra la izquierda",
-          "link": "https://www.20minutos.es/nacional/pp-vox-apuran-los-plazos-para-lograr-un-acuerdo-senado-que-les-permita-atar-una-mayoria-suficiente-contra-izquierda_7052499_0.html",
+          "title": "Varapalo del juzgado al conseller de Sanidad: estima que vulneró la ley por dificultar al PSPV el acceso a los pagos a la privada",
+          "link": "https://www.eldiario.es/comunitat-valenciana/varapalo-juezgado-conseller-sanidad-estima-vulnero-ley-dificular-pspv-acceso-pagos-privada_1_13613489.html",
+          "source": "elDiario.es",
+          "published": "2026-10-25T12:48:57.000Z"
+        },
+        {
+          "title": "Feijóo culpa a Sánchez sin pruebas de los disturbios en Barcelona: \"Se están resistiendo a abandonar el poder con violencia\"",
+          "link": "https://www.eldiario.es/politica/feijoo-culpa-sanchez-pruebas-disturbios-barcelona-resistiendo-abandonar-violencia_1_13613552.html",
+          "source": "elDiario.es",
+          "published": "2026-10-25T12:39:05.000Z"
+        },
+        {
+          "title": "Netanyahu estrangula Cisjordania en la antesala de las elecciones israelíes",
+          "link": "https://www.elsaltodiario.com/ocupacion-israeli/netanyahu-estrangula-cisjordania-elecciones?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-25T12:11:00.000Z"
+        },
+        {
+          "title": "Miles de personas se manifiestan por Ceuta y las 'caballas' con Vivas al frente: \"Por una Ceuta segura, española y europea\"",
+          "link": "https://www.20minutos.es/nacional/miles-personas-se-manifiestan-madrid-por-ceuta-las-caballas-con-vivas-frente-por-una-ceuta-segura-espanola-europea_7053097_0.html",
           "source": "20minutos",
-          "published": "2026-10-25T07:00:01.000Z"
-        },
-        {
-          "title": "El último movimiento del despacho de Garzón abre la puerta a que el TC debata de nuevo sobre la 'ley de nietos' antes del 29N",
-          "link": "https://www.20minutos.es/nacional/ultimo-movimiento-despacho-garzon-abre-puerta-que-constitucional-debata-nuevo-sobre-ley-nietos-antes-29n_7052628_0.html",
-          "source": "20minutos",
-          "published": "2026-10-25T06:59:37.000Z"
-        },
-        {
-          "title": "La ‘pesoizada’ mediática y el clientelismo del “Todo va bien”",
-          "link": "https://diariosocialista.net/2026/10/25/el-clientelismo-mediatico-del-psoe-y-el-progresismo/",
-          "source": "Diario Socialista",
-          "published": "2026-10-25T06:00:00.000Z"
-        },
-        {
-          "title": "La mentira tiene clientes",
-          "link": "https://diariosocialista.net/2026/10/25/la-mentira-tiene-clientes/",
-          "source": "Diario Socialista",
-          "published": "2026-10-25T06:00:00.000Z"
+          "published": "2026-10-25T11:46:36.000Z"
         }
       ]
     },
@@ -95,56 +119,67 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-10-25T10:22:52.244Z"
+        },
+        {
+          "title": "Serbia vota: los estudiantes desafían el poder de Vucic en las elecciones parlamentarias",
+          "link": "https://www.france24.com/es/video/20261025-serbia-vota-los-estudiantes-desaf%C3%ADan-el-poder-de-vucic-en-las-elecciones-parlamentarias",
+          "source": "France 24",
+          "summary": "Tras casi dos años de protestas desencadenadas por la tragedia de Novi Sad, donde el colapso de una estructura en una estación ferroviaria dejó 16 muertos, Serbia vive unas elecciones legislativas clave. El movimiento estudiantil, que surgió exigiendo transparencia y el fin de la corrupción, desafía al partido del ex presidente Aleksandar Vucic, quien busca regresar al poder como primer ministro. Aunque carecen de experiencia electoral, los estudiantes han logrado convertirse en la principal fuerza opositora en una votación que definirá los 250 escaños de la Asamblea Nacional.",
+          "sources": [
+            "France 24",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-25T15:15:00.390Z"
         }
       ],
       "items": [
         {
-          "title": "Al menos 250 familias han sido expulsadas de sus casas en Hebrón por el ejército israelí tras un ataque palestino",
-          "link": "https://elpais.com/internacional/2026-10-25/al-menos-250-familias-han-sido-expulsadas-de-sus-casas-en-hebron-por-el-ejercito-israeli-tras-un-ataque-palestino.html",
-          "source": "El País Internacional",
-          "published": "2026-10-25T10:16:41.000Z"
+          "title": "Bukele descarta que los cuerpos encontrados en Haití sean los de los 4 soldados salvadoreños secuestrados por pandillas pero la fuerza internacional no confirma ni desmiente",
+          "link": "https://www.bbc.com/mundo/articles/cqev3nexxp91o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-25T15:09:21.000Z"
         },
         {
-          "title": "Trump tacha a Obama de \"sumamente incompetente\" tras sus críticas a la guerra contra Irán",
-          "link": "https://www.20minutos.es/internacional/trump-tacha-obama-sumamente-incompetente-tras-sus-criticas-guerra-contra-iran_7053063_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-25T10:14:46.000Z"
+          "title": "Netanyahu alarma a los israelíes con \"sanciones bancarias\" y una \"bomba nuclear sobre Tel Aviv\"",
+          "link": "https://www.france24.com/es/video/20261025-netanyahu-alarma-a-los-israel%C3%ADes-con-sanciones-bancarias-y-una-bomba-nuclear-sobre-tel-aviv",
+          "source": "France 24",
+          "published": "2026-10-25T15:04:31.000Z"
         },
         {
-          "title": "Los estudiantes de Serbia disputan el poder a Vucic en las urnas tras casi dos años de protestas",
-          "link": "https://elpais.com/internacional/2026-10-25/los-estudiantes-de-serbia-disputan-el-poder-a-vucic-en-las-urnas-tras-casi-dos-anos-de-protestas.html",
-          "source": "El País Internacional",
-          "published": "2026-10-25T07:49:54.000Z"
+          "title": "“¡Basta ya!”: Obama irrumpe en campaña de las midterms y acusa a Trump de “caos, crueldad y corrupción”",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261025-basta-ya-obama-irrumpe-en-campa%C3%B1a-de-las-midterms-y-acusa-a-trump-de-caos-crueldad-y-corrupci%C3%B3n",
+          "source": "France 24",
+          "published": "2026-10-25T14:24:59.000Z"
         },
         {
-          "title": "Europa asume que Trump no quiere ayudar a Ucrania y se mentaliza para sostener sola a Zelenski",
-          "link": "https://www.20minutos.es/internacional/europa-asume-que-trump-no-quiere-ayudar-ucrania-se-mentaliza-para-sostener-sola-zelenski_7051389_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-25T07:03:20.000Z"
-        },
-        {
-          "title": "Comienza la primera vuelta de las elecciones presidenciales de Bulgaria",
-          "link": "https://www.dw.com/es/comienza-la-primera-vuelta-de-las-elecciones-presidenciales-de-bulgaria/a-79753592?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Irán ataca con drones una base de rebeldes kurdos iraníes en Irak",
+          "link": "https://www.dw.com/es/irán-ataca-con-drones-una-base-de-rebeldes-kurdos-iraníes-en-irak/a-79755780?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-25T06:27:00.000Z"
+          "published": "2026-10-25T14:20:00.000Z"
         },
         {
-          "title": "¡Otra Yalta no, por favor!",
-          "link": "https://elpais.com/internacional/2026-10-25/otra-yalta-no-por-favor.html",
-          "source": "El País Internacional",
-          "published": "2026-10-25T04:45:01.000Z"
+          "title": "Informe desde São Paulo: ¿por qué este estado es clave en la elección presidencial?",
+          "link": "https://www.france24.com/es/video/20261025-informe-desde-s%C3%A3o-paulo-por-qu%C3%A9-este-estado-es-clave-en-la-elecci%C3%B3n-presidencial",
+          "source": "France 24",
+          "published": "2026-10-25T13:46:19.000Z"
         },
         {
-          "title": "Viaje a la zona cero de la revuelta en Francia",
-          "link": "https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html",
-          "source": "El País Internacional",
-          "published": "2026-10-25T04:45:01.000Z"
+          "title": "Informe desde Río de Janeiro: avanza con normalidad la jornada electoral a pesar de las lluvias",
+          "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-avanza-con-normalidad-la-jornada-electoral-a-pesar-de-las-lluvias",
+          "source": "France 24",
+          "published": "2026-10-25T13:42:04.000Z"
         },
         {
-          "title": "Benjamín Netanyahu, un superviviente político aferrado a las guerras para ganar una vez más",
-          "link": "https://elpais.com/internacional/2026-10-25/benjamin-netanyahu-un-superviviente-politico-aferrado-a-las-guerras-para-ganar-una-vez-mas.html",
-          "source": "El País Internacional",
-          "published": "2026-10-25T04:45:01.000Z"
+          "title": "Putin dice que Europa recurre a Rusia para GNL y rechaza implicación en protestas",
+          "link": "https://www.dw.com/es/putin-dice-que-europa-recurre-a-rusia-para-gnl-y-rechaza-implicación-en-protestas/a-79755379?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-25T13:16:00.000Z"
+        },
+        {
+          "title": "La amenaza de Putin lleva a Reino Unido a efectuar en Alemania la mayor operación paracaidista desde la II Guerra Mundial",
+          "link": "https://www.20minutos.es/internacional/amenaza-putin-lleva-reino-unido-efectuar-alemania-mayor-operacion-paracaidista-desde-ii-guerra-mundial_7053073_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-25T10:54:30.000Z"
         }
       ]
     }
