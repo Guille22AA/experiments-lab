@@ -1,109 +1,94 @@
 {
-  "date": "2026-10-25",
-  "updatedAt": "2026-10-25T20:08:27.554Z",
-  "edition": "tarde",
+  "date": "2026-10-26",
+  "updatedAt": "2026-10-26T11:51:15.428Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Francisco Martín dimite como delegado del Gobierno tras quedar fuera de las listas del PSOE y en plena acampada en Sol",
-          "link": "https://www.europapress.es/madrid/noticia-francisco-martin-dimite-delegado-gobierno-madrid-20261025175742.html",
-          "source": "Europa Press",
-          "summary": "Francisco Martín Aguirre ha dimitido este domingo como delegado del Gobierno en la Comunidad de Madrid, cargo que ocupaba desde marzo de 2023, una decisión que llega una vez que se ha conocido que quedaba fuera de las listas del PSOE para las elecciones generales del próximo 29 de noviembre y en medio de las últimas polémicas por la acampada por la vivienda en la Puerta del SOl, sumado a las críticas por las cargas policiales en las protestas por la educación pública.",
-          "sources": [
-            "Europa Press",
-            "20minutos",
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-10-25T20:08:27.554Z"
-        },
-        {
-          "title": "Rufián ve \"probable\" que la extrema derecha esté detrás de los disturbios en Barcelona",
-          "link": "https://www.20minutos.es/cataluna/barcelona/rufian-ve-probable-que-extrema-derecha-este-detras-los-disturbios-barcelona_7053125_0.html",
+          "title": "Muere Alfredo Sánchez Monteseirín, exalcalde de Sevilla, a los 69 años",
+          "link": "https://www.20minutos.es/andalucia/sevilla/muere-alfredo-sanchez-monteseirin-exalcalde-sevilla_7053340_0.html",
           "source": "20minutos",
-          "summary": "En declaraciones a los periodistas tras la presentación de su libro 'Cómo ganar a los fachas', el líder de ERC ha destacado que \"hay gente que quiere cargarse cualquier posibilidad de gobiernos progresistas en el Estado\".",
+          "summary": "Manuel Alés, presidente del Pleno municipal, ha informado de la noticia durante una sesión extraordinaria, donde se ha guardado un minuto de silencio.",
           "sources": [
             "20minutos",
-            "Europa Press",
-            "elDiario.es"
+            "Europa Press"
           ],
-          "firstSeen": "2026-10-25T15:15:00.390Z"
+          "firstSeen": "2026-10-26T11:51:15.428Z"
         },
         {
-          "title": "Feijóo señala a Sánchez por los disturbios en Barcelona: “Está jugando con fuego”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-25/feijoo-senala-a-sanchez-por-los-disturbios-en-barcelona-esta-jugando-con-fuego.html",
-          "source": "El País",
-          "summary": "El líder del carga contra el presidente del Gobierno en un acto en Salamanca para presentar a los cabeza de lista del PP al Congreso",
+          "title": "El Gobierno apunta a la ultraderecha como responsable de los disturbios en Barcelona: \"Es quien sale ganando en el caos y el odio\"",
+          "link": "https://www.20minutos.es/nacional/gobierno-apunta-ultraderecha-como-responsable-los-disturbios-barcelona-es-quien-sale-ganando-caos-odio_7053338_0.html",
+          "source": "20minutos",
+          "summary": "La portavoz del Gobierno, Elma Saiz, ha condenado este lunes los altercados provocados este fin de semana en Barcelona por grupos violentos y ha pedido esperar al resultado de la investigación sobre lo sucedido.",
           "sources": [
-            "El País",
-            "Europa Press",
-            "elDiario.es"
+            "20minutos",
+            "Europa Press"
           ],
-          "firstSeen": "2026-10-25T15:15:00.390Z"
+          "firstSeen": "2026-10-26T11:51:15.428Z"
         },
         {
-          "title": "Sánchez: \"Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años\"",
-          "link": "https://www.europapress.es/nacional/noticia-sanchez-gobierno-pp-vox-no-alternancia-retroceder-50-anos-20261025102254.html",
-          "source": "Europa Press",
-          "summary": "El presidente del Gobierno afirma que su mayor error fue \"no ver la corrupción de Ábalos\" y asegura que el SMI subirá próximamente",
+          "title": "ARGUMENTARIO: HUELGA GENERAL POR LA VIVIENDA DEL 11N",
+          "link": "https://cgt.es/argumentario-huelga-general-por-la-vivienda-del-11n/",
+          "source": "CGT",
+          "summary": "Este argumentario sirve para ayudar a que las personas afiliadas a CGT (o cualquiera con ganas de hacerlo) responda en el trabajo, en la asamblea, a vecinas o amigas las dudas reales sobre la huelga general por la vivienda del próximo 11 de noviembre. La idea de fondo: el encarecimiento de la vivienda es un... La entrada ARGUMENTARIO: HUELGA GENERAL POR LA VIVIENDA DEL 11N se publicó primero en Confederación General del Trabajo.",
           "sources": [
-            "Europa Press",
-            "El País"
+            "CGT",
+            "El Salto"
           ],
-          "firstSeen": "2026-10-25T10:22:52.244Z"
+          "firstSeen": "2026-10-26T11:51:15.428Z"
         }
       ],
       "items": [
         {
-          "title": "Resultados de las elecciones en Brasil, en vivo|Cierran las urnas y comienza el conteo de votos para elegir presidente entre Lula y Bolsonaro",
+          "title": "Resultados de las elecciones en Brasil, en vivo | La UE celebra la victoria de Lula: “La democracia ha ganado en Brasil”",
           "link": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
           "source": "El País",
-          "published": "2026-10-25T19:52:59.000Z"
+          "published": "2026-10-26T11:31:45.000Z"
         },
         {
-          "title": "El PP designa a Camarero como número 1 al Senado por Valencia y obliga a Pérez Llorca a remodelar el Consell",
-          "link": "https://www.eldiario.es/comunitat-valenciana/pp-designa-camarero-numero-1-senado-valencia-tendra-gobierno-valenciano_1_13614101.html",
+          "title": "Renfe fija servicios mínimos en la huelga de maquinistas del jueves: así circularán los trenes de AVE, Cercanías y Media Distancia",
+          "link": "https://www.20minutos.es/nacional/renfe-fija-servicios-minimos-para-huelga-maquinistas-este-jueves-73-para-ave-entre-75-50-cercanias-65-md_7053394_0.html",
+          "source": "20minutos",
+          "published": "2026-10-26T11:07:42.000Z"
+        },
+        {
+          "title": "Un importe de 181.000 euros a pagar durante 26 años: así es la hipoteca promedio en España",
+          "link": "https://www.eldiario.es/economia/importe-181-000-euros-pagar-durante-26-anos-hipoteca-promedio-espana_1_13614788.html",
           "source": "elDiario.es",
-          "published": "2026-10-25T19:50:51.000Z"
+          "published": "2026-10-26T10:52:32.000Z"
         },
         {
-          "title": "La china Moonshot dice que ha limitado las capacidades de ciberataques en su nuevo modelo de IA",
-          "link": "https://www.20minutos.es/tecnologia/actualidad/china-moonshot-dice-que-ha-limitado-las-capacidades-ciberataques-su-nuevo-modelo-ia_7053194_0.html",
-          "source": "20minutos",
-          "published": "2026-10-25T19:26:33.000Z"
-        },
-        {
-          "title": "Las protestas en Barcelona tensan la precampaña: el PSC dice que irá hasta el final y Feijóo responsabiliza al Gobierno",
-          "link": "https://www.20minutos.es/nacional/las-protestas-barcelona-tensan-precampana-psc-dice-que-ira-hasta-final-feijoo-responsabiliza-gobierno_7053161_0.html",
-          "source": "20minutos",
-          "published": "2026-10-25T19:15:40.000Z"
-        },
-        {
-          "title": "El PP incluye a sus alcaldes de la dana de Utiel y Algemessí en sus listas al Congreso, dos de los municipios más afectados",
-          "link": "https://www.eldiario.es/comunitat-valenciana/pp-incluye-alcaldes-dana-utiel-algemessi-listas-congreso-municipios-afectados_1_13613936.html",
+          "title": "Críticas en el PP al delegado del Gobierno en Madrid tras su dimisión: \"No le van a echar de menos ni en su partido\"",
+          "link": "https://www.eldiario.es/madrid/somos/criticas-pp-dimision-delegado-gobierno-madrid-no-le-echar-partido_1_13614713.html",
           "source": "elDiario.es",
-          "published": "2026-10-25T17:58:22.000Z"
+          "published": "2026-10-26T10:36:39.000Z"
         },
         {
-          "title": "Los acampados de Sol retiran algunas tiendas para evitar molestias a comerciantes",
-          "link": "https://www.20minutos.es/madrid/los-acampados-sol-retiran-algunas-tiendas-para-evitar-molestias-comerciantes_7053162_0.html",
+          "title": "Exteriores dice que avanza a \"buen ritmo\" y confía en cumplir este miércoles con el plazo del Supremo sobre la lista de la 'ley de nietos'",
+          "link": "https://www.20minutos.es/nacional/albares-dice-que-exteriores-avanza-buen-ritmo-confia-cumplir-con-plazo-supremo-sobre-lista-ley-nietos_7053374_0.html",
           "source": "20minutos",
-          "published": "2026-10-25T16:56:18.000Z"
+          "published": "2026-10-26T10:28:07.000Z"
         },
         {
-          "title": "Las protestas multitudinarias desbaratan en Francia la estrategia del miedo de Macron",
-          "link": "https://www.elsaltodiario.com/francia/protestas-multitudinarias-desbaratan-estrategia-miedo-macron?utm_source=feed",
+          "title": "El comité de huelga educativa en Madrid amenaza con acciones legales contra la consejera si sigue sin reunirse",
+          "link": "https://www.elsaltodiario.com/comunidad-madrid/comite-huelga-educativa-madrid-amenaza-acciones-legales-consejera-sigue-reunirse?utm_source=feed",
           "source": "El Salto",
-          "published": "2026-10-25T13:56:00.000Z"
+          "published": "2026-10-26T10:24:00.000Z"
         },
         {
-          "title": "El exconseller Comín cruza la frontera a pie para escenificar su vuelta tras nueve años en Bélgica",
-          "link": "https://www.eldiario.es/catalunya/toni-comin-exconseller-junts-cruza-frontera-pie-regreso-bruselas_1_13613715.html",
-          "source": "elDiario.es",
-          "published": "2026-10-25T13:33:53.000Z"
+          "title": "Almeida reprocha que el delegado dimita por \"cuestiones de partido\" y no por su \"inacción en Sol\" o \"permitir que se incendie Madrid\"",
+          "link": "https://www.20minutos.es/madrid/almeida-dimision-delegado-gobierno-se-va-porque-no-le-dan-un-carguito-no-le-va-echar-menos-ni-su-partido_7053334_0.html",
+          "source": "20minutos",
+          "published": "2026-10-26T10:15:32.000Z"
+        },
+        {
+          "title": "Puente asegura que la dimisión del Delegado del Gobierno no es solo por quedarse fuera de las listas: \"Ni le beneficia a él ni a la organización\"",
+          "link": "https://www.20minutos.es/nacional/puente-cree-que-dimision-delegado-gobierno-madrid-no-es-solo-por-las-listas-no-le-beneficia-organizcion_7053353_0.html",
+          "source": "20minutos",
+          "published": "2026-10-26T10:10:37.000Z"
         }
       ]
     },
@@ -112,98 +97,65 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
-          "link": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
+          "title": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
+          "link": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html",
           "source": "El País Internacional",
-          "summary": "El senador ultra y el presidente izquierdista se disputan la presidencia en unas elecciones reñidas como nunca",
+          "summary": "El actual mandatario será presidente por cuarta vez tras vencer con cuatro millones de votos más que el candidato del clan de ultraderecha y se consolida como resistencia ante Trump",
           "sources": [
             "El País Internacional",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-25T10:22:52.244Z"
-        },
-        {
-          "title": "Directo midterms y el voto anticipado de Trump, pese a sus críticas al voto por correo",
-          "link": "https://www.france24.com/es/video/20261025-directo-midterms-y-el-voto-anticipado-de-trump-pese-a-sus-cr%C3%ADticas-al-voto-por-correo",
-          "source": "France 24",
-          "summary": "El presidente de Estados Unidos, Donald Trump, y la primera dama, Melania Trump, emitieron su voto anticipado en Florida de cara a las elecciones de medio término, que se celebrarán el próximo 3 de noviembre. El alcalde de Nueva York, Zohran Mamdani, también votó de forma anticipada e hizo un llamado a la ciudadanía a apoyar los referendos. Por su parte, el expresidente Barack Obama criticó a la Administración Trump en un mitin de campaña a favor del candidato demócrata en Ohio. Nuestro corresponsal Antoni Belchi nos amplió los detalles.",
-          "sources": [
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-25T10:22:52.244Z"
-        },
-        {
-          "title": "Serbia vota: los estudiantes desafían el poder de Vucic en las elecciones parlamentarias",
-          "link": "https://www.france24.com/es/video/20261025-serbia-vota-los-estudiantes-desaf%C3%ADan-el-poder-de-vucic-en-las-elecciones-parlamentarias",
-          "source": "France 24",
-          "summary": "Tras casi dos años de protestas desencadenadas por la tragedia de Novi Sad, donde el colapso de una estructura en una estación ferroviaria dejó 16 muertos, Serbia vive unas elecciones legislativas clave. El movimiento estudiantil, que surgió exigiendo transparencia y el fin de la corrupción, desafía al partido del ex presidente Aleksandar Vucic, quien busca regresar al poder como primer ministro. Aunque carecen de experiencia electoral, los estudiantes han logrado convertirse en la principal fuerza opositora en una votación que definirá los 250 escaños de la Asamblea Nacional.",
-          "sources": [
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-25T15:15:00.390Z"
-        },
-        {
-          "title": "Trump, tras el regreso de María Corina Machado a Venezuela: \"Espero que esté a salvo\"",
-          "link": "https://www.20minutos.es/internacional/trump-tras-regreso-maria-corina-machado-venezuela-espero-que-este-salvo_7053169_0.html",
-          "source": "20minutos Internacional",
-          "summary": "La líder opositora ha reaparecido en una iglesia del estado Lara tras casi un año fuera de Venezuela. Por el momento, se desconocen los detalles de su regreso y si Washington participó en él.",
-          "sources": [
-            "20minutos Internacional",
             "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-25T20:08:27.554Z"
+          "firstSeen": "2026-10-26T11:51:15.428Z"
         }
       ],
       "items": [
         {
-          "title": "Brasil, en vilo tras las elecciones más ajustadas de la historia",
-          "link": "https://www.eldiario.es/internacional/brasil-vilo-elecciones-ajustadas-historia_1_13614113.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-25T19:46:10.000Z"
+          "title": "Así te lo contamos: elección histórica en Brasil con el triunfo de Lula y el pedido de anulación de Flávio Bolsonaro",
+          "link": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-26T11:51:14.290Z"
         },
         {
-          "title": "Informe desde Río de Janeiro: qué esperan los ciudadanos de la reñida elección en Brasil",
-          "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-qu%C3%A9-esperan-los-ciudadanos-de-la-re%C3%B1ida-elecci%C3%B3n-en-brasil",
-          "source": "France 24",
-          "published": "2026-10-25T18:47:00.000Z"
+          "title": "\"Brasil no será patio trasero de nadie\": el discurso de Lula tras remontar y ganar las elecciones presidenciales frente a Bolsonaro",
+          "link": "https://www.bbc.com/mundo/articles/cwm24j2ekye4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-26T11:27:42.000Z"
         },
         {
-          "title": "Netanyahu afronta elecciones bajo tensión: ofensiva en Hebrón, polémica por criptomonedas y amenazas contra Irán",
-          "link": "https://www.france24.com/es/medio-oriente/20261025-netanyahu-afronta-elecciones-bajo-tensi%C3%B3n-ofensiva-en-hebr%C3%B3n-pol%C3%A9mica-por-criptomonedas-y-amenazas-contra-ir%C3%A1n",
-          "source": "France 24",
-          "published": "2026-10-25T18:01:35.000Z"
+          "title": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vucic en Serbia",
+          "link": "https://www.bbc.com/mundo/articles/cm78pv28195xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-26T11:16:00.000Z"
         },
         {
-          "title": "¿Qué representa la oficialización de la candidatura de Marine Le Pen para Francia?",
-          "link": "https://www.france24.com/es/video/20261025-qu%C3%A9-representa-la-oficializaci%C3%B3n-de-la-candidatura-de-marine-le-pen-para-francia",
-          "source": "France 24",
-          "published": "2026-10-25T17:48:14.000Z"
-        },
-        {
-          "title": "Marien Le Pen: \"Francia no está en este estado por su pueblo sino por sus líderes\"",
-          "link": "https://www.france24.com/es/video/20261025-marien-le-pen-francia-no-est%C3%A1-en-este-estado-por-su-pueblo-sino-por-sus-l%C3%ADderes",
-          "source": "France 24",
-          "published": "2026-10-25T17:46:55.000Z"
-        },
-        {
-          "title": "Trump alerta de los \"cientos de miles\" de \"gentes airadas\" que entraron en España \"hace un mes\"",
-          "link": "https://www.20minutos.es/internacional/trump-alerta-los-cientos-miles-gentes-airadas-que-entraron-espana-hace-un-mes_7053153_0.html",
+          "title": "Zelenski confirma reuniones con la UE y la OTAN sobre un posible diálogo con Rusia: \"Hay que hablarlo en profundidad\"",
+          "link": "https://www.20minutos.es/internacional/zelenski-confirma-reuniones-con-ue-otan-sobre-un-posible-dialogo-con-rusia-hay-que-hablarlo-profundidad_7053351_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-25T16:19:33.000Z"
+          "published": "2026-10-26T10:08:06.000Z"
         },
         {
-          "title": "Netanyahu amenaza a Irán con un golpe \"aplastante\" a dos días de las elecciones",
-          "link": "https://www.20minutos.es/internacional/netanyahu-amenaza-iran-con-un-golpe-aplastante-dos-dias-las-elecciones_7053152_0.html",
+          "title": "Trump tilda a Noruega de \"país de mierda\" por no otorgarle el Nobel de la Paz: \"No quiero tener nada que ver con ellos\"",
+          "link": "https://www.20minutos.es/internacional/trump-tilda-noruega-pais-mierda-por-no-otorgarle-nobel-paz-no-quiero-tener-nada-que-ver-con-ellos_7053248_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-25T16:11:29.000Z"
+          "published": "2026-10-26T07:28:28.000Z"
         },
         {
-          "title": "“Estoy aquí”: María Corina Machado regresa a Venezuela tras casi un año fuera del país",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-estoy-aqu%C3%AD-mar%C3%ADa-corina-machado-regresa-a-venezuela-tras-casi-un-a%C3%B1o-fuera-del-pa%C3%ADs",
-          "source": "France 24",
-          "published": "2026-10-25T16:08:16.000Z"
+          "title": "María Corina Machado, recibida en Venezuela entre gritos de \"libertad\" y reclamos de elecciones",
+          "link": "https://www.20minutos.es/internacional/maria-corina-machado-recibida-venezuela-entre-gritos-libertad-reclamos-elecciones_7053246_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-26T07:12:00.000Z"
+        },
+        {
+          "title": "Hutíes lanzan misil contra aeropuerto internacional de Riad",
+          "link": "https://www.dw.com/es/hutíes-lanzan-misil-contra-aeropuerto-internacional-de-riad/a-79759038?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-26T04:59:00.000Z"
+        },
+        {
+          "title": "Alexandria Ocasio-Cortez arriesga su capital político en las ‘midterms’ con vistas a la Casa Blanca",
+          "link": "https://elpais.com/us/2026-10-26/alexandria-ocasio-cortez-arriesga-su-capital-politico-en-las-midterms-con-vistas-a-la-casa-blanca.html",
+          "source": "El País Internacional",
+          "published": "2026-10-26T04:40:00.000Z"
         }
       ]
     }
