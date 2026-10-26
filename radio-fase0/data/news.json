@@ -1,12 +1,24 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T11:51:15.428Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-26T17:53:22.531Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "Feijóo y Abascal cierran un pacto en el Senado: Vox no se presenta en seis provincias y el PP no lo hará en tres",
+          "link": "https://www.europapress.es/nacional/noticia-vox-pacta-pp-no-presentar-candidatura-senado-seis-provincias-presentara-unico-nombre-otras-14-20261026135245.html",
+          "source": "Europa Press",
+          "summary": "El líder del PP, Alberto Núñez Feijóo, y el presidente de Vox, Santiago Abascal, han cerrado este lunes un pacto en el Senado que afecta a 23 circunscripciones con el objetivo de lograr una amplia mayoría que frene la candidatura conjunta que sellaron PSOE, Frente Amplio e izquierdas territoriales en la Cámara Alta el pasado 16 de octubre. En virtud de ese pacto, Vox no se presentará en seis provincias y el PP no hará en tres.",
+          "sources": [
+            "Europa Press",
+            "elDiario.es",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-26T17:53:22.531Z"
+        },
         {
           "title": "Muere Alfredo Sánchez Monteseirín, exalcalde de Sevilla, a los 69 años",
           "link": "https://www.20minutos.es/andalucia/sevilla/muere-alfredo-sanchez-monteseirin-exalcalde-sevilla_7053340_0.html",
@@ -39,56 +51,67 @@
             "El Salto"
           ],
           "firstSeen": "2026-10-26T11:51:15.428Z"
+        },
+        {
+          "title": "La dimisión del delegado del Gobierno enfada a la dirección del PSOE: “No le beneficia ni a él ni a la organización”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-dimision-del-delegado-del-gobierno-enfada-a-la-direccion-del-psoe-no-le-beneficia-ni-a-el-ni-a-la-organizacion.html",
+          "source": "El País",
+          "summary": "Dirigentes socialistas reprochan a Francisco Martín su renuncia a las puertas de las elecciones generales del 29-N",
+          "sources": [
+            "El País",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-26T17:53:22.531Z"
         }
       ],
       "items": [
         {
-          "title": "Resultados de las elecciones en Brasil, en vivo | La UE celebra la victoria de Lula: “La democracia ha ganado en Brasil”",
-          "link": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
+          "title": "El regionalismo afronta el 29N en dos velocidades: alianzas en Canarias y Navarra y renuncias en otras CCAA",
+          "link": "https://www.europapress.es/nacional/noticia-regionalismo-afronta-29n-dos-velocidades-alianzas-canarias-navarra-renuncias-otras-ccaa-20261026184529.html",
+          "source": "Europa Press",
+          "published": "2026-10-26T17:45:29.000Z"
+        },
+        {
+          "title": "Vito Quiles cancela su acto en Bilbao tras dos protestas antifascistas y el cierre de la Universidad de Deusto",
+          "link": "https://www.eldiario.es/euskadi/vito-quiles-cancela-acto-bilbao-protestas-antifascistas-cierre-universidad-deusto_1_13614866.html",
+          "source": "elDiario.es",
+          "published": "2026-10-26T17:38:52.000Z"
+        },
+        {
+          "title": "Pepe Álvarez: \"El primer destinatario de esta huelga general es la patronal, es la CEOE, es su cerrazón, es su falta de negociación\"",
+          "link": "https://www.ugt.es/pepe-alvarez-el-primer-destinatario-de-esta-huelga-general-es-la-patronal-es-la-ceoe-es-su-cerrazon",
+          "source": "UGT",
+          "published": "2026-10-26T17:13:16.000Z"
+        },
+        {
+          "title": "El Máster de Periodismo de Investigación de la URJC arranca su XV edición reafirmando su compromiso con la universidad pública y con un cinefórum como gran novedad",
+          "link": "https://www.eldiario.es/redaccion/master-periodismo-investigacion-urjc-arranca-xv-edicion-reafirmando-compromiso-universidad-publica-cineforum-gran-novedad_132_13616337.html",
+          "source": "elDiario.es",
+          "published": "2026-10-26T17:09:01.000Z"
+        },
+        {
+          "title": "Microsoft ofrecerá bajas voluntarias a 60.000 trabajadores para adaptarse a la era de la IA",
+          "link": "https://www.20minutos.es/lainformacion/empresas/microsoft-ofrecera-bajas-voluntarias-60-000-trabajadores-para-recortar-costes-adaptarse-era-ia_7053623_0.html",
+          "source": "20minutos",
+          "published": "2026-10-26T16:59:41.000Z"
+        },
+        {
+          "title": "La remontada de Lula golpea a las bolsas a la espera de las decisiones sobre los tipos de interés del BCE y la Fed",
+          "link": "https://www.eldiario.es/economia/remontada-lula-golpea-bolsas-espera-decisiones-tipos-interes-bce-fed_1_13616233.html",
+          "source": "elDiario.es",
+          "published": "2026-10-26T16:51:38.000Z"
+        },
+        {
+          "title": "El comité de la huelga de educación de Madrid llevará a la justicia al Gobierno de Ayuso si no negocia",
+          "link": "https://elpais.com/espana/madrid/2026-10-26/el-comite-de-la-huelga-de-educacion-de-madrid-llevara-a-la-justicia-al-gobierno-de-ayuso-si-no-negocia.html",
           "source": "El País",
-          "published": "2026-10-26T11:31:45.000Z"
+          "published": "2026-10-26T16:42:50.000Z"
         },
         {
-          "title": "Renfe fija servicios mínimos en la huelga de maquinistas del jueves: así circularán los trenes de AVE, Cercanías y Media Distancia",
-          "link": "https://www.20minutos.es/nacional/renfe-fija-servicios-minimos-para-huelga-maquinistas-este-jueves-73-para-ave-entre-75-50-cercanias-65-md_7053394_0.html",
-          "source": "20minutos",
-          "published": "2026-10-26T11:07:42.000Z"
-        },
-        {
-          "title": "Un importe de 181.000 euros a pagar durante 26 años: así es la hipoteca promedio en España",
-          "link": "https://www.eldiario.es/economia/importe-181-000-euros-pagar-durante-26-anos-hipoteca-promedio-espana_1_13614788.html",
-          "source": "elDiario.es",
-          "published": "2026-10-26T10:52:32.000Z"
-        },
-        {
-          "title": "Críticas en el PP al delegado del Gobierno en Madrid tras su dimisión: \"No le van a echar de menos ni en su partido\"",
-          "link": "https://www.eldiario.es/madrid/somos/criticas-pp-dimision-delegado-gobierno-madrid-no-le-echar-partido_1_13614713.html",
-          "source": "elDiario.es",
-          "published": "2026-10-26T10:36:39.000Z"
-        },
-        {
-          "title": "Exteriores dice que avanza a \"buen ritmo\" y confía en cumplir este miércoles con el plazo del Supremo sobre la lista de la 'ley de nietos'",
-          "link": "https://www.20minutos.es/nacional/albares-dice-que-exteriores-avanza-buen-ritmo-confia-cumplir-con-plazo-supremo-sobre-lista-ley-nietos_7053374_0.html",
-          "source": "20minutos",
-          "published": "2026-10-26T10:28:07.000Z"
-        },
-        {
-          "title": "El comité de huelga educativa en Madrid amenaza con acciones legales contra la consejera si sigue sin reunirse",
-          "link": "https://www.elsaltodiario.com/comunidad-madrid/comite-huelga-educativa-madrid-amenaza-acciones-legales-consejera-sigue-reunirse?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-10-26T10:24:00.000Z"
-        },
-        {
-          "title": "Almeida reprocha que el delegado dimita por \"cuestiones de partido\" y no por su \"inacción en Sol\" o \"permitir que se incendie Madrid\"",
-          "link": "https://www.20minutos.es/madrid/almeida-dimision-delegado-gobierno-se-va-porque-no-le-dan-un-carguito-no-le-va-echar-menos-ni-su-partido_7053334_0.html",
-          "source": "20minutos",
-          "published": "2026-10-26T10:15:32.000Z"
-        },
-        {
-          "title": "Puente asegura que la dimisión del Delegado del Gobierno no es solo por quedarse fuera de las listas: \"Ni le beneficia a él ni a la organización\"",
-          "link": "https://www.20minutos.es/nacional/puente-cree-que-dimision-delegado-gobierno-madrid-no-es-solo-por-las-listas-no-le-beneficia-organizcion_7053353_0.html",
-          "source": "20minutos",
-          "published": "2026-10-26T10:10:37.000Z"
+          "title": "Un Israel dividido decide si avala a Netanyahu o apuesta por el cambio en las primeras elecciones desde el 7-O",
+          "link": "https://www.europapress.es/internacional/noticia-israel-dividido-decide-si-avala-netanyahu-apuesta-cambio-primeras-elecciones-20261026173759.html",
+          "source": "Europa Press",
+          "published": "2026-10-26T16:37:59.000Z"
         }
       ]
     },
@@ -113,49 +136,49 @@
           "title": "Así te lo contamos: elección histórica en Brasil con el triunfo de Lula y el pedido de anulación de Flávio Bolsonaro",
           "link": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-26T11:51:14.290Z"
+          "published": "2026-10-26T17:53:21.120Z"
         },
         {
-          "title": "\"Brasil no será patio trasero de nadie\": el discurso de Lula tras remontar y ganar las elecciones presidenciales frente a Bolsonaro",
-          "link": "https://www.bbc.com/mundo/articles/cwm24j2ekye4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-26T11:27:42.000Z"
+          "title": "Brasil: Lula consigue la reelección pero enfrenta un Congreso dominado por la derecha",
+          "link": "https://www.france24.com/es/video/20261026-brasil-lula-consigue-la-reelecci%C3%B3n-pero-enfrenta-un-congreso-dominado-por-la-derecha",
+          "source": "France 24",
+          "published": "2026-10-26T17:24:40.000Z"
         },
         {
-          "title": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vucic en Serbia",
-          "link": "https://www.bbc.com/mundo/articles/cm78pv28195xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-26T11:16:00.000Z"
+          "title": "\"Lula ganó terreno en 97 % de municipios y remontó en 211 ciudades\": 'Folha de S.Paulo\"",
+          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261026-lula-gan%C3%B3-terreno-en-97-de-municipios-y-remont%C3%B3-en-211-ciudades-folha-de-s-paulo",
+          "source": "France 24",
+          "published": "2026-10-26T16:18:56.000Z"
         },
         {
-          "title": "Zelenski confirma reuniones con la UE y la OTAN sobre un posible diálogo con Rusia: \"Hay que hablarlo en profundidad\"",
-          "link": "https://www.20minutos.es/internacional/zelenski-confirma-reuniones-con-ue-otan-sobre-un-posible-dialogo-con-rusia-hay-que-hablarlo-profundidad_7053351_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-26T10:08:06.000Z"
+          "title": "El cambio climático abre paso a los cultivos tropicales en el sur de Francia",
+          "link": "https://www.france24.com/es/programas/en-foco/20261026-el-cambio-clim%C3%A1tico-abre-paso-a-los-cultivos-tropicales-en-el-sur-de-francia",
+          "source": "France 24",
+          "published": "2026-10-26T16:15:39.000Z"
         },
         {
-          "title": "Trump tilda a Noruega de \"país de mierda\" por no otorgarle el Nobel de la Paz: \"No quiero tener nada que ver con ellos\"",
-          "link": "https://www.20minutos.es/internacional/trump-tilda-noruega-pais-mierda-por-no-otorgarle-nobel-paz-no-quiero-tener-nada-que-ver-con-ellos_7053248_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-26T07:28:28.000Z"
-        },
-        {
-          "title": "María Corina Machado, recibida en Venezuela entre gritos de \"libertad\" y reclamos de elecciones",
-          "link": "https://www.20minutos.es/internacional/maria-corina-machado-recibida-venezuela-entre-gritos-libertad-reclamos-elecciones_7053246_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-26T07:12:00.000Z"
-        },
-        {
-          "title": "Hutíes lanzan misil contra aeropuerto internacional de Riad",
-          "link": "https://www.dw.com/es/hutíes-lanzan-misil-contra-aeropuerto-internacional-de-riad/a-79759038?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-26T04:59:00.000Z"
-        },
-        {
-          "title": "Alexandria Ocasio-Cortez arriesga su capital político en las ‘midterms’ con vistas a la Casa Blanca",
-          "link": "https://elpais.com/us/2026-10-26/alexandria-ocasio-cortez-arriesga-su-capital-politico-en-las-midterms-con-vistas-a-la-casa-blanca.html",
+          "title": "¿Orbán líder de la ONU? Las filtraciones sobre los candidatos de Trump revelan el bloqueo para elegir secretario general",
+          "link": "https://elpais.com/internacional/2026-10-26/orban-lider-de-la-onu-las-filtraciones-sobre-los-candidatos-de-trump-revelan-el-bloqueo-para-elegir-secretario-general.html",
           "source": "El País Internacional",
-          "published": "2026-10-26T04:40:00.000Z"
+          "published": "2026-10-26T15:57:32.000Z"
+        },
+        {
+          "title": "Las calles de Belgrado resuenan de alegría tras la derrota de Vucic: \"Es un símbolo para Europa\"",
+          "link": "https://www.eldiario.es/internacional/theguardian/calles-belgrado-resuenan-alegria-derrota-vucic-simbolo-europa_1_13616109.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-26T15:57:13.000Z"
+        },
+        {
+          "title": "Vídeo | UE-Israel: ¿ha llegado la hora de más sanciones económicas?",
+          "link": "https://elpais.com/internacional/2026-10-26/video-ue-israel-ha-llegado-la-hora-de-mas-sanciones-economicas.html",
+          "source": "El País Internacional",
+          "published": "2026-10-26T15:22:54.000Z"
+        },
+        {
+          "title": "La UE abraza la victoria estudiantil como una oportunidad para relanzar la integración de Serbia",
+          "link": "https://elpais.com/internacional/2026-10-26/la-ue-abraza-la-victoria-estudiantil-como-una-oportunidad-para-relanzar-la-integracion-de-serbia.html",
+          "source": "El País Internacional",
+          "published": "2026-10-26T15:21:09.000Z"
         }
       ]
     }
