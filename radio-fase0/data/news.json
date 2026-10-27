@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
-  "updatedAt": "2026-10-27T11:15:39.320Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-27T17:00:51.781Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -14,9 +14,22 @@
           "summary": "Aliados territoriales de la coalición liderarán las circunscripciones en sus comunidades como Ara Més y Chunta, que renunció a Teruel",
           "sources": [
             "Europa Press",
-            "Público"
+            "Público",
+            "El País"
           ],
           "firstSeen": "2026-10-27T11:15:39.320Z"
+        },
+        {
+          "title": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí",
+          "link": "https://elpais.com/espana/2026-10-27/el-juez-rechaza-la-peticion-de-zapatero-de-preguntar-a-arabia-saudi-por-las-joyas-incautadas.html",
+          "source": "El País",
+          "summary": "El magistrado da este paso después de que el expresidente afirmase que las alhajas fueron un “obsequio” del fallecido rey Abdalá Bin Abdulaziz Al-Saud",
+          "sources": [
+            "El País",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-27T17:00:51.781Z"
         },
         {
           "title": "Renovables para pagar la vivienda pública y pensiones: la propuesta para crear un fondo soberano “a la noruega”",
@@ -28,56 +41,78 @@
             "El País"
           ],
           "firstSeen": "2026-10-27T11:15:39.320Z"
+        },
+        {
+          "title": "Vox expulsa del partido a los concejales de Valencia Juanma Badenas y Cecilia Herrero",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-27/vox-expulsa-del-partido-a-los-concejales-de-valencia-juanma-badenas-y-cecilia-herrero.html",
+          "source": "El País",
+          "summary": "Los dos ediles pasan al grupo de no adscritos pero seguirán en el gobierno local que dirige María José Catalá, del PP",
+          "sources": [
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-27T17:00:51.781Z"
+        },
+        {
+          "title": "La jueza exige al Gobierno desclasificar documentos sobre la entrada masiva de Ceuta de julio",
+          "link": "https://elpais.com/espana/2026-10-27/la-jueza-cita-como-testigos-a-tres-marroquies-que-accedieron-a-ceuta-durante-la-entrada-masiva.html",
+          "source": "El País",
+          "summary": "La magistrada cita como testigos a tres marroquíes que accedieron a la ciudad durante la entrada masiva",
+          "sources": [
+            "El País",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-27T17:00:51.781Z"
         }
       ],
       "items": [
         {
-          "title": "Los Comuns retiran sus candidaturas al Senado en Girona, Tarragona y Lleida tras pactar con el PSC",
-          "link": "https://www.eldiario.es/catalunya/comuns-retiran-candidaturas-senado-girona-tarragona-lleida-pactar-psc_1_13618026.html",
-          "source": "elDiario.es",
-          "published": "2026-10-27T11:04:24.000Z"
-        },
-        {
-          "title": "El secretario de SEGIB apunta a más de 14 presidentes en la cumbre de Madrid con la duda de Milei o Sheinbaum",
-          "link": "https://www.europapress.es/internacional/noticia-secretario-segib-apunta-mas-14-presidentes-cumbre-madrid-duda-milei-sheinbaum-20261027114338.html",
-          "source": "Europa Press",
-          "published": "2026-10-27T10:43:38.000Z"
-        },
-        {
-          "title": "La UE advierte de la caída de inversiones en lugares como Valencia si no se preparan para el cambio climático",
-          "link": "https://www.eldiario.es/sociedad/ue-advierte-caida-inversiones-lugares-valencia-si-no-preparan-cambio-climatico_1_13617678.html",
-          "source": "elDiario.es",
-          "published": "2026-10-27T10:42:49.000Z"
-        },
-        {
-          "title": "Caso ERE: Imputados 18 ex altos cargos de la Junta y Agencia IDEA por desvío de fondos a Santana Motor",
-          "link": "https://www.europapress.es/andalucia/noticia-caso-ere-imputados-18-ex-altos-cargos-junta-agencia-idea-desvio-fondos-santana-motor-20261027113246.html",
-          "source": "Europa Press",
-          "published": "2026-10-27T10:32:46.000Z"
-        },
-        {
-          "title": "El PP borra de la Generalitat Valenciana la subdirección de Cambio Climático y la rebautiza como “cambios meteorológicos extremos”",
-          "link": "https://www.eldiario.es/comunitat-valenciana/politica/gobierno-valenciano-borra-referencias-cambio-climatico-departamento-pasa-llamarse-cambios-meteorologicos-extremos_1_13617624.html",
-          "source": "elDiario.es",
-          "published": "2026-10-27T10:28:15.000Z"
-        },
-        {
-          "title": "Miles de saharauis protestan en Tinduf mientras EEUU desmantela la misión de la ONU",
-          "link": "https://diariosocialista.net/2026/10/27/miles-de-saharauis-protestan-en-tinduf-mientras-eeuu-desmantela-la-mision-de-la-onu/",
-          "source": "Diario Socialista",
-          "published": "2026-10-27T10:12:47.000Z"
-        },
-        {
-          "title": "Feijóo, tras pactar con Vox no presentarse en algunas provincias al Senado: “Nadie puede renunciar a lo que no tiene”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-sobre-su-pacto-con-vox-al-senado-el-pp-ya-no-es-una-referencia-por-renunciar-a-lo-que-no-tiene.html",
+          "title": "Elecciones en Israel 2026, en directo | Netanyahu pide que se extienda el horario de la votación sin especificar los motivos",
+          "link": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
           "source": "El País",
-          "published": "2026-10-27T10:08:22.000Z"
+          "published": "2026-10-27T16:31:34.000Z"
         },
         {
-          "title": "El Sindicato Socialista de Vivienda denuncia los “bulos” difundidos del PSOE-PNV y ‘El Correo’ a raíz del desahucio en Gasteiz",
-          "link": "https://diariosocialista.net/2026/10/27/el-sindicato-socialista-de-vivienda-denuncia-los-bulos-difundidos-del-psoe-pnv-y-el-correo-a-raiz-del-desahucio-en-gasteiz/",
-          "source": "Diario Socialista",
-          "published": "2026-10-27T10:00:00.000Z"
+          "title": "Los israelíes se movilizan en masa para votar en las elecciones: \"Está en juego el futuro de mis bisnietos\"",
+          "link": "https://www.europapress.es/internacional/noticia-israelies-movilizan-masa-votar-elecciones-juego-futuro-bisnietos-20261027172301.html",
+          "source": "Europa Press",
+          "published": "2026-10-27T16:23:01.000Z"
+        },
+        {
+          "title": "La policía de Brasil investiga si Flávio Bolsonaro ha huido del país",
+          "link": "https://elpais.com/america/2026-10-27/la-policia-de-brasil-refuerza-los-controles-fronterizos-por-si-bolsonaro-sale-del-pais.html",
+          "source": "El País",
+          "published": "2026-10-27T16:19:01.000Z"
+        },
+        {
+          "title": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
+          "source": "El País",
+          "published": "2026-10-27T16:13:59.000Z"
+        },
+        {
+          "title": "La patronal madrileña pide recuperar el despido por bajas laborales reiteradas",
+          "link": "https://www.eldiario.es/economia/patronal-madrilena-pide-recuperar-despido-bajas-laborales-reiteradas_1_13619412.html",
+          "source": "elDiario.es",
+          "published": "2026-10-27T15:58:17.000Z"
+        },
+        {
+          "title": "La hostelería pide al próximo Gobierno gravar a operadores como Mercadona por servir comida y bebida en sus supermercados",
+          "link": "https://elpais.com/economia/2026-10-27/la-hosteleria-pide-al-proximo-gobierno-gravar-a-operadores-como-mercadona-por-servir-comida-y-bebida-en-sus-supermercados.html",
+          "source": "El País",
+          "published": "2026-10-27T15:38:41.000Z"
+        },
+        {
+          "title": "Israelíes residentes en España viajan expresamente para votar por el cambio: \"Es lo menos que podemos hacer\"",
+          "link": "https://www.europapress.es/nacional/noticia-israelies-residentes-espana-viajan-expresamente-votar-cambio-menos-podemos-hacer-20261027155419.html",
+          "source": "Europa Press",
+          "published": "2026-10-27T14:54:19.000Z"
+        },
+        {
+          "title": "La Audiencia de Valencia reitera por enésima vez que la la Generalitat tenía la \"competencia exclusiva\" ante la dana",
+          "link": "https://www.eldiario.es/comunitat-valenciana/audiencia-valencia-reitera-enesima-vez-generalitat-tenia-competencia-exclusiva-dana_1_13619167.html",
+          "source": "elDiario.es",
+          "published": "2026-10-27T14:48:49.000Z"
         }
       ]
     },
@@ -94,6 +129,18 @@
             "BBC Mundo",
             "El País Internacional",
             "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-27T11:15:39.320Z"
+        },
+        {
+          "title": "Entra en vigor la tregua humanitaria entre Ucrania y Rusia en la ciudad sureña de Oleshki",
+          "link": "https://www.20minutos.es/internacional/entra-vigor-tregua-humanitaria-entre-ucrania-rusia-ciudad-surena-oleshki_7053752_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El alto el fuego fue coordinado por los defensores de derechos humanos de Ucrania y Rusia, aunque apenas han trascendido detalles sobre su aplicación y supervisión.",
+          "sources": [
+            "20minutos Internacional",
+            "DW",
+            "El País Internacional"
           ],
           "firstSeen": "2026-10-27T11:15:39.320Z"
         },
@@ -120,17 +167,6 @@
           "firstSeen": "2026-10-27T11:15:39.320Z"
         },
         {
-          "title": "Entra en vigor la tregua humanitaria entre Ucrania y Rusia en la ciudad sureña de Oleshki",
-          "link": "https://www.20minutos.es/internacional/entra-vigor-tregua-humanitaria-entre-ucrania-rusia-ciudad-surena-oleshki_7053752_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El alto el fuego fue coordinado por los defensores de derechos humanos de Ucrania y Rusia, aunque apenas han trascendido detalles sobre su aplicación y supervisión.",
-          "sources": [
-            "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-10-27T11:15:39.320Z"
-        },
-        {
           "title": "Bolsonaro se presenta como líder de la oposición a Lula sin admitir la derrota pero su partido sí reconoce los resultados",
           "link": "https://www.bbc.com/mundo/articles/cm4g172l4k87o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
@@ -144,52 +180,52 @@
       ],
       "items": [
         {
-          "title": "Así te lo contamos: elección histórica en Brasil con el triunfo de Lula y el pedido de anulación de Flávio Bolsonaro",
-          "link": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
+          "title": "La participación alcanza niveles récord en una crucial elección para el futuro de Israel y el actual primer ministro Benjamin Netanyahu",
+          "link": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-27T11:15:36.806Z"
+          "published": "2026-10-27T17:00:49.574Z"
         },
         {
-          "title": "Bruselas se lanza a la 'guerra climática': 70.000 millones al año para adaptar edificios y planes de choque contra las olas de calor",
-          "link": "https://www.20minutos.es/internacional/bruselas-se-lanza-guerra-climatica-70-000-millones-ano-para-adaptar-edificios-planes-choque-contra-las-olas-calor_7053805_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-27T10:38:38.000Z"
-        },
-        {
-          "title": "Tres detenidos en Israel por una supuesta compra de votos para un partido árabe",
-          "link": "https://www.20minutos.es/internacional/tres-detenidos-israel-por-una-supuesta-compra-votos-para-un-partido-arabe_7053871_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-27T10:21:04.000Z"
-        },
-        {
-          "title": "Entra en vigor la tregua en Oleshky mediada por Melania Trump, mientras Kiev sufre nuevos ataques",
-          "link": "https://www.france24.com/es/europa/20261027-entra-en-vigor-la-tregua-en-oleshky-mediada-por-melania-trump-mientras-kiev-sufre-nuevos-ataques",
-          "source": "France 24",
-          "published": "2026-10-27T10:11:57.000Z"
-        },
-        {
-          "title": "Los líderes de Finlandia y Noruega hablan con Putin y rompen el 'tabú' europeo: \"Frenar la guerra implica conversaciones directas\"",
-          "link": "https://www.20minutos.es/internacional/los-lideres-finlandia-noruega-hablan-con-putin-rompen-tabu-europeo-frenar-guerra-implica-conversaciones-directas_7053883_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-27T10:10:09.000Z"
-        },
-        {
-          "title": "Dos jóvenes acusados de entrar en la base británica de Fairford en colaboración con \"un servicio de inteligencia extranjero\"",
-          "link": "https://www.eldiario.es/internacional/jovenes-acusados-entrar-base-britanica-fairford-colaboracion-servicio-inteligencia-extranjero_1_13617758.html",
+          "title": "Flávio Bolsonaro incumple la orden de entregar su pasaporte y está en paradero desconocido",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-incumple-orden-entregar-pasaporte-paradero-desconocido_1_13619629.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-27T09:58:00.000Z"
+          "published": "2026-10-27T16:50:11.000Z"
         },
         {
-          "title": "Netanyahu apela a Trump en la jornada electoral de Israel mientras que el opositor Eisenkot recorre colegios cercanos a Gaza",
-          "link": "https://www.20minutos.es/internacional/netanyahu-apela-trump-jornada-electoral-israel-mientras-que-opositor-eisenkot-recorre-colegios-cercanos-gaza_7053850_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-27T09:43:32.000Z"
-        },
-        {
-          "title": "Flávio Bolsonaro afirma que recibió prohibición para salir de Brasil: lo que viene para el excandidato",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-fl%C3%A1vio-bolsonaro-afirma-que-recibi%C3%B3-prohibici%C3%B3n-para-salir-de-brasil-lo-que-viene-para-el-excandidato",
+          "title": "\"Lo que Netanyahu podría hacer después de las elecciones es el verdadero peligro\": 'Haaretz'",
+          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261027-lo-que-netanyahu-podr%C3%ADa-hacer-despu%C3%A9s-de-las-elecciones-es-el-verdadero-peligro-haaretz",
           "source": "France 24",
-          "published": "2026-10-27T08:29:56.000Z"
+          "published": "2026-10-27T16:16:34.000Z"
+        },
+        {
+          "title": "Trump afirma que EEUU ha recibido un millón de barriles de petróleo de Venezuela",
+          "link": "https://www.20minutos.es/internacional/trump-afirma-que-eeuu-ha-recibido-un-millon-barriles-petroleo-venezuela_7054109_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-27T16:12:34.000Z"
+        },
+        {
+          "title": "El extraño caso de la “mente” de las protestas en Italia: apareció en redes pasados los disturbios y solo llamó a seguir saliendo a la calle",
+          "link": "https://elpais.com/internacional/2026-10-27/el-extrano-caso-de-la-mente-de-las-protestas-en-italia-aparecio-en-redes-pasados-los-disturbios-y-solo-llamo-a-seguir-saliendo-a-la-calle.html",
+          "source": "El País Internacional",
+          "published": "2026-10-27T16:00:03.000Z"
+        },
+        {
+          "title": "Líder estudiantil francés: “La juventud es la esperanza para lograr cambios”",
+          "link": "https://www.france24.com/es/programas/la-entrevista/20261027-l%C3%ADder-estudiantil-franc%C3%A9s-la-juventud-es-la-esperanza-para-lograr-cambios",
+          "source": "France 24",
+          "published": "2026-10-27T15:58:57.000Z"
+        },
+        {
+          "title": "Trump allana el terreno para cuestionar sin pruebas las legislativas: \"Reconoceré el resultado si las elecciones son limpias\"",
+          "link": "https://www.eldiario.es/internacional/trump-allana-terreno-cuestionar-pruebas-legislativas-reconocere-resultado-si-elecciones-son-honestas_1_13619420.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-27T15:54:42.000Z"
+        },
+        {
+          "title": "\"Fue un error, el Estado falló\": la crisis en el gobierno de Kast por rebajar las penas a 56 personas condenadas por delitos sexuales contra menores",
+          "link": "https://www.bbc.com/mundo/articles/cvwy7k3lpge3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-27T15:49:40.000Z"
         }
       ]
     }
