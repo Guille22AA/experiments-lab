@@ -1,118 +1,83 @@
 {
-  "date": "2026-10-26",
-  "updatedAt": "2026-10-26T22:05:09.457Z",
-  "edition": "tarde",
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-27T11:15:39.320Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Feijóo y Abascal cierran un pacto en el Senado: Vox no se presenta en seis provincias y el PP no lo hará en tres",
-          "link": "https://www.europapress.es/nacional/noticia-vox-pacta-pp-no-presentar-candidatura-senado-seis-provincias-presentara-unico-nombre-otras-14-20261026135245.html",
+          "title": "IU lidera las listas de Frente Amplio al Congreso en 29 provincias mientras Sumar lo hace en seis",
+          "link": "https://www.europapress.es/nacional/noticia-iu-lidera-listas-frente-amplio-congreso-29-provincias-mientras-sumar-hace-seis-20261027114822.html",
           "source": "Europa Press",
-          "summary": "El líder del PP, Alberto Núñez Feijóo, y el presidente de Vox, Santiago Abascal, han cerrado este lunes un pacto en el Senado que afecta a 23 circunscripciones con el objetivo de lograr una amplia mayoría que frene la candidatura conjunta que sellaron PSOE, Frente Amplio e izquierdas territoriales en la Cámara Alta el pasado 16 de octubre. En virtud de ese pacto, Vox no se presentará en seis provincias y el PP no hará en tres.",
+          "summary": "Aliados territoriales de la coalición liderarán las circunscripciones en sus comunidades como Ara Més y Chunta, que renunció a Teruel",
           "sources": [
             "Europa Press",
+            "Público"
+          ],
+          "firstSeen": "2026-10-27T11:15:39.320Z"
+        },
+        {
+          "title": "Renovables para pagar la vivienda pública y pensiones: la propuesta para crear un fondo soberano “a la noruega”",
+          "link": "https://www.eldiario.es/ballenablanca/economia/renovables-pagar-vivienda-publica-pensiones-propuesta-crear-fondo-soberano-noruega_1_13617555.html",
+          "source": "elDiario.es",
+          "summary": "La fundación Hope! lanza la campaña ‘España puede ser la hostia’ para aprovechar de forma colectiva el sol y el viento como escudo social, imitando el fondo soberano noruego con el petróleo. El secreto de habitar una muy buena casa por 700 euros al mes Este instrumento, gracias al cual Noruega costea un cuarto de su gasto público, se beneficia de lo que producen los parques renovables del país. “El sol español está pagando las pensiones de los noruegos. ¿Por qué no puede pagar las de los españoles?” Ese fue el razonamiento del divulgador ambiental Javier Peña, detrás del canal Hope!, seguido…",
+          "sources": [
             "elDiario.es",
-            "20minutos"
+            "El País"
           ],
-          "firstSeen": "2026-10-26T17:53:22.531Z"
-        },
-        {
-          "title": "Claves del acuerdo entre el PP y Vox para las listas del Senado: ¿dónde cede Abascal?, ¿en qué provincias se retira Feijóo?",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/claves-del-acuerdo-entre-el-pp-y-vox-para-las-listas-del-senado-donde-cede-abascalen-que-provincias-se-retira-feijoo.html",
-          "source": "El País",
-          "summary": "El pacto afecta a las candidaturas de 23 provincias a la Cámara alta",
-          "sources": [
-            "El País",
-            "elDiario.es",
-            "20minutos"
-          ],
-          "firstSeen": "2026-10-26T22:05:09.457Z"
-        },
-        {
-          "title": "Muere Alfredo Sánchez Monteseirín, exalcalde de Sevilla, a los 69 años",
-          "link": "https://www.20minutos.es/andalucia/sevilla/muere-alfredo-sanchez-monteseirin-exalcalde-sevilla_7053340_0.html",
-          "source": "20minutos",
-          "summary": "Manuel Alés, presidente del Pleno municipal, ha informado de la noticia durante una sesión extraordinaria, donde se ha guardado un minuto de silencio.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-26T11:51:15.428Z"
-        },
-        {
-          "title": "El Gobierno apunta a la ultraderecha como responsable de los disturbios en Barcelona: \"Es quien sale ganando en el caos y el odio\"",
-          "link": "https://www.20minutos.es/nacional/gobierno-apunta-ultraderecha-como-responsable-los-disturbios-barcelona-es-quien-sale-ganando-caos-odio_7053338_0.html",
-          "source": "20minutos",
-          "summary": "La portavoz del Gobierno, Elma Saiz, ha condenado este lunes los altercados provocados este fin de semana en Barcelona por grupos violentos y ha pedido esperar al resultado de la investigación sobre lo sucedido.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-26T11:51:15.428Z"
-        },
-        {
-          "title": "ARGUMENTARIO: HUELGA GENERAL POR LA VIVIENDA DEL 11N",
-          "link": "https://cgt.es/argumentario-huelga-general-por-la-vivienda-del-11n/",
-          "source": "CGT",
-          "summary": "Este argumentario sirve para ayudar a que las personas afiliadas a CGT (o cualquiera con ganas de hacerlo) responda en el trabajo, en la asamblea, a vecinas o amigas las dudas reales sobre la huelga general por la vivienda del próximo 11 de noviembre. La idea de fondo: el encarecimiento de la vivienda es un... La entrada ARGUMENTARIO: HUELGA GENERAL POR LA VIVIENDA DEL 11N se publicó primero en Confederación General del Trabajo.",
-          "sources": [
-            "CGT",
-            "El Salto"
-          ],
-          "firstSeen": "2026-10-26T11:51:15.428Z"
+          "firstSeen": "2026-10-27T11:15:39.320Z"
         }
       ],
       "items": [
         {
-          "title": "Jordania bombardea posiciones en Siria en represalia por el ataque contra una iglesia",
-          "link": "https://elpais.com/internacional/2026-10-26/jordania-bombardea-posiciones-en-siria-en-represalia-por-el-ataque-contra-una-iglesia.html",
-          "source": "El País",
-          "published": "2026-10-26T22:03:03.000Z"
+          "title": "Los Comuns retiran sus candidaturas al Senado en Girona, Tarragona y Lleida tras pactar con el PSC",
+          "link": "https://www.eldiario.es/catalunya/comuns-retiran-candidaturas-senado-girona-tarragona-lleida-pactar-psc_1_13618026.html",
+          "source": "elDiario.es",
+          "published": "2026-10-27T11:04:24.000Z"
         },
         {
-          "title": "Los demócratas piden un fiscal especial para que revise la relación de Trump con Epstein",
-          "link": "https://elpais.com/us/2026-10-26/los-democratas-piden-un-fiscal-especial-para-que-revise-la-relacion-de-trump-con-epstein.html",
-          "source": "El País",
-          "published": "2026-10-26T21:12:11.000Z"
-        },
-        {
-          "title": "Bolsonaro dice que el Supremo le ha ordenado entregar su pasaporte por riesgo de fuga tras perder las elecciones",
-          "link": "https://www.20minutos.es/internacional/flavio-bolsonaro-asegura-que-supremo-le-ha-ordenado-entregar-su-pasaporte-por-riesgo-fuga-tras-perder-las-elecciones_7053712_0.html",
-          "source": "20minutos",
-          "published": "2026-10-26T20:28:47.000Z"
-        },
-        {
-          "title": "Pedro Sánchez, Matteo Renzi y Édouard Philippe debaten sobre el futuro de Europa en World In Progress",
-          "link": "https://elpais.com/internacional/2026-10-26/pedro-sanchez-matteo-renzi-y-edouard-philippe-debaten-sobre-el-futuro-de-europa-en-world-in-progress.html",
-          "source": "El País",
-          "published": "2026-10-26T19:39:56.000Z"
-        },
-        {
-          "title": "Abascal ve la renuncia de Vox a presentar candidaturas en el Senado como un \"gesto patriótico\": \"Todo por España\"",
-          "link": "https://www.europapress.es/nacional/noticia-abascal-ve-renuncia-vox-presentar-candidaturas-senado-gesto-patriotico-todo-espana-20261026203730.html",
+          "title": "El secretario de SEGIB apunta a más de 14 presidentes en la cumbre de Madrid con la duda de Milei o Sheinbaum",
+          "link": "https://www.europapress.es/internacional/noticia-secretario-segib-apunta-mas-14-presidentes-cumbre-madrid-duda-milei-sheinbaum-20261027114338.html",
           "source": "Europa Press",
-          "published": "2026-10-26T19:37:30.000Z"
+          "published": "2026-10-27T10:43:38.000Z"
         },
         {
-          "title": "La derecha pacta sus candidaturas en el Senado: el PP se retira en Gipuzkoa, Girona y Tarragona y Vox en otras seis provincias",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-derecha-pacta-sus-candidaturas-en-el-senado-pp-se-retira-en-gipuzkoa-girona-y-tarragona-y-vox-en-otras-seis-provincias.html",
+          "title": "La UE advierte de la caída de inversiones en lugares como Valencia si no se preparan para el cambio climático",
+          "link": "https://www.eldiario.es/sociedad/ue-advierte-caida-inversiones-lugares-valencia-si-no-preparan-cambio-climatico_1_13617678.html",
+          "source": "elDiario.es",
+          "published": "2026-10-27T10:42:49.000Z"
+        },
+        {
+          "title": "Caso ERE: Imputados 18 ex altos cargos de la Junta y Agencia IDEA por desvío de fondos a Santana Motor",
+          "link": "https://www.europapress.es/andalucia/noticia-caso-ere-imputados-18-ex-altos-cargos-junta-agencia-idea-desvio-fondos-santana-motor-20261027113246.html",
+          "source": "Europa Press",
+          "published": "2026-10-27T10:32:46.000Z"
+        },
+        {
+          "title": "El PP borra de la Generalitat Valenciana la subdirección de Cambio Climático y la rebautiza como “cambios meteorológicos extremos”",
+          "link": "https://www.eldiario.es/comunitat-valenciana/politica/gobierno-valenciano-borra-referencias-cambio-climatico-departamento-pasa-llamarse-cambios-meteorologicos-extremos_1_13617624.html",
+          "source": "elDiario.es",
+          "published": "2026-10-27T10:28:15.000Z"
+        },
+        {
+          "title": "Miles de saharauis protestan en Tinduf mientras EEUU desmantela la misión de la ONU",
+          "link": "https://diariosocialista.net/2026/10/27/miles-de-saharauis-protestan-en-tinduf-mientras-eeuu-desmantela-la-mision-de-la-onu/",
+          "source": "Diario Socialista",
+          "published": "2026-10-27T10:12:47.000Z"
+        },
+        {
+          "title": "Feijóo, tras pactar con Vox no presentarse en algunas provincias al Senado: “Nadie puede renunciar a lo que no tiene”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-sobre-su-pacto-con-vox-al-senado-el-pp-ya-no-es-una-referencia-por-renunciar-a-lo-que-no-tiene.html",
           "source": "El País",
-          "published": "2026-10-26T19:34:12.000Z"
+          "published": "2026-10-27T10:08:22.000Z"
         },
         {
-          "title": "Jaime de los Santos, Alberto Nadal y el núcleo duro de Génova acompañan a Feijóo en la lista del PP por Madrid",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/jaime-de-los-santos-alberto-nadal-y-el-nucleo-duro-de-genova-acompanan-a-feijoo-en-la-lista-del-pp-por-madrid.html",
-          "source": "El País",
-          "published": "2026-10-26T19:32:48.000Z"
-        },
-        {
-          "title": "Sánchez promete reformar la Constitución para blindar las pensiones y carga contra PP y Vox por pactar en el Senado: \"Son lo mismo\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-promete-reformar-constitucion-para-blindar-las-pensiones-carga-contra-pp-vox-por-pactar-senado-son-mismo_7053700_0.html",
-          "source": "20minutos",
-          "published": "2026-10-26T19:28:23.000Z"
+          "title": "El Sindicato Socialista de Vivienda denuncia los “bulos” difundidos del PSOE-PNV y ‘El Correo’ a raíz del desahucio en Gasteiz",
+          "link": "https://diariosocialista.net/2026/10/27/el-sindicato-socialista-de-vivienda-denuncia-los-bulos-difundidos-del-psoe-pnv-y-el-correo-a-raiz-del-desahucio-en-gasteiz/",
+          "source": "Diario Socialista",
+          "published": "2026-10-27T10:00:00.000Z"
         }
       ]
     },
@@ -121,37 +86,60 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
-          "link": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html",
-          "source": "El País Internacional",
-          "summary": "El actual mandatario será presidente por cuarta vez tras vencer con cuatro millones de votos más que el candidato del clan de ultraderecha y se consolida como resistencia ante Trump",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-26T11:51:15.428Z"
-        },
-        {
           "title": "\"Me pareció otra elección amañada\": la reacción de Donald Trump ante la victoria de Lula en las presidenciales de Brasil",
           "link": "https://www.bbc.com/mundo/articles/cm0j05gd09jyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
           "summary": "El mandatario estadounidense sembró dudas sobre las elecciones en Brasil, pero sin aportar argumentos concretos.",
           "sources": [
             "BBC Mundo",
+            "El País Internacional",
             "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-26T22:05:09.457Z"
+          "firstSeen": "2026-10-27T11:15:39.320Z"
         },
         {
-          "title": "Una comisión de la ONU acusa a Israel de crímenes de guerra en Cisjordania",
-          "link": "https://elpais.com/internacional/2026-10-26/una-comision-de-la-onu-acusa-a-israel-de-crimenes-de-guerra-en-cisjordania.html",
+          "title": "Qué hay que saber sobre las elecciones legislativas en Israel",
+          "link": "https://elpais.com/internacional/2026-10-27/que-hay-que-saber-sobre-las-elecciones-legislativas-en-israel.html",
           "source": "El País Internacional",
-          "summary": "La investigación independiente denuncia que continúa el “genocidio” en Gaza pese al alto el fuego, entre otras violaciones del derecho internacional que recogen en un informe publicado en la víspera de elecciones",
+          "summary": "Una docena de partidos se repartirán los 120 escaños del Parlamento. La formación de un nuevo Gobierno se prevé complicada",
           "sources": [
             "El País Internacional",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-27T11:15:39.320Z"
+        },
+        {
+          "title": "Elecciones Israel: diferencias y similitudes entre Netanyahu y Eizenkot",
+          "link": "https://www.france24.com/es/video/20261027-elecciones-israel-diferencias-y-similitudes-entre-netanyahu-y-eizenkot",
+          "source": "France 24",
+          "summary": "Las elecciones legislativas en Israel han estado marcadas por un intenso enfrentamiento entre el primer ministro, Benjamin Netanyahu, y su principal rival, el exjefe del Estado Mayor y líder del partido Yashar, Gadi Eisenkot.",
+          "sources": [
+            "France 24",
             "DW"
           ],
-          "firstSeen": "2026-10-26T22:05:09.457Z"
+          "firstSeen": "2026-10-27T11:15:39.320Z"
+        },
+        {
+          "title": "Entra en vigor la tregua humanitaria entre Ucrania y Rusia en la ciudad sureña de Oleshki",
+          "link": "https://www.20minutos.es/internacional/entra-vigor-tregua-humanitaria-entre-ucrania-rusia-ciudad-surena-oleshki_7053752_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El alto el fuego fue coordinado por los defensores de derechos humanos de Ucrania y Rusia, aunque apenas han trascendido detalles sobre su aplicación y supervisión.",
+          "sources": [
+            "20minutos Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-10-27T11:15:39.320Z"
+        },
+        {
+          "title": "Bolsonaro se presenta como líder de la oposición a Lula sin admitir la derrota pero su partido sí reconoce los resultados",
+          "link": "https://www.bbc.com/mundo/articles/cm4g172l4k87o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "El candidato derechista considera que Lula abusó del poder del Estado durante la campaña electoral, pero no pedirá la anulación de las elecciones.",
+          "sources": [
+            "BBC Mundo",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-27T11:15:39.320Z"
         }
       ],
       "items": [
@@ -159,49 +147,49 @@
           "title": "Así te lo contamos: elección histórica en Brasil con el triunfo de Lula y el pedido de anulación de Flávio Bolsonaro",
           "link": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-26T22:05:06.483Z"
+          "published": "2026-10-27T11:15:36.806Z"
         },
         {
-          "title": "La relatora de la ONU denuncia el papel de grandes medios de comunicación en la legitimación del genocidio en Gaza",
-          "link": "https://www.eldiario.es/internacional/relatora-onu-denuncia-papel-grandes-medios-comunicacion-legitimacion-genocidio-gaza_1_13613697.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-26T21:42:29.000Z"
+          "title": "Bruselas se lanza a la 'guerra climática': 70.000 millones al año para adaptar edificios y planes de choque contra las olas de calor",
+          "link": "https://www.20minutos.es/internacional/bruselas-se-lanza-guerra-climatica-70-000-millones-ano-para-adaptar-edificios-planes-choque-contra-las-olas-calor_7053805_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-27T10:38:38.000Z"
         },
         {
-          "title": "Israel acude a las urnas con un Netanyahu amenazado tras casi dos décadas de dominio político",
-          "link": "https://www.eldiario.es/internacional/israel-acude-urnas-netanyahu-amenazado-decadas-dominio-politico_1_13616669.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-26T21:42:28.000Z"
+          "title": "Tres detenidos en Israel por una supuesta compra de votos para un partido árabe",
+          "link": "https://www.20minutos.es/internacional/tres-detenidos-israel-por-una-supuesta-compra-votos-para-un-partido-arabe_7053871_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-27T10:21:04.000Z"
         },
         {
-          "title": "Terremoto en la derecha brasileña: la remontada histórica de Lula empuja al bolsonarismo a la desaparición",
-          "link": "https://www.eldiario.es/internacional/terremoto-derecha-brasilena-remontada-historica-lula-empuja-bolsonarismo-desaparicion_1_13616408.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-26T21:42:27.000Z"
-        },
-        {
-          "title": "Cómo el experimento político de un movimiento estudiantil logró derrotar en las urnas al gran líder nacionalista serbio",
-          "link": "https://www.eldiario.es/internacional/experimento-politico-movimiento-estudiantil-logro-derrotar-urnas-gran-lider-nacionalista-serbio_1_13616368.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-26T21:42:27.000Z"
-        },
-        {
-          "title": "Lula gana las elecciones en Brasil, pero se enfrenta a un complejo panorama para gobernar",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-lula-gana-las-elecciones-en-brasil-pero-se-enfrenta-a-un-complejo-panorama-para-gobernar",
+          "title": "Entra en vigor la tregua en Oleshky mediada por Melania Trump, mientras Kiev sufre nuevos ataques",
+          "link": "https://www.france24.com/es/europa/20261027-entra-en-vigor-la-tregua-en-oleshky-mediada-por-melania-trump-mientras-kiev-sufre-nuevos-ataques",
           "source": "France 24",
-          "published": "2026-10-26T21:20:35.000Z"
+          "published": "2026-10-27T10:11:57.000Z"
         },
         {
-          "title": "“Esto ni le quita ni le da votos a nadie”: el regreso de Machado reaviva la esperanza y la disputa por los votantes venezolanos en Miami",
-          "link": "https://elpais.com/us/2026-10-26/esto-ni-le-quita-ni-le-da-votos-a-nadie-el-regreso-de-machado-reaviva-la-esperanza-y-la-disputa-por-los-votantes-venezolanos-en-miami.html",
-          "source": "El País Internacional",
-          "published": "2026-10-26T20:49:31.000Z"
+          "title": "Los líderes de Finlandia y Noruega hablan con Putin y rompen el 'tabú' europeo: \"Frenar la guerra implica conversaciones directas\"",
+          "link": "https://www.20minutos.es/internacional/los-lideres-finlandia-noruega-hablan-con-putin-rompen-tabu-europeo-frenar-guerra-implica-conversaciones-directas_7053883_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-27T10:10:09.000Z"
         },
         {
-          "title": "Directo a...Estambul y el anuncio de Irán de un acuerdo con el Pacto de La Meca",
-          "link": "https://www.france24.com/es/video/20261026-directo-a-estambul-y-el-anuncio-de-ir%C3%A1n-de-un-acuerdo-con-el-pacto-de-la-meca",
+          "title": "Dos jóvenes acusados de entrar en la base británica de Fairford en colaboración con \"un servicio de inteligencia extranjero\"",
+          "link": "https://www.eldiario.es/internacional/jovenes-acusados-entrar-base-britanica-fairford-colaboracion-servicio-inteligencia-extranjero_1_13617758.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-27T09:58:00.000Z"
+        },
+        {
+          "title": "Netanyahu apela a Trump en la jornada electoral de Israel mientras que el opositor Eisenkot recorre colegios cercanos a Gaza",
+          "link": "https://www.20minutos.es/internacional/netanyahu-apela-trump-jornada-electoral-israel-mientras-que-opositor-eisenkot-recorre-colegios-cercanos-gaza_7053850_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-27T09:43:32.000Z"
+        },
+        {
+          "title": "Flávio Bolsonaro afirma que recibió prohibición para salir de Brasil: lo que viene para el excandidato",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-fl%C3%A1vio-bolsonaro-afirma-que-recibi%C3%B3-prohibici%C3%B3n-para-salir-de-brasil-lo-que-viene-para-el-excandidato",
           "source": "France 24",
-          "published": "2026-10-26T20:44:54.000Z"
+          "published": "2026-10-27T08:29:56.000Z"
         }
       ]
     }
