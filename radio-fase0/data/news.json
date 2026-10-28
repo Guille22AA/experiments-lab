@@ -1,118 +1,72 @@
 {
-  "date": "2026-10-27",
-  "updatedAt": "2026-10-27T21:35:49.168Z",
-  "edition": "tarde",
+  "date": "2026-10-28",
+  "updatedAt": "2026-10-28T11:50:04.016Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "IU lidera las listas de Frente Amplio al Congreso en 29 provincias mientras Sumar lo hace en seis",
-          "link": "https://www.europapress.es/nacional/noticia-iu-lidera-listas-frente-amplio-congreso-29-provincias-mientras-sumar-hace-seis-20261027114822.html",
-          "source": "Europa Press",
-          "summary": "Aliados territoriales de la coalición liderarán las circunscripciones en sus comunidades como Ara Més y Chunta, que renunció a Teruel",
-          "sources": [
-            "Europa Press",
-            "Público",
-            "El País"
-          ],
-          "firstSeen": "2026-10-27T11:15:39.320Z"
-        },
-        {
-          "title": "El juez Calama cuestiona la versión de Zapatero sobre las joyas y rechaza preguntar a Arabia Saudí",
-          "link": "https://elpais.com/espana/2026-10-27/el-juez-rechaza-la-peticion-de-zapatero-de-preguntar-a-arabia-saudi-por-las-joyas-incautadas.html",
+          "title": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
+          "link": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
           "source": "El País",
-          "summary": "El magistrado da este paso después de que el expresidente afirmase que las alhajas fueron un “obsequio” del fallecido rey Abdalá Bin Abdulaziz Al-Saud",
+          "summary": "La esposa del presidente acusa a los populares de “suplantar” su identidad para “humillarla”",
           "sources": [
             "El País",
-            "Europa Press",
-            "elDiario.es"
+            "20minutos"
           ],
-          "firstSeen": "2026-10-27T17:00:51.781Z"
-        },
-        {
-          "title": "Renovables para pagar la vivienda pública y pensiones: la propuesta para crear un fondo soberano “a la noruega”",
-          "link": "https://www.eldiario.es/ballenablanca/economia/renovables-pagar-vivienda-publica-pensiones-propuesta-crear-fondo-soberano-noruega_1_13617555.html",
-          "source": "elDiario.es",
-          "summary": "La fundación Hope! lanza la campaña ‘España puede ser la hostia’ para aprovechar de forma colectiva el sol y el viento como escudo social, imitando el fondo soberano noruego con el petróleo. El secreto de habitar una muy buena casa por 700 euros al mes Este instrumento, gracias al cual Noruega costea un cuarto de su gasto público, se beneficia de lo que producen los parques renovables del país. “El sol español está pagando las pensiones de los noruegos. ¿Por qué no puede pagar las de los españoles?” Ese fue el razonamiento del divulgador ambiental Javier Peña, detrás del canal Hope!, seguido…",
-          "sources": [
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-10-27T11:15:39.320Z"
-        },
-        {
-          "title": "Vox expulsa del partido a los concejales de Valencia Juanma Badenas y Cecilia Herrero",
-          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-27/vox-expulsa-del-partido-a-los-concejales-de-valencia-juanma-badenas-y-cecilia-herrero.html",
-          "source": "El País",
-          "summary": "Los dos ediles pasan al grupo de no adscritos pero seguirán en el gobierno local que dirige María José Catalá, del PP",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-27T17:00:51.781Z"
-        },
-        {
-          "title": "La jueza exige al Gobierno desclasificar documentos sobre la entrada masiva de Ceuta de julio",
-          "link": "https://elpais.com/espana/2026-10-27/la-jueza-cita-como-testigos-a-tres-marroquies-que-accedieron-a-ceuta-durante-la-entrada-masiva.html",
-          "source": "El País",
-          "summary": "La magistrada cita como testigos a tres marroquíes que accedieron a la ciudad durante la entrada masiva",
-          "sources": [
-            "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-27T17:00:51.781Z"
+          "firstSeen": "2026-10-28T11:50:04.016Z"
         }
       ],
       "items": [
         {
-          "title": "La Policía investiga un robo con fuerza en un despacho de abogados ligado al PP de Madrid",
-          "link": "https://elpais.com/espana/madrid/2026-10-27/la-policia-investiga-un-robo-con-fuerza-en-un-despacho-de-abogados-ligado-al-pp-de-madrid.html",
+          "title": "RADAR VIVIENDA ESPECIAL HUELGA GENERAL 11N",
+          "link": "https://www.ugt.es/radar-vivienda-especial-huelga-general-11n",
+          "source": "UGT",
+          "published": "2026-10-28T11:40:18.000Z"
+        },
+        {
+          "title": "Resultados de las elecciones en Israel 2026, en directo | Los partidos árabes alcanzan un resultado histórico y son claves para gobernar",
+          "link": "https://elpais.com/internacional/2026-10-28/resultados-y-reacciones-de-las-elecciones-en-israel-en-directo.html",
           "source": "El País",
-          "published": "2026-10-27T20:58:08.000Z"
+          "published": "2026-10-28T11:34:36.000Z"
         },
         {
-          "title": "La bronca entre los hermanos Font, de Locomía, que termina con un ataque a Sonsoles Ónega",
-          "link": "https://www.20minutos.es/television/bronca-entre-los-hermanos-font-locomia-que-termina-con-un-inesperado-ataque-sonsoles-onega-eres-una-chepe_7054198_0.html",
+          "title": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
+          "link": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
+          "source": "El País",
+          "published": "2026-10-28T11:09:48.000Z"
+        },
+        {
+          "title": "Todos los partidos, salvo Vox, suspenden sus actos de precampaña y el Gobierno cancela su agenda",
+          "link": "https://www.20minutos.es/nacional/todos-los-partidos-salvo-vox-suspenden-sus-actos-precampana-por-accidente-toledo-gobierno-cancela-su-agenda_7054429_0.html",
           "source": "20minutos",
-          "published": "2026-10-27T20:58:07.000Z"
+          "published": "2026-10-28T11:08:27.000Z"
         },
         {
-          "title": "El líder opositor Eisenkot da por finiquitado a Netanyahu y se arroga la tarea de formar Gobierno",
-          "link": "https://www.europapress.es/internacional/noticia-lider-opositor-eisenkot-da-finiquitado-netanyahu-arroga-tarea-formar-gobierno-20261027213843.html",
-          "source": "Europa Press",
-          "published": "2026-10-27T20:38:43.000Z"
+          "title": "Entrevista Alicia del Río (Sindicato de Inquilinas): “La Huelga General del 11 de noviembre es un punto de partida, no de llegada”.",
+          "link": "https://cgt.es/entrevista-alicia-del-rio-sindicato-de-inquilinas-la-huelga-general-del-11-de-noviembre-es-un-punto-de-partida-no-de-llegada/",
+          "source": "CGT",
+          "published": "2026-10-28T10:10:33.000Z"
         },
         {
-          "title": "Muere a los 35 años Cristina Calero, diputada autonómica de Coalición Canaria por Lanzarote",
-          "link": "https://www.20minutos.es/canarias/muere-los-35-anos-cristina-calero-una-diputada-autonomica-coalicion-canaria-por-lanzarote_7054224_0.html",
-          "source": "20minutos",
-          "published": "2026-10-27T20:38:03.000Z"
-        },
-        {
-          "title": "Abascal acusa sin pruebas al subdelegado del Gobierno en Zamora de estar \"detrás\" de una protesta contra el acto de Vox",
-          "link": "https://www.eldiario.es/castilla-y-leon/politica/abascal-acusa-pruebas-subdelegado-gobierno-zamora-detras-protesta-acto-vox_1_13619957.html",
+          "title": "Vox mantiene su agenda y ataca al Gobierno con el accidente de Toledo: \"La campaña del amor del PSOE causa muertos\"",
+          "link": "https://www.eldiario.es/politica/vox-mantiene-agenda-ataca-gobierno-accidente-toledo-campana-amor-psoe-causa-muertos_1_13620836.html",
           "source": "elDiario.es",
-          "published": "2026-10-27T19:54:46.000Z"
+          "published": "2026-10-28T10:04:23.000Z"
         },
         {
-          "title": "Tres testigos que llegaron a nado a Ceuta identifican a varias autoridades marroquíes señaladas por la entrada masiva",
-          "link": "https://elpais.com/espana/2026-10-27/tres-testigos-que-llegaron-a-nado-a-ceuta-identifican-a-varias-autoridades-marroquies-senaladas-por-la-entrada-masiva.html",
-          "source": "El País",
-          "published": "2026-10-27T19:33:30.000Z"
+          "title": "Sanidad moviliza sus recursos y se coordina con Castilla-La Mancha tras el accidente ferroviario en Toledo",
+          "link": "https://www.infosalus.com/actualidad/noticia-sanidad-moviliza-recursos-coordina-castilla-mancha-accidente-ferroviario-toledo-20261028103025.html",
+          "source": "Europa Press",
+          "published": "2026-10-28T09:30:25.000Z"
         },
         {
-          "title": "Irán condena a cinco años de prisión al cineasta Jafar Panahi y confisca sus bienes",
-          "link": "https://elpais.com/cultura/cine/2026-10-27/iran-condena-a-cinco-anos-de-prision-al-cineasta-jafar-panahi-por-rebeldia-y-confisca-sus-bienes.html",
-          "source": "El País",
-          "published": "2026-10-27T19:18:35.000Z"
-        },
-        {
-          "title": "La Policía identifica a 24 agentes “dinamizadores” en Ceuta a través de vídeos y fotografías analizadas",
-          "link": "https://elpais.com/espana/2026-10-27/la-policia-identifica-a-24-agentes-dinamizadores-en-ceuta-a-traves-de-videos-y-fotografias-analizadas.html",
-          "source": "El País",
-          "published": "2026-10-27T19:16:18.000Z"
+          "title": "El Gobierno y todos los partidos menos Vox cancelan sus agendas por el accidente de trenes - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm1idW52YzBBd1JTRTBodDRXVkV2ZkNIRU1BUlR1QjJmNUNrNjNFMnRoaDVQNkNBemZTU2Roal9xczBoM2NhZ3BteXljakVFTzV6R0pIbDVnZm85eFlvZ19WcTFwNF9WQ1FiYTFtaWdTZ0xjY1RTOGVUcDBkTXB5WE50QU95el8xTXJGLXhsNXhEQ2JJRm96VF9oMXJhb1F4NUNneVptQ2toSnBEa0NuVGxTWHHSAboBQVVfeXFMT0pFS2tvMXAwZmp1eFUtN0dYeHNVeDJOdmZ1QWtSZGt0Znh4dllLdXhzMFc5Q3lDcHM5RGs1NEgxWXZoNWJPU0M4cHFOVFZNelVaN2x0ZDlMOGd1V1FaSXlLcVVKRDAxLW85V19MNC1Ya0JDbUFPVWVuWUkwdnM3NE10c2hNMlA4ZUZiRlFJMjlmWTE1MFhqa3FfMDhWYlMwWE1qbUdYall3UnoxRmh1VkZ1SlBuelhpU1F3?oc=5",
+          "source": "Público",
+          "published": "2026-10-28T09:27:56.000Z"
         }
       ]
     },
@@ -121,112 +75,109 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "\"Me pareció otra elección amañada\": la reacción de Donald Trump ante la victoria de Lula en las presidenciales de Brasil",
-          "link": "https://www.bbc.com/mundo/articles/cm0j05gd09jyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El mandatario estadounidense sembró dudas sobre las elecciones en Brasil, pero sin aportar argumentos concretos.",
-          "sources": [
-            "BBC Mundo",
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-27T11:15:39.320Z"
-        },
-        {
-          "title": "Entra en vigor la tregua humanitaria entre Ucrania y Rusia en la ciudad sureña de Oleshki",
-          "link": "https://www.20minutos.es/internacional/entra-vigor-tregua-humanitaria-entre-ucrania-rusia-ciudad-surena-oleshki_7053752_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El alto el fuego fue coordinado por los defensores de derechos humanos de Ucrania y Rusia, aunque apenas han trascendido detalles sobre su aplicación y supervisión.",
-          "sources": [
-            "20minutos Internacional",
-            "DW",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-27T11:15:39.320Z"
-        },
-        {
-          "title": "Elecciones Israel: diferencias y similitudes entre Netanyahu y Eizenkot",
-          "link": "https://www.france24.com/es/video/20261027-elecciones-israel-diferencias-y-similitudes-entre-netanyahu-y-eizenkot",
-          "source": "France 24",
-          "summary": "Las elecciones legislativas en Israel han estado marcadas por un intenso enfrentamiento entre el primer ministro, Benjamin Netanyahu, y su principal rival, el exjefe del Estado Mayor y líder del partido Yashar, Gadi Eisenkot.",
-          "sources": [
-            "France 24",
-            "DW",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-27T11:15:39.320Z"
-        },
-        {
-          "title": "Qué hay que saber sobre las elecciones legislativas en Israel",
-          "link": "https://elpais.com/internacional/2026-10-27/que-hay-que-saber-sobre-las-elecciones-legislativas-en-israel.html",
-          "source": "El País Internacional",
-          "summary": "Una docena de partidos se repartirán los 120 escaños del Parlamento. La formación de un nuevo Gobierno se prevé complicada",
-          "sources": [
-            "El País Internacional",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-27T11:15:39.320Z"
-        },
-        {
-          "title": "Bolsonaro se presenta como líder de la oposición a Lula sin admitir la derrota pero su partido sí reconoce los resultados",
-          "link": "https://www.bbc.com/mundo/articles/cm4g172l4k87o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El candidato derechista considera que Lula abusó del poder del Estado durante la campaña electoral, pero no pedirá la anulación de las elecciones.",
-          "sources": [
-            "BBC Mundo",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-27T11:15:39.320Z"
-        }
-      ],
-      "items": [
-        {
-          "title": "Elecciones en Israel: las primeras encuestas muestran al bloque de Eisenkot apenas por arriba de Netanyahu",
+          "title": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot; los partidos árabes obtienen un récord de escaños en el Parlamento",
           "link": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-27T21:35:46.871Z"
+          "summary": "El primer ministro israelí enfrenta una ajustada votación contra el exmilitar Gadi Eisenkot. Estas elecciones, las primeras desde los ataques liderados por Hamás contra Israel y las guerras que les siguieron, son vistas como un referéndum sobre Netanyahu.",
+          "sources": [
+            "BBC Mundo",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-28T11:50:04.016Z"
         },
         {
-          "title": "El 'Ejército de Lula': así fue la estrategia digital ideada por André Janones para dar la batalla en terreno del bolsonarismo",
-          "link": "https://www.eldiario.es/internacional/ejercito-lula-estrategia-digital-ideada-andre-janones-dar-batalla-terreno-bolsonarismo_129_13619857.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-27T21:30:39.000Z"
+          "title": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+          "source": "El País Internacional",
+          "summary": "El bloque favorable al primer ministro lograría 54 escaños sobre 120, y la oposición judía, 49, una vez contabilizados más del 70% de los votos. Los partidos árabes serán claves en las negociaciones",
+          "sources": [
+            "El País Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-10-28T11:50:04.016Z"
+        },
+        {
+          "title": "Trump dice que respetará los resultados de las elecciones si son “honestas” | Así les contamos la campaña de las ‘midterms’ este 27 de octubre",
+          "link": "https://elpais.com/us/2026-10-27/las-midterms-2026-en-vivo.html",
+          "source": "El País Internacional",
+          "summary": "El presidente hace dos paradas en Texas para impulsar a los republicanos en sus reñidas contiendas | El Departamento de Justicia pide revisar unos 400 registros de votantes en Washington",
+          "sources": [
+            "El País Internacional",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-28T11:50:04.016Z"
         },
         {
           "title": "La Administración Trump afirma que expedirá visados a Flávio Bolsonaro y a su familia y les permitirá entrar en EEUU tras huir de Brasil",
           "link": "https://www.eldiario.es/internacional/administracion-trump-afirma-expedira-visados-flavio-bolsonaro-familia-les-permitira-entrar-eeuu-huir-brasil_1_13620168.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-27T21:18:35.000Z"
+          "summary": "\"El Departamento de Estado expedirá visados a Flávio Bolsonaro y a su familia y les permitirá entrar en Estados Unidos\", confirman fuentes del organismo dirigido por Marco Rubio Flávio Bolsonaro huye de Brasil hacia EEUU tras su derrota electoral Bolsonaro, que contaba con el apoyo del presidente de EEUU, Donald Trump, había sido objeto de una investigación por corrupción, blanqueo de capitales y evasión fiscal en Brasil, y se le había ordenado que entregara su pasaporte. Las fuentes del Departamento de Estado no precisan si Bolsonaro ya había abandonado Brasil o si él y su familia se…",
+          "sources": [
+            "France 24",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-28T11:50:04.016Z"
         },
         {
-          "title": "Kathleen Belew, historiadora: \"No hay salida a los años de Trump que implique una desescalada pacífica\"",
-          "link": "https://www.eldiario.es/internacional/kathleen-belew-historiadora-no-hay-salida-anos-trump-implique-desescalada-pacifica_128_13598809.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-27T20:30:48.000Z"
-        },
-        {
-          "title": "Los sondeos a pie de urna dan a Netanyahu la victoria en Israel, pero la oposición suma más escaños sin alcanzar la mayoría",
-          "link": "https://www.20minutos.es/internacional/los-sondeos-pie-urna-dan-netanyahu-victoria-israel-pero-oposicion-suma-mas-escanos-sin-alcanzar-mayoria_7054223_0.html",
+          "title": "Al menos cinco muertos en un nuevo ataque de Estados Unidos contra una narcolancha en el Pacífico",
+          "link": "https://www.20minutos.es/internacional/mueren-menos-cinco-personas-un-nuevo-ataque-estados-unidos-contra-una-narcolancha-pacifico_7054199_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-27T20:15:22.000Z"
+          "summary": "Más de 230 personas han fallecido fruto de las cerca de 70 operaciones llevadas a cabo o dirigidas por el SOUTHCOM.",
+          "sources": [
+            "20minutos Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-10-28T11:50:04.016Z"
+        }
+      ],
+      "items": [
+        {
+          "title": "La victoria electoral de Netanyahu condena a Israel a un callejón sin salida",
+          "link": "https://www.eldiario.es/internacional/victoria-electoral-netanyahu-condena-israel-callejon-salida_129_13621097.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-28T11:36:59.000Z"
         },
         {
-          "title": "Directo a Río y la cancelación del pasaporte de Bolsonaro y las interrogantes sobre su paradero",
-          "link": "https://www.france24.com/es/video/20261027-directo-a-r%C3%ADo-y-la-cancelaci%C3%B3n-del-pasaporte-de-bolsonaro-y-las-interrogantes-sobre-su-paradero",
-          "source": "France 24",
-          "published": "2026-10-27T19:23:05.000Z"
+          "title": "Argentina confirmó que Flávio Bolsonaro cruzó desde Brasil y luego voló a Ecuador; el excandidato presidencial estaría camino a EE.UU.",
+          "link": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-28T11:12:35.000Z"
         },
         {
-          "title": "Alemania y el impacto del acuerdo de 4.000 millones entre Audi y Trump",
-          "link": "https://www.dw.com/es/alemania-y-el-impacto-del-acuerdo-de-4-000-millones-entre-audi-y-trump/a-79781203?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-27T19:06:00.000Z"
+          "title": "Claves para formar Gobierno en Israel tras las elecciones o regresar a las urnas: consulta del presidente, negociación y votación",
+          "link": "https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html",
+          "source": "El País Internacional",
+          "published": "2026-10-28T11:03:26.000Z"
         },
         {
-          "title": "Elecciones en Israel: ¿qué pasa tras el cierre de las urnas?",
-          "link": "https://www.france24.com/es/medio-oriente/20261027-elecciones-en-israel-qu%C3%A9-pasa-tras-el-cierre-de-las-urnas",
-          "source": "France 24",
-          "published": "2026-10-27T18:54:37.000Z"
+          "title": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos",
+          "link": "https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-28T11:01:19.000Z"
+        },
+        {
+          "title": "Trump, optimista para reunirse \"pronto\" con Putin y Zelenski: \"Hemos hecho grandes progresos\"",
+          "link": "https://www.20minutos.es/internacional/trump-optimista-para-reunirse-pronto-con-putin-zelenski-hemos-hecho-grandes-progresos_7054310_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-28T08:35:46.000Z"
+        },
+        {
+          "title": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+          "link": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
+          "source": "El País Internacional",
+          "published": "2026-10-28T08:07:52.000Z"
+        },
+        {
+          "title": "Flávio Bolsonaro huye a Estados Unidos a través de Argentina tras su derrota electoral ante Lula",
+          "link": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
+          "source": "El País Internacional",
+          "published": "2026-10-28T07:59:33.000Z"
+        },
+        {
+          "title": "Del \"país de mierda\" Noruega al \"yihadista\" El Sayed pasando por anuncios brutales: Trump, desesperado, desata la máquina del fango",
+          "link": "https://www.eldiario.es/internacional/cronicas-desde-trumplandia/pais-mierda-noruega-yihadista-sayed-pasando-anuncios-brutales-trump-desesperado-desata-maquina-fango_132_13619203.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-28T07:09:07.000Z"
         }
       ]
     }
