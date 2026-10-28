@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-28T11:50:04.016Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-28T17:37:39.056Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -17,56 +17,78 @@
             "20minutos"
           ],
           "firstSeen": "2026-10-28T11:50:04.016Z"
+        },
+        {
+          "title": "Feijóo exige una \"revisión completa independiente de toda la red ferroviaria\" tras el accidente de Toledo",
+          "link": "https://www.eldiario.es/politica/feijoo-exige-revision-completa-independiente-red-ferroviaria-accidente-toledo_1_13622367.html",
+          "source": "elDiario.es",
+          "summary": "El líder del PP pide no \"entrar ahora a discutir sobre las responsabilidades políticas\" porque \"no es el día\": \"es el momento del respeto a los muertos, los heridos y sus familias\" Accidente de tren en Toledo, última hora en directo: al menos 68 muertos en un choque entre un AVE y un Iryo en Urda En una breve declaración, Feijóo ha considerado “imprescindible una investigación gubernamental inmediata, y otra judicial en los tiempos que procedan, con todos los medios y sin interferencias”. Y ha lanzado un compromiso propio a los españoles a mes y medio de las elecciones del 29N: “Garantizo que…",
+          "sources": [
+            "elDiario.es",
+            "20minutos"
+          ],
+          "firstSeen": "2026-10-28T17:37:39.056Z"
+        },
+        {
+          "title": "Colau propone un \"impuesto disuasorio\" del 10% a multipropietarios: \"Que no sea rentable especular\"",
+          "link": "https://www.eldiario.es/politica/colau-propone-impuesto-disuasorio-10-multipropietarios-no-sea-rentable-especular_1_13620560.html",
+          "source": "elDiario.es",
+          "summary": "El gravamen se aplicaría tanto a particulares que posean cuatro o más viviendas como a empresas y fondos, aunque estos últimos tendrían que pagarlo desde la primera vivienda que compren Irene Montero y Gabriel Rufián, en 'La Revuelta': “El PSOE jamás se va a atrever a expropiar o nacionalizar, nosotras sí” Aplicar un impuesto del 10% del valor de cada piso cuando la vivienda sea de un particular con cuatro inmuebles o más y se niegue a sacarlo al mercado a un precio asequible. Esa sería una de las grandes medidas que propone Ada Colau, candidata del Frente Amplio a las elecciones del 29N…",
+          "sources": [
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-10-28T17:37:39.056Z"
         }
       ],
       "items": [
         {
-          "title": "RADAR VIVIENDA ESPECIAL HUELGA GENERAL 11N",
-          "link": "https://www.ugt.es/radar-vivienda-especial-huelga-general-11n",
-          "source": "UGT",
-          "published": "2026-10-28T11:40:18.000Z"
+          "title": "Un colaborador de Leire Díez califica de “bulo” el supuesto intento de agresión a la jueza Beatriz Biedma",
+          "link": "https://elpais.com/espana/2026-10-28/un-colaborador-de-leire-diez-califica-de-bulo-el-supuesto-intento-de-agresion-a-la-jueza-beatriz-biedma.html",
+          "source": "El País",
+          "published": "2026-10-28T17:06:21.000Z"
         },
         {
-          "title": "Resultados de las elecciones en Israel 2026, en directo | Los partidos árabes alcanzan un resultado histórico y son claves para gobernar",
+          "title": "Solo 901 de los 163.355 nacionalizados a través de la 'ley de nietos' acreditan ser descendientes de exiliados",
+          "link": "https://www.20minutos.es/nacional/solo-901-163-355-nacionalizados-por-ley-nietos-acreditan-ser-descendientes-exiliados-lista-entregada-por-gobierno_7054634_0.html",
+          "source": "20minutos",
+          "published": "2026-10-28T16:56:41.000Z"
+        },
+        {
+          "title": "Resultados de las elecciones en Israel 2026, en directo |El partido de Netanyahu acusa a las formaciones árabes de “robar las elecciones”",
           "link": "https://elpais.com/internacional/2026-10-28/resultados-y-reacciones-de-las-elecciones-en-israel-en-directo.html",
           "source": "El País",
-          "published": "2026-10-28T11:34:36.000Z"
+          "published": "2026-10-28T16:27:08.000Z"
         },
         {
-          "title": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
-          "link": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
+          "title": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
+          "link": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
           "source": "El País",
-          "published": "2026-10-28T11:09:48.000Z"
+          "published": "2026-10-28T16:11:21.000Z"
         },
         {
-          "title": "Todos los partidos, salvo Vox, suspenden sus actos de precampaña y el Gobierno cancela su agenda",
-          "link": "https://www.20minutos.es/nacional/todos-los-partidos-salvo-vox-suspenden-sus-actos-precampana-por-accidente-toledo-gobierno-cancela-su-agenda_7054429_0.html",
+          "title": "Las víctimas de Angrois y Adamuz ofrecen su ayuda y denuncian el \"récord de muertos en alta velocidad\"",
+          "link": "https://www.20minutos.es/nacional/las-victimas-angrois-adamuz-ofrecen-su-ayuda-las-urda-denuncian-que-espana-tiene-record-muertos-alta-velocidad_7054539_0.html",
           "source": "20minutos",
-          "published": "2026-10-28T11:08:27.000Z"
+          "published": "2026-10-28T15:45:58.000Z"
         },
         {
-          "title": "Entrevista Alicia del Río (Sindicato de Inquilinas): “La Huelga General del 11 de noviembre es un punto de partida, no de llegada”.",
-          "link": "https://cgt.es/entrevista-alicia-del-rio-sindicato-de-inquilinas-la-huelga-general-del-11-de-noviembre-es-un-punto-de-partida-no-de-llegada/",
-          "source": "CGT",
-          "published": "2026-10-28T10:10:33.000Z"
+          "title": "Frente Amplio pide que se asuman \"responsabilidades políticas\" tras el accidente de tren de Toledo: \"Es inadmisible\"",
+          "link": "https://www.20minutos.es/nacional/frente-amplio-pide-que-se-asuman-responsabilidades-politicas-tras-accidente-tren-toledo-es-inadmisible_7054598_0.html",
+          "source": "20minutos",
+          "published": "2026-10-28T15:42:36.000Z"
         },
         {
-          "title": "Vox mantiene su agenda y ataca al Gobierno con el accidente de Toledo: \"La campaña del amor del PSOE causa muertos\"",
-          "link": "https://www.eldiario.es/politica/vox-mantiene-agenda-ataca-gobierno-accidente-toledo-campana-amor-psoe-causa-muertos_1_13620836.html",
-          "source": "elDiario.es",
-          "published": "2026-10-28T10:04:23.000Z"
-        },
-        {
-          "title": "Sanidad moviliza sus recursos y se coordina con Castilla-La Mancha tras el accidente ferroviario en Toledo",
-          "link": "https://www.infosalus.com/actualidad/noticia-sanidad-moviliza-recursos-coordina-castilla-mancha-accidente-ferroviario-toledo-20261028103025.html",
+          "title": "Feijóo exige una investigación inmediata del Gobierno y otra judicial tras el choque de trenes en Toledo",
+          "link": "https://www.europapress.es/nacional/noticia-feijoo-pide-saber-medidas-tomaron-adamuz-exige-investigacion-gobierno-otra-judicial-20261028163815.html",
           "source": "Europa Press",
-          "published": "2026-10-28T09:30:25.000Z"
+          "published": "2026-10-28T15:38:15.000Z"
         },
         {
-          "title": "El Gobierno y todos los partidos menos Vox cancelan sus agendas por el accidente de trenes - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm1idW52YzBBd1JTRTBodDRXVkV2ZkNIRU1BUlR1QjJmNUNrNjNFMnRoaDVQNkNBemZTU2Roal9xczBoM2NhZ3BteXljakVFTzV6R0pIbDVnZm85eFlvZ19WcTFwNF9WQ1FiYTFtaWdTZ0xjY1RTOGVUcDBkTXB5WE50QU95el8xTXJGLXhsNXhEQ2JJRm96VF9oMXJhb1F4NUNneVptQ2toSnBEa0NuVGxTWHHSAboBQVVfeXFMT0pFS2tvMXAwZmp1eFUtN0dYeHNVeDJOdmZ1QWtSZGt0Znh4dllLdXhzMFc5Q3lDcHM5RGs1NEgxWXZoNWJPU0M4cHFOVFZNelVaN2x0ZDlMOGd1V1FaSXlLcVVKRDAxLW85V19MNC1Ya0JDbUFPVWVuWUkwdnM3NE10c2hNMlA4ZUZiRlFJMjlmWTE1MFhqa3FfMDhWYlMwWE1qbUdYall3UnoxRmh1VkZ1SlBuelhpU1F3?oc=5",
-          "source": "Público",
-          "published": "2026-10-28T09:27:56.000Z"
+          "title": "El Gobierno entrega al Supremo la lista con los nacionalizados por la ‘ley de nietos’",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-28/el-gobierno-entrega-al-supremo-la-lista-con-los-nacionalizados-por-la-ley-de-nietos.html",
+          "source": "El País",
+          "published": "2026-10-28T15:35:02.000Z"
         }
       ]
     },
@@ -75,6 +97,32 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
+          "title": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+          "source": "El País Internacional",
+          "summary": "El bloque favorable al primer ministro lograría 54 escaños sobre 120, y la oposición judía, 49, una vez contabilizados más del 70% de los votos. Los partidos árabes serán claves en las negociaciones",
+          "sources": [
+            "El País Internacional",
+            "20minutos Internacional",
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-10-28T11:50:04.016Z"
+        },
+        {
+          "title": "Flávio Bolsonaro llega a Miami mientras enfrenta investigaciones en Brasil",
+          "link": "https://www.france24.com/es/video/20261028-fl%C3%A1vio-bolsonaro-llega-a-miami-mientras-enfrenta-investigaciones-en-brasil",
+          "source": "France 24",
+          "summary": "Unos días después de su derrota, el senador y excandidato presidencial de Brasil, Flávio Bolsonaro, llegó a Miami junto a su esposa y sus dos hijas, pese a que la Justicia había anulado la validez de sus pasaportes y a que había negado tener intenciones de abandonar el país. Bolsonaro es investigado en varios casos por presunto lavado de dinero y, más recientemente, por una supuesta injerencia estadounidense en su campaña.",
+          "sources": [
+            "France 24",
+            "20minutos Internacional",
+            "elDiario.es Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-10-28T17:37:39.056Z"
+        },
+        {
           "title": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot; los partidos árabes obtienen un récord de escaños en el Parlamento",
           "link": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
@@ -82,17 +130,6 @@
           "sources": [
             "BBC Mundo",
             "France 24"
-          ],
-          "firstSeen": "2026-10-28T11:50:04.016Z"
-        },
-        {
-          "title": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
-          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
-          "source": "El País Internacional",
-          "summary": "El bloque favorable al primer ministro lograría 54 escaños sobre 120, y la oposición judía, 49, una vez contabilizados más del 70% de los votos. Los partidos árabes serán claves en las negociaciones",
-          "sources": [
-            "El País Internacional",
-            "20minutos Internacional"
           ],
           "firstSeen": "2026-10-28T11:50:04.016Z"
         },
@@ -117,67 +154,56 @@
             "elDiario.es Internacional"
           ],
           "firstSeen": "2026-10-28T11:50:04.016Z"
-        },
-        {
-          "title": "Al menos cinco muertos en un nuevo ataque de Estados Unidos contra una narcolancha en el Pacífico",
-          "link": "https://www.20minutos.es/internacional/mueren-menos-cinco-personas-un-nuevo-ataque-estados-unidos-contra-una-narcolancha-pacifico_7054199_0.html",
-          "source": "20minutos Internacional",
-          "summary": "Más de 230 personas han fallecido fruto de las cerca de 70 operaciones llevadas a cabo o dirigidas por el SOUTHCOM.",
-          "sources": [
-            "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-10-28T11:50:04.016Z"
         }
       ],
       "items": [
         {
-          "title": "La victoria electoral de Netanyahu condena a Israel a un callejón sin salida",
-          "link": "https://www.eldiario.es/internacional/victoria-electoral-netanyahu-condena-israel-callejon-salida_129_13621097.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-28T11:36:59.000Z"
-        },
-        {
-          "title": "Argentina confirmó que Flávio Bolsonaro cruzó desde Brasil y luego voló a Ecuador; el excandidato presidencial estaría camino a EE.UU.",
-          "link": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss",
+          "title": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder en Israel después de que ninguno alcance una mayoría para formar gobierno",
+          "link": "https://www.bbc.com/mundo/articles/c6wyvk58x9pxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-28T11:12:35.000Z"
+          "published": "2026-10-28T17:25:05.000Z"
         },
         {
-          "title": "Claves para formar Gobierno en Israel tras las elecciones o regresar a las urnas: consulta del presidente, negociación y votación",
-          "link": "https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html",
+          "title": "La ONU aprueba una resolución contra el embargo a Cuba, aunque EE. UU. suma adeptos al bloqueo",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261028-la-onu-aprueba-una-resoluci%C3%B3n-contra-el-embargo-a-cuba-aunque-ee-uu-suma-adeptos-al-bloqueo",
+          "source": "France 24",
+          "published": "2026-10-28T17:17:57.000Z"
+        },
+        {
+          "title": "Equipos de emergencia trabajan en el rescate de pasajeros tras choque de trenes en Toledo",
+          "link": "https://www.france24.com/es/video/20261028-equipos-de-emergencia-trabajan-en-el-rescate-de-pasajeros-tras-choque-de-trenes-en-toledo",
+          "source": "France 24",
+          "published": "2026-10-28T17:17:36.000Z"
+        },
+        {
+          "title": "Las quiebras de pequeñas empresas se disparan en medio de los aranceles de Trump",
+          "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261028-las-quiebras-de-peque%C3%B1as-empresas-se-disparan-en-medio-de-los-aranceles-de-trump",
+          "source": "France 24",
+          "published": "2026-10-28T17:02:11.000Z"
+        },
+        {
+          "title": "Muere a los 96 años Dolores Huerta, líder histórica del movimiento por los derechos civiles de los latinos y los trabadores migrantes en EE.UU.",
+          "link": "https://www.bbc.com/mundo/articles/cwx29d8zkdzzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-28T16:33:43.000Z"
+        },
+        {
+          "title": "La victoria de los partidos árabes de Israel: récord de escaños frente al racismo y la discriminación",
+          "link": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html",
           "source": "El País Internacional",
-          "published": "2026-10-28T11:03:26.000Z"
+          "published": "2026-10-28T16:25:50.000Z"
         },
         {
           "title": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos",
           "link": "https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-28T11:01:19.000Z"
+          "published": "2026-10-28T16:21:42.000Z"
         },
         {
-          "title": "Trump, optimista para reunirse \"pronto\" con Putin y Zelenski: \"Hemos hecho grandes progresos\"",
-          "link": "https://www.20minutos.es/internacional/trump-optimista-para-reunirse-pronto-con-putin-zelenski-hemos-hecho-grandes-progresos_7054310_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-28T08:35:46.000Z"
-        },
-        {
-          "title": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
-          "link": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
-          "source": "El País Internacional",
-          "published": "2026-10-28T08:07:52.000Z"
-        },
-        {
-          "title": "Flávio Bolsonaro huye a Estados Unidos a través de Argentina tras su derrota electoral ante Lula",
-          "link": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
-          "source": "El País Internacional",
-          "published": "2026-10-28T07:59:33.000Z"
-        },
-        {
-          "title": "Del \"país de mierda\" Noruega al \"yihadista\" El Sayed pasando por anuncios brutales: Trump, desesperado, desata la máquina del fango",
-          "link": "https://www.eldiario.es/internacional/cronicas-desde-trumplandia/pais-mierda-noruega-yihadista-sayed-pasando-anuncios-brutales-trump-desesperado-desata-maquina-fango_132_13619203.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-28T07:09:07.000Z"
+          "title": "En Líbano, la crisis económica y la inflación asfixian a los hogares",
+          "link": "https://www.france24.com/es/programas/en-foco/20261028-en-l%C3%ADbano-la-crisis-econ%C3%B3mica-y-la-inflaci%C3%B3n-asfixian-a-los-hogares",
+          "source": "France 24",
+          "published": "2026-10-28T16:18:28.000Z"
         }
       ]
     }
