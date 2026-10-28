@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-28T17:37:39.056Z",
+  "updatedAt": "2026-10-28T21:59:41.157Z",
   "edition": "tarde",
   "sections": [
     {
@@ -39,9 +39,44 @@
             "El País"
           ],
           "firstSeen": "2026-10-28T17:37:39.056Z"
+        },
+        {
+          "title": "La Reserva Federal mantiene sin cambios los tipos de interés a menos de una semana de las ‘midterms’",
+          "link": "https://elpais.com/economia/2026-10-28/la-reserva-federal-mantiene-sin-cambios-los-tipos-de-interes-a-menos-de-una-semana-de-las-miderms.html",
+          "source": "El País",
+          "summary": "La decisión contó con dos votos disidentes, que defendieron una nueva subida; el repunte de la inflación abre la puerta a un incremento de las tasas en diciembre",
+          "sources": [
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-28T21:59:41.157Z"
         }
       ],
       "items": [
+        {
+          "title": "La nueva tasación de las joyas encontradas a Zapatero las valora en un millón de euros: \"Muy comerciales\"",
+          "link": "https://www.eldiario.es/politica/nueva-tasacion-joyas-encontradas-zapatero-valora-millon-euros_1_13622092.html",
+          "source": "elDiario.es",
+          "published": "2026-10-28T19:38:43.000Z"
+        },
+        {
+          "title": "La fuga de Bolsonaro a través de Argentina hunde la relación entre Lula y Milei",
+          "link": "https://elpais.com/argentina/2026-10-28/la-fuga-de-bolsonaro-a-traves-de-argentina-hunde-la-relacion-entre-lula-y-milei.html",
+          "source": "El País",
+          "published": "2026-10-28T19:36:58.000Z"
+        },
+        {
+          "title": "La UE y Canadá buscan una alianza histórica tras descartar la fórmula de “miembro asociado”",
+          "link": "https://elpais.com/internacional/2026-10-28/la-ue-y-canada-buscan-una-alianza-historica-tras-la-descartar-la-formula-de-miembro-asociado.html",
+          "source": "El País",
+          "published": "2026-10-28T18:27:02.000Z"
+        },
+        {
+          "title": "Moreno exige al Gobierno la “inmediata revisión” de todas las vías ferroviarias en Andalucía: “El AVE a Madrid ha dejado de ser seguro”",
+          "link": "https://www.eldiario.es/andalucia/moreno-exige-gobierno-inmediata-revision-vias-ferreas-andalucia-ave-madrid-dejado-seguro_1_13622639.html",
+          "source": "elDiario.es",
+          "published": "2026-10-28T17:44:14.000Z"
+        },
         {
           "title": "Un colaborador de Leire Díez califica de “bulo” el supuesto intento de agresión a la jueza Beatriz Biedma",
           "link": "https://elpais.com/espana/2026-10-28/un-colaborador-de-leire-diez-califica-de-bulo-el-supuesto-intento-de-agresion-a-la-jueza-beatriz-biedma.html",
@@ -55,40 +90,16 @@
           "published": "2026-10-28T16:56:41.000Z"
         },
         {
-          "title": "Resultados de las elecciones en Israel 2026, en directo |El partido de Netanyahu acusa a las formaciones árabes de “robar las elecciones”",
-          "link": "https://elpais.com/internacional/2026-10-28/resultados-y-reacciones-de-las-elecciones-en-israel-en-directo.html",
+          "title": "La victoria de los partidos árabes de Israel: récord de escaños frente al racismo y la discriminación",
+          "link": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html",
           "source": "El País",
-          "published": "2026-10-28T16:27:08.000Z"
+          "published": "2026-10-28T16:25:50.000Z"
         },
         {
           "title": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
           "link": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
           "source": "El País",
           "published": "2026-10-28T16:11:21.000Z"
-        },
-        {
-          "title": "Las víctimas de Angrois y Adamuz ofrecen su ayuda y denuncian el \"récord de muertos en alta velocidad\"",
-          "link": "https://www.20minutos.es/nacional/las-victimas-angrois-adamuz-ofrecen-su-ayuda-las-urda-denuncian-que-espana-tiene-record-muertos-alta-velocidad_7054539_0.html",
-          "source": "20minutos",
-          "published": "2026-10-28T15:45:58.000Z"
-        },
-        {
-          "title": "Frente Amplio pide que se asuman \"responsabilidades políticas\" tras el accidente de tren de Toledo: \"Es inadmisible\"",
-          "link": "https://www.20minutos.es/nacional/frente-amplio-pide-que-se-asuman-responsabilidades-politicas-tras-accidente-tren-toledo-es-inadmisible_7054598_0.html",
-          "source": "20minutos",
-          "published": "2026-10-28T15:42:36.000Z"
-        },
-        {
-          "title": "Feijóo exige una investigación inmediata del Gobierno y otra judicial tras el choque de trenes en Toledo",
-          "link": "https://www.europapress.es/nacional/noticia-feijoo-pide-saber-medidas-tomaron-adamuz-exige-investigacion-gobierno-otra-judicial-20261028163815.html",
-          "source": "Europa Press",
-          "published": "2026-10-28T15:38:15.000Z"
-        },
-        {
-          "title": "El Gobierno entrega al Supremo la lista con los nacionalizados por la ‘ley de nietos’",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-10-28/el-gobierno-entrega-al-supremo-la-lista-con-los-nacionalizados-por-la-ley-de-nietos.html",
-          "source": "El País",
-          "published": "2026-10-28T15:35:02.000Z"
         }
       ]
     },
@@ -96,6 +107,20 @@
       "id": "mundo",
       "title": "Mundo · Geopolítica",
       "highlights": [
+        {
+          "title": "Flávio Bolsonaro llega a Miami mientras enfrenta investigaciones en Brasil",
+          "link": "https://www.france24.com/es/video/20261028-fl%C3%A1vio-bolsonaro-llega-a-miami-mientras-enfrenta-investigaciones-en-brasil",
+          "source": "France 24",
+          "summary": "Unos días después de su derrota, el senador y excandidato presidencial de Brasil, Flávio Bolsonaro, llegó a Miami junto a su esposa y sus dos hijas, pese a que la Justicia había anulado la validez de sus pasaportes y a que había negado tener intenciones de abandonar el país. Bolsonaro es investigado en varios casos por presunto lavado de dinero y, más recientemente, por una supuesta injerencia estadounidense en su campaña.",
+          "sources": [
+            "France 24",
+            "20minutos Internacional",
+            "elDiario.es Internacional",
+            "DW",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-10-28T17:37:39.056Z"
+        },
         {
           "title": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
           "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
@@ -110,17 +135,17 @@
           "firstSeen": "2026-10-28T11:50:04.016Z"
         },
         {
-          "title": "Flávio Bolsonaro llega a Miami mientras enfrenta investigaciones en Brasil",
-          "link": "https://www.france24.com/es/video/20261028-fl%C3%A1vio-bolsonaro-llega-a-miami-mientras-enfrenta-investigaciones-en-brasil",
+          "title": "Flávio Bolsonaro se autoproclama “presidente de Brasil\", pero se retracta minutos después",
+          "link": "https://www.france24.com/es/video/20261028-fla%CC%81vio-bolsonaro-se-autoproclama-presidente-de-brasil",
           "source": "France 24",
-          "summary": "Unos días después de su derrota, el senador y excandidato presidencial de Brasil, Flávio Bolsonaro, llegó a Miami junto a su esposa y sus dos hijas, pese a que la Justicia había anulado la validez de sus pasaportes y a que había negado tener intenciones de abandonar el país. Bolsonaro es investigado en varios casos por presunto lavado de dinero y, más recientemente, por una supuesta injerencia estadounidense en su campaña.",
+          "summary": "🔴🇧🇷 El senador ultraderechista Flávio Bolsonaro se autoproclamó \"presidente electo de Brasil\" este 28 de octubre en una carta abierta que divulgó en sus redes sociales. Sin embargo, minutos después, se retractó y se nombró \"líder de Brasil.",
           "sources": [
             "France 24",
             "20minutos Internacional",
             "elDiario.es Internacional",
             "DW"
           ],
-          "firstSeen": "2026-10-28T17:37:39.056Z"
+          "firstSeen": "2026-10-28T21:59:41.157Z"
         },
         {
           "title": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot; los partidos árabes obtienen un récord de escaños en el Parlamento",
@@ -143,67 +168,56 @@
             "France 24"
           ],
           "firstSeen": "2026-10-28T11:50:04.016Z"
-        },
-        {
-          "title": "La Administración Trump afirma que expedirá visados a Flávio Bolsonaro y a su familia y les permitirá entrar en EEUU tras huir de Brasil",
-          "link": "https://www.eldiario.es/internacional/administracion-trump-afirma-expedira-visados-flavio-bolsonaro-familia-les-permitira-entrar-eeuu-huir-brasil_1_13620168.html",
-          "source": "elDiario.es Internacional",
-          "summary": "\"El Departamento de Estado expedirá visados a Flávio Bolsonaro y a su familia y les permitirá entrar en Estados Unidos\", confirman fuentes del organismo dirigido por Marco Rubio Flávio Bolsonaro huye de Brasil hacia EEUU tras su derrota electoral Bolsonaro, que contaba con el apoyo del presidente de EEUU, Donald Trump, había sido objeto de una investigación por corrupción, blanqueo de capitales y evasión fiscal en Brasil, y se le había ordenado que entregara su pasaporte. Las fuentes del Departamento de Estado no precisan si Bolsonaro ya había abandonado Brasil o si él y su familia se…",
-          "sources": [
-            "France 24",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-28T11:50:04.016Z"
         }
       ],
       "items": [
         {
-          "title": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder en Israel después de que ninguno alcance una mayoría para formar gobierno",
-          "link": "https://www.bbc.com/mundo/articles/c6wyvk58x9pxo?at_medium=RSS&at_campaign=rss",
+          "title": "Al menos 68 muertos en un choque de trenes de alta velocidad en España tras una decisión \"inexplicable\" del centro de control",
+          "link": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-28T17:25:05.000Z"
+          "published": "2026-10-28T21:59:38.708Z"
         },
         {
-          "title": "La ONU aprueba una resolución contra el embargo a Cuba, aunque EE. UU. suma adeptos al bloqueo",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261028-la-onu-aprueba-una-resoluci%C3%B3n-contra-el-embargo-a-cuba-aunque-ee-uu-suma-adeptos-al-bloqueo",
+          "title": "¿Cómo fue la huida de Flávio Bolsonaro a EE. UU.?",
+          "link": "https://www.france24.com/es/programas/en-contexto/20261028-c%C3%B3mo-fue-la-huida-de-fl%C3%A1vio-bolsonaro-a-ee-uu",
           "source": "France 24",
-          "published": "2026-10-28T17:17:57.000Z"
+          "published": "2026-10-28T21:32:49.000Z"
         },
         {
-          "title": "Equipos de emergencia trabajan en el rescate de pasajeros tras choque de trenes en Toledo",
-          "link": "https://www.france24.com/es/video/20261028-equipos-de-emergencia-trabajan-en-el-rescate-de-pasajeros-tras-choque-de-trenes-en-toledo",
-          "source": "France 24",
-          "published": "2026-10-28T17:17:36.000Z"
+          "title": "Aunque Netanyahu pierda el poder, los países árabes creen que Israel mantendrá su línea en Gaza, Siria, Líbano y Palestina",
+          "link": "https://www.dw.com/es/aunque-netanyahu-pierda-el-poder-los-países-árabes-creen-que-israel-mantendrá-su-línea-en-gaza-siria-líbano-y-palestina/a-79791387?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-28T21:30:00.000Z"
         },
         {
-          "title": "Las quiebras de pequeñas empresas se disparan en medio de los aranceles de Trump",
-          "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261028-las-quiebras-de-peque%C3%B1as-empresas-se-disparan-en-medio-de-los-aranceles-de-trump",
-          "source": "France 24",
-          "published": "2026-10-28T17:02:11.000Z"
-        },
-        {
-          "title": "Muere a los 96 años Dolores Huerta, líder histórica del movimiento por los derechos civiles de los latinos y los trabadores migrantes en EE.UU.",
-          "link": "https://www.bbc.com/mundo/articles/cwx29d8zkdzzo?at_medium=RSS&at_campaign=rss",
+          "title": "Las conexiones que tienen las elecciones en Israel y EE.UU. y el posible impacto global de sus resultados",
+          "link": "https://www.bbc.com/mundo/articles/cmn8wzn7vd26o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-28T16:33:43.000Z"
+          "published": "2026-10-28T21:17:31.000Z"
         },
         {
-          "title": "La victoria de los partidos árabes de Israel: récord de escaños frente al racismo y la discriminación",
-          "link": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html",
+          "title": "Flávio Bolsonaro tacha de \"fraude electoral\" su derrota ante Lula y se declara \"verdadero presidente electo de Brasil\" tras huir a EEUU",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-tacha-fraude-electoral-derrota-lula-declara-verdadero-presidente-electo-brasil-huir-eeuu_1_13623136.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-28T20:48:50.000Z"
+        },
+        {
+          "title": "La oposición a Netanyahu comienza a dialogar para formar un Gobierno en Israel",
+          "link": "https://elpais.com/internacional/2026-10-28/la-oposicion-a-netanyahu-comienza-a-dialogar-para-formar-un-gobierno-en-israel.html",
           "source": "El País Internacional",
-          "published": "2026-10-28T16:25:50.000Z"
+          "published": "2026-10-28T20:48:23.000Z"
         },
         {
-          "title": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos",
-          "link": "https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-28T16:21:42.000Z"
-        },
-        {
-          "title": "En Líbano, la crisis económica y la inflación asfixian a los hogares",
-          "link": "https://www.france24.com/es/programas/en-foco/20261028-en-l%C3%ADbano-la-crisis-econ%C3%B3mica-y-la-inflaci%C3%B3n-asfixian-a-los-hogares",
+          "title": "Flávio Bolsonaro borra carta en la que se declaraba \"presidente electo de Brasil\" y cambia título por \"líder\"",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261028-fl%C3%A1vio-bolsonaro-se-autoproclama-presidente-electo-de-brasil-tras-perder-las-elecciones-y-huir-a-ee-uu",
           "source": "France 24",
-          "published": "2026-10-28T16:18:28.000Z"
+          "published": "2026-10-28T20:42:39.000Z"
+        },
+        {
+          "title": "Tras una histórica elección, los partidos árabes se abren a una alianza anti-Netanyahu en Israel",
+          "link": "https://www.france24.com/es/medio-oriente/20261028-tras-una-hist%C3%B3rica-elecci%C3%B3n-los-partidos-%C3%A1rabes-se-abren-a-una-alianza-anti-netanyahu-en-israel",
+          "source": "France 24",
+          "published": "2026-10-28T20:05:43.000Z"
         }
       ]
     }
