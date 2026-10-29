@@ -1,105 +1,72 @@
 {
-  "date": "2026-10-28",
-  "updatedAt": "2026-10-28T21:59:41.157Z",
-  "edition": "tarde",
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T11:57:09.465Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
-          "link": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
-          "source": "El País",
-          "summary": "La esposa del presidente acusa a los populares de “suplantar” su identidad para “humillarla”",
+          "title": "Lagarde anuncia que abandonará la presidencia del BCE el próximo 7 de febrero",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-anuncia-que-abandonara-presidencia-bce-proximo-7-febrero_7054895_0.html",
+          "source": "20minutos",
+          "summary": "\"Acabo de informar a mis colegas de que dejaré mi cargo como presidenta del BCE el 7 de febrero de 2027\", ha anunciado la política francesa a través de redes sociales.",
           "sources": [
-            "El País",
-            "20minutos"
-          ],
-          "firstSeen": "2026-10-28T11:50:04.016Z"
-        },
-        {
-          "title": "Feijóo exige una \"revisión completa independiente de toda la red ferroviaria\" tras el accidente de Toledo",
-          "link": "https://www.eldiario.es/politica/feijoo-exige-revision-completa-independiente-red-ferroviaria-accidente-toledo_1_13622367.html",
-          "source": "elDiario.es",
-          "summary": "El líder del PP pide no \"entrar ahora a discutir sobre las responsabilidades políticas\" porque \"no es el día\": \"es el momento del respeto a los muertos, los heridos y sus familias\" Accidente de tren en Toledo, última hora en directo: al menos 68 muertos en un choque entre un AVE y un Iryo en Urda En una breve declaración, Feijóo ha considerado “imprescindible una investigación gubernamental inmediata, y otra judicial en los tiempos que procedan, con todos los medios y sin interferencias”. Y ha lanzado un compromiso propio a los españoles a mes y medio de las elecciones del 29N: “Garantizo que…",
-          "sources": [
-            "elDiario.es",
-            "20minutos"
-          ],
-          "firstSeen": "2026-10-28T17:37:39.056Z"
-        },
-        {
-          "title": "Colau propone un \"impuesto disuasorio\" del 10% a multipropietarios: \"Que no sea rentable especular\"",
-          "link": "https://www.eldiario.es/politica/colau-propone-impuesto-disuasorio-10-multipropietarios-no-sea-rentable-especular_1_13620560.html",
-          "source": "elDiario.es",
-          "summary": "El gravamen se aplicaría tanto a particulares que posean cuatro o más viviendas como a empresas y fondos, aunque estos últimos tendrían que pagarlo desde la primera vivienda que compren Irene Montero y Gabriel Rufián, en 'La Revuelta': “El PSOE jamás se va a atrever a expropiar o nacionalizar, nosotras sí” Aplicar un impuesto del 10% del valor de cada piso cuando la vivienda sea de un particular con cuatro inmuebles o más y se niegue a sacarlo al mercado a un precio asequible. Esa sería una de las grandes medidas que propone Ada Colau, candidata del Frente Amplio a las elecciones del 29N…",
-          "sources": [
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-10-28T17:37:39.056Z"
-        },
-        {
-          "title": "La Reserva Federal mantiene sin cambios los tipos de interés a menos de una semana de las ‘midterms’",
-          "link": "https://elpais.com/economia/2026-10-28/la-reserva-federal-mantiene-sin-cambios-los-tipos-de-interes-a-menos-de-una-semana-de-las-miderms.html",
-          "source": "El País",
-          "summary": "La decisión contó con dos votos disidentes, que defendieron una nueva subida; el repunte de la inflación abre la puerta a un incremento de las tasas en diciembre",
-          "sources": [
-            "El País",
+            "20minutos",
             "elDiario.es"
           ],
-          "firstSeen": "2026-10-28T21:59:41.157Z"
+          "firstSeen": "2026-10-29T11:57:09.465Z"
         }
       ],
       "items": [
         {
-          "title": "La nueva tasación de las joyas encontradas a Zapatero las valora en un millón de euros: \"Muy comerciales\"",
-          "link": "https://www.eldiario.es/politica/nueva-tasacion-joyas-encontradas-zapatero-valora-millon-euros_1_13622092.html",
+          "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | Asciende a 69 el número de fallecidos en el accidente ferroviario de Urda",
+          "link": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
+          "source": "El País",
+          "published": "2026-10-29T11:50:30.000Z"
+        },
+        {
+          "title": "Las defensas de Salomé Pradas y de Emilio Argüeso entran en guerra en la causa de la dana",
+          "link": "https://www.eldiario.es/comunitat-valenciana/defensas-salome-pradas-emilio-argueso-entran-guerra-causa-dana_1_13624153.html",
           "source": "elDiario.es",
-          "published": "2026-10-28T19:38:43.000Z"
+          "published": "2026-10-29T11:30:38.000Z"
         },
         {
-          "title": "La fuga de Bolsonaro a través de Argentina hunde la relación entre Lula y Milei",
-          "link": "https://elpais.com/argentina/2026-10-28/la-fuga-de-bolsonaro-a-traves-de-argentina-hunde-la-relacion-entre-lula-y-milei.html",
-          "source": "El País",
-          "published": "2026-10-28T19:36:58.000Z"
-        },
-        {
-          "title": "La UE y Canadá buscan una alianza histórica tras descartar la fórmula de “miembro asociado”",
-          "link": "https://elpais.com/internacional/2026-10-28/la-ue-y-canada-buscan-una-alianza-historica-tras-la-descartar-la-formula-de-miembro-asociado.html",
-          "source": "El País",
-          "published": "2026-10-28T18:27:02.000Z"
-        },
-        {
-          "title": "Moreno exige al Gobierno la “inmediata revisión” de todas las vías ferroviarias en Andalucía: “El AVE a Madrid ha dejado de ser seguro”",
-          "link": "https://www.eldiario.es/andalucia/moreno-exige-gobierno-inmediata-revision-vias-ferreas-andalucia-ave-madrid-dejado-seguro_1_13622639.html",
-          "source": "elDiario.es",
-          "published": "2026-10-28T17:44:14.000Z"
-        },
-        {
-          "title": "Un colaborador de Leire Díez califica de “bulo” el supuesto intento de agresión a la jueza Beatriz Biedma",
-          "link": "https://elpais.com/espana/2026-10-28/un-colaborador-de-leire-diez-califica-de-bulo-el-supuesto-intento-de-agresion-a-la-jueza-beatriz-biedma.html",
-          "source": "El País",
-          "published": "2026-10-28T17:06:21.000Z"
-        },
-        {
-          "title": "Solo 901 de los 163.355 nacionalizados a través de la 'ley de nietos' acreditan ser descendientes de exiliados",
-          "link": "https://www.20minutos.es/nacional/solo-901-163-355-nacionalizados-por-ley-nietos-acreditan-ser-descendientes-exiliados-lista-entregada-por-gobierno_7054634_0.html",
+          "title": "El CEO de Iryo denunció en el Senado hace 3 semanas que sus trenes tardaban \"bastante tiempo\" en reconectar tras fallar el LZB",
+          "link": "https://www.20minutos.es/nacional/ceo-iryo-denuncio-hace-tres-semanas-senado-que-sus-trenes-tardaban-bastante-tiempo-reconectarse-tras-fallar-lzb_7054916_0.html",
           "source": "20minutos",
-          "published": "2026-10-28T16:56:41.000Z"
+          "published": "2026-10-29T11:13:39.000Z"
         },
         {
-          "title": "La victoria de los partidos árabes de Israel: récord de escaños frente al racismo y la discriminación",
-          "link": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html",
-          "source": "El País",
-          "published": "2026-10-28T16:25:50.000Z"
+          "title": "Así es Aristea Afroditi Ortiz Tiliakou, la joven jueza que se hace cargo de la investigación de Urda a 8 meses de conseguir plaza",
+          "link": "https://www.20minutos.es/nacional/asi-es-aristea-afroditi-ortiz-tiliakou-joven-jueza-que-se-hace-cargo-investigacion-urda-ocho-meses-despues-conseguir-plaza_7054893_0.html",
+          "source": "20minutos",
+          "published": "2026-10-29T11:05:46.000Z"
         },
         {
-          "title": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
-          "link": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
-          "source": "El País",
-          "published": "2026-10-28T16:11:21.000Z"
+          "title": "Lola Navarro, secretaria ejecutiva de UGT, responde a Santiago Abascal y recuerda por qué el feminismo sigue siendo imprescindible",
+          "link": "https://www.ugt.es/lola-navarro-secretaria-ejecutiva-de-ugt-responde-santiago-abascal-y-recuerda-por-que-el-feminismo",
+          "source": "UGT",
+          "published": "2026-10-29T10:42:35.000Z"
+        },
+        {
+          "title": "Sumar, Podemos y ERC piden la comparecencia urgente de Puente en el Congreso tras el accidente de Urda",
+          "link": "https://www.20minutos.es/nacional/sumar-podemos-erc-piden-comparecencia-urgente-puente-congreso-tras-accidente-urda_7054909_0.html",
+          "source": "20minutos",
+          "published": "2026-10-29T10:36:41.000Z"
+        },
+        {
+          "title": "Sánchez promete esclarecer \"hasta el más mínimo detalle\" del accidente de Toledo en una comparecencia sin Puente",
+          "link": "https://www.20minutos.es/nacional/sanchez-promete-esclarecer-hasta-mas-minimo-detalle-accidente-toledo-una-comparecencia-sin-puente_7054905_0.html",
+          "source": "20minutos",
+          "published": "2026-10-29T10:34:55.000Z"
+        },
+        {
+          "title": "La ONU denuncia la represión de la policía francesa en las protestas estudiantiles",
+          "link": "https://diariosocialista.net/2026/10/29/la-onu-denuncia-la-represion-de-la-policia-francesa-en-las-protestas-estudiantiles/",
+          "source": "Diario Socialista",
+          "published": "2026-10-29T10:31:28.000Z"
         }
       ]
     },
@@ -108,116 +75,87 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Flávio Bolsonaro llega a Miami mientras enfrenta investigaciones en Brasil",
-          "link": "https://www.france24.com/es/video/20261028-fl%C3%A1vio-bolsonaro-llega-a-miami-mientras-enfrenta-investigaciones-en-brasil",
-          "source": "France 24",
-          "summary": "Unos días después de su derrota, el senador y excandidato presidencial de Brasil, Flávio Bolsonaro, llegó a Miami junto a su esposa y sus dos hijas, pese a que la Justicia había anulado la validez de sus pasaportes y a que había negado tener intenciones de abandonar el país. Bolsonaro es investigado en varios casos por presunto lavado de dinero y, más recientemente, por una supuesta injerencia estadounidense en su campaña.",
-          "sources": [
-            "France 24",
-            "20minutos Internacional",
-            "elDiario.es Internacional",
-            "DW",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-28T17:37:39.056Z"
-        },
-        {
-          "title": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
-          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+          "title": "Al menos 13 muertos en un ataque ruso contra una estación de tren de la ciudad ucrania de Dnipró",
+          "link": "https://elpais.com/internacional/2026-10-29/varios-muertos-en-un-ataque-ruso-contra-una-estacion-de-tren-de-la-ciudad-ucrania-de-dnipro.html",
           "source": "El País Internacional",
-          "summary": "El bloque favorable al primer ministro lograría 54 escaños sobre 120, y la oposición judía, 49, una vez contabilizados más del 70% de los votos. Los partidos árabes serán claves en las negociaciones",
+          "summary": "Un dron a propulsión ruso ha alcanzado un andén donde un convoy estaba detenido. Hay también al menos una decena de heridos",
           "sources": [
             "El País Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-10-29T11:57:09.465Z"
+        },
+        {
+          "title": "Pionyang lanza más de 10 misiles balísticos al mar de Japón en plena tensión regional",
+          "link": "https://www.20minutos.es/internacional/pionyang-lanza-mas-10-misiles-balisticos-mar-japon-plena-tension-regional_7054758_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Es el primer lanzamiento de misiles de Corea del Norte desde el 14 de octubre, cuando probó dos tipos de misiles de crucero desde submarinos.",
+          "sources": [
             "20minutos Internacional",
-            "France 24",
             "DW"
           ],
-          "firstSeen": "2026-10-28T11:50:04.016Z"
+          "firstSeen": "2026-10-29T11:57:09.465Z"
         },
         {
-          "title": "Flávio Bolsonaro se autoproclama “presidente de Brasil\", pero se retracta minutos después",
-          "link": "https://www.france24.com/es/video/20261028-fla%CC%81vio-bolsonaro-se-autoproclama-presidente-de-brasil",
-          "source": "France 24",
-          "summary": "🔴🇧🇷 El senador ultraderechista Flávio Bolsonaro se autoproclamó \"presidente electo de Brasil\" este 28 de octubre en una carta abierta que divulgó en sus redes sociales. Sin embargo, minutos después, se retractó y se nombró \"líder de Brasil.",
-          "sources": [
-            "France 24",
-            "20minutos Internacional",
-            "elDiario.es Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-10-28T21:59:41.157Z"
-        },
-        {
-          "title": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot; los partidos árabes obtienen un récord de escaños en el Parlamento",
-          "link": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El primer ministro israelí enfrenta una ajustada votación contra el exmilitar Gadi Eisenkot. Estas elecciones, las primeras desde los ataques liderados por Hamás contra Israel y las guerras que les siguieron, son vistas como un referéndum sobre Netanyahu.",
-          "sources": [
-            "BBC Mundo",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-28T11:50:04.016Z"
-        },
-        {
-          "title": "Trump dice que respetará los resultados de las elecciones si son “honestas” | Así les contamos la campaña de las ‘midterms’ este 27 de octubre",
-          "link": "https://elpais.com/us/2026-10-27/las-midterms-2026-en-vivo.html",
+          "title": "Flávio Bolsonaro se declara en una carta “verdadero presidente” de Brasil y luego cambia a “líder”",
+          "link": "https://elpais.com/us/2026-10-28/flavio-bolsonaro-aterriza-en-miami-tras-huir-de-brasil-via-argentina.html",
           "source": "El País Internacional",
-          "summary": "El presidente hace dos paradas en Texas para impulsar a los republicanos en sus reñidas contiendas | El Departamento de Justicia pide revisar unos 400 registros de votantes en Washington",
+          "summary": "El senador publica desde Estados Unidos un largo texto en el que agradece a Donald Trump y Javier Milei la ayuda que le dieron para fugarse de su país",
           "sources": [
             "El País Internacional",
-            "France 24"
+            "elDiario.es Internacional"
           ],
-          "firstSeen": "2026-10-28T11:50:04.016Z"
+          "firstSeen": "2026-10-29T11:57:09.465Z"
         }
       ],
       "items": [
         {
-          "title": "Al menos 68 muertos en un choque de trenes de alta velocidad en España tras una decisión \"inexplicable\" del centro de control",
+          "title": "Al menos 69 muertos en un choque de trenes de alta velocidad en España tras una decisión \"inexplicable\" del centro de control",
           "link": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-28T21:59:38.708Z"
+          "published": "2026-10-29T11:57:07.770Z"
         },
         {
-          "title": "¿Cómo fue la huida de Flávio Bolsonaro a EE. UU.?",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261028-c%C3%B3mo-fue-la-huida-de-fl%C3%A1vio-bolsonaro-a-ee-uu",
+          "title": "Cómo la ofensiva antimigratoria de Trump amenaza con convertirse en un lastre electoral para los republicanos",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261029-c%C3%B3mo-la-ofensiva-antimigratoria-de-trump-amenaza-con-convertirse-en-un-lastre-electoral-para-los-republicanos",
           "source": "France 24",
-          "published": "2026-10-28T21:32:49.000Z"
+          "published": "2026-10-29T11:21:51.000Z"
         },
         {
-          "title": "Aunque Netanyahu pierda el poder, los países árabes creen que Israel mantendrá su línea en Gaza, Siria, Líbano y Palestina",
-          "link": "https://www.dw.com/es/aunque-netanyahu-pierda-el-poder-los-países-árabes-creen-que-israel-mantendrá-su-línea-en-gaza-siria-líbano-y-palestina/a-79791387?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-28T21:30:00.000Z"
-        },
-        {
-          "title": "Las conexiones que tienen las elecciones en Israel y EE.UU. y el posible impacto global de sus resultados",
-          "link": "https://www.bbc.com/mundo/articles/cmn8wzn7vd26o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-28T21:17:31.000Z"
-        },
-        {
-          "title": "Flávio Bolsonaro tacha de \"fraude electoral\" su derrota ante Lula y se declara \"verdadero presidente electo de Brasil\" tras huir a EEUU",
-          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-tacha-fraude-electoral-derrota-lula-declara-verdadero-presidente-electo-brasil-huir-eeuu_1_13623136.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-28T20:48:50.000Z"
-        },
-        {
-          "title": "La oposición a Netanyahu comienza a dialogar para formar un Gobierno en Israel",
-          "link": "https://elpais.com/internacional/2026-10-28/la-oposicion-a-netanyahu-comienza-a-dialogar-para-formar-un-gobierno-en-israel.html",
+          "title": "Lavrov viajará a EE UU para la reunión de ministros de Exteriores del G-20 pese a las sanciones",
+          "link": "https://elpais.com/internacional/2026-10-29/lavrov-viajara-a-ee-uu-para-la-reunion-de-ministros-de-exteriores-del-g-20-pese-a-las-sanciones.html",
           "source": "El País Internacional",
-          "published": "2026-10-28T20:48:23.000Z"
+          "published": "2026-10-29T11:13:12.000Z"
         },
         {
-          "title": "Flávio Bolsonaro borra carta en la que se declaraba \"presidente electo de Brasil\" y cambia título por \"líder\"",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261028-fl%C3%A1vio-bolsonaro-se-autoproclama-presidente-electo-de-brasil-tras-perder-las-elecciones-y-huir-a-ee-uu",
+          "title": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero, nueve meses antes de finalizar su mandato",
+          "link": "https://www.france24.com/es/europa/20261029-christine-lagarde-dejar%C3%A1-la-presidencia-del-bce-el-7-de-febrero-nueve-meses-antes-de-finalizar-su-mandato",
           "source": "France 24",
-          "published": "2026-10-28T20:42:39.000Z"
+          "published": "2026-10-29T10:39:46.000Z"
         },
         {
-          "title": "Tras una histórica elección, los partidos árabes se abren a una alianza anti-Netanyahu en Israel",
-          "link": "https://www.france24.com/es/medio-oriente/20261028-tras-una-hist%C3%B3rica-elecci%C3%B3n-los-partidos-%C3%A1rabes-se-abren-a-una-alianza-anti-netanyahu-en-israel",
+          "title": "El Comité Electoral de Israel pide a los servicios secretos investigar “graves alegaciones” de injerencia extranjera",
+          "link": "https://elpais.com/internacional/2026-10-29/el-comite-electoral-de-israel-pide-a-los-servicios-secretos-investigar-graves-alegaciones-de-injerencia-extranjera.html",
+          "source": "El País Internacional",
+          "published": "2026-10-29T10:37:30.000Z"
+        },
+        {
+          "title": "Muchos cubanoamericanos se sienten estafados por Trump, pero la mayoría votará republicano: “Utilizan el dolor de nosotros”",
+          "link": "https://elpais.com/us/2026-10-29/muchos-cubanoamericanos-se-sienten-estafados-por-trump-pero-la-mayoria-votara-republicano-utilizan-el-dolor-de-nosotros.html",
+          "source": "El País Internacional",
+          "published": "2026-10-29T09:30:00.000Z"
+        },
+        {
+          "title": "Cómo un referéndum en Montana sobre el ‘dinero oscuro’ puede cambiar las reglas de la democracia estadounidense",
+          "link": "https://elpais.com/us/2026-10-29/como-un-referendum-en-montana-puede-cambiar-las-reglas-de-la-democracia-estadounidense.html",
+          "source": "El País Internacional",
+          "published": "2026-10-29T09:30:00.000Z"
+        },
+        {
+          "title": "Desapariciones forzadas y encarcelamientos: así opera una “dictadura absoluta” en Nicaragua, según informe de la ONU",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261029-desapariciones-forzadas-y-encarcelamientos-as%C3%AD-opera-una-dictadura-absoluta-en-nicaragua-seg%C3%BAn-informe-de-la-onu",
           "source": "France 24",
-          "published": "2026-10-28T20:05:43.000Z"
+          "published": "2026-10-29T09:15:03.000Z"
         }
       ]
     }
