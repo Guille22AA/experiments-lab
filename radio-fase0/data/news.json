@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-29T17:56:03.682Z",
+  "updatedAt": "2026-10-29T22:14:15.515Z",
   "edition": "tarde",
   "sections": [
     {
@@ -50,56 +50,67 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-10-29T17:56:03.682Z"
+        },
+        {
+          "title": "La Junta Electoral abre otro expediente a Sánchez por su vídeo ante el Guernica denunciado por el PP",
+          "link": "https://www.20minutos.es/nacional/junta-electoral-abre-otro-expediente-sancionador-sanchez-por-su-video-ante-guernica-denunciado-por-pp_7055194_0.html",
+          "source": "20minutos",
+          "summary": "Sánchez ya acumula seis expedientes sancionadores de la JEC y éste es el segundo que se le abre en este periodo electoral.",
+          "sources": [
+            "20minutos",
+            "El País"
+          ],
+          "firstSeen": "2026-10-29T22:14:15.515Z"
         }
       ],
       "items": [
+        {
+          "title": "Videoanálisis| “Sin el voto latino nadie puede ganar elecciones en Estados Unidos”",
+          "link": "https://elpais.com/us/2026-10-29/videoanalisis-sin-el-voto-latino-nadie-puede-ganar-elecciones-en-estados-unidos.html",
+          "source": "El País",
+          "published": "2026-10-29T21:36:01.000Z"
+        },
+        {
+          "title": "Lo que pasa cuando publicas una noticia sobre Eduardo Inda",
+          "link": "https://www.eldiario.es/escolar/pasa-publicas-noticia-eduardo-inda_132_13625777.html",
+          "source": "elDiario.es",
+          "published": "2026-10-29T18:37:00.000Z"
+        },
+        {
+          "title": "Ouigo cancela todos sus trenes para el 30 de octubre y el 2 de noviembre tras una jornada de caos en las vías",
+          "link": "https://elpais.com/economia/2026-10-29/renfe-suspende-para-hoy-todos-los-viajes-de-alta-velocidad-entre-madrid-y-andalucia-y-ofrecera-un-plan-alternativo-a-partir-de-manana.html",
+          "source": "El País",
+          "published": "2026-10-29T18:31:10.000Z"
+        },
+        {
+          "title": "Ouigo cancela sus trenes mañana y el lunes para evitar el \"caos\" tras anularse los servicios mínimos",
+          "link": "https://www.20minutos.es/nacional/ouigo-cancela-todos-sus-trenes-este-viernes-lunes-para-evitar-caos-las-estaciones-tras-anular-an-los-servicios-minimos_7055195_0.html",
+          "source": "20minutos",
+          "published": "2026-10-29T18:21:57.000Z"
+        },
+        {
+          "title": "Renfe cifra en un 26,6% el seguimiento de la huelga de maquinistas de este jueves",
+          "link": "https://www.eldiario.es/economia/renfe-cifra-26-6-seguimiento-huelga-maquinistas-jueves_1_13625701.html",
+          "source": "elDiario.es",
+          "published": "2026-10-29T18:17:11.000Z"
+        },
+        {
+          "title": "Frente Amplio y Podemos cargan contra Puente por \"señalar a un trabajador\" en el accidente de Urda: \"Es indecente\"",
+          "link": "https://www.20minutos.es/nacional/frente-amplio-podemos-cargan-contra-puente-por-senalar-un-trabajador-accidente-urda-es-indecente_7055158_0.html",
+          "source": "20minutos",
+          "published": "2026-10-29T18:06:30.000Z"
+        },
+        {
+          "title": "Feijóo pide saber \"la verdad\" sobre el accidente de Toledo tras vetar cuatro veces la investigación por la tragedia del Alvia como presidente de Galicia - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUTYxUXFhdy15YTV5b3AzVVRjMGcwYjZFZlVPYjVrWC1VQUdGbWVDV3RRdEVVMzlheHdGd09weThydXhSaEw4TkRlWm45QkJTZHJhTHhCZWkxTGpWT1pSTFp1bUd0SHFZaTNjeTJYTHQyZ2Q4Yl9MYWFnN0lORXZXLU9WUzFvcUFtbmxwRFFFbnVuUnpfSnFVN1lUQzU3bnpWV3Z2dzk1NjdqTmpyVzVsT0RaNjhaOHBrb08wVmduaW5ka3pXdy1PQ05MWFZ3SHJhSTRIWXNfRkUtS2NnVmd1VDMyQ0d3Z9IB6wFBVV95cUxQRE5Ka0Rzb3pzUVlldmxtNTZKVGpaeDBRcTFvX2Q2aGRrelIzbERURUN6RjVST1U1anNNZVk2Z0NBQmZHcDZPam5qNVIzR0l0YzhHTGx6aTY4NFpjTmFhMWlZaUNIUWhzUnJ1M2otSUxrZVVnaE9DaFdmcmQtNDZ3dXFua3RQYWI1a3ZIZjZMNklSY0V2WlNjUktFU2M0UkxWMENPdk8zQ0dZTjdSNnBwOTNNTkNrUGVSQXJlNndKRklna0tBYnV4XzNOdkJGU0w0R2MyVmVwOXZKT1ZwUVVVc29TMkVGb0RXVzVn?oc=5",
+          "source": "Público",
+          "published": "2026-10-29T17:40:00.000Z"
+        },
         {
           "title": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
           "link": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
           "source": "El País",
           "published": "2026-10-29T17:33:57.000Z"
-        },
-        {
-          "title": "El Gobierno amplió el contrato de mantenimiento del sistema de seguridad de la línea Madrid-Sevilla un día antes del accidente",
-          "link": "https://elpais.com/economia/2026-10-29/el-gobierno-amplio-el-contrato-de-mantenimiento-del-sistema-de-seguridad-de-la-linea-madrid-sevilla-un-dia-antes-del-accidente.html",
-          "source": "El País",
-          "published": "2026-10-29T16:46:03.000Z"
-        },
-        {
-          "title": "Los sindicatos ferroviarios condenan la \"irresponsable filtración\" de los audios del centro de control de Atocha",
-          "link": "https://www.20minutos.es/nacional/los-sindicatos-ferroviarios-condenan-irresponsable-filtracion-los-audios-centro-control-atocha_7055115_0.html",
-          "source": "20minutos",
-          "published": "2026-10-29T16:35:25.000Z"
-        },
-        {
-          "title": "Fátima Báñez, la ministra de la reforma laboral de Rajoy y de la anterior gran huelga general",
-          "link": "https://www.eldiario.es/economia/fatima-banez-ministra-reforma-laboral-rajoy-anterior-gran-huelga-general_1_13622087.html",
-          "source": "elDiario.es",
-          "published": "2026-10-29T16:28:34.000Z"
-        },
-        {
-          "title": "Lagarde dimite del BCE para tener un papel más activo en las elecciones francesas",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-dimite-papel-activo-elecciones-francesas_7055109_0.html",
-          "source": "20minutos",
-          "published": "2026-10-29T16:20:59.000Z"
-        },
-        {
-          "title": "La Fiscalía pide 8 años de cárcel a dos mossos por torturas a un joven: \"Maricón y árabe, lo tienes todo\"",
-          "link": "https://www.eldiario.es/catalunya/fiscalia-pide-8-anos-carcel-mossos-torturas-joven-maricon-arabe-tienes_1_13625237.html",
-          "source": "elDiario.es",
-          "published": "2026-10-29T16:01:48.000Z"
-        },
-        {
-          "title": "Lagarde aparece en el vídeo de su dimisión con apósitos en la cara y recomienda: \"Haz que revisen tu piel\"",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-precisa-que-los-vendajes-su-cara-se-deben-una-pequena-cirugia_7055113_0.html",
-          "source": "20minutos",
-          "published": "2026-10-29T15:48:49.000Z"
-        },
-        {
-          "title": "Puente rechaza las peticiones de dimisión y comparecerá en el Congreso el próximo martes",
-          "link": "https://www.20minutos.es/nacional/puente-aleja-posibilidad-dimitir-pide-comparecer-ante-diputacion-permanente-congreso-por-accidente-urda_7055110_0.html",
-          "source": "20minutos",
-          "published": "2026-10-29T15:44:10.000Z"
         }
       ]
     },
@@ -167,52 +178,52 @@
       ],
       "items": [
         {
-          "title": "Xi realiza la mayor purga en la historia de su gobierno y le exige \"disciplina\" a su partido en China",
-          "link": "https://www.bbc.com/mundo/articles/cj62y4eq3d26o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-29T17:19:58.000Z"
+          "title": "Hamawy, de médico en Gaza a congresista de EEUU: \"El genocidio ocurre sólo porque lo pagamos nosotros\"",
+          "link": "https://www.eldiario.es/internacional/hamawy-medico-gaza-congresista-eeuu-genocidio-ocurre-pagamos_128_13598118.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-29T21:28:44.000Z"
         },
         {
-          "title": "Las denuncias de supuesta injerencia extranjera añaden incertidumbre al escrutinio en Israel",
-          "link": "https://www.france24.com/es/medio-oriente/20261029-las-denuncias-de-supuesta-injerencia-extranjera-a%C3%B1aden-incertidumbre-al-escrutinio-en-israel",
+          "title": "Midterms: los escenarios en el Congreso que rodean a Trump y a sus dos últimos años de mandato",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261029-midterms-los-escenarios-en-el-congreso-que-rodean-a-trump-y-a-sus-dos-%C3%BAltimos-a%C3%B1os-de-mandato",
           "source": "France 24",
-          "published": "2026-10-29T16:38:43.000Z"
+          "published": "2026-10-29T21:12:05.000Z"
         },
         {
-          "title": "Muere Cuauhtémoc Cárdenas, el líder que le abrió el camino al poder a la izquierda en México y nunca pudo ser presidente",
-          "link": "https://www.bbc.com/mundo/articles/cvp8g4d4g4xwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-29T15:54:38.000Z"
+          "title": "Donald Trump pierde importantes aliados internacionales tras las elecciones en Serbia y Brasil",
+          "link": "https://www.dw.com/es/donald-trump-pierde-importantes-aliados-internacionales-tras-las-elecciones-en-serbia-y-brasil/a-79802767?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-29T20:50:00.000Z"
         },
         {
-          "title": "Comité Electoral de Israel pide investigar injerencia extranjera en apoyo de un partido palestino",
-          "link": "https://www.france24.com/es/video/20261029-comit%C3%A9-electoral-de-israel-pide-investigar-injerencia-extranjera-en-apoyo-de-un-partido-palestino",
+          "title": "Abdul El-Sayed: “El ICE, como agencia, no debería existir. No creo que se pueda reformar”",
+          "link": "https://elpais.com/us/2026-10-29/abdul-el-sayed-el-ice-como-agencia-no-deberia-existir-no-creo-que-se-pueda-reformar.html",
+          "source": "El País Internacional",
+          "published": "2026-10-29T20:18:01.000Z"
+        },
+        {
+          "title": "La batalla decisiva por el voto latino en las elecciones de mitad de mandato",
+          "link": "https://www.france24.com/es/programas/corresponsales/20261029-la-batalla-decisiva-por-el-voto-latino-en-las-elecciones-de-mitad-de-mandato",
           "source": "France 24",
-          "published": "2026-10-29T15:42:01.000Z"
+          "published": "2026-10-29T19:55:50.000Z"
         },
         {
-          "title": "Directo París y el atacante del tiroteo en Trappes admite que su acto fue racista",
-          "link": "https://www.france24.com/es/video/20261029-directo-par%C3%ADs-y-el-atacante-del-tiroteo-en-trappes-admite-que-su-acto-fue-racista",
+          "title": "Protestas estudiantiles: Alemania teme escenas como las de Francia",
+          "link": "https://www.dw.com/es/protestas-estudiantiles-alemania-teme-escenas-como-las-de-francia/a-79801708?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-10-29T19:35:00.000Z"
+        },
+        {
+          "title": "Motivación racista y emblemas de extrema derecha: las revelaciones del fiscal sobre el tirador de Trappes",
+          "link": "https://www.france24.com/es/francia/20261029-motivaci%C3%B3n-racista-y-emblemas-de-extrema-derecha-las-revelaciones-del-fiscal-sobre-el-tirador-de-trappes",
           "source": "France 24",
-          "published": "2026-10-29T15:40:52.000Z"
+          "published": "2026-10-29T18:56:48.000Z"
         },
         {
-          "title": "Delcy Rodríguez promete elecciones en Venezuela con una autoridad \"renovada\" pero sin precisar una fecha",
-          "link": "https://www.20minutos.es/internacional/delcy-rodriguez-promete-elecciones-venezuela-con-una-autoridad-renovada-con-mundo-como-testigo_7055112_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-29T15:40:48.000Z"
-        },
-        {
-          "title": "Von der Leyen admite que Canadá no puede entrar en la UE pero reclama \"una relación al más alto nivel posible\"",
-          "link": "https://www.20minutos.es/internacional/von-der-leyen-admite-que-canada-no-puede-entrar-ue-pero-reclama-una-relacion-mas-alto-nivel-posible_7055096_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-10-29T15:24:06.000Z"
-        },
-        {
-          "title": "¿Por qué China abre una nueva vía terrestre hacia Corea del Norte?",
-          "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261029-por-qu%C3%A9-china-abre-una-nueva-v%C3%ADa-terrestre-hacia-corea-del-norte",
+          "title": "María Corina Machado anuncia que llevará a Venezuela las actas electorales de 2024 y reclama avanzar hacia nuevas elecciones",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261029-mar%C3%ADa-corina-machado-anuncia-que-llevar%C3%A1-a-venezuela-las-actas-electorales-de-2024-y-reclama-avanzar-hacia-nuevas-elecciones",
           "source": "France 24",
-          "published": "2026-10-29T15:16:16.000Z"
+          "published": "2026-10-29T18:53:32.000Z"
         }
       ]
     }
