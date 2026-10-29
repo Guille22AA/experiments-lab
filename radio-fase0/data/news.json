@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-29T11:57:09.465Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-10-29T17:56:03.682Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -17,56 +17,89 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-10-29T11:57:09.465Z"
+        },
+        {
+          "title": "El PP confirma que la exministra de Trabajo Fátima Báñez ha fallecido en el accidente ferroviario",
+          "link": "https://www.20minutos.es/nacional/pp-confirma-que-exministra-fatima-banez-ha-fallecido-accidente-ferroviario_7055028_0.html",
+          "source": "20minutos",
+          "summary": "Miembros del partido, personalidades públicas y empresarios han trasladado su pésame a la familia tras confirmarse la trágica noticia.",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-10-29T17:56:03.682Z"
+        },
+        {
+          "title": "La editora de ‘OkDiario’ pagó 242.000 euros para costear “honorarios” y “gastos” de la defensa de Koldo García",
+          "link": "https://elpais.com/espana/2026-10-29/la-editora-de-okdiario-pago-242000-euros-para-costear-honorarios-y-gastos-de-la-defensa-de-koldo-garcia.html",
+          "source": "El País",
+          "summary": "La letrada Leticia de la Hoz ha aportado facturas a la Audiencia Nacional para acreditar que “el Partido Socialista Obrero Español no hizo abono alguno”",
+          "sources": [
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-29T17:56:03.682Z"
+        },
+        {
+          "title": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero y abre la carrera por su sucesión",
+          "link": "https://elpais.com/economia/2026-10-29/christine-lagarde-dejara-la-presidencia-del-bce-el-7-de-febrero-y-abre-la-carrera-por-su-sucesion.html",
+          "source": "El País",
+          "summary": "La salida adelantada de la francesa, que no aclara su futuro, pone en marcha la negociación para renovar la cúpula de la entidad. Pablo Hernández de Cos y el neerlandés Klaas Knot, los dos principales candidatos a la presidencia",
+          "sources": [
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-29T17:56:03.682Z"
         }
       ],
       "items": [
         {
-          "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | Asciende a 69 el número de fallecidos en el accidente ferroviario de Urda",
-          "link": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
+          "title": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
+          "link": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
           "source": "El País",
-          "published": "2026-10-29T11:50:30.000Z"
+          "published": "2026-10-29T17:33:57.000Z"
         },
         {
-          "title": "Las defensas de Salomé Pradas y de Emilio Argüeso entran en guerra en la causa de la dana",
-          "link": "https://www.eldiario.es/comunitat-valenciana/defensas-salome-pradas-emilio-argueso-entran-guerra-causa-dana_1_13624153.html",
+          "title": "El Gobierno amplió el contrato de mantenimiento del sistema de seguridad de la línea Madrid-Sevilla un día antes del accidente",
+          "link": "https://elpais.com/economia/2026-10-29/el-gobierno-amplio-el-contrato-de-mantenimiento-del-sistema-de-seguridad-de-la-linea-madrid-sevilla-un-dia-antes-del-accidente.html",
+          "source": "El País",
+          "published": "2026-10-29T16:46:03.000Z"
+        },
+        {
+          "title": "Los sindicatos ferroviarios condenan la \"irresponsable filtración\" de los audios del centro de control de Atocha",
+          "link": "https://www.20minutos.es/nacional/los-sindicatos-ferroviarios-condenan-irresponsable-filtracion-los-audios-centro-control-atocha_7055115_0.html",
+          "source": "20minutos",
+          "published": "2026-10-29T16:35:25.000Z"
+        },
+        {
+          "title": "Fátima Báñez, la ministra de la reforma laboral de Rajoy y de la anterior gran huelga general",
+          "link": "https://www.eldiario.es/economia/fatima-banez-ministra-reforma-laboral-rajoy-anterior-gran-huelga-general_1_13622087.html",
           "source": "elDiario.es",
-          "published": "2026-10-29T11:30:38.000Z"
+          "published": "2026-10-29T16:28:34.000Z"
         },
         {
-          "title": "El CEO de Iryo denunció en el Senado hace 3 semanas que sus trenes tardaban \"bastante tiempo\" en reconectar tras fallar el LZB",
-          "link": "https://www.20minutos.es/nacional/ceo-iryo-denuncio-hace-tres-semanas-senado-que-sus-trenes-tardaban-bastante-tiempo-reconectarse-tras-fallar-lzb_7054916_0.html",
+          "title": "Lagarde dimite del BCE para tener un papel más activo en las elecciones francesas",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-dimite-papel-activo-elecciones-francesas_7055109_0.html",
           "source": "20minutos",
-          "published": "2026-10-29T11:13:39.000Z"
+          "published": "2026-10-29T16:20:59.000Z"
         },
         {
-          "title": "Así es Aristea Afroditi Ortiz Tiliakou, la joven jueza que se hace cargo de la investigación de Urda a 8 meses de conseguir plaza",
-          "link": "https://www.20minutos.es/nacional/asi-es-aristea-afroditi-ortiz-tiliakou-joven-jueza-que-se-hace-cargo-investigacion-urda-ocho-meses-despues-conseguir-plaza_7054893_0.html",
+          "title": "La Fiscalía pide 8 años de cárcel a dos mossos por torturas a un joven: \"Maricón y árabe, lo tienes todo\"",
+          "link": "https://www.eldiario.es/catalunya/fiscalia-pide-8-anos-carcel-mossos-torturas-joven-maricon-arabe-tienes_1_13625237.html",
+          "source": "elDiario.es",
+          "published": "2026-10-29T16:01:48.000Z"
+        },
+        {
+          "title": "Lagarde aparece en el vídeo de su dimisión con apósitos en la cara y recomienda: \"Haz que revisen tu piel\"",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-precisa-que-los-vendajes-su-cara-se-deben-una-pequena-cirugia_7055113_0.html",
           "source": "20minutos",
-          "published": "2026-10-29T11:05:46.000Z"
+          "published": "2026-10-29T15:48:49.000Z"
         },
         {
-          "title": "Lola Navarro, secretaria ejecutiva de UGT, responde a Santiago Abascal y recuerda por qué el feminismo sigue siendo imprescindible",
-          "link": "https://www.ugt.es/lola-navarro-secretaria-ejecutiva-de-ugt-responde-santiago-abascal-y-recuerda-por-que-el-feminismo",
-          "source": "UGT",
-          "published": "2026-10-29T10:42:35.000Z"
-        },
-        {
-          "title": "Sumar, Podemos y ERC piden la comparecencia urgente de Puente en el Congreso tras el accidente de Urda",
-          "link": "https://www.20minutos.es/nacional/sumar-podemos-erc-piden-comparecencia-urgente-puente-congreso-tras-accidente-urda_7054909_0.html",
+          "title": "Puente rechaza las peticiones de dimisión y comparecerá en el Congreso el próximo martes",
+          "link": "https://www.20minutos.es/nacional/puente-aleja-posibilidad-dimitir-pide-comparecer-ante-diputacion-permanente-congreso-por-accidente-urda_7055110_0.html",
           "source": "20minutos",
-          "published": "2026-10-29T10:36:41.000Z"
-        },
-        {
-          "title": "Sánchez promete esclarecer \"hasta el más mínimo detalle\" del accidente de Toledo en una comparecencia sin Puente",
-          "link": "https://www.20minutos.es/nacional/sanchez-promete-esclarecer-hasta-mas-minimo-detalle-accidente-toledo-una-comparecencia-sin-puente_7054905_0.html",
-          "source": "20minutos",
-          "published": "2026-10-29T10:34:55.000Z"
-        },
-        {
-          "title": "La ONU denuncia la represión de la policía francesa en las protestas estudiantiles",
-          "link": "https://diariosocialista.net/2026/10/29/la-onu-denuncia-la-represion-de-la-policia-francesa-en-las-protestas-estudiantiles/",
-          "source": "Diario Socialista",
-          "published": "2026-10-29T10:31:28.000Z"
+          "published": "2026-10-29T15:44:10.000Z"
         }
       ]
     },
@@ -81,7 +114,8 @@
           "summary": "Un dron a propulsión ruso ha alcanzado un andén donde un convoy estaba detenido. Hay también al menos una decena de heridos",
           "sources": [
             "El País Internacional",
-            "elDiario.es Internacional"
+            "elDiario.es Internacional",
+            "20minutos Internacional"
           ],
           "firstSeen": "2026-10-29T11:57:09.465Z"
         },
@@ -92,7 +126,8 @@
           "summary": "Es el primer lanzamiento de misiles de Corea del Norte desde el 14 de octubre, cuando probó dos tipos de misiles de crucero desde submarinos.",
           "sources": [
             "20minutos Internacional",
-            "DW"
+            "DW",
+            "El País Internacional"
           ],
           "firstSeen": "2026-10-29T11:57:09.465Z"
         },
@@ -106,56 +141,78 @@
             "elDiario.es Internacional"
           ],
           "firstSeen": "2026-10-29T11:57:09.465Z"
-        }
-      ],
-      "items": [
+        },
         {
           "title": "Al menos 69 muertos en un choque de trenes de alta velocidad en España tras una decisión \"inexplicable\" del centro de control",
           "link": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-10-29T11:57:07.770Z"
+          "summary": "El accidente ocurrió en la localidad de Urda, en Toledo. El presidente del gobierno español, Pedro Sánchez, dijo desde el lugar de la colisión que \"si ha habido fallos en el sistema de seguridad, se responderá con total contundencia\"",
+          "sources": [
+            "BBC Mundo",
+            "France 24"
+          ],
+          "firstSeen": "2026-10-29T17:56:03.682Z"
         },
         {
-          "title": "Cómo la ofensiva antimigratoria de Trump amenaza con convertirse en un lastre electoral para los republicanos",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261029-c%C3%B3mo-la-ofensiva-antimigratoria-de-trump-amenaza-con-convertirse-en-un-lastre-electoral-para-los-republicanos",
+          "title": "Christine Lagarde, presidenta del Banco Central Europeo, dimite antes de lo previsto",
+          "link": "https://www.france24.com/es/video/20261029-christine-lagarde-presidenta-del-banco-central-europeo-dimite-antes-de-lo-previsto",
           "source": "France 24",
-          "published": "2026-10-29T11:21:51.000Z"
+          "summary": "Ocho meses antes de lo previsto, la presidenta del Banco Central Europeo (BCE), Christine Lagarde, anunció su salida anticipada para el 7 de febrero de 2027, una decisión que abre la carrera por su sucesión en medio de la incertidumbre política en Europa y de los desafíos económicos que enfrenta la eurozona. Informe de nuestra corresponsal, Esther Herrera.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-10-29T17:56:03.682Z"
+        }
+      ],
+      "items": [
+        {
+          "title": "Xi realiza la mayor purga en la historia de su gobierno y le exige \"disciplina\" a su partido en China",
+          "link": "https://www.bbc.com/mundo/articles/cj62y4eq3d26o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-29T17:19:58.000Z"
         },
         {
-          "title": "Lavrov viajará a EE UU para la reunión de ministros de Exteriores del G-20 pese a las sanciones",
-          "link": "https://elpais.com/internacional/2026-10-29/lavrov-viajara-a-ee-uu-para-la-reunion-de-ministros-de-exteriores-del-g-20-pese-a-las-sanciones.html",
-          "source": "El País Internacional",
-          "published": "2026-10-29T11:13:12.000Z"
-        },
-        {
-          "title": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero, nueve meses antes de finalizar su mandato",
-          "link": "https://www.france24.com/es/europa/20261029-christine-lagarde-dejar%C3%A1-la-presidencia-del-bce-el-7-de-febrero-nueve-meses-antes-de-finalizar-su-mandato",
+          "title": "Las denuncias de supuesta injerencia extranjera añaden incertidumbre al escrutinio en Israel",
+          "link": "https://www.france24.com/es/medio-oriente/20261029-las-denuncias-de-supuesta-injerencia-extranjera-a%C3%B1aden-incertidumbre-al-escrutinio-en-israel",
           "source": "France 24",
-          "published": "2026-10-29T10:39:46.000Z"
+          "published": "2026-10-29T16:38:43.000Z"
         },
         {
-          "title": "El Comité Electoral de Israel pide a los servicios secretos investigar “graves alegaciones” de injerencia extranjera",
-          "link": "https://elpais.com/internacional/2026-10-29/el-comite-electoral-de-israel-pide-a-los-servicios-secretos-investigar-graves-alegaciones-de-injerencia-extranjera.html",
-          "source": "El País Internacional",
-          "published": "2026-10-29T10:37:30.000Z"
+          "title": "Muere Cuauhtémoc Cárdenas, el líder que le abrió el camino al poder a la izquierda en México y nunca pudo ser presidente",
+          "link": "https://www.bbc.com/mundo/articles/cvp8g4d4g4xwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-29T15:54:38.000Z"
         },
         {
-          "title": "Muchos cubanoamericanos se sienten estafados por Trump, pero la mayoría votará republicano: “Utilizan el dolor de nosotros”",
-          "link": "https://elpais.com/us/2026-10-29/muchos-cubanoamericanos-se-sienten-estafados-por-trump-pero-la-mayoria-votara-republicano-utilizan-el-dolor-de-nosotros.html",
-          "source": "El País Internacional",
-          "published": "2026-10-29T09:30:00.000Z"
-        },
-        {
-          "title": "Cómo un referéndum en Montana sobre el ‘dinero oscuro’ puede cambiar las reglas de la democracia estadounidense",
-          "link": "https://elpais.com/us/2026-10-29/como-un-referendum-en-montana-puede-cambiar-las-reglas-de-la-democracia-estadounidense.html",
-          "source": "El País Internacional",
-          "published": "2026-10-29T09:30:00.000Z"
-        },
-        {
-          "title": "Desapariciones forzadas y encarcelamientos: así opera una “dictadura absoluta” en Nicaragua, según informe de la ONU",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261029-desapariciones-forzadas-y-encarcelamientos-as%C3%AD-opera-una-dictadura-absoluta-en-nicaragua-seg%C3%BAn-informe-de-la-onu",
+          "title": "Comité Electoral de Israel pide investigar injerencia extranjera en apoyo de un partido palestino",
+          "link": "https://www.france24.com/es/video/20261029-comit%C3%A9-electoral-de-israel-pide-investigar-injerencia-extranjera-en-apoyo-de-un-partido-palestino",
           "source": "France 24",
-          "published": "2026-10-29T09:15:03.000Z"
+          "published": "2026-10-29T15:42:01.000Z"
+        },
+        {
+          "title": "Directo París y el atacante del tiroteo en Trappes admite que su acto fue racista",
+          "link": "https://www.france24.com/es/video/20261029-directo-par%C3%ADs-y-el-atacante-del-tiroteo-en-trappes-admite-que-su-acto-fue-racista",
+          "source": "France 24",
+          "published": "2026-10-29T15:40:52.000Z"
+        },
+        {
+          "title": "Delcy Rodríguez promete elecciones en Venezuela con una autoridad \"renovada\" pero sin precisar una fecha",
+          "link": "https://www.20minutos.es/internacional/delcy-rodriguez-promete-elecciones-venezuela-con-una-autoridad-renovada-con-mundo-como-testigo_7055112_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-29T15:40:48.000Z"
+        },
+        {
+          "title": "Von der Leyen admite que Canadá no puede entrar en la UE pero reclama \"una relación al más alto nivel posible\"",
+          "link": "https://www.20minutos.es/internacional/von-der-leyen-admite-que-canada-no-puede-entrar-ue-pero-reclama-una-relacion-mas-alto-nivel-posible_7055096_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-29T15:24:06.000Z"
+        },
+        {
+          "title": "¿Por qué China abre una nueva vía terrestre hacia Corea del Norte?",
+          "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261029-por-qu%C3%A9-china-abre-una-nueva-v%C3%ADa-terrestre-hacia-corea-del-norte",
+          "source": "France 24",
+          "published": "2026-10-29T15:16:16.000Z"
         }
       ]
     }
