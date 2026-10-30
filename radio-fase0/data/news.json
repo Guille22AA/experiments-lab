@@ -1,116 +1,94 @@
 {
-  "date": "2026-10-29",
-  "updatedAt": "2026-10-29T22:14:15.515Z",
-  "edition": "tarde",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T11:51:30.653Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Lagarde anuncia que abandonará la presidencia del BCE el próximo 7 de febrero",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/lagarde-anuncia-que-abandonara-presidencia-bce-proximo-7-febrero_7054895_0.html",
+          "title": "Una familia de Donostia corre el riesgo de ser desahuciada el 11 de noviembre",
+          "link": "https://diariosocialista.net/2026/10/30/una-familia-de-donostia-corre-el-riesgo-de-ser-desahuciada-el-11-de-noviembre/",
+          "source": "Diario Socialista",
+          "summary": "La orden de desahucio está prevista para el día de la huelga general por la vivienda. El Sindicato Socialista de Vivienda alerta de otros casos de riesgo en la zona y acusa al Ayuntamiento de favorecer la especulación.",
+          "sources": [
+            "Diario Socialista",
+            "El Salto"
+          ],
+          "firstSeen": "2026-10-30T11:51:30.653Z"
+        },
+        {
+          "title": "Consumo trabaja para recuperar la norma para topar precios en catástrofes que PP, Vox y Junts tumbaron",
+          "link": "https://www.europapress.es/economia/noticia-consumo-trabaja-recuperar-norma-topar-precios-catastrofes-pp-vox-junts-tumbaron-20261030095838.html",
+          "source": "Europa Press",
+          "summary": "El Ministerio ha detectado desde el día del accidente un \"aumento generalizado\" de los precios en los transportes alternativos al tren",
+          "sources": [
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-10-30T11:51:30.653Z"
+        },
+        {
+          "title": "La economía española creció un 0,6% en verano y registró un avance interanual al 2,7%",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/economia-espanola-crecio-un-0-6-verano-registro-un-avance-interanual-2-7_7055317_0.html",
           "source": "20minutos",
-          "summary": "\"Acabo de informar a mis colegas de que dejaré mi cargo como presidenta del BCE el 7 de febrero de 2027\", ha anunciado la política francesa a través de redes sociales.",
+          "summary": "El PIB se apoya en la demanda interna para seguir al alza pese a que el incremento es una décima inferior que en el trimestre anterior.",
           "sources": [
             "20minutos",
             "elDiario.es"
           ],
-          "firstSeen": "2026-10-29T11:57:09.465Z"
-        },
-        {
-          "title": "El PP confirma que la exministra de Trabajo Fátima Báñez ha fallecido en el accidente ferroviario",
-          "link": "https://www.20minutos.es/nacional/pp-confirma-que-exministra-fatima-banez-ha-fallecido-accidente-ferroviario_7055028_0.html",
-          "source": "20minutos",
-          "summary": "Miembros del partido, personalidades públicas y empresarios han trasladado su pésame a la familia tras confirmarse la trágica noticia.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-10-29T17:56:03.682Z"
-        },
-        {
-          "title": "La editora de ‘OkDiario’ pagó 242.000 euros para costear “honorarios” y “gastos” de la defensa de Koldo García",
-          "link": "https://elpais.com/espana/2026-10-29/la-editora-de-okdiario-pago-242000-euros-para-costear-honorarios-y-gastos-de-la-defensa-de-koldo-garcia.html",
-          "source": "El País",
-          "summary": "La letrada Leticia de la Hoz ha aportado facturas a la Audiencia Nacional para acreditar que “el Partido Socialista Obrero Español no hizo abono alguno”",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-29T17:56:03.682Z"
-        },
-        {
-          "title": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero y abre la carrera por su sucesión",
-          "link": "https://elpais.com/economia/2026-10-29/christine-lagarde-dejara-la-presidencia-del-bce-el-7-de-febrero-y-abre-la-carrera-por-su-sucesion.html",
-          "source": "El País",
-          "summary": "La salida adelantada de la francesa, que no aclara su futuro, pone en marcha la negociación para renovar la cúpula de la entidad. Pablo Hernández de Cos y el neerlandés Klaas Knot, los dos principales candidatos a la presidencia",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-29T17:56:03.682Z"
-        },
-        {
-          "title": "La Junta Electoral abre otro expediente a Sánchez por su vídeo ante el Guernica denunciado por el PP",
-          "link": "https://www.20minutos.es/nacional/junta-electoral-abre-otro-expediente-sancionador-sanchez-por-su-video-ante-guernica-denunciado-por-pp_7055194_0.html",
-          "source": "20minutos",
-          "summary": "Sánchez ya acumula seis expedientes sancionadores de la JEC y éste es el segundo que se le abre en este periodo electoral.",
-          "sources": [
-            "20minutos",
-            "El País"
-          ],
-          "firstSeen": "2026-10-29T22:14:15.515Z"
+          "firstSeen": "2026-10-30T11:51:30.653Z"
         }
       ],
       "items": [
         {
-          "title": "Videoanálisis| “Sin el voto latino nadie puede ganar elecciones en Estados Unidos”",
-          "link": "https://elpais.com/us/2026-10-29/videoanalisis-sin-el-voto-latino-nadie-puede-ganar-elecciones-en-estados-unidos.html",
+          "title": "La amistad de Jensen Huang, jefe de Nvidia, con una presunta agente china dispara las alarmas sobre el espionaje en el mundo de la IA",
+          "link": "https://elpais.com/tecnologia/2026-10-30/la-amistad-de-jensen-huang-jefe-de-nvidia-con-una-presunta-agente-china-dispara-las-alarmas-sobre-el-espionaje-en-el-mundo-de-la-ia.html",
           "source": "El País",
-          "published": "2026-10-29T21:36:01.000Z"
+          "published": "2026-10-30T11:31:16.000Z"
         },
         {
-          "title": "Lo que pasa cuando publicas una noticia sobre Eduardo Inda",
-          "link": "https://www.eldiario.es/escolar/pasa-publicas-noticia-eduardo-inda_132_13625777.html",
-          "source": "elDiario.es",
-          "published": "2026-10-29T18:37:00.000Z"
-        },
-        {
-          "title": "Ouigo cancela todos sus trenes para el 30 de octubre y el 2 de noviembre tras una jornada de caos en las vías",
-          "link": "https://elpais.com/economia/2026-10-29/renfe-suspende-para-hoy-todos-los-viajes-de-alta-velocidad-entre-madrid-y-andalucia-y-ofrecera-un-plan-alternativo-a-partir-de-manana.html",
+          "title": "Ayuso denuncia penalmente al exdelegado del Gobierno por la “omisión del deber” de perseguir delitos en la acampada de Sol",
+          "link": "https://elpais.com/espana/madrid/2026-10-30/ayuso-denuncia-penalmente-al-exdelegado-del-gobierno-por-la-omision-del-deber-de-perseguir-delitos-en-la-acampada-de-sol.html",
           "source": "El País",
-          "published": "2026-10-29T18:31:10.000Z"
+          "published": "2026-10-30T11:22:10.000Z"
         },
         {
-          "title": "Ouigo cancela sus trenes mañana y el lunes para evitar el \"caos\" tras anularse los servicios mínimos",
-          "link": "https://www.20minutos.es/nacional/ouigo-cancela-todos-sus-trenes-este-viernes-lunes-para-evitar-caos-las-estaciones-tras-anular-an-los-servicios-minimos_7055195_0.html",
+          "title": "UGT exige subidas salariales por encima del 4,9% de inflación y reclama un SMI un 7% más alto en 2027",
+          "link": "https://www.ugt.es/ugt-exige-subidas-salariales-por-encima-del-49-de-inflacion-y-reclama-un-smi-un-7-mas-alto-en-2027",
+          "source": "UGT",
+          "published": "2026-10-30T10:50:58.000Z"
+        },
+        {
+          "title": "Sánchez asume la \"confianza quebrada\" en el sistema tras el accidente de Toledo y se compromete a \"aportar soluciones\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-asume-confianza-quebrada-sistema-tras-accidente-toledo-se-compromete-aportar-soluciones_7055401_0.html",
           "source": "20minutos",
-          "published": "2026-10-29T18:21:57.000Z"
+          "published": "2026-10-30T10:19:32.000Z"
         },
         {
-          "title": "Renfe cifra en un 26,6% el seguimiento de la huelga de maquinistas de este jueves",
-          "link": "https://www.eldiario.es/economia/renfe-cifra-26-6-seguimiento-huelga-maquinistas-jueves_1_13625701.html",
-          "source": "elDiario.es",
-          "published": "2026-10-29T18:17:11.000Z"
-        },
-        {
-          "title": "Frente Amplio y Podemos cargan contra Puente por \"señalar a un trabajador\" en el accidente de Urda: \"Es indecente\"",
-          "link": "https://www.20minutos.es/nacional/frente-amplio-podemos-cargan-contra-puente-por-senalar-un-trabajador-accidente-urda-es-indecente_7055158_0.html",
+          "title": "Page mantiene en 69 los fallecidos y en 70 las denuncias por desaparición, aunque no descarta más víctimas",
+          "link": "https://www.20minutos.es/nacional/page-mantiene-69-los-fallecidos-70-las-denuncias-por-desaparicion-aunque-no-descarta-mas-victimas_7055396_0.html",
           "source": "20minutos",
-          "published": "2026-10-29T18:06:30.000Z"
+          "published": "2026-10-30T10:17:28.000Z"
         },
         {
-          "title": "Feijóo pide saber \"la verdad\" sobre el accidente de Toledo tras vetar cuatro veces la investigación por la tragedia del Alvia como presidente de Galicia - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUTYxUXFhdy15YTV5b3AzVVRjMGcwYjZFZlVPYjVrWC1VQUdGbWVDV3RRdEVVMzlheHdGd09weThydXhSaEw4TkRlWm45QkJTZHJhTHhCZWkxTGpWT1pSTFp1bUd0SHFZaTNjeTJYTHQyZ2Q4Yl9MYWFnN0lORXZXLU9WUzFvcUFtbmxwRFFFbnVuUnpfSnFVN1lUQzU3bnpWV3Z2dzk1NjdqTmpyVzVsT0RaNjhaOHBrb08wVmduaW5ka3pXdy1PQ05MWFZ3SHJhSTRIWXNfRkUtS2NnVmd1VDMyQ0d3Z9IB6wFBVV95cUxQRE5Ka0Rzb3pzUVlldmxtNTZKVGpaeDBRcTFvX2Q2aGRrelIzbERURUN6RjVST1U1anNNZVk2Z0NBQmZHcDZPam5qNVIzR0l0YzhHTGx6aTY4NFpjTmFhMWlZaUNIUWhzUnJ1M2otSUxrZVVnaE9DaFdmcmQtNDZ3dXFua3RQYWI1a3ZIZjZMNklSY0V2WlNjUktFU2M0UkxWMENPdk8zQ0dZTjdSNnBwOTNNTkNrUGVSQXJlNndKRklna0tBYnV4XzNOdkJGU0w0R2MyVmVwOXZKT1ZwUVVVc29TMkVGb0RXVzVn?oc=5",
-          "source": "Público",
-          "published": "2026-10-29T17:40:00.000Z"
+          "title": "Un sindicato de RTVE carga contra Manu Sánchez: \"Los trabajadores no están para aguantar faltas de respeto\"",
+          "link": "https://www.20minutos.es/television/un-sindicato-rtve-carga-contra-manu-sanchez-los-trabajadores-no-estan-para-aguantar-faltas-respeto_7055385_0.html",
+          "source": "20minutos",
+          "published": "2026-10-30T10:11:20.000Z"
         },
         {
-          "title": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
-          "link": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
-          "source": "El País",
-          "published": "2026-10-29T17:33:57.000Z"
+          "title": "Victoria de EH Bildu en votos y escaños en las generales, el PSE-EE segundo y el PNV tercero en Euskadi, según el Sociómetro",
+          "link": "https://www.eldiario.es/euskadi/victoria-eh-bildu-votos-escanos-generales-pse-ee-segundo-pnv-tercero-euskadi-sociometro_1_13626270.html",
+          "source": "elDiario.es",
+          "published": "2026-10-30T10:00:10.000Z"
+        },
+        {
+          "title": "El PP exige abiertamente la dimisión o el cese del ministro de Transportes: \"No debería llegar al próximo martes\"",
+          "link": "https://www.20minutos.es/nacional/pp-exige-abiertamente-dimision-cese-puente-no-deberia-llegar-martes_7055357_0.html",
+          "source": "20minutos",
+          "published": "2026-10-30T09:19:26.000Z"
         }
       ]
     },
@@ -119,111 +97,65 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Al menos 13 muertos en un ataque ruso contra una estación de tren de la ciudad ucrania de Dnipró",
-          "link": "https://elpais.com/internacional/2026-10-29/varios-muertos-en-un-ataque-ruso-contra-una-estacion-de-tren-de-la-ciudad-ucrania-de-dnipro.html",
-          "source": "El País Internacional",
-          "summary": "Un dron a propulsión ruso ha alcanzado un andén donde un convoy estaba detenido. Hay también al menos una decena de heridos",
+          "title": "Bloque de Netanyahu no logra mayoría, según recuento final de la Comisión Electoral Central de Israel",
+          "link": "https://www.dw.com/es/bloque-de-netanyahu-no-logra-mayoría-según-recuento-final-de-la-comisión-electoral-central-de-israel/a-79803290?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Con 53 escaños, la coalición del primer ministro de Israel no alcanzará los 61 necesarios para gobernar. El bloque opositor del centrista Gadi Eisenkot consiguió 48 escaños.",
           "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-10-29T11:57:09.465Z"
-        },
-        {
-          "title": "Pionyang lanza más de 10 misiles balísticos al mar de Japón en plena tensión regional",
-          "link": "https://www.20minutos.es/internacional/pionyang-lanza-mas-10-misiles-balisticos-mar-japon-plena-tension-regional_7054758_0.html",
-          "source": "20minutos Internacional",
-          "summary": "Es el primer lanzamiento de misiles de Corea del Norte desde el 14 de octubre, cuando probó dos tipos de misiles de crucero desde submarinos.",
-          "sources": [
-            "20minutos Internacional",
             "DW",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-10-29T11:57:09.465Z"
-        },
-        {
-          "title": "Flávio Bolsonaro se declara en una carta “verdadero presidente” de Brasil y luego cambia a “líder”",
-          "link": "https://elpais.com/us/2026-10-28/flavio-bolsonaro-aterriza-en-miami-tras-huir-de-brasil-via-argentina.html",
-          "source": "El País Internacional",
-          "summary": "El senador publica desde Estados Unidos un largo texto en el que agradece a Donald Trump y Javier Milei la ayuda que le dieron para fugarse de su país",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-10-29T11:57:09.465Z"
-        },
-        {
-          "title": "Al menos 69 muertos en un choque de trenes de alta velocidad en España tras una decisión \"inexplicable\" del centro de control",
-          "link": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El accidente ocurrió en la localidad de Urda, en Toledo. El presidente del gobierno español, Pedro Sánchez, dijo desde el lugar de la colisión que \"si ha habido fallos en el sistema de seguridad, se responderá con total contundencia\"",
-          "sources": [
-            "BBC Mundo",
             "France 24"
           ],
-          "firstSeen": "2026-10-29T17:56:03.682Z"
-        },
-        {
-          "title": "Christine Lagarde, presidenta del Banco Central Europeo, dimite antes de lo previsto",
-          "link": "https://www.france24.com/es/video/20261029-christine-lagarde-presidenta-del-banco-central-europeo-dimite-antes-de-lo-previsto",
-          "source": "France 24",
-          "summary": "Ocho meses antes de lo previsto, la presidenta del Banco Central Europeo (BCE), Christine Lagarde, anunció su salida anticipada para el 7 de febrero de 2027, una decisión que abre la carrera por su sucesión en medio de la incertidumbre política en Europa y de los desafíos económicos que enfrenta la eurozona. Informe de nuestra corresponsal, Esther Herrera.",
-          "sources": [
-            "France 24",
-            "DW"
-          ],
-          "firstSeen": "2026-10-29T17:56:03.682Z"
+          "firstSeen": "2026-10-30T11:51:30.653Z"
         }
       ],
       "items": [
         {
-          "title": "Hamawy, de médico en Gaza a congresista de EEUU: \"El genocidio ocurre sólo porque lo pagamos nosotros\"",
-          "link": "https://www.eldiario.es/internacional/hamawy-medico-gaza-congresista-eeuu-genocidio-ocurre-pagamos_128_13598118.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-29T21:28:44.000Z"
+          "title": "Al menos 69 muertos en un choque de trenes de alta velocidad en España tras una decisión \"inexplicable\" del centro de control",
+          "link": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-10-30T11:51:29.322Z"
         },
         {
-          "title": "Midterms: los escenarios en el Congreso que rodean a Trump y a sus dos últimos años de mandato",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261029-midterms-los-escenarios-en-el-congreso-que-rodean-a-trump-y-a-sus-dos-%C3%BAltimos-a%C3%B1os-de-mandato",
-          "source": "France 24",
-          "published": "2026-10-29T21:12:05.000Z"
-        },
-        {
-          "title": "Donald Trump pierde importantes aliados internacionales tras las elecciones en Serbia y Brasil",
-          "link": "https://www.dw.com/es/donald-trump-pierde-importantes-aliados-internacionales-tras-las-elecciones-en-serbia-y-brasil/a-79802767?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-29T20:50:00.000Z"
-        },
-        {
-          "title": "Abdul El-Sayed: “El ICE, como agencia, no debería existir. No creo que se pueda reformar”",
-          "link": "https://elpais.com/us/2026-10-29/abdul-el-sayed-el-ice-como-agencia-no-deberia-existir-no-creo-que-se-pueda-reformar.html",
+          "title": "El Papa pide las papeletas para votar por correo en las elecciones de Estados Unidos",
+          "link": "https://elpais.com/internacional/2026-10-30/el-papa-pide-las-papeletas-para-votar-por-correo-en-las-elecciones-de-estados-unidos.html",
           "source": "El País Internacional",
-          "published": "2026-10-29T20:18:01.000Z"
+          "published": "2026-10-30T10:47:39.000Z"
         },
         {
-          "title": "La batalla decisiva por el voto latino en las elecciones de mitad de mandato",
-          "link": "https://www.france24.com/es/programas/corresponsales/20261029-la-batalla-decisiva-por-el-voto-latino-en-las-elecciones-de-mitad-de-mandato",
-          "source": "France 24",
-          "published": "2026-10-29T19:55:50.000Z"
+          "title": "El periódico independiente ruso Novaya Gazeta anuncia su cierre ante las presiones de Putin: \"Nos han matado\"",
+          "link": "https://www.eldiario.es/internacional/periodico-independiente-ruso-novaya-gazeta-anuncia-cierre-presiones-putin-han-matado_1_13626395.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-10-30T09:37:01.000Z"
         },
         {
-          "title": "Protestas estudiantiles: Alemania teme escenas como las de Francia",
-          "link": "https://www.dw.com/es/protestas-estudiantiles-alemania-teme-escenas-como-las-de-francia/a-79801708?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "El Gobierno de Trump intensifica sus investigaciones judiciales electorales a cuatro días de las ‘midterms’",
+          "link": "https://elpais.com/us/2026-10-30/el-gobierno-de-trump-intensifica-sus-investigaciones-judiciales-electorales-a-cuatro-dias-de-las-midterms.html",
+          "source": "El País Internacional",
+          "published": "2026-10-30T09:30:00.000Z"
+        },
+        {
+          "title": "A puñetazo limpio y con sillas por los aires: una batalla campal entre diputados desata el caos en el Parlamento de Armenia",
+          "link": "https://www.20minutos.es/internacional/punetazo-limpio-con-sillas-por-los-aires-una-batalla-campal-entre-diputados-desata-caos-parlamento-armenia_7055295_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-30T09:01:58.000Z"
+        },
+        {
+          "title": "Rally Dakar se disputará en Portugal y Marruecos tras renunciar a Arabia Saudita por ataques hutíes",
+          "link": "https://www.dw.com/es/rally-dakar-se-disputará-en-portugal-y-marruecos-tras-renunciar-a-arabia-saudita-por-ataques-hutíes/a-79804644?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-10-29T19:35:00.000Z"
+          "published": "2026-10-30T08:54:00.000Z"
         },
         {
-          "title": "Motivación racista y emblemas de extrema derecha: las revelaciones del fiscal sobre el tirador de Trappes",
-          "link": "https://www.france24.com/es/francia/20261029-motivaci%C3%B3n-racista-y-emblemas-de-extrema-derecha-las-revelaciones-del-fiscal-sobre-el-tirador-de-trappes",
-          "source": "France 24",
-          "published": "2026-10-29T18:56:48.000Z"
+          "title": "Intercambio de ataques entre Rusia y Ucrania: Kiev golpea una refinería y Moscú vuelve a atacar la capital ucraniana",
+          "link": "https://www.20minutos.es/internacional/intercambio-ataques-entre-rusia-ucrania-kiev-golpea-una-refineria-moscu-vuelve-atacar-capital-ucraniana_7055304_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-30T08:24:54.000Z"
         },
         {
-          "title": "María Corina Machado anuncia que llevará a Venezuela las actas electorales de 2024 y reclama avanzar hacia nuevas elecciones",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261029-mar%C3%ADa-corina-machado-anuncia-que-llevar%C3%A1-a-venezuela-las-actas-electorales-de-2024-y-reclama-avanzar-hacia-nuevas-elecciones",
-          "source": "France 24",
-          "published": "2026-10-29T18:53:32.000Z"
+          "title": "Un juez de Ecuador absuelve a los ocho tripulantes de un barco atacado por EEUU y acusados de colaborar con narcotraficantes",
+          "link": "https://www.20minutos.es/internacional/un-juez-ecuador-absuelve-los-ocho-tripulantes-un-barco-atacado-por-eeuu-acusados-colaborar-con-narcotraficantes_7055266_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-30T06:18:53.000Z"
         }
       ]
     }
