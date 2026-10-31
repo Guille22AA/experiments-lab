@@ -1,94 +1,60 @@
 {
-  "date": "2026-10-30",
-  "updatedAt": "2026-10-30T21:47:11.945Z",
-  "edition": "tarde",
+  "date": "2026-10-31",
+  "updatedAt": "2026-10-31T11:24:46.065Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
-      "highlights": [
-        {
-          "title": "Una familia de Donostia corre el riesgo de ser desahuciada el 11 de noviembre",
-          "link": "https://diariosocialista.net/2026/10/30/una-familia-de-donostia-corre-el-riesgo-de-ser-desahuciada-el-11-de-noviembre/",
-          "source": "Diario Socialista",
-          "summary": "La orden de desahucio está prevista para el día de la huelga general por la vivienda. El Sindicato Socialista de Vivienda alerta de otros casos de riesgo en la zona y acusa al Ayuntamiento de favorecer la especulación.",
-          "sources": [
-            "Diario Socialista",
-            "El Salto"
-          ],
-          "firstSeen": "2026-10-30T11:51:30.653Z"
-        },
-        {
-          "title": "Consumo trabaja para recuperar la norma para topar precios en catástrofes que PP, Vox y Junts tumbaron",
-          "link": "https://www.europapress.es/economia/noticia-consumo-trabaja-recuperar-norma-topar-precios-catastrofes-pp-vox-junts-tumbaron-20261030095838.html",
-          "source": "Europa Press",
-          "summary": "El Ministerio ha detectado desde el día del accidente un \"aumento generalizado\" de los precios en los transportes alternativos al tren",
-          "sources": [
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-30T11:51:30.653Z"
-        },
-        {
-          "title": "La economía española creció un 0,6% en verano y registró un avance interanual al 2,7%",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/economia-espanola-crecio-un-0-6-verano-registro-un-avance-interanual-2-7_7055317_0.html",
-          "source": "20minutos",
-          "summary": "El PIB se apoya en la demanda interna para seguir al alza pese a que el incremento es una décima inferior que en el trimestre anterior.",
-          "sources": [
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-10-30T11:51:30.653Z"
-        }
-      ],
+      "highlights": [],
       "items": [
         {
-          "title": "La suspensión del presidente del Tribunal Contitucional de Polonia desata una crisis institucional",
-          "link": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html",
-          "source": "El País",
-          "published": "2026-10-30T21:42:40.000Z"
+          "title": "Los Pakales, un nuevo cuerpo de seguridad que refuerza la militarización en México",
+          "link": "https://www.elsaltodiario.com/yemaya-revista/pakales-un-nuevo-cuerpo-seguridad-refuerza-militarizacion-mexico?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-31T16:10:00.000Z"
         },
         {
-          "title": "Las lágrimas de Sáenz de Santamaría en el funeral de Fátima Báñez: \"Me gustaría que se le recordara así\"",
-          "link": "https://www.20minutos.es/television/las-lagrimas-soraya-saenz-santamaria-funeral-fatima-banez-me-gustaria-que-se-le-recordara-asi_7055713_0.html",
+          "title": "Gonzalo Bernardos: \"El jubilado medio en España tiene 20 años de pensión, pero solo ha pagado como máximo por 12\"",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-economista-jubilado-medio-espana-20-anos-pension-solo-pagado-maximo-12_7055766_0.html",
           "source": "20minutos",
-          "published": "2026-10-30T21:12:13.000Z"
+          "published": "2026-10-31T11:12:55.000Z"
         },
         {
-          "title": "Canadá y la UE sellan una “alianza para el futuro” en una cumbre en Montreal",
-          "link": "https://elpais.com/internacional/2026-10-30/canada-y-la-ue-sellan-una-alianza-para-el-futuro-en-una-cumbre-en-montreal.html",
-          "source": "El País",
-          "published": "2026-10-30T20:14:08.000Z"
-        },
-        {
-          "title": "Brasil convoca a la representante argentina después de que Flávio Bolsonaro usara el país vecino para huir a Estados Unidos",
-          "link": "https://elpais.com/america/2026-10-30/brasil-convoca-a-la-representante-argentina-despues-de-que-flavio-bolsonaro-usara-el-pais-vecino-para-huir-de-estados-unidos.html",
-          "source": "El País",
-          "published": "2026-10-30T19:24:48.000Z"
-        },
-        {
-          "title": "La UE y Canadá abandonan la idea de “miembro asociado\" y optan por una \"Alianza para el Futuro\" sin concretar",
-          "link": "https://www.eldiario.es/internacional/ue-canada-abandonan-idea-miembro-asociado-optan-alianza-futuro-concretar_1_13628147.html",
+          "title": "Vandalizan de nuevo el banco arcoíris de la Fuente Torán, en Teruel: “Llamar a estas cosas delito de odio no es exagerar”",
+          "link": "https://www.eldiario.es/aragon/sociedad/vandalizan-nuevo-banco-arcoiris-fuente-toran-teruel-llamar-cosas-delito-odio-no-exagerar_1_13628962.html",
           "source": "elDiario.es",
-          "published": "2026-10-30T17:14:25.000Z"
+          "published": "2026-10-31T10:30:25.000Z"
         },
         {
-          "title": "Andalucía rechaza crear la tasa turística pese a la insistencia de sus capitales",
-          "link": "https://elpais.com/espana/2026-10-30/andalucia-rechaza-crear-la-tasa-turistica-pese-a-la-insistencia-de-sus-capitales.html",
-          "source": "El País",
-          "published": "2026-10-30T16:33:19.000Z"
+          "title": "Sánchez admite una “confianza quebrada” en la alta velocidad tras 115 muertos en un año",
+          "link": "https://diariosocialista.net/2026/10/31/sanchez-admite-una-confianza-quebrada-en-la-alta-velocidad-tras-115-muertos-en-un-ano/",
+          "source": "Diario Socialista",
+          "published": "2026-10-31T09:50:45.000Z"
         },
         {
-          "title": "Huelgas y una acampada frente al Coliseo: miles de personas protestan en Italia contra los precios y el Gobierno de Meloni",
-          "link": "https://www.eldiario.es/internacional/huelgas-acampada-frente-coliseo-miles-personas-protestan-italia-precios-gobierno-meloni_1_13627990.html",
-          "source": "elDiario.es",
-          "published": "2026-10-30T16:21:57.000Z"
+          "title": "Israel busca un nuevo Gobierno entre avances y el riesgo de la ingobernabilidad",
+          "link": "https://www.elsaltodiario.com/israel/israel-busca-un-nuevo-gobierno-avances-riesgos-ingobernabilidad?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-10-31T09:18:00.000Z"
         },
         {
-          "title": "Desaparecida en el accidente de trenes Marta Shahbazi, una de las científicas españolas más brillantes",
-          "link": "https://elpais.com/ciencia/2026-10-30/desaparecida-en-el-accidente-de-trenes-marta-shahbazi-una-de-las-cientificas-espanolas-mas-brillantes.html",
-          "source": "El País",
-          "published": "2026-10-30T15:47:01.000Z"
+          "title": "Rusia veta la resolución de EEUU que enterraba el referéndum del Sáhara y cambiaba la MINURSO",
+          "link": "https://diariosocialista.net/2026/10/31/rusia-veta-la-resolucion-de-eeuu-que-enterraba-el-referendum-del-sahara-y-cambiaba-la-minurso/",
+          "source": "Diario Socialista",
+          "published": "2026-10-31T09:01:15.000Z"
+        },
+        {
+          "title": "La clase obrera italiana se echa a la calle contra la guerra y la carestía",
+          "link": "https://diariosocialista.net/2026/10/31/la-clase-obrera-italiana-se-echa-a-la-calle-contra-la-guerra-y-la-carestia/",
+          "source": "Diario Socialista",
+          "published": "2026-10-31T07:00:00.000Z"
+        },
+        {
+          "title": "EEUU presionó a Albares para que España apoye el bloqueo a Cuba",
+          "link": "https://diariosocialista.net/2026/10/31/eeuu-presiono-a-albares-para-que-espana-apoye-el-bloqueo-a-cuba/",
+          "source": "Diario Socialista",
+          "published": "2026-10-31T07:00:00.000Z"
         }
       ]
     },
@@ -97,30 +63,18 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "León XIV se convierte en el primer papa en votar en unas elecciones de Estados Unidos",
-          "link": "https://www.dw.com/es/león-xiv-se-convierte-en-el-primer-papa-en-votar-en-unas-elecciones-de-estados-unidos/a-79811438?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El Vaticano confirmó que el sumo pontífice, nacido en Chicago, había enviado su voto por correo de cara a las elecciones de medio mandato, y destacó su prolongada convicción en la participación ciudadana.",
+          "title": "Irán denuncia el apoyo de Alemania a la guerra y advierte de un alto precio para Europa",
+          "link": "https://www.20minutos.es/internacional/iran-denuncia-apoyo-alemania-guerra-advierte-un-alto-precio-para-europa_7055771_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El ministro de Exteriores iraní, Abás Araqchí, advierte de que su país responderá sin \"líneas rojas\" a nuevas agresiones, mientras continúan los esfuerzos diplomáticos para reactivar las negociaciones de paz con Washington.",
           "sources": [
-            "DW",
-            "France 24",
-            "20minutos Internacional"
+            "20minutos Internacional",
+            "DW"
           ],
-          "firstSeen": "2026-10-30T17:26:41.194Z"
+          "firstSeen": "2026-10-31T11:24:46.065Z"
         },
         {
-          "title": "Bloque de Netanyahu no logra mayoría, según recuento final de la Comisión Electoral Central de Israel",
-          "link": "https://www.dw.com/es/bloque-de-netanyahu-no-logra-mayoría-según-recuento-final-de-la-comisión-electoral-central-de-israel/a-79803290?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Con 53 escaños, la coalición del primer ministro de Israel no alcanzará los 61 necesarios para gobernar. El bloque opositor del centrista Gadi Eisenkot consiguió 48 escaños.",
-          "sources": [
-            "DW",
-            "France 24"
-          ],
-          "firstSeen": "2026-10-30T11:51:30.653Z"
-        },
-        {
-          "title": "Incertidumbre sobre el Sahara: EE. UU. y Rusia cruzan vetos en la ONU sobre la misión de la ONU",
+          "title": "Incertidumbre sobre el Sahara: EE. UU. y Rusia cruzan vetos sobre la misión de la ONU",
           "link": "https://www.france24.com/es/%C3%A1frica/20261030-incertidumbre-sobre-el-sahara-ee-uu-y-rusia-cruzan-vetos-en-la-onu-sobre-la-misi%C3%B3n-de-la-onu",
           "source": "France 24",
           "summary": "Estados Unidos votó este viernes en contra de una resolución presentada a última hora por Rusia para prorrogar un año el mandato de la Misión de la ONU en el Sáhara Occidental (Minurso), después de que Moscú vetara previamente una propuesta de Washington.",
@@ -128,57 +82,57 @@
             "France 24",
             "El País Internacional"
           ],
-          "firstSeen": "2026-10-30T21:47:11.945Z"
+          "firstSeen": "2026-10-31T11:24:46.065Z"
         }
       ],
       "items": [
         {
-          "title": "Trump lleva hasta el final su estrategia de cuestionar el sistema electoral ante el temor a un batacazo en las legislativas",
-          "link": "https://www.eldiario.es/internacional/trump-lleva-final-estrategia-cuestionar-sistema-electoral-temor-batacazo-legislativas_1_13627575.html",
+          "title": "Irán informa de la explosión de otro petrolero \"infractor\" por una mina en Ormuz, el sexto en las 24 últimas horas",
+          "link": "https://www.eldiario.es/internacional/iran-informa-explosion-petrolero-infractor-mina-ormuz-sexto-24-ultimas-horas_1_13629046.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-10-30T21:17:16.000Z"
+          "published": "2026-10-31T10:48:19.000Z"
         },
         {
-          "title": "Por qué los ciudadanos palestinos de Israel votaron en masa: “Queríamos demostrar nuestro poder al Gobierno”",
-          "link": "https://www.eldiario.es/internacional/ciudadanos-palestinos-israel-votaron-masa-queriamos-demostrar-gobierno_1_13627985.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-10-30T21:17:16.000Z"
-        },
-        {
-          "title": "Un nuevo radar ruso en Kaliningrado podría espiar gran parte de Europa",
-          "link": "https://www.dw.com/es/un-nuevo-radar-ruso-en-kaliningrado-podría-espiar-gran-parte-de-europa/a-79811157?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-30T21:04:00.000Z"
-        },
-        {
-          "title": "La prensa en alemán analiza por qué Trump protege a los Bolsonaro",
-          "link": "https://www.dw.com/es/la-prensa-en-alemán-analiza-por-qué-trump-protege-a-los-bolsonaro/a-79809679?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-30T21:04:00.000Z"
-        },
-        {
-          "title": "El plan de Trump para la flota fantasma de Rusia inquieta a Europa",
-          "link": "https://www.dw.com/es/el-plan-de-trump-para-la-flota-fantasma-de-rusia-inquieta-a-europa/a-79810907?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-10-30T21:04:00.000Z"
-        },
-        {
-          "title": "Cuán relevante es Binance en América Latina y cómo el hackeo de US$6.300 millones afecta a sus usuarios en la región",
-          "link": "https://www.bbc.com/mundo/articles/cqm26pvdpkeko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-10-30T20:58:52.000Z"
-        },
-        {
-          "title": "Manifestaciones, milicias de extrema derecha, Halloween… un fin de semana de gran tensión en Francia",
-          "link": "https://www.france24.com/es/europa/20261030-manifestaciones-milicias-de-extrema-derecha-halloween-un-fin-de-semana-de-gran-tensi%C3%B3n-en-francia",
-          "source": "France 24",
-          "published": "2026-10-30T20:49:52.000Z"
-        },
-        {
-          "title": "Rusia y Ucrania completan su misión humanitaria en Olekshi en medio de una tregua inédita",
-          "link": "https://www.20minutos.es/internacional/rusia-ucrania-completan-mision-humanitaria-olekshi-medio-una-tregua-inedita_7055710_0.html",
+          "title": "El presidente de Polonia ordena a la Policía retirar el bloqueo y convoca al Parlamento para \"restablecer el orden\"",
+          "link": "https://www.20minutos.es/internacional/presidente-polonia-ordena-policia-retirar-bloqueo-convoca-parlamento-para-restablecer-orden_7055762_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-10-30T20:28:42.000Z"
+          "published": "2026-10-31T10:33:48.000Z"
+        },
+        {
+          "title": "La aplaudida respuesta de Noruega a Trump tras decir que era un \"país de mierda\": muestran fotos de sus mejores aseos públicos",
+          "link": "https://www.20minutos.es/internacional/aplaudida-respuesta-noruega-trump-decir-pais-mierda-fotos-mejores-aseos-publicos_7055757_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-10-31T10:21:18.000Z"
+        },
+        {
+          "title": "Andrea R. Flores: “Los demócratas llevan una década de retraso en su respuesta a Trump”",
+          "link": "https://elpais.com/us/migracion/2026-10-31/andrea-r-flores-los-democratas-llevan-una-decada-de-retraso-en-su-respuesta-a-trump.html",
+          "source": "El País Internacional",
+          "published": "2026-10-31T09:30:00.000Z"
+        },
+        {
+          "title": "Bolsonaro llama a hacer del Congreso de Brasil una “trinchera” para “impedir o retardar el gran caos” de la presidencia de Lula",
+          "link": "https://elpais.com/internacional/2026-10-31/bolsonaro-llama-a-hacer-del-congreso-de-brasil-una-trinchera-para-impedir-o-retardar-el-gran-caos-de-la-presidencia-de-lula.html",
+          "source": "El País Internacional",
+          "published": "2026-10-31T08:29:16.000Z"
+        },
+        {
+          "title": "Luis Carlos Reyes: 'Colombia no está cerca de la quiebra como dice el Gobierno'",
+          "link": "https://www.france24.com/es/video/20261031-luis-carlos-reyes-colombia-no-est%C3%A1-cerca-de-la-quiebra-como-dice-el-gobierno",
+          "source": "France 24",
+          "published": "2026-10-31T06:36:27.000Z"
+        },
+        {
+          "title": "Chile: renuncia viceministro de Justicia en medio de crisis por reducción de penas a pederastas",
+          "link": "https://www.france24.com/es/video/20261031-chile-renuncia-viceministro-de-justicia-en-medio-de-crisis-por-reducci%C3%B3n-de-penas-a-pederastas",
+          "source": "France 24",
+          "published": "2026-10-31T06:34:09.000Z"
+        },
+        {
+          "title": "La suspensión del presidente del Tribunal Constitucional de Polonia desata una crisis institucional",
+          "link": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html",
+          "source": "El País Internacional",
+          "published": "2026-10-31T05:15:25.000Z"
         }
       ]
     }
