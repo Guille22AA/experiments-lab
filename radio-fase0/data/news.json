@@ -1,18 +1,43 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-01T12:18:22.307Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-11-01T21:29:07.743Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
-      "highlights": [],
+      "highlights": [
+        {
+          "title": "El PP se une a Vox y anuncia que se personará como acusación particular en la causa judicial del accidente de Urda",
+          "link": "https://www.eldiario.es/politica/pp-une-vox-anuncia-personara-acusacion-particular-causa-judicial-accidente-urda_1_13630675.html",
+          "source": "elDiario.es",
+          "summary": "Ambas formaciones alegan que toman esta decisión para que se \"investigue hasta el final\" y \"se conozca toda la verdad\". Lo anuncian en la primera jornada tras finalizar el luto oficial por la tragedia La jueza exige con urgencia medios para retirar los vagones en Urda y acelerar la búsqueda de restos La eurodiputada y vicesecretaria de Coordinación Sectorial del Partido Popular, Alma Ezcurra, ha anunciado este domingo que su partido se personará como acusación particular en la causa judicial que investiga las causas del accidente ferroviario ocurrido en Urda (Toledo) el pasado miércoles y que…",
+          "sources": [
+            "elDiario.es",
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-01T21:29:07.743Z"
+        }
+      ],
       "items": [
         {
-          "title": "La senadora con mayor patrimonio inmobiliario no irá en las listas del PP para el 29N",
-          "link": "https://www.europapress.es/nacional/noticia-senadora-mayor-patrimonio-inmobiliario-no-ira-listas-pp-29n-20261101121947.html",
-          "source": "Europa Press",
-          "published": "2026-11-01T11:19:47.000Z"
+          "title": "Prisión sin fianza para \"un ideólogo\" de Blocus detenido en Barcelona",
+          "link": "https://www.eldiario.es/catalunya/prision-fianza-ideologo-blocus-detenido-barcelona_1_13630674.html",
+          "source": "elDiario.es",
+          "published": "2026-11-01T13:59:48.000Z"
+        },
+        {
+          "title": "La Fiscalía presenta una querella contra el vicepresidente de Vox en Mallorca por el uso de los coches oficiales",
+          "link": "https://www.eldiario.es/illes-balears/fiscalia-presenta-querella-vicepresidente-vox-mallorca-coches-oficiales_1_13630593.html",
+          "source": "elDiario.es",
+          "published": "2026-11-01T12:57:53.000Z"
+        },
+        {
+          "title": "Piden 12 años de cárcel para los policías que rastrearon en VioGén a la expareja del subinspector condenado por malos tratos",
+          "link": "https://www.eldiario.es/andalucia/granada/victima-caso-viogen-pide-12-anos-medio-prision-ocho-policias-rastrearon-datos_1_13630305.html",
+          "source": "elDiario.es",
+          "published": "2026-11-01T10:58:00.000Z"
         },
         {
           "title": "Confirman la muerte de las científicas leonesas Tamara González y Marta Shahbazi en el accidente de Toledo",
@@ -27,89 +52,100 @@
           "published": "2026-11-01T10:29:50.000Z"
         },
         {
-          "title": "Abascal anuncia que Vox se personará como acusación popular en el accidente de Urda",
-          "link": "https://www.europapress.es/nacional/noticia-abascal-anuncia-vox-personara-acusacion-popular-accidente-urda-20261101104638.html",
+          "title": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE",
+          "link": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html",
           "source": "Europa Press",
-          "published": "2026-11-01T09:46:38.000Z"
+          "published": "2026-11-01T09:59:56.000Z"
+        },
+        {
+          "title": "Los drones kamikaze que Ucrania lanza de un globo meteorológico siembran el caos en Rusia",
+          "link": "https://www.20minutos.es/internacional/drones-kamikaze-lanzados-desde-globo-meteorologico-ucrania-siembre-caos-rusia_7055932_0.html",
+          "source": "20minutos",
+          "published": "2026-11-01T09:54:09.000Z"
         },
         {
           "title": "Feijóo asegura que no se puede ser presidente de España sin \"entender\" a Catalunya",
           "link": "https://www.europapress.es/catalunya/noticia-feijoo-asegura-no-puede-ser-presidente-espana-entender-catalunya-20261101103256.html",
           "source": "Europa Press",
           "published": "2026-11-01T09:32:56.000Z"
-        },
-        {
-          "title": "“Amar al prójimo” como lema de campaña: los pastores demócratas que buscan arrebatar el voto cristiano a los republicanos",
-          "link": "https://elpais.com/us/2026-11-01/amar-al-projimo-como-lema-de-campana-los-pastores-democratas-que-buscan-arrebatar-el-voto-cristiano-a-los-republicanos.html",
-          "source": "El País",
-          "published": "2026-11-01T09:30:00.000Z"
-        },
-        {
-          "title": "La mitad de los senadores no repetirán esta legislatura",
-          "link": "https://www.europapress.es/nacional/noticia-mitad-senadores-no-repetiran-legislatura-20261101102951.html",
-          "source": "Europa Press",
-          "published": "2026-11-01T09:29:51.000Z"
-        },
-        {
-          "title": "Gonzalo Bernardos: \"El jubilado medio en España tiene 20 años de pensión, pero solo ha pagado como máximo por 12\"",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-economista-jubilado-medio-espana-20-anos-pension-pagado-solo-maximo-12_7055766_0.html",
-          "source": "20minutos",
-          "published": "2026-11-01T09:20:43.000Z"
         }
       ]
     },
     {
       "id": "mundo",
       "title": "Mundo · Geopolítica",
-      "highlights": [],
+      "highlights": [
+        {
+          "title": "Más de 100 agentes de policía resultan heridos en violentos disturbios en Fráncfort",
+          "link": "https://www.dw.com/es/más-de-100-agentes-de-policía-resultan-heridos-en-violentos-disturbios-en-fráncfort/a-79823376?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Al menos 17 tiendas y establecimientos fueron dañados, cinco de ellos fueron saqueados. La policía estimó que actualmente se enfrenta a entre 1.000 y 1.500 alborotadores violentos, \"en su mayoría de origen migrante\".",
+          "sources": [
+            "DW",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-01T21:29:07.743Z"
+        },
+        {
+          "title": "Bulgaria celebra la segunda vuelta presidencial bajo la sombra de las tensiones en el mar Negro",
+          "link": "https://www.france24.com/es/europa/20261101-bulgaria-celebra-la-segunda-vuelta-presidencial-bajo-la-sombra-de-las-tensiones-en-el-mar-negro",
+          "source": "France 24",
+          "summary": "Los ciudadanos de Bulgaria votan este domingo 1 de noviembre en una segunda vuelta presidencial entre dos candidatos con posturas opuestas sobre la invasión rusa en Ucrania y las relaciones con Moscú, en un contexto de crecientes tensiones en el mar Negro. La actual presidenta, Iliana Iotova —quien aboga por el diálogo con el Kremlin—, se enfrenta a Andrey Gyurov, ex primer ministro interino, respaldado por la oposición prooccidental.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-11-01T21:29:07.743Z"
+        }
+      ],
       "items": [
         {
-          "title": "La oposición en India reclama la salida del jefe electoral en una manifestación multitudinaria",
-          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261101-la-oposici%C3%B3n-en-india-reclama-la-salida-del-jefe-electoral-en-una-manifestaci%C3%B3n-multitudinaria",
-          "source": "France 24",
-          "published": "2026-11-01T12:16:03.000Z"
-        },
-        {
-          "title": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
-          "link": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-01T11:54:33.000Z"
-        },
-        {
-          "title": "¿Quién ganará las elecciones de medio mandato de Estados Unidos? Esto es lo que deparan las encuestas",
-          "link": "https://www.20minutos.es/internacional/quien-ganara-elecciones-medio-mandato-estados-unidos-encuestas_7055953_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-01T11:42:47.000Z"
-        },
-        {
-          "title": "Los problemas de Trump en pleno mitin para mantener un ojo abierto: \"¿Os importa? Ojalá tuviera unas gotas\"",
-          "link": "https://www.20minutos.es/internacional/problemas-trump-pleno-mitin-para-mantener-ojo-abierto_7055948_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-01T10:53:30.000Z"
-        },
-        {
-          "title": "Al menos trece detenidos y varios heridos en el desalojo de las acampadas de Lisboa y Oporto por la vivienda",
-          "link": "https://www.eldiario.es/internacional/policia-desaloja-acampadas-vivienda-lisboa-oporto-detiene-trece-personas-deja-heridos_1_13630252.html",
+          "title": "Cómo la rebelión en un instituto de la periferia parisina encendió un otoño de cólera social contra Macron",
+          "link": "https://www.eldiario.es/internacional/rebelion-instituto-periferia-parisina-encendio-otono-colera-social-macron_1_13625775.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-11-01T10:27:22.000Z"
+          "published": "2026-11-01T21:07:47.000Z"
         },
         {
-          "title": "Ucrania daña una refinería en Rusia y Moscú lanza ataques contra infraestructuras eléctricas de Kiev",
-          "link": "https://www.20minutos.es/internacional/ucrania-dana-una-refineria-rusia-tercera-jornada-ataques-contra-las-instalaciones-petroleras_7055945_0.html",
+          "title": "Las claves de las 'midterms': batallas decisivas y temas fundamentales para seguir las elecciones legislativas de EEUU",
+          "link": "https://www.eldiario.es/internacional/claves-midterms-batallas-decisivas-temas-fundamentales-seguir-elecciones-legislativas-eeuu_1_13629496.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-01T21:07:46.000Z"
+        },
+        {
+          "title": "España, el país de la UE con más muertos en accidentes de tren en los últimos 25 años",
+          "link": "https://www.eldiario.es/internacional/espana-pais-ue-muertos-accidentes-tren-ultimos-25-anos_1_13625189.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-01T21:07:45.000Z"
+        },
+        {
+          "title": "La prorrusa Iliana Yotova gana las elecciones presidenciales en Bulgaria con el 51% de los votos, según los sondeos",
+          "link": "https://www.20minutos.es/internacional/prorrusa-iliana-yotova-gana-las-elecciones-presidenciales-bulgaria-con-51-los-votos-segun-los-sondeos_7056068_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-01T10:16:41.000Z"
+          "published": "2026-11-01T20:16:13.000Z"
         },
         {
-          "title": "Los drones kamikaze lanzados desde un globo meteorológico con los que Ucrania siembra el caos en Rusia",
-          "link": "https://www.20minutos.es/internacional/drones-kamikaze-lanzados-desde-globo-meteorologico-ucrania-siembre-caos-rusia_7055932_0.html",
+          "title": "Más de 300.000 desplazados por los combates en el oeste de Yemen, según la ONU",
+          "link": "https://www.dw.com/es/más-de-300-000-desplazados-por-los-combates-en-el-oeste-de-yemen-según-la-onu/a-79824761?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-01T19:59:00.000Z"
+        },
+        {
+          "title": "La demócrata Hayley Stevens decide apoyar en las 'midterms' de Michigan a un rival republicano y Trump celebra su \"valentía\"",
+          "link": "https://www.20minutos.es/internacional/democrata-hayley-stevens-decide-apoyar-las-midterms-michigan-un-rival-republicano-trump-celebra-su-valentia_7056063_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-01T09:54:09.000Z"
+          "published": "2026-11-01T19:38:49.000Z"
         },
         {
-          "title": "Daron Acemoglu: “Si los demócratas creen que todo puede volver a la normalidad, será una victoria peligrosa”",
-          "link": "https://elpais.com/us/2026-11-01/daron-acemoglu-si-los-democratas-creen-que-todo-puede-volver-a-la-normalidad-sera-una-victoria-peligrosa.html",
+          "title": "El senador demócrata Chris Murphy sufre un derrame cerebral: \"Somos optimistas sobre su completa recuperación\"",
+          "link": "https://www.20minutos.es/internacional/senador-democrata-chris-murphy-sufre-un-derrame-cerebral-somos-optimistas-sobre-su-completa-recuperacion_7056061_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-01T19:15:47.000Z"
+        },
+        {
+          "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
+          "link": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
           "source": "El País Internacional",
-          "published": "2026-11-01T09:30:00.000Z"
+          "published": "2026-11-01T19:07:52.000Z"
         }
       ]
     }
