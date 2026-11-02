@@ -1,73 +1,73 @@
 {
-  "date": "2026-11-01",
-  "updatedAt": "2026-11-01T21:29:07.743Z",
-  "edition": "tarde",
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T14:10:41.289Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El PP se une a Vox y anuncia que se personará como acusación particular en la causa judicial del accidente de Urda",
-          "link": "https://www.eldiario.es/politica/pp-une-vox-anuncia-personara-acusacion-particular-causa-judicial-accidente-urda_1_13630675.html",
-          "source": "elDiario.es",
-          "summary": "Ambas formaciones alegan que toman esta decisión para que se \"investigue hasta el final\" y \"se conozca toda la verdad\". Lo anuncian en la primera jornada tras finalizar el luto oficial por la tragedia La jueza exige con urgencia medios para retirar los vagones en Urda y acelerar la búsqueda de restos La eurodiputada y vicesecretaria de Coordinación Sectorial del Partido Popular, Alma Ezcurra, ha anunciado este domingo que su partido se personará como acusación particular en la causa judicial que investiga las causas del accidente ferroviario ocurrido en Urda (Toledo) el pasado miércoles y que…",
+          "title": "Sánchez anuncia que el decreto de ayudas para las víctimas de Urda prevé bajas específicas e indemnizaciones anticipadas",
+          "link": "https://www.20minutos.es/nacional/sanchez-anuncia-que-decreto-ayudas-para-las-victimas-urda-preve-bajas-especificas-indemnizaciones-anticipadas_7056166_0.html",
+          "source": "20minutos",
+          "summary": "El Consejo de Ministros aprobará este martes el decreto, que también \"doblará\" el seguro obligatorio de pasajeros.",
           "sources": [
-            "elDiario.es",
             "20minutos",
-            "Europa Press"
+            "El País",
+            "elDiario.es"
           ],
-          "firstSeen": "2026-11-01T21:29:07.743Z"
+          "firstSeen": "2026-11-02T14:10:41.289Z"
         }
       ],
       "items": [
         {
-          "title": "Prisión sin fianza para \"un ideólogo\" de Blocus detenido en Barcelona",
-          "link": "https://www.eldiario.es/catalunya/prision-fianza-ideologo-blocus-detenido-barcelona_1_13630674.html",
+          "title": "Foro World in Progress 2026 de Barcelona, en directo | Saiz afirma que el Gobierno trabaja ya en el desmontaje de centros de migrantes en Ceuta ante los miles de retornos",
+          "link": "https://elpais.com/internacional/2026-11-02/foro-world-in-progress-de-barcelona-en-directo.html",
+          "source": "El País",
+          "published": "2026-11-02T14:00:03.000Z"
+        },
+        {
+          "title": "Los acampados que quedan en Sol intentan reorganizarse para resistir: ahora defenderán los derechos de las personas sin recursos",
+          "link": "https://elpais.com/espana/madrid/2026-11-02/los-acampados-que-quedan-en-sol-intentan-reorganizarse-para-resistir-ahora-defenderan-los-derechos-de-las-personas-sin-recursos.html",
+          "source": "El País",
+          "published": "2026-11-02T13:36:36.000Z"
+        },
+        {
+          "title": "El Gobierno trabaja para desmontar plazas de migrantes en Ceuta y anuncia que 13.000 ya han vuelto a Marruecos",
+          "link": "https://www.eldiario.es/desalambre/gobierno-trabaja-desmontar-plazas-inmigrantes-ceuta-anuncia-13-000-han-vuelto-marruecos_1_13631938.html",
           "source": "elDiario.es",
-          "published": "2026-11-01T13:59:48.000Z"
+          "published": "2026-11-02T13:33:07.000Z"
         },
         {
-          "title": "La Fiscalía presenta una querella contra el vicepresidente de Vox en Mallorca por el uso de los coches oficiales",
-          "link": "https://www.eldiario.es/illes-balears/fiscalia-presenta-querella-vicepresidente-vox-mallorca-coches-oficiales_1_13630593.html",
+          "title": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
+          "link": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
+          "source": "El País",
+          "published": "2026-11-02T13:20:36.000Z"
+        },
+        {
+          "title": "Huelga general: CCOO y UGT auguran un éxito masivo y garantizan que será pacífica",
+          "link": "https://www.eldiario.es/economia/huelga-general-ccoo-ugt-auguran-exito-masivo-garantizan-sera-pacifica_1_13631793.html",
           "source": "elDiario.es",
-          "published": "2026-11-01T12:57:53.000Z"
+          "published": "2026-11-02T12:36:31.000Z"
         },
         {
-          "title": "Piden 12 años de cárcel para los policías que rastrearon en VioGén a la expareja del subinspector condenado por malos tratos",
-          "link": "https://www.eldiario.es/andalucia/granada/victima-caso-viogen-pide-12-anos-medio-prision-ocho-policias-rastrearon-datos_1_13630305.html",
+          "title": "Feijóo acusa al Gobierno de reducir a \"un trabajador\" la responsabilidad de la tragedia de Urda: \"Dudo que sean buena gente\"",
+          "link": "https://www.eldiario.es/politica/feijoo-acusa-gobierno-reducir-trabajador-responsabilidad-tragedia-urda-dudo-sean-buena-gente_1_13631683.html",
           "source": "elDiario.es",
-          "published": "2026-11-01T10:58:00.000Z"
+          "published": "2026-11-02T12:15:45.000Z"
         },
         {
-          "title": "Confirman la muerte de las científicas leonesas Tamara González y Marta Shahbazi en el accidente de Toledo",
-          "link": "https://www.20minutos.es/castilla-la-mancha/toledo/confirman-fallecimiento-las-cientificas-leonesas-tamara-gonzalez-marta-shahbazi-accidente-toledo_7055951_0.html",
-          "source": "20minutos",
-          "published": "2026-11-01T10:41:26.000Z"
-        },
-        {
-          "title": "El PSOE mantiene a casi la mitad de los cabezas de lista al Congreso para el 29N incluidos colaboradores de Cerdán",
-          "link": "https://www.europapress.es/nacional/noticia-psoe-mantiene-casi-mitad-cabezas-lista-congreso-29n-incluidos-colaboradores-cerdan-20261101112950.html",
+          "title": "Feijóo acusa a Sánchez de estar pendiente de las encuestas tras la tragedia de Urda y ofrece gestión: \"Yo si sé hacerlo\"",
+          "link": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-estar-pendiente-encuestas-tragedia-urda-ofrece-gestion-yo-si-hacerlo-20261102130655.html",
           "source": "Europa Press",
-          "published": "2026-11-01T10:29:50.000Z"
+          "published": "2026-11-02T12:06:55.000Z"
         },
         {
-          "title": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE",
-          "link": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html",
-          "source": "Europa Press",
-          "published": "2026-11-01T09:59:56.000Z"
-        },
-        {
-          "title": "Los drones kamikaze que Ucrania lanza de un globo meteorológico siembran el caos en Rusia",
-          "link": "https://www.20minutos.es/internacional/drones-kamikaze-lanzados-desde-globo-meteorologico-ucrania-siembre-caos-rusia_7055932_0.html",
-          "source": "20minutos",
-          "published": "2026-11-01T09:54:09.000Z"
-        },
-        {
-          "title": "Feijóo asegura que no se puede ser presidente de España sin \"entender\" a Catalunya",
-          "link": "https://www.europapress.es/catalunya/noticia-feijoo-asegura-no-puede-ser-presidente-espana-entender-catalunya-20261101103256.html",
-          "source": "Europa Press",
-          "published": "2026-11-01T09:32:56.000Z"
+          "title": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
+          "link": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html",
+          "source": "El País",
+          "published": "2026-11-02T12:06:54.000Z"
         }
       ]
     },
@@ -76,76 +76,98 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Más de 100 agentes de policía resultan heridos en violentos disturbios en Fráncfort",
-          "link": "https://www.dw.com/es/más-de-100-agentes-de-policía-resultan-heridos-en-violentos-disturbios-en-fráncfort/a-79823376?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "El primer ministro de Bélgica presenta su dimisión por el colapso de la negociación presupuestaria",
+          "link": "https://elpais.com/internacional/2026-11-02/crisis-en-el-gobierno-de-belgica-por-el-fracaso-de-la-negociacion-presupuestaria.html",
+          "source": "El País Internacional",
+          "summary": "El rey, que no ha aclarado si aceptará el cese, abre una ronda de consultas con los partidos del Gobierno de coalición y les insta a evitar una crisis en plena “incertidumbre geopolítica”",
+          "sources": [
+            "El País Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-02T14:10:41.289Z"
+        },
+        {
+          "title": "Iliana Yotova, la nueva presidenta de Bulgaria: la primera mujer elegida jefe del Estado es prorrusa, como el jefe del Gobierno",
+          "link": "https://www.20minutos.es/internacional/iliana-yotova-nueva-presidenta-bulgaria-primera-mujer-elegida-jefe-estado-es-prorrusa-como-jefe-gobierno_7056141_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Aunque pasa a ser presidenta, un cargo más bien protocolario, Yotova está a la sombra de Rumen Radev, el primer ministro búlgaro.",
+          "sources": [
+            "20minutos Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-11-02T14:10:41.289Z"
+        },
+        {
+          "title": "Irán propone reabrir el estrecho de Ormuz en dos días si EE. UU. acepta sus condiciones",
+          "link": "https://www.dw.com/es/irán-propone-reabrir-el-estrecho-de-ormuz-en-dos-días-si-ee-uu-acepta-sus-condiciones/a-79828446?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "summary": "Al menos 17 tiendas y establecimientos fueron dañados, cinco de ellos fueron saqueados. La policía estimó que actualmente se enfrenta a entre 1.000 y 1.500 alborotadores violentos, \"en su mayoría de origen migrante\".",
+          "summary": "El portavoz iraní de Exteriores afirmó que Irán considera un plan para reabrir el estrecho de Ormuz en dos días, y no una semana como en la propuesta anterior, si Estados Unidos acepta sus condiciones.",
           "sources": [
             "DW",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-11-01T21:29:07.743Z"
+          "firstSeen": "2026-11-02T14:10:41.289Z"
         },
         {
-          "title": "Bulgaria celebra la segunda vuelta presidencial bajo la sombra de las tensiones en el mar Negro",
-          "link": "https://www.france24.com/es/europa/20261101-bulgaria-celebra-la-segunda-vuelta-presidencial-bajo-la-sombra-de-las-tensiones-en-el-mar-negro",
-          "source": "France 24",
-          "summary": "Los ciudadanos de Bulgaria votan este domingo 1 de noviembre en una segunda vuelta presidencial entre dos candidatos con posturas opuestas sobre la invasión rusa en Ucrania y las relaciones con Moscú, en un contexto de crecientes tensiones en el mar Negro. La actual presidenta, Iliana Iotova —quien aboga por el diálogo con el Kremlin—, se enfrenta a Andrey Gyurov, ex primer ministro interino, respaldado por la oposición prooccidental.",
+          "title": "Rusia alerta de un ataque informático masivo en su aplicación de emergencias",
+          "link": "https://www.20minutos.es/internacional/rusia-alerta-un-ataque-informatico-masivo-su-aplicacion-emergencias_7056090_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El organismo ya trabaja para corregir la vulnerabilidad de la aplicación móvil y restablecer su funcionamiento normal.",
           "sources": [
-            "France 24",
+            "20minutos Internacional",
             "DW"
           ],
-          "firstSeen": "2026-11-01T21:29:07.743Z"
+          "firstSeen": "2026-11-02T14:10:41.289Z"
         }
       ],
       "items": [
         {
-          "title": "Cómo la rebelión en un instituto de la periferia parisina encendió un otoño de cólera social contra Macron",
-          "link": "https://www.eldiario.es/internacional/rebelion-instituto-periferia-parisina-encendio-otono-colera-social-macron_1_13625775.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-01T21:07:47.000Z"
+          "title": "Directo París y las convocatorias de sindicatos y manifestantes para nuevas protestas",
+          "link": "https://www.france24.com/es/video/20261102-directo-par%C3%ADs-y-las-convocatorias-de-sindicatos-y-manifestantes-para-nuevas-protestas",
+          "source": "France 24",
+          "published": "2026-11-02T14:06:04.000Z"
         },
         {
-          "title": "Las claves de las 'midterms': batallas decisivas y temas fundamentales para seguir las elecciones legislativas de EEUU",
-          "link": "https://www.eldiario.es/internacional/claves-midterms-batallas-decisivas-temas-fundamentales-seguir-elecciones-legislativas-eeuu_1_13629496.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-01T21:07:46.000Z"
+          "title": "¿Qué hay detrás de la violencia contra los periodistas que las autoridades no pueden frenar?",
+          "link": "https://www.france24.com/es/video/20261102-qu%C3%A9-hay-detr%C3%A1s-de-la-violencia-contra-los-periodistas-que-las-autoridades-no-pueden-frenar",
+          "source": "France 24",
+          "published": "2026-11-02T13:55:02.000Z"
         },
         {
-          "title": "España, el país de la UE con más muertos en accidentes de tren en los últimos 25 años",
-          "link": "https://www.eldiario.es/internacional/espana-pais-ue-muertos-accidentes-tren-ultimos-25-anos_1_13625189.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-01T21:07:45.000Z"
+          "title": "Cuál es el futuro del bolsonarismo tras la salida de Flávio de Brasil y cómo será la oposición a Lula",
+          "link": "https://www.bbc.com/mundo/articles/c3qjn8nr2p2ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-11-02T13:32:05.000Z"
         },
         {
-          "title": "La prorrusa Iliana Yotova gana las elecciones presidenciales en Bulgaria con el 51% de los votos, según los sondeos",
-          "link": "https://www.20minutos.es/internacional/prorrusa-iliana-yotova-gana-las-elecciones-presidenciales-bulgaria-con-51-los-votos-segun-los-sondeos_7056068_0.html",
+          "title": "Ataque con explosivos cerca de una base militar en Colombia deja cuatro muertos, incluido un bebé",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261102-ataque-con-explosivos-cerca-de-una-base-militar-en-colombia-deja-cuatro-muertos-incluido-un-beb%C3%A9",
+          "source": "France 24",
+          "published": "2026-11-02T13:20:59.000Z"
+        },
+        {
+          "title": "La defensora del pueblo de Rusia anuncia un acuerdo con Ucrania para mantener el acceso mensual de ayuda humanitaria a Oleshki",
+          "link": "https://www.20minutos.es/internacional/defensora-pueblo-rusia-anuncia-un-acuerdo-con-ucrania-para-mantener-acceso-mensual-ayuda-humanitaria-oleshki_7056185_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-01T20:16:13.000Z"
+          "published": "2026-11-02T12:37:55.000Z"
         },
         {
-          "title": "Más de 300.000 desplazados por los combates en el oeste de Yemen, según la ONU",
-          "link": "https://www.dw.com/es/más-de-300-000-desplazados-por-los-combates-en-el-oeste-de-yemen-según-la-onu/a-79824761?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-01T19:59:00.000Z"
-        },
-        {
-          "title": "La demócrata Hayley Stevens decide apoyar en las 'midterms' de Michigan a un rival republicano y Trump celebra su \"valentía\"",
-          "link": "https://www.20minutos.es/internacional/democrata-hayley-stevens-decide-apoyar-las-midterms-michigan-un-rival-republicano-trump-celebra-su-valentia_7056063_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-01T19:38:49.000Z"
-        },
-        {
-          "title": "El senador demócrata Chris Murphy sufre un derrame cerebral: \"Somos optimistas sobre su completa recuperación\"",
-          "link": "https://www.20minutos.es/internacional/senador-democrata-chris-murphy-sufre-un-derrame-cerebral-somos-optimistas-sobre-su-completa-recuperacion_7056061_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-01T19:15:47.000Z"
-        },
-        {
-          "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
-          "link": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
+          "title": "José Manuel Albares advierte en el foro WIP sobre las “injerencias externas” que quieren influir en las elecciones en Europa",
+          "link": "https://elpais.com/internacional/2026-11-02/jose-manuel-albares-advierte-en-el-foro-wip-sobre-las-injerencias-externas-que-quieren-influir-en-las-elecciones-en-europa.html",
           "source": "El País Internacional",
-          "published": "2026-11-01T19:07:52.000Z"
+          "published": "2026-11-02T12:32:09.000Z"
+        },
+        {
+          "title": "¿Y si fallan las encuestas? Cómo la “ola azul” demócrata podría pasar a tsunami o quedarse en marejada",
+          "link": "https://elpais.com/us/2026-11-02/y-si-fallan-las-encuestas-como-la-ola-azul-democrata-podria-pasar-a-tsunami-o-quedarse-en-marejada.html",
+          "source": "El País Internacional",
+          "published": "2026-11-02T12:25:05.000Z"
+        },
+        {
+          "title": "En directo: Rusia y Ucrania cruzan acusaciones sobre ataques cibernéticos tras fin del alto el fuego localizado",
+          "link": "https://www.france24.com/es/europa/20261102-en-directo-rusia-y-ucrania-cruzan-acusaciones-sobre-ataques-cibern%C3%A9ticos-tras-fin-del-alto-el-fuego-localizado",
+          "source": "France 24",
+          "published": "2026-11-02T12:01:54.000Z"
         }
       ]
     }
