@@ -1,12 +1,26 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-03T00:11:41.591Z",
-  "edition": "mañana",
+  "updatedAt": "2026-11-03T13:14:57.193Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
+          "source": "El País",
+          "summary": "“Tomaremos nota si hay un cambio de ciclo en España”, advierte Abascal a las organizaciones sindicales ante un nuevo Gobierno. Los sindicatos consideran “insultante” el planteamiento del popular",
+          "sources": [
+            "El País",
+            "20minutos",
+            "Europa Press",
+            "elDiario.es",
+            "Público"
+          ],
+          "firstSeen": "2026-11-03T13:14:57.193Z"
+        },
         {
           "title": "Sánchez anuncia que el decreto de ayudas para las víctimas de Urda contempla bajas específicas e indemnizaciones anticipadas",
           "link": "https://www.20minutos.es/nacional/sanchez-anuncia-que-decreto-ayudas-para-las-victimas-urda-preve-bajas-especificas-indemnizaciones-anticipadas_7056166_0.html",
@@ -18,6 +32,18 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-11-03T00:11:41.591Z"
+        },
+        {
+          "title": "El delegado del Gobierno en Cantabria denuncia a un edil del PP al que acusa de haberle abofeteado",
+          "link": "https://www.20minutos.es/cantabria/delegado-gobierno-cantabria-denuncia-un-edil-pp-por-abofetearle-una-feria-ganadera_7056513_0.html",
+          "source": "20minutos",
+          "summary": "Fuentes del PSOE aseguran que la denuncia se interpone contra el portavoz del PP en el Ayuntamiento de Ruesga.",
+          "sources": [
+            "20minutos",
+            "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-03T13:14:57.193Z"
         },
         {
           "title": "Ayuso otorga al presidente de Chile la Medalla Internacional de la Comunidad y destaca la apuesta de Kast por seguridad",
@@ -33,52 +59,52 @@
       ],
       "items": [
         {
-          "title": "Lindsay Clancy regresa ante el juez, pero sale sin fecha de un nuevo juicio y sin saber si volverá a ser juzgada de asesinato en primer grado",
-          "link": "https://elpais.com/us/2026-11-02/lindsay-clancy-regresa-ante-el-juez-pero-sale-sin-fecha-de-un-nuevo-juicio-y-sin-saber-si-volvera-a-ser-juzgada-de-asesinato-en-primer-grado.html",
+          "title": "Foro World in Progress 2026 de Barcelona, en directo | González Laya analiza las elecciones de medio mandato en Estados Unidos como “un veredicto al método Trump” y su “absolutismo”",
+          "link": "https://elpais.com/internacional/2026-11-03/foro-world-in-progress-de-barcelona-en-directo.html",
           "source": "El País",
-          "published": "2026-11-02T22:57:17.000Z"
+          "published": "2026-11-03T13:11:15.000Z"
         },
         {
-          "title": "Musk bate un récord histórico al donar casi 500 millones a los republicanos para las elecciones",
-          "link": "https://www.20minutos.es/internacional/elon-musk-bate-un-record-historico-donar-casi-500-millones-dolares-los-republicanos-para-las-elecciones-eeuu_7056356_0.html",
-          "source": "20minutos",
-          "published": "2026-11-02T21:50:12.000Z"
-        },
-        {
-          "title": "Así ha sido la primera jornada del World in Progress 2026: del anuncio de Sánchez de ayudas para las víctimas de Urda a la reivindicación de Rebeca Grynspan del papel de la ONU",
-          "link": "https://elpais.com/videos/2026-11-02/asi-ha-sido-la-primera-jornada-del-world-in-progress-2026-del-anuncio-de-sanchez-de-ayudas-para-las-victimas-de-urda-a-la-reivindicacion-de-rebeca-grynspan-del-papel-de-la-onu.html",
+          "title": "El Gobierno obliga a los ayuntamientos a multar ya a los coches contaminantes en las zonas de bajas emisiones",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-03/el-gobierno-obliga-a-los-ayuntamientos-a-multar-ya-a-los-coches-contaminantes-en-las-zonas-de-bajas-emisiones.html",
           "source": "El País",
-          "published": "2026-11-02T21:37:46.000Z"
+          "published": "2026-11-03T13:04:10.000Z"
         },
         {
-          "title": "El cabecilla de Blocus estuvo en París antes de organizar saqueos en España y tenía recursos económicos para fugarse",
-          "link": "https://www.eldiario.es/comunitat-valenciana/cabecilla-blocus-estuvo-paris-organizar-saqueos-espana-tenia-recursos-economicos-fugarse_1_13632274.html",
+          "title": "Feijóo dice que el concejal de Cantabria niega la agresión y abre investigación en el PP para esclarecer los hechos",
+          "link": "https://www.eldiario.es/cantabria/feijoo-asegura-concejal-cantabria-niega-agresion-abre-investigacion-pp-esclarecer-hechos_1_13634110.html",
           "source": "elDiario.es",
-          "published": "2026-11-02T20:29:52.000Z"
+          "published": "2026-11-03T12:58:53.000Z"
         },
         {
-          "title": "Dimite el jefe de gabinete de Salvador Illa, investigado por irregularidades en convenios públicos",
-          "link": "https://elpais.com/espana/catalunya/2026-11-02/dimite-el-jefe-de-gabinete-de-salvador-illa-investigado-por-irregularidades-en-contratacion-publica.html",
+          "title": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Adif comprueba si la orden equivocada de marcha al AVE de Urda se dio por ser una costumbre",
+          "link": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
           "source": "El País",
-          "published": "2026-11-02T20:10:45.000Z"
+          "published": "2026-11-03T12:57:59.000Z"
         },
         {
-          "title": "Trump despide la campaña con una extraña defensa de su reparación del estanque del monumento a Lincoln",
-          "link": "https://elpais.com/us/2026-11-02/trump-defiende-su-reparacion-del-estanque-del-monumento-a-lincoln-en-un-extrano-acto-de-despedida-de-campana.html",
-          "source": "El País",
-          "published": "2026-11-02T20:01:03.000Z"
-        },
-        {
-          "title": "El ayatolá Jamenei da poderes al Gobierno de Irán para negociar el fin de la guerra con Estados Unidos",
-          "link": "https://www.20minutos.es/internacional/ayatola-jamenei-concede-poderes-gobierno-iran-para-negociar-fin-guerra-con-eeuu_7056323_0.html",
+          "title": "Bruselas insiste en que los ciudadanos tengan un kit de emergencia y reclama preparar a los niños para reaccionar ante las crisis",
+          "link": "https://www.20minutos.es/internacional/bruselas-insiste-que-los-ciudadanos-tengan-un-kit-emergencia-llama-preparar-los-ninos-para-reaccionar-ante-las-crisis_7056613_0.html",
           "source": "20minutos",
-          "published": "2026-11-02T19:17:45.000Z"
+          "published": "2026-11-03T12:49:28.000Z"
         },
         {
-          "title": "Rebeca Grynspan, candidata a secretaria general de la ONU: “Se han desdibujado las lecciones del pasado”",
-          "link": "https://elpais.com/internacional/2026-11-02/rebeca-grynspan-candidata-a-secretaria-general-de-la-onu-se-han-desdibujado-las-lecciones-del-pasado.html",
-          "source": "El País",
-          "published": "2026-11-02T18:58:41.000Z"
+          "title": "Última hora de las elecciones de EEUU, en directo: los colegios abren en unas 'midterms' clave para el futuro de Trump",
+          "link": "https://www.eldiario.es/internacional/elecciones-legislativas-eeuu-directo-abren-primeros-colegios-electorales-jornada-clave-futuro-trump_133_13633926.html",
+          "source": "elDiario.es",
+          "published": "2026-11-03T12:43:07.000Z"
+        },
+        {
+          "title": "Europa acelera para elegir al sucesor de Lagarde en el BCE y adelanta a este viernes la presentación de candidatos",
+          "link": "https://www.eldiario.es/economia/europa-acelera-elegir-sucesor-lagarde-bce-adelanta-viernes-presentacion-candidatos_1_13633731.html",
+          "source": "elDiario.es",
+          "published": "2026-11-03T11:53:16.000Z"
+        },
+        {
+          "title": "El Gobierno reduce los trenes Madrid-Sevilla hasta 2027 y se inclina ahora por no cortar la línea entre Madrid y Barcelona",
+          "link": "https://www.20minutos.es/nacional/transportes-reduce-los-trenes-madrid-sevilla-hasta-que-principios-2027-renueve-sistema-seguridad-haga-una-auditoria_7056563_0.html",
+          "source": "20minutos",
+          "published": "2026-11-03T11:49:32.000Z"
         }
       ]
     },
@@ -95,9 +121,22 @@
             "El País Internacional",
             "elDiario.es Internacional",
             "DW",
-            "20minutos Internacional"
+            "20minutos Internacional",
+            "France 24"
           ],
           "firstSeen": "2026-11-03T00:11:41.591Z"
+        },
+        {
+          "title": "Rusia anuncia que negociará con Ucrania, bajo mediación de Estados Unidos, la próxima semana en Abu Dabi",
+          "link": "https://elpais.com/internacional/2026-11-03/rusia-anuncia-que-negociara-con-ucrania-bajo-mediacion-de-estados-unidos-la-proxima-semana-en-abu-dabi.html",
+          "source": "El País Internacional",
+          "summary": "Las nuevas conversaciones de paz a tres bandas, aún no confirmadas por Kiev, están previstas el 10 y el 11 de noviembre",
+          "sources": [
+            "El País Internacional",
+            "20minutos Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-11-03T13:14:57.193Z"
         },
         {
           "title": "El primer ministro de Bélgica presenta su dimisión por el colapso de la negociación presupuestaria",
@@ -109,56 +148,78 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-11-03T00:11:41.591Z"
+        },
+        {
+          "title": "Cuándo se sabrá el resultado de las elecciones de medio mandato de Estados Unidos",
+          "link": "https://www.20minutos.es/internacional/cuando-sabra-resultado-elecciones-medio-mandato-estados-unidos_7056571_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Estados Unidos tiene varios husos horarios, por lo que el recuento de votos irá avanzando de este a oeste.",
+          "sources": [
+            "20minutos Internacional",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-11-03T13:14:57.193Z"
+        },
+        {
+          "title": "Nuevo revés electoral para Trump: la Corte Suprema rechaza su intento de impugnar boletas en California",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-nuevo-rev%C3%A9s-electoral-para-trump-la-corte-suprema-rechaza-su-intento-de-impugnar-boletas-en-california",
+          "source": "France 24",
+          "summary": "Una decisión de emergencia del máximo tribunal de Estados Unidos se alineó con la posición de tribunales inferiores de negar una petición del Departamento de Justicia de segregar 20.000 papeletas que según la Administración Trump serían usadas por no ciudadanos en las midterms de este 3 de noviembre. Previamente, el presidente también había fracasado en su intento de bloquear una eventual proclamación de la candidata demócrata al Senado Mary Peltola en Alaska.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-11-03T13:14:57.193Z"
         }
       ],
       "items": [
         {
-          "title": "Midterms 2026: Trump se aleja del foco electoral a horas de unos decisivos comicios",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-trump-se-aleja-del-foco-electoral-a-horas-de-unos-decisivos-comicios",
+          "title": "Las ‘midterms’ 2026, en vivo | Abren los primeros colegios en unas elecciones en las que se decide el control del Congreso",
+          "link": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
+          "source": "El País Internacional",
+          "published": "2026-11-03T13:05:02.000Z"
+        },
+        {
+          "title": "El durísimo editorial de ‘The New York Times’ pidiendo el voto contra Trump: “El país empieza a deslizarse hacia la autocracia”",
+          "link": "https://elpais.com/internacional/2026-11-03/el-durisimo-editorial-de-the-new-york-times-pidiendo-el-voto-contra-trump-el-pais-empieza-a-deslizarse-hacia-la-autocracia.html",
+          "source": "El País Internacional",
+          "published": "2026-11-03T12:56:15.000Z"
+        },
+        {
+          "title": "Economía circular: ¿podemos romper el ciclo de comprar y desechar?",
+          "link": "https://www.france24.com/es/programas/en-5-minutos/20261103-econom%C3%ADa-circular-podemos-romper-el-ciclo-de-comprar-y-desechar",
           "source": "France 24",
-          "published": "2026-11-02T23:13:10.000Z"
+          "published": "2026-11-03T12:54:17.000Z"
         },
         {
-          "title": "¿Qué tan precisas son las encuestas sobre las midterms en Estados Unidos?",
-          "link": "https://www.france24.com/es/video/20261102-qu%C3%A9-tan-precisas-son-las-encuestas-para-estas-elecciones-en-estados-unidos",
+          "title": "Abogado de Luisa González denuncia una 'clara persecución política' en Ecuador",
+          "link": "https://www.france24.com/es/programas/la-entrevista/20261103-abogado-de-luisa-gonz%C3%A1lez-denuncia-una-clara-persecuci%C3%B3n-pol%C3%ADtica-en-ecuador",
           "source": "France 24",
-          "published": "2026-11-02T23:13:00.000Z"
+          "published": "2026-11-03T12:49:04.000Z"
         },
         {
-          "title": "Nuevo revés judicial para las teorías conspirativas de Trump: el Supremo rechaza anular 20.000 votos en California antes de las legislativas",
-          "link": "https://www.eldiario.es/internacional/nuevo-reves-judicial-teorias-conspirativas-trump-supremo-rechaza-anular-20-000-votos-california-legislativas_1_13632677.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-02T23:08:44.000Z"
-        },
-        {
-          "title": "Bulgaria elige a Iliana Yotova y la continuidad de una línea cercana a Moscú",
-          "link": "https://www.france24.com/es/video/20261102-bulgaria-elige-a-iliana-yotova-y-la-continuidad-de-una-l%C3%ADnea-cercana-a-mosc%C3%BA",
+          "title": "Midterms en directo: abren las urnas en la costa este para unos comicios determinantes en EE. UU.",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
           "source": "France 24",
-          "published": "2026-11-02T23:02:36.000Z"
+          "published": "2026-11-03T12:44:27.000Z"
         },
         {
-          "title": "Ciberataque en Europa arruina cientos de kilos de alimentos en supermercados de diferentes países",
-          "link": "https://www.france24.com/es/video/20261102-ciberataque-en-europa-arruina-cientos-de-kilos-de-alimentos-en-supermercados-de-diferentes-pa%C3%ADses",
-          "source": "France 24",
-          "published": "2026-11-02T23:00:35.000Z"
-        },
-        {
-          "title": "Israel negocia contrarreloj antes de que Herzog anuncie al líder que intentará formar gobierno",
-          "link": "https://www.france24.com/es/video/20261102-israel-negocia-contrarreloj-antes-de-que-herzog-anuncie-al-l%C3%ADder-que-intentar%C3%A1-formar-gobierno",
-          "source": "France 24",
-          "published": "2026-11-02T22:58:18.000Z"
-        },
-        {
-          "title": "Polémica en Texas por cambios electorales que favorecerían a los republicanos",
-          "link": "https://www.france24.com/es/programas/en-foco/20261102-pol%C3%A9mica-en-texas-por-cambios-electorales-que-favorecer%C3%ADan-a-los-republicanos",
-          "source": "France 24",
-          "published": "2026-11-02T22:12:08.000Z"
-        },
-        {
-          "title": "Las 7 elecciones clave que tienes que mirar para saber si los demócratas recuperan el control del Senado en EE.UU.",
-          "link": "https://www.bbc.com/mundo/articles/c9ly0x3jr86eo?at_medium=RSS&at_campaign=rss",
+          "title": "Por qué (ahora sí) los demócratas pueden lograr en Texas un triunfo trascendental tras décadas de derrotas",
+          "link": "https://www.bbc.com/mundo/articles/cr2ke7qdk71eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-11-02T22:06:33.000Z"
+          "published": "2026-11-03T12:40:18.000Z"
+        },
+        {
+          "title": "Abren colegios electorales en la costa este de EE. UU. en elecciones intermedias cruciales",
+          "link": "https://www.dw.com/es/abren-colegios-electorales-en-la-costa-este-de-ee-uu-en-elecciones-intermedias-cruciales/a-79840523?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-03T11:48:00.000Z"
+        },
+        {
+          "title": "Bruselas eleva ya a 127.000 millones el sobrecoste energético pagado por la UE por la guerra en Oriente Próximo",
+          "link": "https://www.20minutos.es/internacional/bruselas-eleva-ya-127-000-millones-sobrecoste-energetico-pagado-por-ue-por-guerra-oriente-proximo_7056568_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-03T11:36:55.000Z"
         }
       ]
     }
