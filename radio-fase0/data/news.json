@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-02",
-  "updatedAt": "2026-11-02T14:10:41.289Z",
-  "edition": "mediodía",
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T00:11:41.591Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Sánchez anuncia que el decreto de ayudas para las víctimas de Urda prevé bajas específicas e indemnizaciones anticipadas",
+          "title": "Sánchez anuncia que el decreto de ayudas para las víctimas de Urda contempla bajas específicas e indemnizaciones anticipadas",
           "link": "https://www.20minutos.es/nacional/sanchez-anuncia-que-decreto-ayudas-para-las-victimas-urda-preve-bajas-especificas-indemnizaciones-anticipadas_7056166_0.html",
           "source": "20minutos",
           "summary": "El Consejo de Ministros aprobará este martes el decreto, que también \"doblará\" el seguro obligatorio de pasajeros.",
@@ -17,57 +17,68 @@
             "El País",
             "elDiario.es"
           ],
-          "firstSeen": "2026-11-02T14:10:41.289Z"
+          "firstSeen": "2026-11-03T00:11:41.591Z"
+        },
+        {
+          "title": "Ayuso otorga al presidente de Chile la Medalla Internacional de la Comunidad y destaca la apuesta de Kast por seguridad",
+          "link": "https://www.europapress.es/madrid/noticia-ayuso-otorga-presidente-chile-medalla-internacional-comunidad-destaca-apuesta-kast-seguridad-20261102191426.html",
+          "source": "Europa Press",
+          "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha otorgado este lunes al presidente de Chile, José Antonio Kast, la Medalla Internacional de la Comunidad de Madrid y ha reivindicado su apuesta por la seguridad en el país latinoamericano.",
+          "sources": [
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-03T00:11:41.591Z"
         }
       ],
       "items": [
         {
-          "title": "Foro World in Progress 2026 de Barcelona, en directo | Saiz afirma que el Gobierno trabaja ya en el desmontaje de centros de migrantes en Ceuta ante los miles de retornos",
-          "link": "https://elpais.com/internacional/2026-11-02/foro-world-in-progress-de-barcelona-en-directo.html",
+          "title": "Lindsay Clancy regresa ante el juez, pero sale sin fecha de un nuevo juicio y sin saber si volverá a ser juzgada de asesinato en primer grado",
+          "link": "https://elpais.com/us/2026-11-02/lindsay-clancy-regresa-ante-el-juez-pero-sale-sin-fecha-de-un-nuevo-juicio-y-sin-saber-si-volvera-a-ser-juzgada-de-asesinato-en-primer-grado.html",
           "source": "El País",
-          "published": "2026-11-02T14:00:03.000Z"
+          "published": "2026-11-02T22:57:17.000Z"
         },
         {
-          "title": "Los acampados que quedan en Sol intentan reorganizarse para resistir: ahora defenderán los derechos de las personas sin recursos",
-          "link": "https://elpais.com/espana/madrid/2026-11-02/los-acampados-que-quedan-en-sol-intentan-reorganizarse-para-resistir-ahora-defenderan-los-derechos-de-las-personas-sin-recursos.html",
-          "source": "El País",
-          "published": "2026-11-02T13:36:36.000Z"
+          "title": "Musk bate un récord histórico al donar casi 500 millones a los republicanos para las elecciones",
+          "link": "https://www.20minutos.es/internacional/elon-musk-bate-un-record-historico-donar-casi-500-millones-dolares-los-republicanos-para-las-elecciones-eeuu_7056356_0.html",
+          "source": "20minutos",
+          "published": "2026-11-02T21:50:12.000Z"
         },
         {
-          "title": "El Gobierno trabaja para desmontar plazas de migrantes en Ceuta y anuncia que 13.000 ya han vuelto a Marruecos",
-          "link": "https://www.eldiario.es/desalambre/gobierno-trabaja-desmontar-plazas-inmigrantes-ceuta-anuncia-13-000-han-vuelto-marruecos_1_13631938.html",
+          "title": "Así ha sido la primera jornada del World in Progress 2026: del anuncio de Sánchez de ayudas para las víctimas de Urda a la reivindicación de Rebeca Grynspan del papel de la ONU",
+          "link": "https://elpais.com/videos/2026-11-02/asi-ha-sido-la-primera-jornada-del-world-in-progress-2026-del-anuncio-de-sanchez-de-ayudas-para-las-victimas-de-urda-a-la-reivindicacion-de-rebeca-grynspan-del-papel-de-la-onu.html",
+          "source": "El País",
+          "published": "2026-11-02T21:37:46.000Z"
+        },
+        {
+          "title": "El cabecilla de Blocus estuvo en París antes de organizar saqueos en España y tenía recursos económicos para fugarse",
+          "link": "https://www.eldiario.es/comunitat-valenciana/cabecilla-blocus-estuvo-paris-organizar-saqueos-espana-tenia-recursos-economicos-fugarse_1_13632274.html",
           "source": "elDiario.es",
-          "published": "2026-11-02T13:33:07.000Z"
+          "published": "2026-11-02T20:29:52.000Z"
         },
         {
-          "title": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
-          "link": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
+          "title": "Dimite el jefe de gabinete de Salvador Illa, investigado por irregularidades en convenios públicos",
+          "link": "https://elpais.com/espana/catalunya/2026-11-02/dimite-el-jefe-de-gabinete-de-salvador-illa-investigado-por-irregularidades-en-contratacion-publica.html",
           "source": "El País",
-          "published": "2026-11-02T13:20:36.000Z"
+          "published": "2026-11-02T20:10:45.000Z"
         },
         {
-          "title": "Huelga general: CCOO y UGT auguran un éxito masivo y garantizan que será pacífica",
-          "link": "https://www.eldiario.es/economia/huelga-general-ccoo-ugt-auguran-exito-masivo-garantizan-sera-pacifica_1_13631793.html",
-          "source": "elDiario.es",
-          "published": "2026-11-02T12:36:31.000Z"
-        },
-        {
-          "title": "Feijóo acusa al Gobierno de reducir a \"un trabajador\" la responsabilidad de la tragedia de Urda: \"Dudo que sean buena gente\"",
-          "link": "https://www.eldiario.es/politica/feijoo-acusa-gobierno-reducir-trabajador-responsabilidad-tragedia-urda-dudo-sean-buena-gente_1_13631683.html",
-          "source": "elDiario.es",
-          "published": "2026-11-02T12:15:45.000Z"
-        },
-        {
-          "title": "Feijóo acusa a Sánchez de estar pendiente de las encuestas tras la tragedia de Urda y ofrece gestión: \"Yo si sé hacerlo\"",
-          "link": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-estar-pendiente-encuestas-tragedia-urda-ofrece-gestion-yo-si-hacerlo-20261102130655.html",
-          "source": "Europa Press",
-          "published": "2026-11-02T12:06:55.000Z"
-        },
-        {
-          "title": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
-          "link": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html",
+          "title": "Trump despide la campaña con una extraña defensa de su reparación del estanque del monumento a Lincoln",
+          "link": "https://elpais.com/us/2026-11-02/trump-defiende-su-reparacion-del-estanque-del-monumento-a-lincoln-en-un-extrano-acto-de-despedida-de-campana.html",
           "source": "El País",
-          "published": "2026-11-02T12:06:54.000Z"
+          "published": "2026-11-02T20:01:03.000Z"
+        },
+        {
+          "title": "El ayatolá Jamenei da poderes al Gobierno de Irán para negociar el fin de la guerra con Estados Unidos",
+          "link": "https://www.20minutos.es/internacional/ayatola-jamenei-concede-poderes-gobierno-iran-para-negociar-fin-guerra-con-eeuu_7056323_0.html",
+          "source": "20minutos",
+          "published": "2026-11-02T19:17:45.000Z"
+        },
+        {
+          "title": "Rebeca Grynspan, candidata a secretaria general de la ONU: “Se han desdibujado las lecciones del pasado”",
+          "link": "https://elpais.com/internacional/2026-11-02/rebeca-grynspan-candidata-a-secretaria-general-de-la-onu-se-han-desdibujado-las-lecciones-del-pasado.html",
+          "source": "El País",
+          "published": "2026-11-02T18:58:41.000Z"
         }
       ]
     },
@@ -75,6 +86,19 @@
       "id": "mundo",
       "title": "Mundo · Geopolítica",
       "highlights": [
+        {
+          "title": "Al menos 26 muertos por un bombardeo ruso contra una escuela en Ucrania",
+          "link": "https://elpais.com/internacional/2026-11-02/varios-muertos-por-un-bombardeo-ruso-contra-una-escuela-en-ucrania.html",
+          "source": "El País Internacional",
+          "summary": "Zelenski acusa al Kremlin de lanzar una decena de bombas contra un colegio utilizado para distribuir ayuda humanitaria en la región de Zaporiyia",
+          "sources": [
+            "El País Internacional",
+            "elDiario.es Internacional",
+            "DW",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-03T00:11:41.591Z"
+        },
         {
           "title": "El primer ministro de Bélgica presenta su dimisión por el colapso de la negociación presupuestaria",
           "link": "https://elpais.com/internacional/2026-11-02/crisis-en-el-gobierno-de-belgica-por-el-fracaso-de-la-negociacion-presupuestaria.html",
@@ -84,90 +108,57 @@
             "El País Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-11-02T14:10:41.289Z"
-        },
-        {
-          "title": "Iliana Yotova, la nueva presidenta de Bulgaria: la primera mujer elegida jefe del Estado es prorrusa, como el jefe del Gobierno",
-          "link": "https://www.20minutos.es/internacional/iliana-yotova-nueva-presidenta-bulgaria-primera-mujer-elegida-jefe-estado-es-prorrusa-como-jefe-gobierno_7056141_0.html",
-          "source": "20minutos Internacional",
-          "summary": "Aunque pasa a ser presidenta, un cargo más bien protocolario, Yotova está a la sombra de Rumen Radev, el primer ministro búlgaro.",
-          "sources": [
-            "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-11-02T14:10:41.289Z"
-        },
-        {
-          "title": "Irán propone reabrir el estrecho de Ormuz en dos días si EE. UU. acepta sus condiciones",
-          "link": "https://www.dw.com/es/irán-propone-reabrir-el-estrecho-de-ormuz-en-dos-días-si-ee-uu-acepta-sus-condiciones/a-79828446?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El portavoz iraní de Exteriores afirmó que Irán considera un plan para reabrir el estrecho de Ormuz en dos días, y no una semana como en la propuesta anterior, si Estados Unidos acepta sus condiciones.",
-          "sources": [
-            "DW",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-11-02T14:10:41.289Z"
-        },
-        {
-          "title": "Rusia alerta de un ataque informático masivo en su aplicación de emergencias",
-          "link": "https://www.20minutos.es/internacional/rusia-alerta-un-ataque-informatico-masivo-su-aplicacion-emergencias_7056090_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El organismo ya trabaja para corregir la vulnerabilidad de la aplicación móvil y restablecer su funcionamiento normal.",
-          "sources": [
-            "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-11-02T14:10:41.289Z"
+          "firstSeen": "2026-11-03T00:11:41.591Z"
         }
       ],
       "items": [
         {
-          "title": "Directo París y las convocatorias de sindicatos y manifestantes para nuevas protestas",
-          "link": "https://www.france24.com/es/video/20261102-directo-par%C3%ADs-y-las-convocatorias-de-sindicatos-y-manifestantes-para-nuevas-protestas",
+          "title": "Midterms 2026: Trump se aleja del foco electoral a horas de unos decisivos comicios",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-trump-se-aleja-del-foco-electoral-a-horas-de-unos-decisivos-comicios",
           "source": "France 24",
-          "published": "2026-11-02T14:06:04.000Z"
+          "published": "2026-11-02T23:13:10.000Z"
         },
         {
-          "title": "¿Qué hay detrás de la violencia contra los periodistas que las autoridades no pueden frenar?",
-          "link": "https://www.france24.com/es/video/20261102-qu%C3%A9-hay-detr%C3%A1s-de-la-violencia-contra-los-periodistas-que-las-autoridades-no-pueden-frenar",
+          "title": "¿Qué tan precisas son las encuestas sobre las midterms en Estados Unidos?",
+          "link": "https://www.france24.com/es/video/20261102-qu%C3%A9-tan-precisas-son-las-encuestas-para-estas-elecciones-en-estados-unidos",
           "source": "France 24",
-          "published": "2026-11-02T13:55:02.000Z"
+          "published": "2026-11-02T23:13:00.000Z"
         },
         {
-          "title": "Cuál es el futuro del bolsonarismo tras la salida de Flávio de Brasil y cómo será la oposición a Lula",
-          "link": "https://www.bbc.com/mundo/articles/c3qjn8nr2p2ko?at_medium=RSS&at_campaign=rss",
+          "title": "Nuevo revés judicial para las teorías conspirativas de Trump: el Supremo rechaza anular 20.000 votos en California antes de las legislativas",
+          "link": "https://www.eldiario.es/internacional/nuevo-reves-judicial-teorias-conspirativas-trump-supremo-rechaza-anular-20-000-votos-california-legislativas_1_13632677.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-02T23:08:44.000Z"
+        },
+        {
+          "title": "Bulgaria elige a Iliana Yotova y la continuidad de una línea cercana a Moscú",
+          "link": "https://www.france24.com/es/video/20261102-bulgaria-elige-a-iliana-yotova-y-la-continuidad-de-una-l%C3%ADnea-cercana-a-mosc%C3%BA",
+          "source": "France 24",
+          "published": "2026-11-02T23:02:36.000Z"
+        },
+        {
+          "title": "Ciberataque en Europa arruina cientos de kilos de alimentos en supermercados de diferentes países",
+          "link": "https://www.france24.com/es/video/20261102-ciberataque-en-europa-arruina-cientos-de-kilos-de-alimentos-en-supermercados-de-diferentes-pa%C3%ADses",
+          "source": "France 24",
+          "published": "2026-11-02T23:00:35.000Z"
+        },
+        {
+          "title": "Israel negocia contrarreloj antes de que Herzog anuncie al líder que intentará formar gobierno",
+          "link": "https://www.france24.com/es/video/20261102-israel-negocia-contrarreloj-antes-de-que-herzog-anuncie-al-l%C3%ADder-que-intentar%C3%A1-formar-gobierno",
+          "source": "France 24",
+          "published": "2026-11-02T22:58:18.000Z"
+        },
+        {
+          "title": "Polémica en Texas por cambios electorales que favorecerían a los republicanos",
+          "link": "https://www.france24.com/es/programas/en-foco/20261102-pol%C3%A9mica-en-texas-por-cambios-electorales-que-favorecer%C3%ADan-a-los-republicanos",
+          "source": "France 24",
+          "published": "2026-11-02T22:12:08.000Z"
+        },
+        {
+          "title": "Las 7 elecciones clave que tienes que mirar para saber si los demócratas recuperan el control del Senado en EE.UU.",
+          "link": "https://www.bbc.com/mundo/articles/c9ly0x3jr86eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-11-02T13:32:05.000Z"
-        },
-        {
-          "title": "Ataque con explosivos cerca de una base militar en Colombia deja cuatro muertos, incluido un bebé",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261102-ataque-con-explosivos-cerca-de-una-base-militar-en-colombia-deja-cuatro-muertos-incluido-un-beb%C3%A9",
-          "source": "France 24",
-          "published": "2026-11-02T13:20:59.000Z"
-        },
-        {
-          "title": "La defensora del pueblo de Rusia anuncia un acuerdo con Ucrania para mantener el acceso mensual de ayuda humanitaria a Oleshki",
-          "link": "https://www.20minutos.es/internacional/defensora-pueblo-rusia-anuncia-un-acuerdo-con-ucrania-para-mantener-acceso-mensual-ayuda-humanitaria-oleshki_7056185_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-02T12:37:55.000Z"
-        },
-        {
-          "title": "José Manuel Albares advierte en el foro WIP sobre las “injerencias externas” que quieren influir en las elecciones en Europa",
-          "link": "https://elpais.com/internacional/2026-11-02/jose-manuel-albares-advierte-en-el-foro-wip-sobre-las-injerencias-externas-que-quieren-influir-en-las-elecciones-en-europa.html",
-          "source": "El País Internacional",
-          "published": "2026-11-02T12:32:09.000Z"
-        },
-        {
-          "title": "¿Y si fallan las encuestas? Cómo la “ola azul” demócrata podría pasar a tsunami o quedarse en marejada",
-          "link": "https://elpais.com/us/2026-11-02/y-si-fallan-las-encuestas-como-la-ola-azul-democrata-podria-pasar-a-tsunami-o-quedarse-en-marejada.html",
-          "source": "El País Internacional",
-          "published": "2026-11-02T12:25:05.000Z"
-        },
-        {
-          "title": "En directo: Rusia y Ucrania cruzan acusaciones sobre ataques cibernéticos tras fin del alto el fuego localizado",
-          "link": "https://www.france24.com/es/europa/20261102-en-directo-rusia-y-ucrania-cruzan-acusaciones-sobre-ataques-cibern%C3%A9ticos-tras-fin-del-alto-el-fuego-localizado",
-          "source": "France 24",
-          "published": "2026-11-02T12:01:54.000Z"
+          "published": "2026-11-02T22:06:33.000Z"
         }
       ]
     }
