@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-03T13:14:57.193Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-11-03T22:41:05.037Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -55,56 +55,67 @@
             "elDiario.es"
           ],
           "firstSeen": "2026-11-03T00:11:41.591Z"
+        },
+        {
+          "title": "La escritora Cristina Fernández Cubas gana el Cervantes 2026 por \"revalorizar el relato breve\"",
+          "link": "https://www.20minutos.es/libros/escritora-cristina-fernandez-cubas-gana-premio-cervantes-2026_7056797_0.html",
+          "source": "20minutos",
+          "summary": "El galardón, anunciado este martes por el ministro de Cultura, Ernest Ursatun, está dotado con 125.000 euros.",
+          "sources": [
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-03T22:41:05.037Z"
         }
       ],
       "items": [
         {
-          "title": "Foro World in Progress 2026 de Barcelona, en directo | González Laya analiza las elecciones de medio mandato en Estados Unidos como “un veredicto al método Trump” y su “absolutismo”",
-          "link": "https://elpais.com/internacional/2026-11-03/foro-world-in-progress-de-barcelona-en-directo.html",
+          "title": "Sánchez reivindica la dimisión de Puente tras “dar la cara”: “Demuestra que no todos somos iguales”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-03/sanchez-reivindica-la-dimision-de-puente-tras-dar-la-cara-demuestra-que-no-todos-somos-iguales.html",
           "source": "El País",
-          "published": "2026-11-03T13:11:15.000Z"
+          "published": "2026-11-03T22:05:47.000Z"
         },
         {
-          "title": "El Gobierno obliga a los ayuntamientos a multar ya a los coches contaminantes en las zonas de bajas emisiones",
-          "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-03/el-gobierno-obliga-a-los-ayuntamientos-a-multar-ya-a-los-coches-contaminantes-en-las-zonas-de-bajas-emisiones.html",
+          "title": "Las ‘midterms’ 2026, en vivo | Las elecciones de Estados Unidos transcurren sin mayores incidentes pese al temor a la presencia de agentes federales",
+          "link": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
           "source": "El País",
-          "published": "2026-11-03T13:04:10.000Z"
+          "published": "2026-11-03T22:04:12.000Z"
         },
         {
-          "title": "Feijóo dice que el concejal de Cantabria niega la agresión y abre investigación en el PP para esclarecer los hechos",
-          "link": "https://www.eldiario.es/cantabria/feijoo-asegura-concejal-cantabria-niega-agresion-abre-investigacion-pp-esclarecer-hechos_1_13634110.html",
-          "source": "elDiario.es",
-          "published": "2026-11-03T12:58:53.000Z"
-        },
-        {
-          "title": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Adif comprueba si la orden equivocada de marcha al AVE de Urda se dio por ser una costumbre",
-          "link": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
-          "source": "El País",
-          "published": "2026-11-03T12:57:59.000Z"
-        },
-        {
-          "title": "Bruselas insiste en que los ciudadanos tengan un kit de emergencia y reclama preparar a los niños para reaccionar ante las crisis",
-          "link": "https://www.20minutos.es/internacional/bruselas-insiste-que-los-ciudadanos-tengan-un-kit-emergencia-llama-preparar-los-ninos-para-reaccionar-ante-las-crisis_7056613_0.html",
+          "title": "El ministro comunicó su decisión al presidente minutos antes de anunciarla",
+          "link": "https://www.20minutos.es/nacional/oscar-puente-comunico-su-dimision-sanchez-minutos-antes-anunciarla-congreso-se-que-sera-un-momento-triste-para_7056851_0.html",
           "source": "20minutos",
-          "published": "2026-11-03T12:49:28.000Z"
+          "published": "2026-11-03T21:41:43.000Z"
         },
         {
-          "title": "Última hora de las elecciones de EEUU, en directo: los colegios abren en unas 'midterms' clave para el futuro de Trump",
-          "link": "https://www.eldiario.es/internacional/elecciones-legislativas-eeuu-directo-abren-primeros-colegios-electorales-jornada-clave-futuro-trump_133_13633926.html",
-          "source": "elDiario.es",
-          "published": "2026-11-03T12:43:07.000Z"
+          "title": "Sánchez respalda a Puente por \"dar la cara\" y dimitir \"por las víctimas\": \"Dignifica nuestro país\"",
+          "link": "https://www.europapress.es/nacional/noticia-sanchez-respalda-puente-dar-cara-dimitir-victimas-dignifica-pais-20261103224132.html",
+          "source": "Europa Press",
+          "published": "2026-11-03T21:41:32.000Z"
         },
         {
-          "title": "Europa acelera para elegir al sucesor de Lagarde en el BCE y adelanta a este viernes la presentación de candidatos",
-          "link": "https://www.eldiario.es/economia/europa-acelera-elegir-sucesor-lagarde-bce-adelanta-viernes-presentacion-candidatos_1_13633731.html",
-          "source": "elDiario.es",
-          "published": "2026-11-03T11:53:16.000Z"
-        },
-        {
-          "title": "El Gobierno reduce los trenes Madrid-Sevilla hasta 2027 y se inclina ahora por no cortar la línea entre Madrid y Barcelona",
-          "link": "https://www.20minutos.es/nacional/transportes-reduce-los-trenes-madrid-sevilla-hasta-que-principios-2027-renueve-sistema-seguridad-haga-una-auditoria_7056563_0.html",
+          "title": "Sánchez: \"Ha dado la cara. Por voluntad propia. Gracias por tanto, compañero\"",
+          "link": "https://www.20minutos.es/nacional/pedro-sanchez-sobre-dimision-oscar-puente-ha-dado-cara-por-voluntad-propia-gracias-por-tanto-companero_7056849_0.html",
           "source": "20minutos",
-          "published": "2026-11-03T11:49:32.000Z"
+          "published": "2026-11-03T21:37:44.000Z"
+        },
+        {
+          "title": "El PP apunta ahora a Sánchez tras la renuncia de Puente: “Le dimitiremos en las urnas”",
+          "link": "https://elpais.com/espana/2026-11-03/el-pp-no-se-va-por-las-victimas-ni-por-dignidad-sino-por-las-encuestas.html",
+          "source": "El País",
+          "published": "2026-11-03T21:15:55.000Z"
+        },
+        {
+          "title": "La acampada dice adiós con una manifestación que acaba con disparos de pelotas de goma de los antidisturbios",
+          "link": "https://elpais.com/espana/madrid/2026-11-03/madrid-se-despide-de-la-acampada-de-sol.html",
+          "source": "El País",
+          "published": "2026-11-03T20:53:36.000Z"
+        },
+        {
+          "title": "El escudo de Sánchez que cayó en desgracia por su gestión ferroviaria a las puertas de unas generales",
+          "link": "https://www.20minutos.es/nacional/oscar-puente-escudo-politico-sanchez-que-cayo-desgracia-por-su-gestion-ferroviaria-las-puertas-unas-generales_7055002_0.html",
+          "source": "20minutos",
+          "published": "2026-11-03T20:42:08.000Z"
         }
       ]
     },
@@ -125,6 +136,33 @@
             "France 24"
           ],
           "firstSeen": "2026-11-03T00:11:41.591Z"
+        },
+        {
+          "title": "Trump anuncia que EE.UU. suspenderá la ayuda financiera a Israel a finales de este año",
+          "link": "https://www.bbc.com/mundo/articles/cm4g1317y8e9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "El presidente acusa a los demócratas de instrumentalizar la ayuda estadounidense a Israel como un \"argumento\" para atacar a los republicanos.",
+          "sources": [
+            "BBC Mundo",
+            "France 24",
+            "El País Internacional",
+            "20minutos Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-11-03T22:41:05.037Z"
+        },
+        {
+          "title": "EE.UU. vota en unas elecciones de medio mandato cruciales para el futuro del gobierno de Trump",
+          "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "Millones de estadounidenses acuden a las urnas para decidir quién controlará el Congreso en los dos años de presidencia que le restan a Donald Trump. Están en juego los 435 escaños en la Cámara de Representantes y 35 de 100 en el Senado.",
+          "sources": [
+            "BBC Mundo",
+            "France 24",
+            "El País Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-03T22:41:05.037Z"
         },
         {
           "title": "Rusia anuncia que negociará con Ucrania, bajo mediación de Estados Unidos, la próxima semana en Abu Dabi",
@@ -148,78 +186,56 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-11-03T00:11:41.591Z"
-        },
-        {
-          "title": "Cuándo se sabrá el resultado de las elecciones de medio mandato de Estados Unidos",
-          "link": "https://www.20minutos.es/internacional/cuando-sabra-resultado-elecciones-medio-mandato-estados-unidos_7056571_0.html",
-          "source": "20minutos Internacional",
-          "summary": "Estados Unidos tiene varios husos horarios, por lo que el recuento de votos irá avanzando de este a oeste.",
-          "sources": [
-            "20minutos Internacional",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-11-03T13:14:57.193Z"
-        },
-        {
-          "title": "Nuevo revés electoral para Trump: la Corte Suprema rechaza su intento de impugnar boletas en California",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-nuevo-rev%C3%A9s-electoral-para-trump-la-corte-suprema-rechaza-su-intento-de-impugnar-boletas-en-california",
-          "source": "France 24",
-          "summary": "Una decisión de emergencia del máximo tribunal de Estados Unidos se alineó con la posición de tribunales inferiores de negar una petición del Departamento de Justicia de segregar 20.000 papeletas que según la Administración Trump serían usadas por no ciudadanos en las midterms de este 3 de noviembre. Previamente, el presidente también había fracasado en su intento de bloquear una eventual proclamación de la candidata demócrata al Senado Mary Peltola en Alaska.",
-          "sources": [
-            "France 24",
-            "DW"
-          ],
-          "firstSeen": "2026-11-03T13:14:57.193Z"
         }
       ],
       "items": [
         {
-          "title": "Las ‘midterms’ 2026, en vivo | Abren los primeros colegios en unas elecciones en las que se decide el control del Congreso",
-          "link": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
-          "source": "El País Internacional",
-          "published": "2026-11-03T13:05:02.000Z"
-        },
-        {
-          "title": "El durísimo editorial de ‘The New York Times’ pidiendo el voto contra Trump: “El país empieza a deslizarse hacia la autocracia”",
-          "link": "https://elpais.com/internacional/2026-11-03/el-durisimo-editorial-de-the-new-york-times-pidiendo-el-voto-contra-trump-el-pais-empieza-a-deslizarse-hacia-la-autocracia.html",
-          "source": "El País Internacional",
-          "published": "2026-11-03T12:56:15.000Z"
-        },
-        {
-          "title": "Economía circular: ¿podemos romper el ciclo de comprar y desechar?",
-          "link": "https://www.france24.com/es/programas/en-5-minutos/20261103-econom%C3%ADa-circular-podemos-romper-el-ciclo-de-comprar-y-desechar",
-          "source": "France 24",
-          "published": "2026-11-03T12:54:17.000Z"
-        },
-        {
-          "title": "Abogado de Luisa González denuncia una 'clara persecución política' en Ecuador",
-          "link": "https://www.france24.com/es/programas/la-entrevista/20261103-abogado-de-luisa-gonz%C3%A1lez-denuncia-una-clara-persecuci%C3%B3n-pol%C3%ADtica-en-ecuador",
-          "source": "France 24",
-          "published": "2026-11-03T12:49:04.000Z"
-        },
-        {
-          "title": "Midterms en directo: abren las urnas en la costa este para unos comicios determinantes en EE. UU.",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
-          "source": "France 24",
-          "published": "2026-11-03T12:44:27.000Z"
-        },
-        {
-          "title": "Por qué (ahora sí) los demócratas pueden lograr en Texas un triunfo trascendental tras décadas de derrotas",
-          "link": "https://www.bbc.com/mundo/articles/cr2ke7qdk71eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-03T12:40:18.000Z"
-        },
-        {
-          "title": "Abren colegios electorales en la costa este de EE. UU. en elecciones intermedias cruciales",
-          "link": "https://www.dw.com/es/abren-colegios-electorales-en-la-costa-este-de-ee-uu-en-elecciones-intermedias-cruciales/a-79840523?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Trump: a republicanos les irá \"mejor de lo esperado\" en las elecciones",
+          "link": "https://www.dw.com/es/trump-a-republicanos-les-irá-mejor-de-lo-esperado-en-las-elecciones/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-03T11:48:00.000Z"
+          "published": "2026-11-03T21:53:00.000Z"
         },
         {
-          "title": "Bruselas eleva ya a 127.000 millones el sobrecoste energético pagado por la UE por la guerra en Oriente Próximo",
-          "link": "https://www.20minutos.es/internacional/bruselas-eleva-ya-127-000-millones-sobrecoste-energetico-pagado-por-ue-por-guerra-oriente-proximo_7056568_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-03T11:36:55.000Z"
+          "title": "Tusk y Nawrocki acuerdan reunirse cara a cara para abordar la crisis del Constitucional",
+          "link": "https://elpais.com/internacional/2026-11-03/tusk-y-nawrocki-acuerdan-reunirse-cara-a-cara-para-abordar-la-crisis-del-constitucional.html",
+          "source": "El País Internacional",
+          "published": "2026-11-03T21:49:09.000Z"
+        },
+        {
+          "title": "Eisenkot promete acelerar medidas para formar un Gobierno y desbancar a Netanyahu",
+          "link": "https://www.dw.com/es/eisenkot-promete-acelerar-medidas-para-formar-un-gobierno-y-desbancar-a-netanyahu/a-79848282?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-03T21:40:00.000Z"
+        },
+        {
+          "title": "Así podrían influir las elecciones intermedias en EE. UU. en las guerras de Ucrania e Irán",
+          "link": "https://www.dw.com/es/así-podrían-influir-las-elecciones-intermedias-en-ee-uu-en-las-guerras-de-ucrania-e-irán/a-79844126?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-03T21:23:00.000Z"
+        },
+        {
+          "title": "Los Ángeles dice adiós al petróleo tras años de lucha vecinal",
+          "link": "https://www.dw.com/es/los-ángeles-dice-adiós-al-petróleo-tras-años-de-lucha-vecinal/a-79846695?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-03T20:27:00.000Z"
+        },
+        {
+          "title": "Merz garantiza a Zelenski apoyo hasta el final de la guerra y más ayuda para el invierno",
+          "link": "https://www.dw.com/es/merz-garantiza-a-zelenski-apoyo-hasta-el-final-de-la-guerra-y-más-ayuda-para-el-invierno/a-79847171?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-03T20:07:00.000Z"
+        },
+        {
+          "title": "Alemania busca culpables tras los disturbios de la Generación Z",
+          "link": "https://www.dw.com/es/alemania-busca-culpables-tras-los-disturbios-de-la-generación-z/a-79846161?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-03T19:52:00.000Z"
+        },
+        {
+          "title": "Polonia moviliza al ejército ante una provocación rusa en Kaliningrado",
+          "link": "https://elpais.com/internacional/2026-11-03/polonia-asegura-que-ha-neutralizado-un-intento-de-provocacion-ruso-en-la-frontera-con-kaliningrado.html",
+          "source": "El País Internacional",
+          "published": "2026-11-03T19:47:10.000Z"
         }
       ]
     }
