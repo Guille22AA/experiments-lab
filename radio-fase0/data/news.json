@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T13:28:13.725Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-11-04T22:59:21.029Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -51,56 +51,67 @@
             "El Salto"
           ],
           "firstSeen": "2026-11-04T13:28:13.725Z"
+        },
+        {
+          "title": "Las ‘midterms’ 2026, en vivo | Trump admite que la guerra en Irán influyó en la derrota, pero que “lo haría de nuevo”",
+          "link": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+          "source": "El País",
+          "summary": "El vicepresidente, J. D. Vance, había previamente señalado el conflicto como la causa de la debacle republicana en las legislativas",
+          "sources": [
+            "El País",
+            "20minutos"
+          ],
+          "firstSeen": "2026-11-04T22:59:21.029Z"
         }
       ],
       "items": [
         {
-          "title": "El Gobierno francés admite que varios bancos de sangre también han sido objetivo de ciberataques",
-          "link": "https://elpais.com/tecnologia/2026-11-04/el-gobierno-frances-admite-que-varios-bancos-de-sangre-tambien-han-sido-objetivo-de-ciberataques.html",
-          "source": "El País",
-          "published": "2026-11-04T13:04:44.000Z"
-        },
-        {
-          "title": "El mensaje que esconde el vestido de Ayuso en la gala de entrega de los Global Tech Leaders Awards de este año",
-          "link": "https://www.20minutos.es/mujer/moda/mensaje-oculto-vestido-isabel-diaz-ayuso-gala-global-tech-leaders-awards-2026_7057093_0.html",
+          "title": "Las redes se llenan de memes tras la victoria demócrata en Estados Unidos: \"¡Vuelve lo 'woke'!\"",
+          "link": "https://www.20minutos.es/internacional/las-redes-se-llenan-memes-tras-victoria-democrata-eeuu-vuelve-woke_7057386_0.html",
           "source": "20minutos",
-          "published": "2026-11-04T12:52:34.000Z"
+          "published": "2026-11-04T20:55:40.000Z"
         },
         {
-          "title": "La Justicia confirma 11 años de cárcel para un párroco de Vallecas por violar a una feligresa",
-          "link": "https://www.eldiario.es/madrid/justicia-confirma-11-anos-carcel-parroco-vallecas-violar-feligresa_1_13636601.html",
-          "source": "elDiario.es",
-          "published": "2026-11-04T12:42:05.000Z"
-        },
-        {
-          "title": "El Comité Electoral de Israel confirma los resultados de los comicios y advierte del “peligro” de cuestionar su veracidad",
-          "link": "https://elpais.com/internacional/2026-11-04/el-comite-electoral-de-israel-confirma-los-resultados-de-los-comicios-y-advierte-del-peligro-de-cuestionar-su-veracidad.html",
+          "title": "El Rey inaugura la XXX Cumbre Iberoamericana alabando que la comunidad de naciones “franquea el acceso a un espacio de mayor libertad y prosperidad”",
+          "link": "https://elpais.com/espana/2026-11-04/el-rey-inaugura-la-primera-jornada-de-la-xxx-cumbre-iberoamericana-en-madrid.html",
           "source": "El País",
-          "published": "2026-11-04T12:24:07.000Z"
+          "published": "2026-11-04T20:17:15.000Z"
         },
         {
-          "title": "El Gobierno de Almeida sortea entradas para la NFL en el Bernabéu entre los vecinos del barrio más rico de la capital",
-          "link": "https://www.eldiario.es/madrid/somos/gobierno-almeida-sortea-entradas-nfl-bernabeu-habitantes-barrio-rico-capital_1_13636428.html",
-          "source": "elDiario.es",
-          "published": "2026-11-04T12:18:52.000Z"
+          "title": "Díaz se encamina a su primer aumento del salario mínimo sin acuerdo con los sindicatos para aprobarlo antes del 29-N",
+          "link": "https://elpais.com/economia/2026-11-04/diaz-se-encamina-a-su-primer-aumento-del-salario-minimo-sin-acuerdo-con-los-sindicatos-para-aprobarlo-antes-del-29-n.html",
+          "source": "El País",
+          "published": "2026-11-04T20:15:58.000Z"
         },
         {
-          "title": "La inflación, la guerra en Irán y el hartazgo con Trump: claves de la ola demócrata que toma el Congreso de EEUU",
-          "link": "https://www.europapress.es/internacional/noticia-inflacion-guerra-iran-hartazgo-trump-claves-ola-democrata-toma-congreso-eeuu-20261104131523.html",
+          "title": "Trump defiende la guerra en Irán pese a la debacle electoral de los republicanos en las 'midterm'",
+          "link": "https://www.europapress.es/internacional/noticia-trump-defiende-guerra-iran-pese-debacle-electoral-republicanos-midterm-20261104202221.html",
           "source": "Europa Press",
-          "published": "2026-11-04T12:15:23.000Z"
+          "published": "2026-11-04T19:22:21.000Z"
         },
         {
-          "title": "Las universidades madrileñas, en huelga para denunciar “el pacto de la vergüenza” de Ayuso con sus rectores",
-          "link": "https://elpais.com/educacion/2026-11-04/las-universidades-madrilenas-en-huelga-para-denunciar-el-pacto-de-la-verguenza-de-ayuso-con-sus-rectores.html",
-          "source": "El País",
-          "published": "2026-11-04T12:15:13.000Z"
+          "title": "La respuesta de Sánchez al último mensaje de Puente antes de dimitir: \"Ni se te ocurra, no lo hagas\"",
+          "link": "https://www.20minutos.es/nacional/respuesta-sanchez-ultimo-mensaje-oscar-puente-antes-dimitir-como-ministro-transportes-ni-se-te-ocurra-no-hagas_7057351_0.html",
+          "source": "20minutos",
+          "published": "2026-11-04T18:46:31.000Z"
         },
         {
-          "title": "Cómo saber si le ha tocado estar en una mesa electoral en las elecciones del 29-N y qué pasa si no puede acudir",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-04/como-saber-si-le-ha-tocado-estar-en-una-mesa-electoral-en-las-elecciones-del-29-n-y-que-pasa-si-no-puede-acudir.html",
+          "title": "¿Cómo puede el nuevo Congreso de EE UU prohibir la guerra de Irán?",
+          "link": "https://elpais.com/videos/2026-11-04/como-puede-el-nuevo-congreso-de-ee-uu-prohibir-la-guerra-de-iran.html",
           "source": "El País",
-          "published": "2026-11-04T12:13:15.000Z"
+          "published": "2026-11-04T18:31:29.000Z"
+        },
+        {
+          "title": "\"Mayday, mayday, Canarias está siendo invadida\": el PP canario reproduce el discurso antiinmigracion de Vox",
+          "link": "https://www.eldiario.es/canariasahora/politica/canarias-invadida-mensaje-desesperado-vicepresidente-canario-pp-llegada-cayucos_1_13638658.html",
+          "source": "elDiario.es",
+          "published": "2026-11-04T18:29:16.000Z"
+        },
+        {
+          "title": "¿Y ahora qué? Demócratas y republicanos empiezan a diseñar sus estrategias tras el vuelco electoral",
+          "link": "https://elpais.com/us/2026-11-04/y-ahora-que-democratas-y-republicanos-empiezan-a-disenar-sus-estrategias-tras-el-vuelco-electoral.html",
+          "source": "El País",
+          "published": "2026-11-04T18:01:54.000Z"
         }
       ]
     },
@@ -120,6 +131,19 @@
             "20minutos Internacional"
           ],
           "firstSeen": "2026-11-04T13:28:13.725Z"
+        },
+        {
+          "title": "Vance atribuye la derrota republicana a la guerra contra Irán",
+          "link": "https://www.dw.com/es/vance-atribuye-la-derrota-republicana-a-la-guerra-contra-irán/a-79857934?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "El vicepresidente de Estados Unidos dijo que si alguien cree que perder el Senado es un costo aceptable, debería decirlo. “Todo el mundo sabe por qué perdimos”, agregó.",
+          "sources": [
+            "DW",
+            "El País Internacional",
+            "France 24",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-04T22:59:21.029Z"
         },
         {
           "title": "Trump pierde el control del Congreso: ¿Es un voto castigo a los republicanos?",
@@ -142,56 +166,67 @@
             "BBC Mundo"
           ],
           "firstSeen": "2026-11-04T13:28:13.725Z"
+        },
+        {
+          "title": "Qué pueden hacer ahora los demócratas (y qué no) con el nuevo control del Congreso",
+          "link": "https://www.bbc.com/mundo/articles/cwn8dm2kx7meo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "Los demócratas pueden aprobar las leyes mediante votación. Pero Trump aún conserva el poder de veto.",
+          "sources": [
+            "BBC Mundo",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-11-04T22:59:21.029Z"
         }
       ],
       "items": [
         {
-          "title": "\"Ola azul\" en EE.UU.: los demócratas recuperan el control del Congreso y asestan un duro golpe a Trump en las elecciones de medio mandato; resultados y reacciones",
+          "title": "Los demócratas ganan el control del Congreso, Trump es criticado por su propio partido y EE.UU. entra en una nueva era política tras las elecciones de medio término",
           "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-11-04T13:28:12.040Z"
+          "published": "2026-11-04T22:59:19.155Z"
         },
         {
-          "title": "Un ciberataque altera las cámaras frigoríficas del banco central de sangre de Francia",
-          "link": "https://www.20minutos.es/internacional/un-ciberataque-altera-las-camaras-frigorificas-banco-central-sangre-francia_7057133_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-04T12:35:10.000Z"
-        },
-        {
-          "title": "Las victorias históricas de los demócratas que más duelen a Trump: musulmanes, latinos, negras, indígenas y el primer senador gay",
-          "link": "https://www.eldiario.es/internacional/victorias-historicas-democratas-duelen-trump-musulmanes-latinos-negras-indigenas-primer-senador-gay_1_13636374.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-04T12:30:33.000Z"
-        },
-        {
-          "title": "Bruselas califica de \"muy preocupantes\" los accidentes ferroviarios en España y pide al Gobierno acelerar la implantación del EMRTS",
-          "link": "https://www.20minutos.es/internacional/bruselas-califica-muy-preocupantes-los-accidentes-ferroviarios-espana-pide-gobierno-acelerar-implantacion-emrts_7057128_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-04T12:27:54.000Z"
-        },
-        {
-          "title": "El ministro español de Economía asume Transportes tras grave accidente de trenes",
-          "link": "https://www.dw.com/es/el-ministro-español-de-economía-asume-transportes-tras-grave-accidente-de-trenes/a-79853307?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Zelenski llega a España por sorpresa en el marco de la XXX Cumbre Iberoamericana",
+          "link": "https://www.dw.com/es/zelenski-llega-a-españa-por-sorpresa-en-el-marco-de-la-xxx-cumbre-iberoamericana/a-79859596?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-04T12:24:00.000Z"
+          "published": "2026-11-04T22:40:00.000Z"
         },
         {
-          "title": "De bastiones republicanos en el Senado a gobernaciones: las victorias históricas para los demócratas en las midterms",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261104-de-bastiones-republicanos-en-el-senado-a-gobernaciones-las-victorias-hist%C3%B3ricas-para-los-dem%C3%B3cratas-en-las-midterms",
+          "title": "La Casa Blanca recuerda que Trump \"es todavía presidente\" pese a la derrota en las legislativas",
+          "link": "https://www.dw.com/es/la-casa-blanca-recuerda-que-trump-es-todavía-presidente-pese-a-la-derrota-en-las-legislativas/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-04T22:18:00.000Z"
+        },
+        {
+          "title": "Irán se burla del varapalo electoral de Trump: \"Hablaron de un cambio de régimen, lo hicimos realidad\"",
+          "link": "https://www.france24.com/es/medio-oriente/20261104-ir%C3%A1n-se-burla-del-varapalo-electoral-de-trump-hablaron-de-un-cambio-de-r%C3%A9gimen-lo-hicimos-realidad",
           "source": "France 24",
-          "published": "2026-11-04T12:18:16.000Z"
+          "published": "2026-11-04T21:53:51.000Z"
         },
         {
-          "title": "Bruselas avala que Ucrania pueda cerrar las negociaciones de adhesión a la UE en 2028 y plantea una entrada gradual de nuevos socios",
-          "link": "https://www.20minutos.es/internacional/bruselas-avala-que-ucrania-pueda-cerrar-las-negociaciones-adhesion-ue-2028-plantea-una-entrada-gradual-nuevos-socios_7056935_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-04T12:15:14.000Z"
+          "title": "Las reacciones internacionales al revés de Trump en las Midterms",
+          "link": "https://www.france24.com/es/video/20261104-las-reacciones-internacionales-al-rev%C3%A9s-de-trump-en-las-midterms",
+          "source": "France 24",
+          "published": "2026-11-04T21:43:47.000Z"
         },
         {
-          "title": "Bruselas limita su 'potencia burocrática' ante el 'superaño' electoral: muchas menos leyes y prioridad a lo digital y a la competitividad",
-          "link": "https://www.20minutos.es/internacional/bruselas-limita-su-potencia-burocratica-ante-superano-electoral-muchas-menos-leyes-prioridad-digital-competitividad_7057022_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-04T12:02:06.000Z"
+          "title": "¿Podrían los demócratas considerar un nuevo juicio contra Trump tras el triunfo en las midterms?",
+          "link": "https://www.france24.com/es/video/20261104-podr%C3%ADan-los-dem%C3%B3cratas-considerar-un-nuevo-juicio-contra-trump-tras-el-triunfo-en-las-midterms",
+          "source": "France 24",
+          "published": "2026-11-04T21:40:11.000Z"
+        },
+        {
+          "title": "Texas se tiñe de azul: los demócratas Talarico e Hinojosa conquistan Senado y gobernación",
+          "link": "https://www.france24.com/es/video/20261104-texas-se-ti%C3%B1e-de-azul-los-dem%C3%B3cratas-talarico-e-hinojosa-conquistan-senado-y-gobernaci%C3%B3n",
+          "source": "France 24",
+          "published": "2026-11-04T21:36:52.000Z"
+        },
+        {
+          "title": "La ola azul en EE. UU.: demócratas recuperan Congreso y gobernaciones clave",
+          "link": "https://www.france24.com/es/video/20261104-la-ola-azul-en-ee-uu-dem%C3%B3cratas-recuperan-congreso-y-gobernaciones-clave",
+          "source": "France 24",
+          "published": "2026-11-04T21:33:38.000Z"
         }
       ]
     }
