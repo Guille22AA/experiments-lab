@@ -1,121 +1,106 @@
 {
-  "date": "2026-11-03",
-  "updatedAt": "2026-11-03T22:41:05.037Z",
-  "edition": "tarde",
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T13:28:13.725Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
+          "title": "Resultados de las elecciones 'midterm' 2026 de EEUU, en directo - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVGekhfTnZJb1pENTE4OVQ1Z0xuRkN0MTNXTFl6azVHeS1KN2U2RTRIVThSa0lOeUp4eTFrRkphaW5kbV85UDBQaGdXbFFCWTdOWUNZN1pUTEFTYi05RzFvZmlFcUZVZ2tCaG5mV1hFaGlETDlZd0dLUjlIX3pVaVJ3djhycE15Q19uWUZlQ3E3NG9veVBORG930gGfAUFVX3lxTE1yOEZmRkt3QkMtcGdHLU11SjFtb3RsRi1DLXN2RE5UZ3BxemdySzJqclMyWC1JNnkxel8yd2hObnQ4R1RTSldNbFJpekplakdmNUFBWUs3UllTZzNSV2RSTGlVdldBM2dHZGFZSXZVVjRENERQWm5SN1JtTXVUeVZBcmZ5WDVCZjdVYzZiT0NwcXRlQW1qZmFYbzR6dGlaTQ?oc=5",
+          "source": "Público",
+          "summary": "Resultados de las elecciones 'midterm' 2026 de EEUU, en directo Diario Público",
+          "sources": [
+            "Público",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-04T13:28:13.725Z"
+        },
+        {
+          "title": "Las ‘midterms’ 2026, en vivo| Estados Unidos asimila el impacto de la ola azul que arrebató el Congreso a los republicanos y repudió las políticas de Trump",
+          "link": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
           "source": "El País",
-          "summary": "“Tomaremos nota si hay un cambio de ciclo en España”, advierte Abascal a las organizaciones sindicales ante un nuevo Gobierno. Los sindicatos consideran “insultante” el planteamiento del popular",
+          "summary": "La Cámara de Representantes y el Senado han pasado a manos demócratas con el respaldo de lugares profundamente republicanos | Las elecciones dejan más de una sorpresa; una de las más relevantes, el triunfo de Gina Hinojosa en Texas",
           "sources": [
             "El País",
-            "20minutos",
-            "Europa Press",
-            "elDiario.es",
-            "Público"
+            "Europa Press"
           ],
-          "firstSeen": "2026-11-03T13:14:57.193Z"
+          "firstSeen": "2026-11-04T13:28:13.725Z"
         },
         {
-          "title": "Sánchez anuncia que el decreto de ayudas para las víctimas de Urda contempla bajas específicas e indemnizaciones anticipadas",
-          "link": "https://www.20minutos.es/nacional/sanchez-anuncia-que-decreto-ayudas-para-las-victimas-urda-preve-bajas-especificas-indemnizaciones-anticipadas_7056166_0.html",
-          "source": "20minutos",
-          "summary": "El Consejo de Ministros aprobará este martes el decreto, que también \"doblará\" el seguro obligatorio de pasajeros.",
+          "title": "Feijóo apunta a Sánchez y acusa a Puente de dimitir “de forma indigna”",
+          "link": "https://elpais.com/espana/2026-11-04/feijoo-apunta-a-sanchez-y-acusa-a-puente-de-dimitir-de-forma-indigna.html",
+          "source": "El País",
+          "summary": "El líder del PP se compromete a presentar el Presupuesto en la primavera de 2027 con efectos retroactivos si llega al Gobierno",
           "sources": [
-            "20minutos",
             "El País",
-            "elDiario.es"
+            "Europa Press"
           ],
-          "firstSeen": "2026-11-03T00:11:41.591Z"
+          "firstSeen": "2026-11-04T13:28:13.725Z"
         },
         {
-          "title": "El delegado del Gobierno en Cantabria denuncia a un edil del PP al que acusa de haberle abofeteado",
-          "link": "https://www.20minutos.es/cantabria/delegado-gobierno-cantabria-denuncia-un-edil-pp-por-abofetearle-una-feria-ganadera_7056513_0.html",
-          "source": "20minutos",
-          "summary": "Fuentes del PSOE aseguran que la denuncia se interpone contra el portavoz del PP en el Ayuntamiento de Ruesga.",
+          "title": "UGT celebra la victoria demócrata en las elecciones de medio mandato estadounidenses",
+          "link": "https://www.ugt.es/ugt-celebra-la-victoria-democrata-en-las-elecciones-de-medio-mandato-estadounidenses",
+          "source": "UGT",
+          "summary": "UGT celebra la victoria demócrata en las elecciones de medio mandato estadounidenses La clase trabajadora organizada ha sido decisiva en el resultado. Ahora toca responder a décadas de deterioro de sus condiciones de vida. Carles García Pastor Mié, 04/11/2026 - 09:38 Internacional Elecciones midterm en EEUU Abrir en pestaña nueva Desactivado La Unión General de Trabajadoras y Trabajadores (UGT) celebra los resultados de las elecciones de medio mandato celebradas ayer en Estados Unidos, en las que el Partido Demócrata ha recuperado el control de la Cámara de Representantes y del Senado. Se…",
           "sources": [
-            "20minutos",
-            "El País",
-            "elDiario.es"
+            "UGT",
+            "El Salto"
           ],
-          "firstSeen": "2026-11-03T13:14:57.193Z"
-        },
-        {
-          "title": "Ayuso otorga al presidente de Chile la Medalla Internacional de la Comunidad y destaca la apuesta de Kast por seguridad",
-          "link": "https://www.europapress.es/madrid/noticia-ayuso-otorga-presidente-chile-medalla-internacional-comunidad-destaca-apuesta-kast-seguridad-20261102191426.html",
-          "source": "Europa Press",
-          "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha otorgado este lunes al presidente de Chile, José Antonio Kast, la Medalla Internacional de la Comunidad de Madrid y ha reivindicado su apuesta por la seguridad en el país latinoamericano.",
-          "sources": [
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-03T00:11:41.591Z"
-        },
-        {
-          "title": "La escritora Cristina Fernández Cubas gana el Cervantes 2026 por \"revalorizar el relato breve\"",
-          "link": "https://www.20minutos.es/libros/escritora-cristina-fernandez-cubas-gana-premio-cervantes-2026_7056797_0.html",
-          "source": "20minutos",
-          "summary": "El galardón, anunciado este martes por el ministro de Cultura, Ernest Ursatun, está dotado con 125.000 euros.",
-          "sources": [
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-03T22:41:05.037Z"
+          "firstSeen": "2026-11-04T13:28:13.725Z"
         }
       ],
       "items": [
         {
-          "title": "Sánchez reivindica la dimisión de Puente tras “dar la cara”: “Demuestra que no todos somos iguales”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-03/sanchez-reivindica-la-dimision-de-puente-tras-dar-la-cara-demuestra-que-no-todos-somos-iguales.html",
+          "title": "El Gobierno francés admite que varios bancos de sangre también han sido objetivo de ciberataques",
+          "link": "https://elpais.com/tecnologia/2026-11-04/el-gobierno-frances-admite-que-varios-bancos-de-sangre-tambien-han-sido-objetivo-de-ciberataques.html",
           "source": "El País",
-          "published": "2026-11-03T22:05:47.000Z"
+          "published": "2026-11-04T13:04:44.000Z"
         },
         {
-          "title": "Las ‘midterms’ 2026, en vivo | Las elecciones de Estados Unidos transcurren sin mayores incidentes pese al temor a la presencia de agentes federales",
-          "link": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
-          "source": "El País",
-          "published": "2026-11-03T22:04:12.000Z"
-        },
-        {
-          "title": "El ministro comunicó su decisión al presidente minutos antes de anunciarla",
-          "link": "https://www.20minutos.es/nacional/oscar-puente-comunico-su-dimision-sanchez-minutos-antes-anunciarla-congreso-se-que-sera-un-momento-triste-para_7056851_0.html",
+          "title": "El mensaje que esconde el vestido de Ayuso en la gala de entrega de los Global Tech Leaders Awards de este año",
+          "link": "https://www.20minutos.es/mujer/moda/mensaje-oculto-vestido-isabel-diaz-ayuso-gala-global-tech-leaders-awards-2026_7057093_0.html",
           "source": "20minutos",
-          "published": "2026-11-03T21:41:43.000Z"
+          "published": "2026-11-04T12:52:34.000Z"
         },
         {
-          "title": "Sánchez respalda a Puente por \"dar la cara\" y dimitir \"por las víctimas\": \"Dignifica nuestro país\"",
-          "link": "https://www.europapress.es/nacional/noticia-sanchez-respalda-puente-dar-cara-dimitir-victimas-dignifica-pais-20261103224132.html",
+          "title": "La Justicia confirma 11 años de cárcel para un párroco de Vallecas por violar a una feligresa",
+          "link": "https://www.eldiario.es/madrid/justicia-confirma-11-anos-carcel-parroco-vallecas-violar-feligresa_1_13636601.html",
+          "source": "elDiario.es",
+          "published": "2026-11-04T12:42:05.000Z"
+        },
+        {
+          "title": "El Comité Electoral de Israel confirma los resultados de los comicios y advierte del “peligro” de cuestionar su veracidad",
+          "link": "https://elpais.com/internacional/2026-11-04/el-comite-electoral-de-israel-confirma-los-resultados-de-los-comicios-y-advierte-del-peligro-de-cuestionar-su-veracidad.html",
+          "source": "El País",
+          "published": "2026-11-04T12:24:07.000Z"
+        },
+        {
+          "title": "El Gobierno de Almeida sortea entradas para la NFL en el Bernabéu entre los vecinos del barrio más rico de la capital",
+          "link": "https://www.eldiario.es/madrid/somos/gobierno-almeida-sortea-entradas-nfl-bernabeu-habitantes-barrio-rico-capital_1_13636428.html",
+          "source": "elDiario.es",
+          "published": "2026-11-04T12:18:52.000Z"
+        },
+        {
+          "title": "La inflación, la guerra en Irán y el hartazgo con Trump: claves de la ola demócrata que toma el Congreso de EEUU",
+          "link": "https://www.europapress.es/internacional/noticia-inflacion-guerra-iran-hartazgo-trump-claves-ola-democrata-toma-congreso-eeuu-20261104131523.html",
           "source": "Europa Press",
-          "published": "2026-11-03T21:41:32.000Z"
+          "published": "2026-11-04T12:15:23.000Z"
         },
         {
-          "title": "Sánchez: \"Ha dado la cara. Por voluntad propia. Gracias por tanto, compañero\"",
-          "link": "https://www.20minutos.es/nacional/pedro-sanchez-sobre-dimision-oscar-puente-ha-dado-cara-por-voluntad-propia-gracias-por-tanto-companero_7056849_0.html",
-          "source": "20minutos",
-          "published": "2026-11-03T21:37:44.000Z"
-        },
-        {
-          "title": "El PP apunta ahora a Sánchez tras la renuncia de Puente: “Le dimitiremos en las urnas”",
-          "link": "https://elpais.com/espana/2026-11-03/el-pp-no-se-va-por-las-victimas-ni-por-dignidad-sino-por-las-encuestas.html",
+          "title": "Las universidades madrileñas, en huelga para denunciar “el pacto de la vergüenza” de Ayuso con sus rectores",
+          "link": "https://elpais.com/educacion/2026-11-04/las-universidades-madrilenas-en-huelga-para-denunciar-el-pacto-de-la-verguenza-de-ayuso-con-sus-rectores.html",
           "source": "El País",
-          "published": "2026-11-03T21:15:55.000Z"
+          "published": "2026-11-04T12:15:13.000Z"
         },
         {
-          "title": "La acampada dice adiós con una manifestación que acaba con disparos de pelotas de goma de los antidisturbios",
-          "link": "https://elpais.com/espana/madrid/2026-11-03/madrid-se-despide-de-la-acampada-de-sol.html",
+          "title": "Cómo saber si le ha tocado estar en una mesa electoral en las elecciones del 29-N y qué pasa si no puede acudir",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-04/como-saber-si-le-ha-tocado-estar-en-una-mesa-electoral-en-las-elecciones-del-29-n-y-que-pasa-si-no-puede-acudir.html",
           "source": "El País",
-          "published": "2026-11-03T20:53:36.000Z"
-        },
-        {
-          "title": "El escudo de Sánchez que cayó en desgracia por su gestión ferroviaria a las puertas de unas generales",
-          "link": "https://www.20minutos.es/nacional/oscar-puente-escudo-politico-sanchez-que-cayo-desgracia-por-su-gestion-ferroviaria-las-puertas-unas-generales_7055002_0.html",
-          "source": "20minutos",
-          "published": "2026-11-03T20:42:08.000Z"
+          "published": "2026-11-04T12:13:15.000Z"
         }
       ]
     },
@@ -124,118 +109,89 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Al menos 26 muertos por un bombardeo ruso contra una escuela en Ucrania",
-          "link": "https://elpais.com/internacional/2026-11-02/varios-muertos-por-un-bombardeo-ruso-contra-una-escuela-en-ucrania.html",
-          "source": "El País Internacional",
-          "summary": "Zelenski acusa al Kremlin de lanzar una decena de bombas contra un colegio utilizado para distribuir ayuda humanitaria en la región de Zaporiyia",
+          "title": "Quién es Abdul El-Sayed, el demócrata de Michigan que se convirtió en el primer senador musulmán en la historia de EE.UU.",
+          "link": "https://www.bbc.com/mundo/articles/cjx23zy222y6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "En el estado de Míchigan, el candidato del Partido Demócrata, Abdul El-Sayed, se convirtió en el primer senador musulmán del país.",
           "sources": [
-            "El País Internacional",
+            "BBC Mundo",
+            "France 24",
             "elDiario.es Internacional",
-            "DW",
-            "20minutos Internacional",
-            "France 24"
-          ],
-          "firstSeen": "2026-11-03T00:11:41.591Z"
-        },
-        {
-          "title": "Trump anuncia que EE.UU. suspenderá la ayuda financiera a Israel a finales de este año",
-          "link": "https://www.bbc.com/mundo/articles/cm4g1317y8e9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El presidente acusa a los demócratas de instrumentalizar la ayuda estadounidense a Israel como un \"argumento\" para atacar a los republicanos.",
-          "sources": [
-            "BBC Mundo",
-            "France 24",
-            "El País Internacional",
-            "20minutos Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-11-03T22:41:05.037Z"
-        },
-        {
-          "title": "EE.UU. vota en unas elecciones de medio mandato cruciales para el futuro del gobierno de Trump",
-          "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "Millones de estadounidenses acuden a las urnas para decidir quién controlará el Congreso en los dos años de presidencia que le restan a Donald Trump. Están en juego los 435 escaños en la Cámara de Representantes y 35 de 100 en el Senado.",
-          "sources": [
-            "BBC Mundo",
-            "France 24",
-            "El País Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-11-03T22:41:05.037Z"
+          "firstSeen": "2026-11-04T13:28:13.725Z"
         },
         {
-          "title": "Rusia anuncia que negociará con Ucrania, bajo mediación de Estados Unidos, la próxima semana en Abu Dabi",
-          "link": "https://elpais.com/internacional/2026-11-03/rusia-anuncia-que-negociara-con-ucrania-bajo-mediacion-de-estados-unidos-la-proxima-semana-en-abu-dabi.html",
-          "source": "El País Internacional",
-          "summary": "Las nuevas conversaciones de paz a tres bandas, aún no confirmadas por Kiev, están previstas el 10 y el 11 de noviembre",
+          "title": "Trump pierde el control del Congreso: ¿Es un voto castigo a los republicanos?",
+          "link": "https://www.france24.com/es/video/20261104-trump-pierde-el-control-del-congreso-es-un-voto-castigo-a-los-republicanos",
+          "source": "France 24",
+          "summary": "La contundente victoria demócrata en las elecciones de medio término, que permitirá a la bancada azul recuperar el control tanto de la Cámara de Representantes como del Senado, abre una nueva etapa de confrontación política para Donald Trump. ¿Es un voto castigo para los republicanos? Lo conversamos con Adam Dubin, profesor de derecho y relaciones internacionales de la Universidad de Comillas. También hablamos sobre las victorias progresistas demócratas que hacen historia.",
           "sources": [
-            "El País Internacional",
-            "20minutos Internacional",
-            "DW"
+            "France 24",
+            "El País Internacional"
           ],
-          "firstSeen": "2026-11-03T13:14:57.193Z"
+          "firstSeen": "2026-11-04T13:28:13.725Z"
         },
         {
-          "title": "El primer ministro de Bélgica presenta su dimisión por el colapso de la negociación presupuestaria",
-          "link": "https://elpais.com/internacional/2026-11-02/crisis-en-el-gobierno-de-belgica-por-el-fracaso-de-la-negociacion-presupuestaria.html",
-          "source": "El País Internacional",
-          "summary": "El rey, que no ha aclarado si aceptará el cese, abre una ronda de consultas con los partidos del Gobierno de coalición y les insta a evitar una crisis en plena “incertidumbre geopolítica”",
+          "title": "James Talarico se convierte en el primer senador demócrata por Texas tras 38 años",
+          "link": "https://www.france24.com/es/video/20261104-james-talarico-se-convierte-en-el-primer-senador-dem%C3%B3crata-por-texas-tras-38-a%C3%B1os",
+          "source": "France 24",
+          "summary": "El demócrata y pastor James Talarico logró una victoria histórica en Texas al imponerse ante el republicano Ken Paxton en las elecciones de medio término del 3 de noviembre. Este triunfo marca un hito en el estado, que no elegía a un senador demócrata desde 1988. \"Nunca perdimos la fe y hoy recuperamos el poder\", declaró Talarico ante sus seguidores en Austin, capital texana.",
           "sources": [
-            "El País Internacional",
-            "20minutos Internacional"
+            "France 24",
+            "BBC Mundo"
           ],
-          "firstSeen": "2026-11-03T00:11:41.591Z"
+          "firstSeen": "2026-11-04T13:28:13.725Z"
         }
       ],
       "items": [
         {
-          "title": "Trump: a republicanos les irá \"mejor de lo esperado\" en las elecciones",
-          "link": "https://www.dw.com/es/trump-a-republicanos-les-irá-mejor-de-lo-esperado-en-las-elecciones/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "\"Ola azul\" en EE.UU.: los demócratas recuperan el control del Congreso y asestan un duro golpe a Trump en las elecciones de medio mandato; resultados y reacciones",
+          "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-11-04T13:28:12.040Z"
+        },
+        {
+          "title": "Un ciberataque altera las cámaras frigoríficas del banco central de sangre de Francia",
+          "link": "https://www.20minutos.es/internacional/un-ciberataque-altera-las-camaras-frigorificas-banco-central-sangre-francia_7057133_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-04T12:35:10.000Z"
+        },
+        {
+          "title": "Las victorias históricas de los demócratas que más duelen a Trump: musulmanes, latinos, negras, indígenas y el primer senador gay",
+          "link": "https://www.eldiario.es/internacional/victorias-historicas-democratas-duelen-trump-musulmanes-latinos-negras-indigenas-primer-senador-gay_1_13636374.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-04T12:30:33.000Z"
+        },
+        {
+          "title": "Bruselas califica de \"muy preocupantes\" los accidentes ferroviarios en España y pide al Gobierno acelerar la implantación del EMRTS",
+          "link": "https://www.20minutos.es/internacional/bruselas-califica-muy-preocupantes-los-accidentes-ferroviarios-espana-pide-gobierno-acelerar-implantacion-emrts_7057128_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-04T12:27:54.000Z"
+        },
+        {
+          "title": "El ministro español de Economía asume Transportes tras grave accidente de trenes",
+          "link": "https://www.dw.com/es/el-ministro-español-de-economía-asume-transportes-tras-grave-accidente-de-trenes/a-79853307?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-03T21:53:00.000Z"
+          "published": "2026-11-04T12:24:00.000Z"
         },
         {
-          "title": "Tusk y Nawrocki acuerdan reunirse cara a cara para abordar la crisis del Constitucional",
-          "link": "https://elpais.com/internacional/2026-11-03/tusk-y-nawrocki-acuerdan-reunirse-cara-a-cara-para-abordar-la-crisis-del-constitucional.html",
-          "source": "El País Internacional",
-          "published": "2026-11-03T21:49:09.000Z"
+          "title": "De bastiones republicanos en el Senado a gobernaciones: las victorias históricas para los demócratas en las midterms",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261104-de-bastiones-republicanos-en-el-senado-a-gobernaciones-las-victorias-hist%C3%B3ricas-para-los-dem%C3%B3cratas-en-las-midterms",
+          "source": "France 24",
+          "published": "2026-11-04T12:18:16.000Z"
         },
         {
-          "title": "Eisenkot promete acelerar medidas para formar un Gobierno y desbancar a Netanyahu",
-          "link": "https://www.dw.com/es/eisenkot-promete-acelerar-medidas-para-formar-un-gobierno-y-desbancar-a-netanyahu/a-79848282?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-03T21:40:00.000Z"
+          "title": "Bruselas avala que Ucrania pueda cerrar las negociaciones de adhesión a la UE en 2028 y plantea una entrada gradual de nuevos socios",
+          "link": "https://www.20minutos.es/internacional/bruselas-avala-que-ucrania-pueda-cerrar-las-negociaciones-adhesion-ue-2028-plantea-una-entrada-gradual-nuevos-socios_7056935_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-04T12:15:14.000Z"
         },
         {
-          "title": "Así podrían influir las elecciones intermedias en EE. UU. en las guerras de Ucrania e Irán",
-          "link": "https://www.dw.com/es/así-podrían-influir-las-elecciones-intermedias-en-ee-uu-en-las-guerras-de-ucrania-e-irán/a-79844126?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-03T21:23:00.000Z"
-        },
-        {
-          "title": "Los Ángeles dice adiós al petróleo tras años de lucha vecinal",
-          "link": "https://www.dw.com/es/los-ángeles-dice-adiós-al-petróleo-tras-años-de-lucha-vecinal/a-79846695?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-03T20:27:00.000Z"
-        },
-        {
-          "title": "Merz garantiza a Zelenski apoyo hasta el final de la guerra y más ayuda para el invierno",
-          "link": "https://www.dw.com/es/merz-garantiza-a-zelenski-apoyo-hasta-el-final-de-la-guerra-y-más-ayuda-para-el-invierno/a-79847171?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-03T20:07:00.000Z"
-        },
-        {
-          "title": "Alemania busca culpables tras los disturbios de la Generación Z",
-          "link": "https://www.dw.com/es/alemania-busca-culpables-tras-los-disturbios-de-la-generación-z/a-79846161?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-03T19:52:00.000Z"
-        },
-        {
-          "title": "Polonia moviliza al ejército ante una provocación rusa en Kaliningrado",
-          "link": "https://elpais.com/internacional/2026-11-03/polonia-asegura-que-ha-neutralizado-un-intento-de-provocacion-ruso-en-la-frontera-con-kaliningrado.html",
-          "source": "El País Internacional",
-          "published": "2026-11-03T19:47:10.000Z"
+          "title": "Bruselas limita su 'potencia burocrática' ante el 'superaño' electoral: muchas menos leyes y prioridad a lo digital y a la competitividad",
+          "link": "https://www.20minutos.es/internacional/bruselas-limita-su-potencia-burocratica-ante-superano-electoral-muchas-menos-leyes-prioridad-digital-competitividad_7057022_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-04T12:02:06.000Z"
         }
       ]
     }
