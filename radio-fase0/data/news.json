@@ -1,117 +1,116 @@
 {
-  "date": "2026-11-04",
-  "updatedAt": "2026-11-04T22:59:21.029Z",
-  "edition": "tarde",
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T13:42:25.894Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Resultados de las elecciones 'midterm' 2026 de EEUU, en directo - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVGekhfTnZJb1pENTE4OVQ1Z0xuRkN0MTNXTFl6azVHeS1KN2U2RTRIVThSa0lOeUp4eTFrRkphaW5kbV85UDBQaGdXbFFCWTdOWUNZN1pUTEFTYi05RzFvZmlFcUZVZ2tCaG5mV1hFaGlETDlZd0dLUjlIX3pVaVJ3djhycE15Q19uWUZlQ3E3NG9veVBORG930gGfAUFVX3lxTE1yOEZmRkt3QkMtcGdHLU11SjFtb3RsRi1DLXN2RE5UZ3BxemdySzJqclMyWC1JNnkxel8yd2hObnQ4R1RTSldNbFJpekplakdmNUFBWUs3UllTZzNSV2RSTGlVdldBM2dHZGFZSXZVVjRENERQWm5SN1JtTXVUeVZBcmZ5WDVCZjdVYzZiT0NwcXRlQW1qZmFYbzR6dGlaTQ?oc=5",
-          "source": "Público",
-          "summary": "Resultados de las elecciones 'midterm' 2026 de EEUU, en directo Diario Público",
-          "sources": [
-            "Público",
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-04T13:28:13.725Z"
-        },
-        {
-          "title": "Las ‘midterms’ 2026, en vivo| Estados Unidos asimila el impacto de la ola azul que arrebató el Congreso a los republicanos y repudió las políticas de Trump",
-          "link": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+          "title": "Detenido un profesor de Secundaria en una concentración por la educación pública en Madrid",
+          "link": "https://elpais.com/educacion/2026-11-05/detenido-un-profesor-de-secundaria-en-una-concentracion-por-la-educacion-publica-en-madrid.html",
           "source": "El País",
-          "summary": "La Cámara de Representantes y el Senado han pasado a manos demócratas con el respaldo de lugares profundamente republicanos | Las elecciones dejan más de una sorpresa; una de las más relevantes, el triunfo de Gina Hinojosa en Texas",
+          "summary": "Agentes de la policía municipal arrestan al hombre, que protestaba junto a otros docentes en un acto de la huelga indefinida convocada en la Comunidad",
           "sources": [
             "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-04T13:28:13.725Z"
-        },
-        {
-          "title": "Feijóo apunta a Sánchez y acusa a Puente de dimitir “de forma indigna”",
-          "link": "https://elpais.com/espana/2026-11-04/feijoo-apunta-a-sanchez-y-acusa-a-puente-de-dimitir-de-forma-indigna.html",
-          "source": "El País",
-          "summary": "El líder del PP se compromete a presentar el Presupuesto en la primavera de 2027 con efectos retroactivos si llega al Gobierno",
-          "sources": [
-            "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-04T13:28:13.725Z"
-        },
-        {
-          "title": "UGT celebra la victoria demócrata en las elecciones de medio mandato estadounidenses",
-          "link": "https://www.ugt.es/ugt-celebra-la-victoria-democrata-en-las-elecciones-de-medio-mandato-estadounidenses",
-          "source": "UGT",
-          "summary": "UGT celebra la victoria demócrata en las elecciones de medio mandato estadounidenses La clase trabajadora organizada ha sido decisiva en el resultado. Ahora toca responder a décadas de deterioro de sus condiciones de vida. Carles García Pastor Mié, 04/11/2026 - 09:38 Internacional Elecciones midterm en EEUU Abrir en pestaña nueva Desactivado La Unión General de Trabajadoras y Trabajadores (UGT) celebra los resultados de las elecciones de medio mandato celebradas ayer en Estados Unidos, en las que el Partido Demócrata ha recuperado el control de la Cámara de Representantes y del Senado. Se…",
-          "sources": [
-            "UGT",
             "El Salto"
           ],
-          "firstSeen": "2026-11-04T13:28:13.725Z"
+          "firstSeen": "2026-11-05T13:42:25.894Z"
         },
         {
-          "title": "Las ‘midterms’ 2026, en vivo | Trump admite que la guerra en Irán influyó en la derrota, pero que “lo haría de nuevo”",
-          "link": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+          "title": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
+          "link": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
           "source": "El País",
-          "summary": "El vicepresidente, J. D. Vance, había previamente señalado el conflicto como la causa de la debacle republicana en las legislativas",
+          "summary": "En un audio publicado por la Cadena SER, el exasesor de Ábalos afirma que el letrado le ofreció una rebaja de la pena que suponía no entrar en la cárcel",
           "sources": [
             "El País",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-05T13:42:25.894Z"
+        },
+        {
+          "title": "La patronal pide frenar la subida del salario mínimo y que sea el próximo Gobierno quien la negocie",
+          "link": "https://www.eldiario.es/economia/patronal-pide-frenar-subida-salario-minimo-sea-proximo-gobierno-negocie_1_13640944.html",
+          "source": "elDiario.es",
+          "summary": "La CEOE ha mandado un comunicado en el que critica el aumento a 1.286 euros brutos al mes como \"una utilización política\" para las elecciones del próximo 29 de noviembre El salario mínimo subirá un 5,3% hasta los 1.286 euros al mes Trabajo pretende aumentar a 1.286 euros brutos al mes antes de las elecciones, y pide que sea el próximo Gobierno que salga de las elecciones del 29N quien negocie el incremento. (function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in…",
+          "sources": [
+            "elDiario.es",
             "20minutos"
           ],
-          "firstSeen": "2026-11-04T22:59:21.029Z"
+          "firstSeen": "2026-11-05T13:42:25.894Z"
+        },
+        {
+          "title": "Colau propone aumentar los impuestos a ultrarricos y grandes empresas para recaudar 10.000 millones de euros",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html",
+          "source": "El País",
+          "summary": "La candidata de Frente Amplio aboga por gravar el patrimonio de las grandes fortunas, los beneficios de la banca y la acumulación de vivienda",
+          "sources": [
+            "El País",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-05T13:42:25.894Z"
+        },
+        {
+          "title": "Amnistía Internacional documenta palizas de militares en Ceuta pese a que Defensa dijo que tomaría medidas",
+          "link": "https://www.elsaltodiario.com/ceuta/amnistia-internacional-documenta-palizas-militares-ceuta-pese-defensa-dijo-tomaria-medidas?utm_source=feed",
+          "source": "El Salto",
+          "summary": "Amnistía Internacional documenta 28 casos de malos tratos por parte de militares a personas migrantes en Ceuta. Se trata del segundo informe de estas características. La organización pide el cede del acoso a las organizaciones que trabajan sobre terreno como No Name Kitchen. Temas principal: Ceuta Leer artículo completo",
+          "sources": [
+            "El Salto",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-05T13:42:25.894Z"
         }
       ],
       "items": [
         {
-          "title": "Las redes se llenan de memes tras la victoria demócrata en Estados Unidos: \"¡Vuelve lo 'woke'!\"",
-          "link": "https://www.20minutos.es/internacional/las-redes-se-llenan-memes-tras-victoria-democrata-eeuu-vuelve-woke_7057386_0.html",
-          "source": "20minutos",
-          "published": "2026-11-04T20:55:40.000Z"
-        },
-        {
-          "title": "El Rey inaugura la XXX Cumbre Iberoamericana alabando que la comunidad de naciones “franquea el acceso a un espacio de mayor libertad y prosperidad”",
-          "link": "https://elpais.com/espana/2026-11-04/el-rey-inaugura-la-primera-jornada-de-la-xxx-cumbre-iberoamericana-en-madrid.html",
+          "title": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 17 aviones con destino a ciudades europeas",
+          "link": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
           "source": "El País",
-          "published": "2026-11-04T20:17:15.000Z"
+          "published": "2026-11-05T13:27:12.000Z"
         },
         {
-          "title": "Díaz se encamina a su primer aumento del salario mínimo sin acuerdo con los sindicatos para aprobarlo antes del 29-N",
-          "link": "https://elpais.com/economia/2026-11-04/diaz-se-encamina-a-su-primer-aumento-del-salario-minimo-sin-acuerdo-con-los-sindicatos-para-aprobarlo-antes-del-29-n.html",
-          "source": "El País",
-          "published": "2026-11-04T20:15:58.000Z"
-        },
-        {
-          "title": "Trump defiende la guerra en Irán pese a la debacle electoral de los republicanos en las 'midterm'",
-          "link": "https://www.europapress.es/internacional/noticia-trump-defiende-guerra-iran-pese-debacle-electoral-republicanos-midterm-20261104202221.html",
-          "source": "Europa Press",
-          "published": "2026-11-04T19:22:21.000Z"
-        },
-        {
-          "title": "La respuesta de Sánchez al último mensaje de Puente antes de dimitir: \"Ni se te ocurra, no lo hagas\"",
-          "link": "https://www.20minutos.es/nacional/respuesta-sanchez-ultimo-mensaje-oscar-puente-antes-dimitir-como-ministro-transportes-ni-se-te-ocurra-no-hagas_7057351_0.html",
-          "source": "20minutos",
-          "published": "2026-11-04T18:46:31.000Z"
-        },
-        {
-          "title": "¿Cómo puede el nuevo Congreso de EE UU prohibir la guerra de Irán?",
-          "link": "https://elpais.com/videos/2026-11-04/como-puede-el-nuevo-congreso-de-ee-uu-prohibir-la-guerra-de-iran.html",
-          "source": "El País",
-          "published": "2026-11-04T18:31:29.000Z"
-        },
-        {
-          "title": "\"Mayday, mayday, Canarias está siendo invadida\": el PP canario reproduce el discurso antiinmigracion de Vox",
-          "link": "https://www.eldiario.es/canariasahora/politica/canarias-invadida-mensaje-desesperado-vicepresidente-canario-pp-llegada-cayucos_1_13638658.html",
+          "title": "La policía detiene a un profesor en las protestas docentes en Madrid",
+          "link": "https://www.eldiario.es/sociedad/policia-detiene-profesor-protestas-docentes-madrid_1_13641048.html",
           "source": "elDiario.es",
-          "published": "2026-11-04T18:29:16.000Z"
+          "published": "2026-11-05T13:14:10.000Z"
         },
         {
-          "title": "¿Y ahora qué? Demócratas y republicanos empiezan a diseñar sus estrategias tras el vuelco electoral",
-          "link": "https://elpais.com/us/2026-11-04/y-ahora-que-democratas-y-republicanos-empiezan-a-disenar-sus-estrategias-tras-el-vuelco-electoral.html",
+          "title": "Koldo García desde prisión insiste en que el PP le ofreció dinero: \"Yo daré el remate final\"",
+          "link": "https://www.eldiario.es/politica/koldo-garcia-prision-insiste-pp-le-ofrecio-dinero-dare-remate-final_1_13640815.html",
+          "source": "elDiario.es",
+          "published": "2026-11-05T13:12:21.000Z"
+        },
+        {
+          "title": "La Fiscalía rebaja la pena de cárcel que solicita para Ignacio González en su primer juicio por corrupción",
+          "link": "https://elpais.com/espana/2026-11-05/la-fiscalia-rebaja-la-pena-de-carcel-que-solicita-para-ignacio-gonzalez-en-su-primer-juicio-por-corrupcion.html",
           "source": "El País",
-          "published": "2026-11-04T18:01:54.000Z"
+          "published": "2026-11-05T13:10:07.000Z"
+        },
+        {
+          "title": "CEOE acusa al Gobierno de \"utilizar políticamente\" el SMI y pide aplazar la subida a después de las elecciones",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ceoe-acusa-gobierno-utilizar-politicamente-smi-pide-aplazar-subida-despues-las-elecciones_7057669_0.html",
+          "source": "20minutos",
+          "published": "2026-11-05T12:41:18.000Z"
+        },
+        {
+          "title": "UGT y CCOO valoran la subida del SMI del 5,3 % para 2027, pero exigen que llegue íntegra a las nóminas",
+          "link": "https://www.ugt.es/ugt-y-ccoo-valoran-la-subida-del-smi-del-53-para-2027-pero-exigen-que-llegue-integra-las-nominas",
+          "source": "UGT",
+          "published": "2026-11-05T12:36:33.000Z"
+        },
+        {
+          "title": "La Asamblea francesa rechaza el presupuesto con 458 votos en contra y cero a favor, incluidos los del Gobierno",
+          "link": "https://diariosocialista.net/2026/11/05/la-asamblea-francesa-rechaza-el-presupuesto-con-458-votos-en-contra-y-cero-a-favor-incluidos-los-del-gobierno/",
+          "source": "Diario Socialista",
+          "published": "2026-11-05T12:24:52.000Z"
+        },
+        {
+          "title": "El PP señala a Sánchez como único miembro de \"la banda del Peugeot\" no encausado pero cree que \"es cuestión de tiempo\"",
+          "link": "https://www.20minutos.es/nacional/pp-senala-sanchez-como-unico-miembro-banda-peugeot-no-encausado-pero-cree-que-es-cuestion-tiempo_7057627_0.html",
+          "source": "20minutos",
+          "published": "2026-11-05T12:07:01.000Z"
         }
       ]
     },
@@ -120,113 +119,76 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Quién es Abdul El-Sayed, el demócrata de Michigan que se convirtió en el primer senador musulmán en la historia de EE.UU.",
-          "link": "https://www.bbc.com/mundo/articles/cjx23zy222y6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "En el estado de Míchigan, el candidato del Partido Demócrata, Abdul El-Sayed, se convirtió en el primer senador musulmán del país.",
+          "title": "Vance achaca la derrota electoral de los republicanos en EEUU a la guerra de Irán y Trump insiste: \"Volvería a hacerlo\"",
+          "link": "https://www.eldiario.es/internacional/vance-achaca-derrota-electoral-republicanos-eeuu-guerra-iran-trump-insiste-volveria-hacerlo_1_13639744.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El presidente estadounidense reitera: \"Si yo me hubiera presentado a las elecciones, habríamos ganado” Trump afronta el final de su mandato vapuleado en las urnas y con un cisma interno Vance publicó un largo mensaje en X en el que analiza los factores de la aplastante derrota en las urnas. Según un encuestador que cita anónimamente, las cuatro principales preocupaciones de los estadounidenses tenían que ver con la agenda ultra de Trump: “Acabar con la guerra; centrarse en el coste de la vida y la inflación; poner a Estados Unidos primero; y cambiar nuestra relación con Israel”. Al ser…",
           "sources": [
-            "BBC Mundo",
-            "France 24",
             "elDiario.es Internacional",
             "20minutos Internacional"
           ],
-          "firstSeen": "2026-11-04T13:28:13.725Z"
+          "firstSeen": "2026-11-05T13:42:25.894Z"
         },
         {
-          "title": "Vance atribuye la derrota republicana a la guerra contra Irán",
-          "link": "https://www.dw.com/es/vance-atribuye-la-derrota-republicana-a-la-guerra-contra-irán/a-79857934?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El vicepresidente de Estados Unidos dijo que si alguien cree que perder el Senado es un costo aceptable, debería decirlo. “Todo el mundo sabe por qué perdimos”, agregó.",
+          "title": "Un tribunal de Hong Kong suma 10 años de prisión al activista Joshua Wong en otra condena por las protestas de 2019",
+          "link": "https://www.eldiario.es/internacional/tribunal-hong-kong-suma-10-anos-prision-activista-joshua-wong-condena-protestas_1_13639623.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El líder juvenil lleva encarcelado desde 2020 tras las manifestaciones prodemocráticas en la metrópolis china HEMEROTECA — Los activistas de Hong Kong prometen pelea contra la ley de seguridad nacional de China: “Nuestro espíritu nunca será aplastado” impuesta por Pekín en 2020. Wong, de 30 años, que se declaró culpable en septiembre y se enfrentaba a una condena que podía llegar a la cadena perpetua, recibió la sentencia en el Tribunal Superior de Hong Kong, informaron varios medios locales, entre ellos Hong Kong Free Press. La causa se refiere a una acusación según la cual Wong pidió a…",
           "sources": [
-            "DW",
-            "El País Internacional",
-            "France 24",
-            "20minutos Internacional"
+            "elDiario.es Internacional",
+            "DW"
           ],
-          "firstSeen": "2026-11-04T22:59:21.029Z"
-        },
-        {
-          "title": "Trump pierde el control del Congreso: ¿Es un voto castigo a los republicanos?",
-          "link": "https://www.france24.com/es/video/20261104-trump-pierde-el-control-del-congreso-es-un-voto-castigo-a-los-republicanos",
-          "source": "France 24",
-          "summary": "La contundente victoria demócrata en las elecciones de medio término, que permitirá a la bancada azul recuperar el control tanto de la Cámara de Representantes como del Senado, abre una nueva etapa de confrontación política para Donald Trump. ¿Es un voto castigo para los republicanos? Lo conversamos con Adam Dubin, profesor de derecho y relaciones internacionales de la Universidad de Comillas. También hablamos sobre las victorias progresistas demócratas que hacen historia.",
-          "sources": [
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-11-04T13:28:13.725Z"
-        },
-        {
-          "title": "James Talarico se convierte en el primer senador demócrata por Texas tras 38 años",
-          "link": "https://www.france24.com/es/video/20261104-james-talarico-se-convierte-en-el-primer-senador-dem%C3%B3crata-por-texas-tras-38-a%C3%B1os",
-          "source": "France 24",
-          "summary": "El demócrata y pastor James Talarico logró una victoria histórica en Texas al imponerse ante el republicano Ken Paxton en las elecciones de medio término del 3 de noviembre. Este triunfo marca un hito en el estado, que no elegía a un senador demócrata desde 1988. \"Nunca perdimos la fe y hoy recuperamos el poder\", declaró Talarico ante sus seguidores en Austin, capital texana.",
-          "sources": [
-            "France 24",
-            "BBC Mundo"
-          ],
-          "firstSeen": "2026-11-04T13:28:13.725Z"
-        },
-        {
-          "title": "Qué pueden hacer ahora los demócratas (y qué no) con el nuevo control del Congreso",
-          "link": "https://www.bbc.com/mundo/articles/cwn8dm2kx7meo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "Los demócratas pueden aprobar las leyes mediante votación. Pero Trump aún conserva el poder de veto.",
-          "sources": [
-            "BBC Mundo",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-11-04T22:59:21.029Z"
+          "firstSeen": "2026-11-05T13:42:25.894Z"
         }
       ],
       "items": [
         {
-          "title": "Los demócratas ganan el control del Congreso, Trump es criticado por su propio partido y EE.UU. entra en una nueva era política tras las elecciones de medio término",
-          "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
+          "title": "Ciberataques en Europa: ¿están en riesgo todos los equipos conectados a internet?",
+          "link": "https://www.france24.com/es/programas/ciencia-y-tecnolog%C3%ADa/20261105-ciberataques-en-europa-est%C3%A1n-en-riesgo-todos-los-equipos-conectados-a-internet",
+          "source": "France 24",
+          "published": "2026-11-05T13:13:19.000Z"
+        },
+        {
+          "title": "El frío saludo entre Pedro Sánchez y Javier Milei en la Cumbre Iberoamericana de Madrid",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-el-fr%C3%ADo-saludo-entre-pedro-s%C3%A1nchez-y-javier-milei-en-la-cumbre-iberoamericana-de-madrid",
+          "source": "France 24",
+          "published": "2026-11-05T13:11:34.000Z"
+        },
+        {
+          "title": "Xi Jinping intensifica la purga anticorrupción en el Partido Comunista",
+          "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261105-xi-jinping-intensifica-la-purga-anticorrupci%C3%B3n-en-el-partido-comunista",
+          "source": "France 24",
+          "published": "2026-11-05T13:11:08.000Z"
+        },
+        {
+          "title": "Los demócratas arrasan en las midterms: ¿usará Trump el veto para frenar al Congreso?",
+          "link": "https://www.france24.com/es/programas/el-debate/20261105-los-dem%C3%B3cratas-arrasan-en-las-midterms-usar%C3%A1-trump-el-veto-para-frenar-al-congreso",
+          "source": "France 24",
+          "published": "2026-11-05T13:09:13.000Z"
+        },
+        {
+          "title": "Una nueva jornada de huelgas y protestas vuelve a desafiar a Macron en Francia",
+          "link": "https://www.france24.com/es/francia/20261105-trabajadores-y-sindicatos-vuelven-a-las-calles-en-francia-con-una-jornada-de-huelgas-y-protestas",
+          "source": "France 24",
+          "published": "2026-11-05T12:16:10.000Z"
+        },
+        {
+          "title": "En directo: comienza la marcha en París mientras los sindicatos se unen para realizar huelgas a escala nacional",
+          "link": "https://www.france24.com/es/francia/20261105-trabajadores-y-sindicatos-vuelven-a-las-calles-en-francia-con-una-jornada-de-huelgas-y-protestas",
+          "source": "France 24",
+          "published": "2026-11-05T12:11:41.000Z"
+        },
+        {
+          "title": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de medio mandato en EE.UU.",
+          "link": "https://www.bbc.com/mundo/articles/cq203vjl5ym8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-11-04T22:59:19.155Z"
+          "published": "2026-11-05T11:56:53.000Z"
         },
         {
-          "title": "Zelenski llega a España por sorpresa en el marco de la XXX Cumbre Iberoamericana",
-          "link": "https://www.dw.com/es/zelenski-llega-a-españa-por-sorpresa-en-el-marco-de-la-xxx-cumbre-iberoamericana/a-79859596?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-04T22:40:00.000Z"
-        },
-        {
-          "title": "La Casa Blanca recuerda que Trump \"es todavía presidente\" pese a la derrota en las legislativas",
-          "link": "https://www.dw.com/es/la-casa-blanca-recuerda-que-trump-es-todavía-presidente-pese-a-la-derrota-en-las-legislativas/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-04T22:18:00.000Z"
-        },
-        {
-          "title": "Irán se burla del varapalo electoral de Trump: \"Hablaron de un cambio de régimen, lo hicimos realidad\"",
-          "link": "https://www.france24.com/es/medio-oriente/20261104-ir%C3%A1n-se-burla-del-varapalo-electoral-de-trump-hablaron-de-un-cambio-de-r%C3%A9gimen-lo-hicimos-realidad",
-          "source": "France 24",
-          "published": "2026-11-04T21:53:51.000Z"
-        },
-        {
-          "title": "Las reacciones internacionales al revés de Trump en las Midterms",
-          "link": "https://www.france24.com/es/video/20261104-las-reacciones-internacionales-al-rev%C3%A9s-de-trump-en-las-midterms",
-          "source": "France 24",
-          "published": "2026-11-04T21:43:47.000Z"
-        },
-        {
-          "title": "¿Podrían los demócratas considerar un nuevo juicio contra Trump tras el triunfo en las midterms?",
-          "link": "https://www.france24.com/es/video/20261104-podr%C3%ADan-los-dem%C3%B3cratas-considerar-un-nuevo-juicio-contra-trump-tras-el-triunfo-en-las-midterms",
-          "source": "France 24",
-          "published": "2026-11-04T21:40:11.000Z"
-        },
-        {
-          "title": "Texas se tiñe de azul: los demócratas Talarico e Hinojosa conquistan Senado y gobernación",
-          "link": "https://www.france24.com/es/video/20261104-texas-se-ti%C3%B1e-de-azul-los-dem%C3%B3cratas-talarico-e-hinojosa-conquistan-senado-y-gobernaci%C3%B3n",
-          "source": "France 24",
-          "published": "2026-11-04T21:36:52.000Z"
-        },
-        {
-          "title": "La ola azul en EE. UU.: demócratas recuperan Congreso y gobernaciones clave",
-          "link": "https://www.france24.com/es/video/20261104-la-ola-azul-en-ee-uu-dem%C3%B3cratas-recuperan-congreso-y-gobernaciones-clave",
-          "source": "France 24",
-          "published": "2026-11-04T21:33:38.000Z"
+          "title": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
+          "link": "https://www.bbc.com/mundo/articles/cxj0l66rrdz4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-11-05T11:31:25.000Z"
         }
       ]
     }
