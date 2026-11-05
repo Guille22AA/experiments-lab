@@ -1,12 +1,36 @@
 {
-  "date": "2026-11-05",
-  "updatedAt": "2026-11-05T13:42:25.894Z",
-  "edition": "mediodía",
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-05T23:01:25.113Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "La Policía identifica a dos altos mandos policiales marroquíes presentes en la frontera el día de la entrada masiva",
+          "link": "https://www.eldiario.es/politica/policia-identifica-altos-cargos-policiales-marroquies-presentes-frontera-dia-entrada-masiva_1_13641528.html",
+          "source": "elDiario.es",
+          "summary": "El oficio indica que se trata del prefecto de Policía de la región de Tetuán, Mohamend El Oualidi, y del supervisor general de Castillejos, Abdel Fattah El Sayed El Radi La jueza Tardón advierte de que investigará la reacción del Gobierno a las alertas que recibió de la crisis de CeutaLa jueza Tardón advierte de que investigará la reacción del Gobierno a las alertas que recibió de la crisis de Ceuta En un oficio entregado a la magistrada de la Audiencia Nacional, la Policía Nacional explica que esas identificaciones se obtienen de vídeos publicados por medios marroquíes y recalca que ambos…",
+          "sources": [
+            "elDiario.es",
+            "Público",
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-11-05T23:01:25.113Z"
+        },
+        {
+          "title": "Sánchez exige explicaciones a Feijóo sobre el supuesto intento de soborno a Koldo García",
+          "link": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
+          "source": "elDiario.es",
+          "summary": "\"Ninguna de esas personas tiene nada que ver conmigo\", sostiene el presidente del Gobierno al ser preguntado por la operación de la UCO, que ha detenido a seis personas en una investigación por amaño de contratos públicos y blanqueo en la época de Ábalos Koldo García afirma que el abogado del PP le ofreció un millón por mentir contra el Gobierno de Sánchez “Ante estas acusaciones tan graves que se están virtiendo sobre el Partido Popular, el señor Feijóo tendría que dar alguna explicación”. Con estas palabras se ha expresado este jueves el presidente del Gobierno, Pedro Sánchez, al ser…",
+          "sources": [
+            "elDiario.es",
+            "Público"
+          ],
+          "firstSeen": "2026-11-05T23:01:25.113Z"
+        },
         {
           "title": "Detenido un profesor de Secundaria en una concentración por la educación pública en Madrid",
           "link": "https://elpais.com/educacion/2026-11-05/detenido-un-profesor-de-secundaria-en-una-concentracion-por-la-educacion-publica-en-madrid.html",
@@ -16,7 +40,7 @@
             "El País",
             "El Salto"
           ],
-          "firstSeen": "2026-11-05T13:42:25.894Z"
+          "firstSeen": "2026-11-05T23:01:25.113Z"
         },
         {
           "title": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
@@ -25,92 +49,70 @@
           "summary": "En un audio publicado por la Cadena SER, el exasesor de Ábalos afirma que el letrado le ofreció una rebaja de la pena que suponía no entrar en la cárcel",
           "sources": [
             "El País",
-            "elDiario.es"
+            "Público"
           ],
-          "firstSeen": "2026-11-05T13:42:25.894Z"
+          "firstSeen": "2026-11-05T23:01:25.113Z"
         },
         {
-          "title": "La patronal pide frenar la subida del salario mínimo y que sea el próximo Gobierno quien la negocie",
-          "link": "https://www.eldiario.es/economia/patronal-pide-frenar-subida-salario-minimo-sea-proximo-gobierno-negocie_1_13640944.html",
+          "title": "El salario mínimo subirá un 5,3% hasta los 1.286 euros al mes",
+          "link": "https://www.eldiario.es/economia/salario-minimo-subira-5-3-1-286-euros-mes_1_13639220.html",
           "source": "elDiario.es",
-          "summary": "La CEOE ha mandado un comunicado en el que critica el aumento a 1.286 euros brutos al mes como \"una utilización política\" para las elecciones del próximo 29 de noviembre El salario mínimo subirá un 5,3% hasta los 1.286 euros al mes Trabajo pretende aumentar a 1.286 euros brutos al mes antes de las elecciones, y pide que sea el próximo Gobierno que salga de las elecciones del 29N quien negocie el incremento. (function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in…",
+          "summary": "El Ministerio de Yolanda Díaz ha colgado en Audiencia Pública el borrador del real decreto para aprobar la subida del SMI de 2027, que supone un incremento de 65 euros respecto al actual Los expertos de Trabajo recomiendan que el salario mínimo suba un 4,9% en 2027, hasta los 1.281 euros al mes El salario mínimo subirá un 5,3% hasta los 1.286 euros brutos al mes. Es decir, 65 euros más al mes respecto a los actuales 1.221 euros brutos al mes. El Ministerio de Trabajo ha dado el primer paso para aumentar el salario mínimo interprofesional de 2027, para lo que ha colgado un borrador de real…",
           "sources": [
             "elDiario.es",
-            "20minutos"
+            "El País"
           ],
-          "firstSeen": "2026-11-05T13:42:25.894Z"
-        },
-        {
-          "title": "Colau propone aumentar los impuestos a ultrarricos y grandes empresas para recaudar 10.000 millones de euros",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html",
-          "source": "El País",
-          "summary": "La candidata de Frente Amplio aboga por gravar el patrimonio de las grandes fortunas, los beneficios de la banca y la acumulación de vivienda",
-          "sources": [
-            "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-05T13:42:25.894Z"
-        },
-        {
-          "title": "Amnistía Internacional documenta palizas de militares en Ceuta pese a que Defensa dijo que tomaría medidas",
-          "link": "https://www.elsaltodiario.com/ceuta/amnistia-internacional-documenta-palizas-militares-ceuta-pese-defensa-dijo-tomaria-medidas?utm_source=feed",
-          "source": "El Salto",
-          "summary": "Amnistía Internacional documenta 28 casos de malos tratos por parte de militares a personas migrantes en Ceuta. Se trata del segundo informe de estas características. La organización pide el cede del acoso a las organizaciones que trabajan sobre terreno como No Name Kitchen. Temas principal: Ceuta Leer artículo completo",
-          "sources": [
-            "El Salto",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-05T13:42:25.894Z"
+          "firstSeen": "2026-11-05T23:01:25.113Z"
         }
       ],
       "items": [
         {
-          "title": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 17 aviones con destino a ciudades europeas",
-          "link": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
+          "title": "Cuerpo asegura que no hay “previsión” de cerrar durante las obras la línea Madrid-Barcelona",
+          "link": "https://elpais.com/espana/2026-11-05/cuerpo-asegura-que-no-hay-prevision-de-cerrar-durante-las-obras-la-linea-madrid-barcelona.html",
           "source": "El País",
-          "published": "2026-11-05T13:27:12.000Z"
+          "published": "2026-11-05T21:48:31.000Z"
         },
         {
-          "title": "La policía detiene a un profesor en las protestas docentes en Madrid",
-          "link": "https://www.eldiario.es/sociedad/policia-detiene-profesor-protestas-docentes-madrid_1_13641048.html",
-          "source": "elDiario.es",
-          "published": "2026-11-05T13:14:10.000Z"
-        },
-        {
-          "title": "Koldo García desde prisión insiste en que el PP le ofreció dinero: \"Yo daré el remate final\"",
-          "link": "https://www.eldiario.es/politica/koldo-garcia-prision-insiste-pp-le-ofrecio-dinero-dare-remate-final_1_13640815.html",
-          "source": "elDiario.es",
-          "published": "2026-11-05T13:12:21.000Z"
-        },
-        {
-          "title": "La Fiscalía rebaja la pena de cárcel que solicita para Ignacio González en su primer juicio por corrupción",
-          "link": "https://elpais.com/espana/2026-11-05/la-fiscalia-rebaja-la-pena-de-carcel-que-solicita-para-ignacio-gonzalez-en-su-primer-juicio-por-corrupcion.html",
+          "title": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
+          "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
           "source": "El País",
-          "published": "2026-11-05T13:10:07.000Z"
+          "published": "2026-11-05T21:19:37.000Z"
         },
         {
-          "title": "CEOE acusa al Gobierno de \"utilizar políticamente\" el SMI y pide aplazar la subida a después de las elecciones",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ceoe-acusa-gobierno-utilizar-politicamente-smi-pide-aplazar-subida-despues-las-elecciones_7057669_0.html",
+          "title": "Feijóo acudirá al plató de 'El Hormiguero' el miércoles 11 de noviembre, día de la huelga general",
+          "link": "https://www.20minutos.es/television/alberto-nunez-feijoo-acudira-plato-hormiguero-miercoles-11-noviembre_7057932_0.html",
           "source": "20minutos",
-          "published": "2026-11-05T12:41:18.000Z"
+          "published": "2026-11-05T21:15:02.000Z"
         },
         {
-          "title": "UGT y CCOO valoran la subida del SMI del 5,3 % para 2027, pero exigen que llegue íntegra a las nóminas",
-          "link": "https://www.ugt.es/ugt-y-ccoo-valoran-la-subida-del-smi-del-53-para-2027-pero-exigen-que-llegue-integra-las-nominas",
-          "source": "UGT",
-          "published": "2026-11-05T12:36:33.000Z"
+          "title": "El PSOE estudia querellarse por los pagos a Koldo: \"Es muy grave influir en una declaración para derrocar al Gobierno\"",
+          "link": "https://www.eldiario.es/politica/psoe-estudia-querellarse-pagos-koldo-grave-influir-declaracion-derrocar-gobierno_1_13642399.html",
+          "source": "elDiario.es",
+          "published": "2026-11-05T20:54:52.000Z"
         },
         {
-          "title": "La Asamblea francesa rechaza el presupuesto con 458 votos en contra y cero a favor, incluidos los del Gobierno",
-          "link": "https://diariosocialista.net/2026/11/05/la-asamblea-francesa-rechaza-el-presupuesto-con-458-votos-en-contra-y-cero-a-favor-incluidos-los-del-gobierno/",
-          "source": "Diario Socialista",
-          "published": "2026-11-05T12:24:52.000Z"
-        },
-        {
-          "title": "El PP señala a Sánchez como único miembro de \"la banda del Peugeot\" no encausado pero cree que \"es cuestión de tiempo\"",
-          "link": "https://www.20minutos.es/nacional/pp-senala-sanchez-como-unico-miembro-banda-peugeot-no-encausado-pero-cree-que-es-cuestion-tiempo_7057627_0.html",
+          "title": "Sánchez le reafirma al presidente ucraniano el apoyo ante la guerra y en su adhesión a la UE",
+          "link": "https://www.20minutos.es/nacional/sanchez-recibe-zelenski-moncloa-reafirma-apoyo-ucrania-ante-guerra-su-adhesion-ue_7057929_0.html",
           "source": "20minutos",
-          "published": "2026-11-05T12:07:01.000Z"
+          "published": "2026-11-05T20:54:26.000Z"
+        },
+        {
+          "title": "La Cumbre Iberoamericana rechaza la coerción entre Estados con la discrepancia de Argentina, Colombia, Costa Rica y Paraguay",
+          "link": "https://www.20minutos.es/internacional/xxx-cumbre-iberoamericana-rechaza-coercion-entre-estados-con-discrepancia-argentina-colombia-costa-rica-paraguay_7057753_0.html",
+          "source": "20minutos",
+          "published": "2026-11-05T20:44:37.000Z"
+        },
+        {
+          "title": "Profesorado y familias de Vallecas se encierran en un instituto para que el gobierno de Ayuso negocie",
+          "link": "https://www.elsaltodiario.com/comunidad-madrid/profesorado-familias-vallecas-se-encierran-un-instituto-gobierno-ayuso-negocie?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-11-05T20:27:00.000Z"
+        },
+        {
+          "title": "Zelenski denuncia que Rusia está reclutando en su Ejército a niños ucranianos secuestrados en la guerra",
+          "link": "https://www.20minutos.es/internacional/zelenski-denuncia-que-rusia-esta-reclutando-su-ejercito-ninos-ucranianos-secuestrados-durante-guerra_7057925_0.html",
+          "source": "20minutos",
+          "published": "2026-11-05T20:18:05.000Z"
         }
       ]
     },
@@ -119,76 +121,76 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Vance achaca la derrota electoral de los republicanos en EEUU a la guerra de Irán y Trump insiste: \"Volvería a hacerlo\"",
-          "link": "https://www.eldiario.es/internacional/vance-achaca-derrota-electoral-republicanos-eeuu-guerra-iran-trump-insiste-volveria-hacerlo_1_13639744.html",
-          "source": "elDiario.es Internacional",
-          "summary": "El presidente estadounidense reitera: \"Si yo me hubiera presentado a las elecciones, habríamos ganado” Trump afronta el final de su mandato vapuleado en las urnas y con un cisma interno Vance publicó un largo mensaje en X en el que analiza los factores de la aplastante derrota en las urnas. Según un encuestador que cita anónimamente, las cuatro principales preocupaciones de los estadounidenses tenían que ver con la agenda ultra de Trump: “Acabar con la guerra; centrarse en el coste de la vida y la inflación; poner a Estados Unidos primero; y cambiar nuestra relación con Israel”. Al ser…",
+          "title": "Crisis en Paraguay: el presidente Santiago Peña se someterá a juicio político horas después de anunciar su renuncia",
+          "link": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "El presidente de Paraguay dimitió en medio de la crisis desatada por la intervención de Ueno Bank. El Congreso iniciará este mismo jueves un juicio político contra Peña después de no tener quorum para decidir si aceptaba o no su renuncia.",
           "sources": [
-            "elDiario.es Internacional",
-            "20minutos Internacional"
+            "BBC Mundo",
+            "France 24"
           ],
-          "firstSeen": "2026-11-05T13:42:25.894Z"
+          "firstSeen": "2026-11-05T23:01:25.113Z"
         },
         {
-          "title": "Un tribunal de Hong Kong suma 10 años de prisión al activista Joshua Wong en otra condena por las protestas de 2019",
-          "link": "https://www.eldiario.es/internacional/tribunal-hong-kong-suma-10-anos-prision-activista-joshua-wong-condena-protestas_1_13639623.html",
-          "source": "elDiario.es Internacional",
-          "summary": "El líder juvenil lleva encarcelado desde 2020 tras las manifestaciones prodemocráticas en la metrópolis china HEMEROTECA — Los activistas de Hong Kong prometen pelea contra la ley de seguridad nacional de China: “Nuestro espíritu nunca será aplastado” impuesta por Pekín en 2020. Wong, de 30 años, que se declaró culpable en septiembre y se enfrentaba a una condena que podía llegar a la cadena perpetua, recibió la sentencia en el Tribunal Superior de Hong Kong, informaron varios medios locales, entre ellos Hong Kong Free Press. La causa se refiere a una acusación según la cual Wong pidió a…",
+          "title": "Esto sabemos del escándalo del Ueno Bank, la crisis que tumbó al presidente paraguayo Santiago Peña",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-esto-sabemos-del-esc%C3%A1ndalo-del-ueno-bank-la-crisis-que-tumb%C3%B3-al-presidente-paraguayo-santiago-pe%C3%B1a",
+          "source": "France 24",
+          "summary": "La disolución por insolvencia financiera del Ueno Bank, uno de los principales bancos digitales de Paraguay y de estrechos vínculos con el presidente Santiago Peña, ha desencadenado una crisis financiera y un terremoto político en el país. Mientras casi 3 millones de clientes han visto congelado el acceso a sus ahorros y cuando el Congreso se disponía a iniciar un juicio político contra él, el mandatario conservador presentó su renuncia.",
           "sources": [
-            "elDiario.es Internacional",
-            "DW"
+            "France 24",
+            "BBC Mundo"
           ],
-          "firstSeen": "2026-11-05T13:42:25.894Z"
+          "firstSeen": "2026-11-05T23:01:25.113Z"
         }
       ],
       "items": [
         {
-          "title": "Ciberataques en Europa: ¿están en riesgo todos los equipos conectados a internet?",
-          "link": "https://www.france24.com/es/programas/ciencia-y-tecnolog%C3%ADa/20261105-ciberataques-en-europa-est%C3%A1n-en-riesgo-todos-los-equipos-conectados-a-internet",
+          "title": "¿Valió la pena? La guerra en Irán y la sutil ruptura republicana con Trump tras el fiasco en las midterms",
+          "link": "https://www.france24.com/es/medio-oriente/20261105-vali%C3%B3-la-pena-la-guerra-en-ir%C3%A1n-y-la-sutil-ruptura-republicana-con-trump-tras-el-fiasco-en-las-midterms",
           "source": "France 24",
-          "published": "2026-11-05T13:13:19.000Z"
+          "published": "2026-11-05T22:56:10.000Z"
         },
         {
-          "title": "El frío saludo entre Pedro Sánchez y Javier Milei en la Cumbre Iberoamericana de Madrid",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-el-fr%C3%ADo-saludo-entre-pedro-s%C3%A1nchez-y-javier-milei-en-la-cumbre-iberoamericana-de-madrid",
+          "title": "Colombia: un periodista sufre un atentado tras denunciar amenazas; la protección le había sido retirada",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-colombia-un-periodista-sufre-un-atentado-tras-denunciar-amenazas-la-protecci%C3%B3n-le-hab%C3%ADa-sido-retirada",
           "source": "France 24",
-          "published": "2026-11-05T13:11:34.000Z"
+          "published": "2026-11-05T22:45:45.000Z"
         },
         {
-          "title": "Xi Jinping intensifica la purga anticorrupción en el Partido Comunista",
-          "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261105-xi-jinping-intensifica-la-purga-anticorrupci%C3%B3n-en-el-partido-comunista",
+          "title": "\"Amanece de nuevo en EEUU\": el ala izquierda del Partido Demócrata pide paso tras su éxito en las 'midterms'",
+          "link": "https://www.eldiario.es/internacional/amanece-nuevo-eeuu-ala-izquierda-partido-democrata-pide-paso-exito-midterms_1_13641499.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-05T22:43:36.000Z"
+        },
+        {
+          "title": "Temor y precaución en la UE ante la victoria demócrata en EEUU: \"Los europeos deben prepararse para un Trump 2.5\"",
+          "link": "https://www.eldiario.es/internacional/temor-precaucion-ue-victoria-democrata-eeuu-europeos-deben-prepararse-trump-2-5_1_13640604.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-05T22:43:36.000Z"
+        },
+        {
+          "title": "Directo a... Washington y los movimientos internos del Partido Republicano tras las midterms",
+          "link": "https://www.france24.com/es/video/20261105-directo-a-washington-y-los-movimientos-internos-del-partido-republicano-tras-las-midterms",
           "source": "France 24",
-          "published": "2026-11-05T13:11:08.000Z"
+          "published": "2026-11-05T22:38:51.000Z"
         },
         {
-          "title": "Los demócratas arrasan en las midterms: ¿usará Trump el veto para frenar al Congreso?",
-          "link": "https://www.france24.com/es/programas/el-debate/20261105-los-dem%C3%B3cratas-arrasan-en-las-midterms-usar%C3%A1-trump-el-veto-para-frenar-al-congreso",
+          "title": "Kabul, una crisis de agua potable que agrava la emergencia humanitaria en Afganistán",
+          "link": "https://www.france24.com/es/programas/corresponsales/20261105-kabul-una-crisis-de-agua-potable-que-agrava-la-emergencia-humanitaria-en-afganist%C3%A1n",
           "source": "France 24",
-          "published": "2026-11-05T13:09:13.000Z"
+          "published": "2026-11-05T22:10:56.000Z"
         },
         {
-          "title": "Una nueva jornada de huelgas y protestas vuelve a desafiar a Macron en Francia",
-          "link": "https://www.france24.com/es/francia/20261105-trabajadores-y-sindicatos-vuelven-a-las-calles-en-francia-con-una-jornada-de-huelgas-y-protestas",
-          "source": "France 24",
-          "published": "2026-11-05T12:16:10.000Z"
+          "title": "Más de 600 mil personas se manifiestan en Francia por mejores salarios",
+          "link": "https://www.dw.com/es/más-de-600-mil-personas-se-manifiestan-en-francia-por-mejores-salarios/a-79871134?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-05T21:21:00.000Z"
         },
         {
-          "title": "En directo: comienza la marcha en París mientras los sindicatos se unen para realizar huelgas a escala nacional",
-          "link": "https://www.france24.com/es/francia/20261105-trabajadores-y-sindicatos-vuelven-a-las-calles-en-francia-con-una-jornada-de-huelgas-y-protestas",
-          "source": "France 24",
-          "published": "2026-11-05T12:11:41.000Z"
-        },
-        {
-          "title": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de medio mandato en EE.UU.",
-          "link": "https://www.bbc.com/mundo/articles/cq203vjl5ym8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-05T11:56:53.000Z"
-        },
-        {
-          "title": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
-          "link": "https://www.bbc.com/mundo/articles/cxj0l66rrdz4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-05T11:31:25.000Z"
+          "title": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
+          "link": "https://elpais.com/us/2026-11-04/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html",
+          "source": "El País Internacional",
+          "published": "2026-11-05T20:58:15.000Z"
         }
       ]
     }
