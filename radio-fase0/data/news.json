@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
-  "updatedAt": "2026-11-05T23:01:25.113Z",
-  "edition": "mañana",
+  "updatedAt": "2026-11-06T13:26:29.134Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
@@ -19,6 +19,18 @@
             "El País"
           ],
           "firstSeen": "2026-11-05T23:01:25.113Z"
+        },
+        {
+          "title": "El juez rechaza imputar a Zapatero un nuevo delito de malversación por las joyas",
+          "link": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html",
+          "source": "El País",
+          "summary": "Calama descarta la petición de la Fiscalía, además de paralizar las inspecciones de Hacienda al expresidente y su familia",
+          "sources": [
+            "El País",
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-06T13:26:29.134Z"
         },
         {
           "title": "Sánchez exige explicaciones a Feijóo sobre el supuesto intento de soborno a Koldo García",
@@ -52,67 +64,56 @@
             "Público"
           ],
           "firstSeen": "2026-11-05T23:01:25.113Z"
-        },
-        {
-          "title": "El salario mínimo subirá un 5,3% hasta los 1.286 euros al mes",
-          "link": "https://www.eldiario.es/economia/salario-minimo-subira-5-3-1-286-euros-mes_1_13639220.html",
-          "source": "elDiario.es",
-          "summary": "El Ministerio de Yolanda Díaz ha colgado en Audiencia Pública el borrador del real decreto para aprobar la subida del SMI de 2027, que supone un incremento de 65 euros respecto al actual Los expertos de Trabajo recomiendan que el salario mínimo suba un 4,9% en 2027, hasta los 1.281 euros al mes El salario mínimo subirá un 5,3% hasta los 1.286 euros brutos al mes. Es decir, 65 euros más al mes respecto a los actuales 1.221 euros brutos al mes. El Ministerio de Trabajo ha dado el primer paso para aumentar el salario mínimo interprofesional de 2027, para lo que ha colgado un borrador de real…",
-          "sources": [
-            "elDiario.es",
-            "El País"
-          ],
-          "firstSeen": "2026-11-05T23:01:25.113Z"
         }
       ],
       "items": [
         {
-          "title": "Cuerpo asegura que no hay “previsión” de cerrar durante las obras la línea Madrid-Barcelona",
-          "link": "https://elpais.com/espana/2026-11-05/cuerpo-asegura-que-no-hay-prevision-de-cerrar-durante-las-obras-la-linea-madrid-barcelona.html",
-          "source": "El País",
-          "published": "2026-11-05T21:48:31.000Z"
+          "title": "El juez cita como testigo a la mujer con la que Sáenz de Tejada habló de \"eliminar\" a la jueza del 'caso David Sánchez'",
+          "link": "https://www.europapress.es/nacional/noticia-juez-cita-testigo-mujer-saenz-tejada-hablo-eliminar-jueza-caso-david-sanchez-20261106141552.html",
+          "source": "Europa Press",
+          "published": "2026-11-06T13:15:52.000Z"
         },
         {
-          "title": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
-          "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
+          "title": "Pedraz cita a declarar a la mujer que afirma que la trama del ‘caso Leire Díez’ quería “eliminar” a la jueza Biedma",
+          "link": "https://elpais.com/espana/2026-11-06/pedraz-cita-a-declarar-a-la-mujer-que-afirma-que-la-trama-del-caso-leire-diez-queria-eliminar-a-la-jueza-biedma.html",
           "source": "El País",
-          "published": "2026-11-05T21:19:37.000Z"
+          "published": "2026-11-06T13:12:58.000Z"
         },
         {
-          "title": "Feijóo acudirá al plató de 'El Hormiguero' el miércoles 11 de noviembre, día de la huelga general",
-          "link": "https://www.20minutos.es/television/alberto-nunez-feijoo-acudira-plato-hormiguero-miercoles-11-noviembre_7057932_0.html",
+          "title": "La Audiencia Nacional cita a cuatro testigos protegidos el 10 de noviembre en la causa sobre la entrada masiva en Ceuta",
+          "link": "https://www.europapress.es/nacional/noticia-audiencia-nacional-cita-cuatro-testigos-protegidos-10-noviembre-causa-entrada-masiva-ceuta-20261106141217.html",
+          "source": "Europa Press",
+          "published": "2026-11-06T13:12:17.000Z"
+        },
+        {
+          "title": "El PP apuesta por ‘el cambio necesario’ como lema para el 29-N",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-06/el-pp-apuesta-por-el-cambio-necesario-como-lema-para-el-29-n.html",
+          "source": "El País",
+          "published": "2026-11-06T12:59:13.000Z"
+        },
+        {
+          "title": "España presenta de forma oficial la candidatura de Pablo Hernández de Cos para ser presidente del BCE",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-presenta-formalmente-candidatura-cos_7058213_0.html",
           "source": "20minutos",
-          "published": "2026-11-05T21:15:02.000Z"
+          "published": "2026-11-06T12:43:22.000Z"
         },
         {
-          "title": "El PSOE estudia querellarse por los pagos a Koldo: \"Es muy grave influir en una declaración para derrocar al Gobierno\"",
-          "link": "https://www.eldiario.es/politica/psoe-estudia-querellarse-pagos-koldo-grave-influir-declaracion-derrocar-gobierno_1_13642399.html",
+          "title": "El consejero de Hacienda de Aragón califica de \"charlotada\" la huelga general",
+          "link": "https://www.eldiario.es/aragon/politica/consejero-hacienda-aragon-califica-charlotada-huelga-general-critica-nuevo-protestas-educativas_1_13643992.html",
           "source": "elDiario.es",
-          "published": "2026-11-05T20:54:52.000Z"
+          "published": "2026-11-06T12:41:05.000Z"
         },
         {
-          "title": "Sánchez le reafirma al presidente ucraniano el apoyo ante la guerra y en su adhesión a la UE",
-          "link": "https://www.20minutos.es/nacional/sanchez-recibe-zelenski-moncloa-reafirma-apoyo-ucrania-ante-guerra-su-adhesion-ue_7057929_0.html",
+          "title": "Albares afirma que las amenazas a aviones y los ataques a frigoríficos son \"un intento de agresión híbrida y guerra psicológica\"",
+          "link": "https://www.20minutos.es/nacional/albares-afirma-que-las-amenazas-aviones-los-ataques-frigorificos-un-intento-agresion-hibrida-guerra-psicologica_7058203_0.html",
           "source": "20minutos",
-          "published": "2026-11-05T20:54:26.000Z"
+          "published": "2026-11-06T12:38:07.000Z"
         },
         {
-          "title": "La Cumbre Iberoamericana rechaza la coerción entre Estados con la discrepancia de Argentina, Colombia, Costa Rica y Paraguay",
-          "link": "https://www.20minutos.es/internacional/xxx-cumbre-iberoamericana-rechaza-coercion-entre-estados-con-discrepancia-argentina-colombia-costa-rica-paraguay_7057753_0.html",
-          "source": "20minutos",
-          "published": "2026-11-05T20:44:37.000Z"
-        },
-        {
-          "title": "Profesorado y familias de Vallecas se encierran en un instituto para que el gobierno de Ayuso negocie",
-          "link": "https://www.elsaltodiario.com/comunidad-madrid/profesorado-familias-vallecas-se-encierran-un-instituto-gobierno-ayuso-negocie?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-11-05T20:27:00.000Z"
-        },
-        {
-          "title": "Zelenski denuncia que Rusia está reclutando en su Ejército a niños ucranianos secuestrados en la guerra",
-          "link": "https://www.20minutos.es/internacional/zelenski-denuncia-que-rusia-esta-reclutando-su-ejercito-ninos-ucranianos-secuestrados-durante-guerra_7057925_0.html",
-          "source": "20minutos",
-          "published": "2026-11-05T20:18:05.000Z"
+          "title": "El Frente Amplio plantea una ley para expropiar viviendas a los fondos buitre",
+          "link": "https://www.eldiario.es/politica/frente-amplio-plantea-ley-expropiar-viviendas-fondos-buitre_1_13643839.html",
+          "source": "elDiario.es",
+          "published": "2026-11-06T12:35:52.000Z"
         }
       ]
     },
@@ -120,6 +121,18 @@
       "id": "mundo",
       "title": "Mundo · Geopolítica",
       "highlights": [
+        {
+          "title": "Flávio Bolsonaro reaparece en la conferencia ultraconservadora de Florida tras huir de Brasil",
+          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-reaparece-conferencia-ultrancoservadora-florida-huir-brasil_1_13642973.html",
+          "source": "elDiario.es Internacional",
+          "summary": "\"Todo estaba bajo el control de Dios\" dice el perdedor de las elecciones brasileñas, que sigue sin explicar cómo entró en EEUU Cómo fue la huida de Flávio Bolsonaro y por qué se ha escapado a EEUU tras acariciar la presidencia de Brasil desde que abandonó Brasil tras perder las elecciones presidenciales frente a Lula da Silva. Imágenes difundidas desde el evento muestran al hijo del expresidente Jair Bolsonaro en el encuentro conservador, donde estaba prevista su participación en un foro durante la gala de la conferencia, junto al actor estadounidense Jim Caviezel, que interpretará a su padre…",
+          "sources": [
+            "elDiario.es Internacional",
+            "20minutos Internacional",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-11-06T13:26:29.134Z"
+        },
         {
           "title": "Crisis en Paraguay: el presidente Santiago Peña se someterá a juicio político horas después de anunciar su renuncia",
           "link": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
@@ -145,52 +158,52 @@
       ],
       "items": [
         {
-          "title": "¿Valió la pena? La guerra en Irán y la sutil ruptura republicana con Trump tras el fiasco en las midterms",
-          "link": "https://www.france24.com/es/medio-oriente/20261105-vali%C3%B3-la-pena-la-guerra-en-ir%C3%A1n-y-la-sutil-ruptura-republicana-con-trump-tras-el-fiasco-en-las-midterms",
-          "source": "France 24",
-          "published": "2026-11-05T22:56:10.000Z"
-        },
-        {
-          "title": "Colombia: un periodista sufre un atentado tras denunciar amenazas; la protección le había sido retirada",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-colombia-un-periodista-sufre-un-atentado-tras-denunciar-amenazas-la-protecci%C3%B3n-le-hab%C3%ADa-sido-retirada",
-          "source": "France 24",
-          "published": "2026-11-05T22:45:45.000Z"
-        },
-        {
-          "title": "\"Amanece de nuevo en EEUU\": el ala izquierda del Partido Demócrata pide paso tras su éxito en las 'midterms'",
-          "link": "https://www.eldiario.es/internacional/amanece-nuevo-eeuu-ala-izquierda-partido-democrata-pide-paso-exito-midterms_1_13641499.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-05T22:43:36.000Z"
-        },
-        {
-          "title": "Temor y precaución en la UE ante la victoria demócrata en EEUU: \"Los europeos deben prepararse para un Trump 2.5\"",
-          "link": "https://www.eldiario.es/internacional/temor-precaucion-ue-victoria-democrata-eeuu-europeos-deben-prepararse-trump-2-5_1_13640604.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-05T22:43:36.000Z"
-        },
-        {
-          "title": "Directo a... Washington y los movimientos internos del Partido Republicano tras las midterms",
-          "link": "https://www.france24.com/es/video/20261105-directo-a-washington-y-los-movimientos-internos-del-partido-republicano-tras-las-midterms",
-          "source": "France 24",
-          "published": "2026-11-05T22:38:51.000Z"
-        },
-        {
-          "title": "Kabul, una crisis de agua potable que agrava la emergencia humanitaria en Afganistán",
-          "link": "https://www.france24.com/es/programas/corresponsales/20261105-kabul-una-crisis-de-agua-potable-que-agrava-la-emergencia-humanitaria-en-afganist%C3%A1n",
-          "source": "France 24",
-          "published": "2026-11-05T22:10:56.000Z"
-        },
-        {
-          "title": "Más de 600 mil personas se manifiestan en Francia por mejores salarios",
-          "link": "https://www.dw.com/es/más-de-600-mil-personas-se-manifiestan-en-francia-por-mejores-salarios/a-79871134?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-05T21:21:00.000Z"
-        },
-        {
-          "title": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
-          "link": "https://elpais.com/us/2026-11-04/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html",
+          "title": "El rey de Bélgica rechaza la dimisión del primer ministro e insta a los partidos a seguir negociando",
+          "link": "https://elpais.com/internacional/2026-11-06/el-rey-de-belgica-rechaza-la-dimision-del-primer-ministro-e-insta-a-los-partidos-a-seguir-negociando.html",
           "source": "El País Internacional",
-          "published": "2026-11-05T20:58:15.000Z"
+          "published": "2026-11-06T12:19:12.000Z"
+        },
+        {
+          "title": "Dos muertos, uno menor de edad, y 16 heridos en accidente de autobús en el este de Francia",
+          "link": "https://www.eldiario.es/internacional/muertos-menor-edad-16-heridos-accidente-autobus-francia_1_13643553.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-06T11:11:23.000Z"
+        },
+        {
+          "title": "El Parlamento belga da luz verde a los registros en casas de migrantes con orden de expulsión",
+          "link": "https://elpais.com/internacional/2026-11-06/el-parlamento-belga-da-luz-verde-a-los-registros-en-casas-de-migrantes-con-orden-de-expulsion.html",
+          "source": "El País Internacional",
+          "published": "2026-11-06T09:57:37.000Z"
+        },
+        {
+          "title": "Los republicanos fracasan en su estrategia de ‘gerrymandering’ en las elecciones de medio mandato",
+          "link": "https://elpais.com/us/2026-11-06/los-republicanos-fracasan-en-su-estrategia-de-gerrymandering-en-las-elecciones-de-medio-mandato.html",
+          "source": "El País Internacional",
+          "published": "2026-11-06T09:30:00.000Z"
+        },
+        {
+          "title": "Evacuado a Reino Unido un médico británico contagiado de ébola durante la respuesta a la epidemia en RD del Congo",
+          "link": "https://www.20minutos.es/internacional/evacuado-reino-unido-un-medico-britanico-contagiado-ebola-durante-respuesta-epidemia-rd-congo_7058018_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-06T08:57:52.000Z"
+        },
+        {
+          "title": "El presidente de Paraguay se mantiene en el cargo pese a su renuncia, bloqueada por el Congreso, y confirma que \"rendirá cuentas\"",
+          "link": "https://www.20minutos.es/internacional/presidente-paraguay-se-mantiene-cargo-pese-su-renuncia-bloqueada-por-congreso-confirma-que-rendira-cuentas_7058019_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-06T08:31:38.000Z"
+        },
+        {
+          "title": "Europa ante la debacle trumpista",
+          "link": "https://elpais.com/internacional/2026-11-06/europa-ante-la-debacle-trumpista.html",
+          "source": "El País Internacional",
+          "published": "2026-11-06T07:05:21.000Z"
+        },
+        {
+          "title": "Una jueza ordena paralizar la construcción del arco monumental de Donald Trump",
+          "link": "https://www.20minutos.es/internacional/una-jueza-ordena-paralizar-cualquier-obra-para-construir-arco-monumental-trump_7057971_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-06T06:48:55.000Z"
         }
       ]
     }
