@@ -1,119 +1,60 @@
 {
-  "date": "2026-11-06",
-  "updatedAt": "2026-11-06T22:31:30.266Z",
-  "edition": "tarde",
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T12:05:28.544Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
-      "highlights": [
-        {
-          "title": "La Policía identifica a dos altos mandos policiales marroquíes presentes en la frontera el día de la entrada masiva",
-          "link": "https://www.eldiario.es/politica/policia-identifica-altos-cargos-policiales-marroquies-presentes-frontera-dia-entrada-masiva_1_13641528.html",
-          "source": "elDiario.es",
-          "summary": "El oficio indica que se trata del prefecto de Policía de la región de Tetuán, Mohamend El Oualidi, y del supervisor general de Castillejos, Abdel Fattah El Sayed El Radi La jueza Tardón advierte de que investigará la reacción del Gobierno a las alertas que recibió de la crisis de CeutaLa jueza Tardón advierte de que investigará la reacción del Gobierno a las alertas que recibió de la crisis de Ceuta En un oficio entregado a la magistrada de la Audiencia Nacional, la Policía Nacional explica que esas identificaciones se obtienen de vídeos publicados por medios marroquíes y recalca que ambos…",
-          "sources": [
-            "elDiario.es",
-            "Público",
-            "Europa Press",
-            "El País"
-          ],
-          "firstSeen": "2026-11-05T23:01:25.113Z"
-        },
-        {
-          "title": "El juez rechaza imputar a Zapatero un nuevo delito de malversación por las joyas",
-          "link": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html",
-          "source": "El País",
-          "summary": "Calama descarta la petición de la Fiscalía, además de paralizar las inspecciones de Hacienda al expresidente y su familia",
-          "sources": [
-            "El País",
-            "20minutos",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-06T13:26:29.134Z"
-        },
-        {
-          "title": "Sánchez exige explicaciones a Feijóo sobre el supuesto intento de soborno a Koldo García",
-          "link": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
-          "source": "elDiario.es",
-          "summary": "\"Ninguna de esas personas tiene nada que ver conmigo\", sostiene el presidente del Gobierno al ser preguntado por la operación de la UCO, que ha detenido a seis personas en una investigación por amaño de contratos públicos y blanqueo en la época de Ábalos Koldo García afirma que el abogado del PP le ofreció un millón por mentir contra el Gobierno de Sánchez “Ante estas acusaciones tan graves que se están virtiendo sobre el Partido Popular, el señor Feijóo tendría que dar alguna explicación”. Con estas palabras se ha expresado este jueves el presidente del Gobierno, Pedro Sánchez, al ser…",
-          "sources": [
-            "elDiario.es",
-            "Público"
-          ],
-          "firstSeen": "2026-11-05T23:01:25.113Z"
-        },
-        {
-          "title": "Detenido un profesor de Secundaria en una concentración por la educación pública en Madrid",
-          "link": "https://elpais.com/educacion/2026-11-05/detenido-un-profesor-de-secundaria-en-una-concentracion-por-la-educacion-publica-en-madrid.html",
-          "source": "El País",
-          "summary": "Agentes de la policía municipal arrestan al hombre, que protestaba junto a otros docentes en un acto de la huelga indefinida convocada en la Comunidad",
-          "sources": [
-            "El País",
-            "El Salto"
-          ],
-          "firstSeen": "2026-11-05T23:01:25.113Z"
-        },
-        {
-          "title": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
-          "link": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
-          "source": "El País",
-          "summary": "En un audio publicado por la Cadena SER, el exasesor de Ábalos afirma que el letrado le ofreció una rebaja de la pena que suponía no entrar en la cárcel",
-          "sources": [
-            "El País",
-            "Público"
-          ],
-          "firstSeen": "2026-11-05T23:01:25.113Z"
-        }
-      ],
+      "highlights": [],
       "items": [
         {
-          "title": "El Congreso de Paraguay destituye por unanimidad al presidente Santiago Peña",
-          "link": "https://www.europapress.es/internacional/noticia-congreso-paraguay-destituye-unanimidad-presidente-santiago-pena-20261106232302.html",
-          "source": "Europa Press",
-          "published": "2026-11-06T22:23:02.000Z"
-        },
-        {
-          "title": "El Ibex firma su mejor semana en siete meses al calor de la banca y la caída del petróleo",
-          "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
+          "title": "Última hora de la actualidad política, en directo | Sánchez: “No vamos a permitir que España sea el patio trasero de la internacional ultraderechista”",
+          "link": "https://elpais.com/espana/2026-11-07/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-11-06T21:07:27.000Z"
+          "published": "2026-11-07T11:57:22.000Z"
         },
         {
-          "title": "León XIV asegura que está \"bastante bien\" tras ser operado por cáncer y defiende la sanidad como un derecho \"para todos\"",
-          "link": "https://www.europapress.es/sociedad/noticia-leon-xiv-asegura-bastante-bien-ser-operado-cancer-defiende-sanidad-derecho-todos-20261106215347.html",
-          "source": "Europa Press",
-          "published": "2026-11-06T20:53:47.000Z"
-        },
-        {
-          "title": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
-          "link": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html",
-          "source": "El País",
-          "published": "2026-11-06T20:27:08.000Z"
-        },
-        {
-          "title": "Sánchez alaba a Puente tras la tragedia de Urda y lo contrapone al PP: \"Ejemplo de dignidad que ellos no practican\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-alaba-puente-su-primer-mitin-tras-tragedia-urda-un-ejemplo-dignidad-que-oposicion-no-practica_7058402_0.html",
-          "source": "20minutos",
-          "published": "2026-11-06T19:42:40.000Z"
-        },
-        {
-          "title": "Frente Amplio lanza una app que simula la recaudación en las 50 grandes fortunas de su impuesto a ultrarricos",
-          "link": "https://www.20minutos.es/nacional/frente-amplio-lanza-una-app-que-simula-recaudacion-las-50-grandes-fortunas-su-impuesto-ultrarricos_7058371_0.html",
-          "source": "20minutos",
-          "published": "2026-11-06T19:39:28.000Z"
-        },
-        {
-          "title": "Rufián asegura que Sánchez \"está siendo perseguido\" por la Justicia, pero le afea \"excusas\" ante la corrupción",
-          "link": "https://www.20minutos.es/nacional/rufian-asegura-que-sanchez-esta-siendo-perseguido-por-justicia-pero-le-afea-excusas-ante-los-casos-corrupcion_7058390_0.html",
-          "source": "20minutos",
-          "published": "2026-11-06T19:00:34.000Z"
-        },
-        {
-          "title": "Trump fulmina a su jefa de Gabinete, Susie Wiles, tras la debacle de las 'midterms' y asciende al ultra Stephen Miller",
-          "link": "https://www.eldiario.es/internacional/trump-fulmina-jefa-gabinete-debacle-midterms-asciende-ultra-stephen-miller_1_13645625.html",
+          "title": "\"Putos rojos\": la sede del PSOE en Rincón de la Victoria (Málaga) amanece con pintadas nazis e insultos",
+          "link": "https://www.eldiario.es/andalucia/putos-rojos-sede-psoe-rincon-victoria-malaga-amanece-pintadas-nazis-e-insultos_1_13646215.html",
           "source": "elDiario.es",
-          "published": "2026-11-06T18:59:34.000Z"
+          "published": "2026-11-07T11:00:47.000Z"
+        },
+        {
+          "title": "El Sindicat de Llogateres lleva a Barcelona a los tribunales por incumplir la norma del 30% de vivienda protegida",
+          "link": "https://www.eldiario.es/catalunya/sindicat-llogateres-lleva-barcelona-tribunales-incumplir-norma-30-vivienda-protegida_1_13646098.html",
+          "source": "elDiario.es",
+          "published": "2026-11-07T10:33:06.000Z"
+        },
+        {
+          "title": "El PP critica que Sánchez no vaya al funeral religioso por las víctimas pero use al Papa cuando le conviene",
+          "link": "https://www.europapress.es/nacional/noticia-pp-critica-sanchez-no-vaya-funeral-religioso-victimas-use-papa-cuando-le-conviene-20261107110315.html",
+          "source": "Europa Press",
+          "published": "2026-11-07T10:03:15.000Z"
+        },
+        {
+          "title": "El ascenso de Stephen Miller: de escritor de discursos de Trump a artífice de su plan de deportaciones masivas",
+          "link": "https://elpais.com/us/2026-11-07/el-ascenso-de-stephen-miller-de-escritor-de-discursos-de-trump-a-artifice-de-su-plan-de-deportaciones-masivas.html",
+          "source": "El País",
+          "published": "2026-11-07T09:30:00.000Z"
+        },
+        {
+          "title": "Illa recurrirá el archivo de la causa contra Alvise por haber difundido una prueba de Covid falsa",
+          "link": "https://www.eldiario.es/catalunya/illa-recurrira-archivo-causa-alvise-haber-difundido-prueba-covid-falsa_1_13646046.html",
+          "source": "elDiario.es",
+          "published": "2026-11-07T09:19:12.000Z"
+        },
+        {
+          "title": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas",
+          "link": "https://www.eldiario.es/economia/consumo-abre-expediente-empresa-autobuses-practicas-enganosas-precio-clausulas-abusivas_1_13646041.html",
+          "source": "elDiario.es",
+          "published": "2026-11-07T09:08:08.000Z"
+        },
+        {
+          "title": "Illa acusa al gobierno de Ayuso de tener \"mucha cara\" por beneficiarse de las regiones periféricas",
+          "link": "https://www.europapress.es/catalunya/noticia-illa-acusa-gobierno-ayuso-tener-mucha-cara-beneficiarse-regiones-perifericas-20261107094249.html",
+          "source": "Europa Press",
+          "published": "2026-11-07T08:42:49.000Z"
         }
       ]
     },
@@ -122,99 +63,90 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Flávio Bolsonaro reaparece en la conferencia ultraconservadora de Florida tras huir de Brasil",
-          "link": "https://www.eldiario.es/internacional/flavio-bolsonaro-reaparece-conferencia-ultrancoservadora-florida-huir-brasil_1_13642973.html",
-          "source": "elDiario.es Internacional",
-          "summary": "\"Todo estaba bajo el control de Dios\" dice el perdedor de las elecciones brasileñas, que sigue sin explicar cómo entró en EEUU Cómo fue la huida de Flávio Bolsonaro y por qué se ha escapado a EEUU tras acariciar la presidencia de Brasil desde que abandonó Brasil tras perder las elecciones presidenciales frente a Lula da Silva. Imágenes difundidas desde el evento muestran al hijo del expresidente Jair Bolsonaro en el encuentro conservador, donde estaba prevista su participación en un foro durante la gala de la conferencia, junto al actor estadounidense Jim Caviezel, que interpretará a su padre…",
-          "sources": [
-            "elDiario.es Internacional",
-            "20minutos Internacional",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-11-06T13:26:29.134Z"
-        },
-        {
-          "title": "Crisis en Paraguay: el presidente Santiago Peña se someterá a juicio político horas después de anunciar su renuncia",
-          "link": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
+          "title": "Crisis en Paraguay: Santiago Peña, en arresto domiciliario tras ser destituido por el Congreso en juicio político",
+          "link": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "summary": "El presidente de Paraguay dimitió en medio de la crisis desatada por la intervención de Ueno Bank. El Congreso iniciará este mismo jueves un juicio político contra Peña después de no tener quorum para decidir si aceptaba o no su renuncia.",
+          "summary": "Pedro Alliana juró como presidente de Paraguay minutos después de que los legisladores aprobaran la destitución de Peña por el escándalo desatado por la caída de Ueno Bank.",
           "sources": [
             "BBC Mundo",
-            "France 24"
+            "20minutos Internacional",
+            "elDiario.es Internacional",
+            "France 24",
+            "El País Internacional"
           ],
-          "firstSeen": "2026-11-05T23:01:25.113Z"
+          "firstSeen": "2026-11-07T12:05:28.544Z"
         },
         {
-          "title": "Esto sabemos del escándalo del Ueno Bank, la crisis que tumbó al presidente paraguayo Santiago Peña",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-esto-sabemos-del-esc%C3%A1ndalo-del-ueno-bank-la-crisis-que-tumb%C3%B3-al-presidente-paraguayo-santiago-pe%C3%B1a",
-          "source": "France 24",
-          "summary": "La disolución por insolvencia financiera del Ueno Bank, uno de los principales bancos digitales de Paraguay y de estrechos vínculos con el presidente Santiago Peña, ha desencadenado una crisis financiera y un terremoto político en el país. Mientras casi 3 millones de clientes han visto congelado el acceso a sus ahorros y cuando el Congreso se disponía a iniciar un juicio político contra él, el mandatario conservador presentó su renuncia.",
+          "title": "Stephen Miller promete \"lealtad absoluta\" a Trump tras ser nombrado jefe de gabinete de la Casa Blanca",
+          "link": "https://www.20minutos.es/internacional/stephen-miller-promete-lealtad-absoluta-trump-tras-ser-nombrado-jefe-gabinete-casa-blanca_7058468_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El nuevo jefe de Gabinete, uno de los principales ideólogos del movimiento MAGA, ha defendido el liderazgo del presidente estadounidense en su primera intervención tras sustituir a Susie Wiles.",
           "sources": [
-            "France 24",
+            "20minutos Internacional",
             "BBC Mundo"
           ],
-          "firstSeen": "2026-11-05T23:01:25.113Z"
+          "firstSeen": "2026-11-07T12:05:28.544Z"
         },
         {
-          "title": "Quién es Stephen Miller, el arquitecto de la dura política migratoria de Trump designado nuevo jefe de gabinete de la Casa Blanca",
-          "link": "https://www.bbc.com/mundo/articles/c20pnenx1d9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "El ideólogo ultraconservador y uno de los asesores más leales de Trump gana poder en la Casa Blanca después de la derrota republicana en las elecciones de medio mandato",
+          "title": "\"Patriotas al mando\": Stephen Miller, el ideólogo ultra que se ha convertido en el hombre fuerte de Trump",
+          "link": "https://www.eldiario.es/internacional/patriotas-mando-stephen-miller-ideologo-ultra-convertido-hombre-fuerte-trump_1_13645759.html",
+          "source": "elDiario.es Internacional",
+          "summary": "Miller, impulsor de la represión migratoria de la Administración y de la línea más dura de la Casa Blanca, reemplaza a Susie Wiles como jefe de Gabinete del presidente de EEUU Trump fulmina a su jefa de Gabinete, Susie Wiles, tras la debacle de las 'midterms' y asciende al ultra Stephen Miller Si Donald Trump quería tener un gesto que evidenciara su escaso apetito en ceder nada de su agenda ultra tras la debacle de las midterms, no podría haber elegido un personaje más apropiado para eso que Stephen Miller para el puesto de jefe de Gabinete. El presidente de EEUU ha anunciado este viernes que…",
           "sources": [
-            "BBC Mundo",
-            "El País Internacional"
+            "elDiario.es Internacional",
+            "France 24"
           ],
-          "firstSeen": "2026-11-06T22:31:30.266Z"
+          "firstSeen": "2026-11-07T12:05:28.544Z"
         }
       ],
       "items": [
         {
-          "title": "En directo: Senado paraguayo aprueba la destitución de Santiago Peña tras un juicio político en ausencia",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
-          "source": "France 24",
-          "published": "2026-11-06T22:15:11.000Z"
-        },
-        {
-          "title": "Stephen Miller, el arquitecto de las deportaciones masivas de Trump, es promovido tras la debacle electoral",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261106-stephen-miller-el-arquitecto-de-las-deportaciones-masivas-de-trump-es-promovido-tras-la-debacle-electoral",
-          "source": "France 24",
-          "published": "2026-11-06T21:44:59.000Z"
-        },
-        {
-          "title": "En qué consiste el escándalo bancario que ha acabado con el presidente de Paraguay",
-          "link": "https://www.eldiario.es/internacional/consiste-escandalo-bancario-acabado-presidente-paraguay_1_13645310.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-06T21:22:10.000Z"
-        },
-        {
-          "title": "El racismo contra los ciudadanos palestinos de Israel amenaza la formación de un nuevo gobierno",
-          "link": "https://www.eldiario.es/internacional/racismo-ciudadanos-palestinos-israel-amenaza-formacion-nuevo-gobierno_1_13645658.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-06T21:22:09.000Z"
-        },
-        {
-          "title": "La debacle de Trump en las 'midterms' evidencia el desgaste de las guerras culturales impulsadas por la ultraderecha",
-          "link": "https://www.eldiario.es/internacional/debacle-trump-midterms-evidencia-desgaste-guerras-culturales-impulsadas-ultraderecha_1_13645147.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-06T21:22:08.000Z"
-        },
-        {
-          "title": "Irán, entre el miedo a nuevos bombardeos y la incertidumbre política",
-          "link": "https://www.dw.com/es/irán-entre-el-miedo-a-nuevos-bombardeos-y-la-incertidumbre-política/a-79881903?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Irán ejecuta a un hombre por un ataque armado contra una comisaría",
+          "link": "https://www.dw.com/es/irán-ejecuta-a-un-hombre-por-un-ataque-armado-contra-una-comisaría/a-79884496?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-06T21:11:00.000Z"
+          "published": "2026-11-07T11:25:00.000Z"
         },
         {
-          "title": "¿Qué mensaje busca transmitir el papa León XIV en su gira por Uruguay, Argentina y Perú?",
-          "link": "https://www.france24.com/es/video/20261106-qu%C3%A9-mensaje-busca-transmitir-el-papa-le%C3%B3n-xiv-en-su-gira-por-uruguay-argentina-y-per%C3%BA",
-          "source": "France 24",
-          "published": "2026-11-06T20:57:32.000Z"
-        },
-        {
-          "title": "Marco Rubio promoverá los \"intereses\" de EEUU en la reunión de Exteriores del G7 en París",
-          "link": "https://www.20minutos.es/internacional/marco-rubio-promovera-los-intereses-eeuu-reunion-exteriores-g7-paris_7058411_0.html",
+          "title": "El Servicio Secreto de EEUU frustra un intento de asesinato contra Trump: un venezolano, detenido armado frente a la Casa Blanca",
+          "link": "https://www.20minutos.es/internacional/servicio-secreto-eeuu-frustra-intento-asesinato-trump-venezolano-detenido-armado-frente-casa-blanca_7058477_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-06T20:09:37.000Z"
+          "published": "2026-11-07T11:09:27.000Z"
+        },
+        {
+          "title": "Macron tiene un búnker secreto en París por si toman el Elíseo, según un libro: lo habilitó en 2018 por los 'chalecos amarillos'",
+          "link": "https://www.20minutos.es/internacional/macron-tiene-bunker-secreto-paris-por-si-toman-eliseo-libro-chalecos-amarillos_7058454_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-07T09:58:36.000Z"
+        },
+        {
+          "title": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+          "link": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
+          "source": "El País Internacional",
+          "published": "2026-11-07T09:56:40.000Z"
+        },
+        {
+          "title": "La marea demócrata abre la carrera por la Casa Blanca, con centristas y progresistas reforzados de cara a 2028",
+          "link": "https://elpais.com/us/2026-11-07/la-marea-democrata-abre-la-carrera-por-la-casa-blanca-con-centristas-y-progresistas-reforzados-de-cara-a-2028.html",
+          "source": "El País Internacional",
+          "published": "2026-11-07T09:30:00.000Z"
+        },
+        {
+          "title": "Más allá de Washington: los demócratas cimentan su reconquista con los parlamentos estatales",
+          "link": "https://elpais.com/us/2026-11-07/mas-alla-de-washington-los-democratas-cimentan-su-reconquista-con-los-parlamentos-estatales.html",
+          "source": "El País Internacional",
+          "published": "2026-11-07T09:30:00.000Z"
+        },
+        {
+          "title": "Trump afronta los dos últimos años de mandato como un octogenario desafiante obsesionado con las obras",
+          "link": "https://elpais.com/us/2026-11-07/trump-afronta-los-dos-ultimos-anos-de-mandato-como-un-octogenario-desafiante-obsesionado-con-las-obras.html",
+          "source": "El País Internacional",
+          "published": "2026-11-07T09:30:00.000Z"
+        },
+        {
+          "title": "Ataque masivo de Rusia a Kiev contra instalaciones energéticas: misiles balísticos dañan un puente y centrales eléctricas",
+          "link": "https://www.20minutos.es/internacional/ataque-masivo-rusia-kiev-contra-instalaciones-energeticas-misiles-balisticos-danan-un-puente-centrales-electricas_7058448_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-07T09:27:46.000Z"
         }
       ]
     }
