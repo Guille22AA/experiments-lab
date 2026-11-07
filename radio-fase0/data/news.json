@@ -1,60 +1,84 @@
 {
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T12:05:28.544Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-11-07T21:13:05.557Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
       "title": "España",
-      "highlights": [],
+      "highlights": [
+        {
+          "title": "La Fiscalía paraguaya pide prisión preventiva para el expresidente destituido Santiago Peña",
+          "link": "https://elpais.com/america/2026-11-07/la-fiscalia-paraguaya-pide-prision-preventiva-para-el-expresidente-destituido-santiago-pena.html",
+          "source": "El País",
+          "summary": "Pedro Alliana asume como nuevo jefe de Estado con cambios en el Gabinete y un mensaje de tranquilidad para los ahorristas afectados por el escándalo de Ueno Bank en un clima de tensión",
+          "sources": [
+            "El País",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-07T21:13:05.557Z"
+        },
+        {
+          "title": "Montero y Rufián animan a votar con \"memoria\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
+          "link": "https://www.20minutos.es/nacional/irene-montero-rufian-animan-votar-con-memoria-obviando-voto-util-psoe-si-puede-te-come_7058511_0.html",
+          "source": "20minutos",
+          "summary": "Los candidatos de Podemos y ERC han celebrado su primer acto conjunto en Madrid, donde han criticado la estrategia electoral del PSOE y han defendido que los ciudadanos voten según sus convicciones.",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-07T21:13:05.557Z"
+        }
+      ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | Sánchez: “No vamos a permitir que España sea el patio trasero de la internacional ultraderechista”",
-          "link": "https://elpais.com/espana/2026-11-07/ultima-hora-de-la-actualidad-politica-en-directo.html",
-          "source": "El País",
-          "published": "2026-11-07T11:57:22.000Z"
-        },
-        {
-          "title": "\"Putos rojos\": la sede del PSOE en Rincón de la Victoria (Málaga) amanece con pintadas nazis e insultos",
-          "link": "https://www.eldiario.es/andalucia/putos-rojos-sede-psoe-rincon-victoria-malaga-amanece-pintadas-nazis-e-insultos_1_13646215.html",
+          "title": "Salvamento rescata a 582 personas en seis embarcaciones precarias próximas a Canarias este sábado",
+          "link": "https://www.eldiario.es/canariasahora/migraciones/salvamento-rescata-582-personas-seis-embarcaciones-precarias-proximas-canarias-sabado_1_13647214.html",
           "source": "elDiario.es",
-          "published": "2026-11-07T11:00:47.000Z"
+          "published": "2026-11-07T19:53:23.000Z"
         },
         {
-          "title": "El Sindicat de Llogateres lleva a Barcelona a los tribunales por incumplir la norma del 30% de vivienda protegida",
-          "link": "https://www.eldiario.es/catalunya/sindicat-llogateres-lleva-barcelona-tribunales-incumplir-norma-30-vivienda-protegida_1_13646098.html",
+          "title": "El presidente israelí encomienda al líder opositor Eisenkot formar un nuevo gobierno - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnFGOFJGUk1KMlVQbDhuSGtoUnpYQXZTc1BRcFJoUU80NUJfeHdxRG9HeXk1eHVUMVFoblpqLW1XbUhRdHNfUnZZcDJPOEEwSzM2WllrcE5BdWJzM1NEdWtjTWRYQW1HMk1hdFdzTXBmQmpvVzlpTFE1Q0M3dFVJemllZFZ5aWM0VkNXRmJnNkJuRWw4eTd2ZjhpSWgzTFpXR3JYeVdkMGIwTzZKeDRUbE1BRW1peHhWOVpv0gHAAUFVX3lxTFBNamVaMW1rNlp3eVpQZzhubnQ0R0pHbElhTDNqcWRpNnpiWDM4djNjQXB4UWdSbzNuMUw1M2NiWW1YeEZPZWpOQk9CQmZveDdQR0hTTmlFRUxWSUVnUUlKdHdLak9BMERoM0dmUDlobVM2aXU0RWFMU0VPVVEtSlhDQjM2aGd2YlpaTTg2NWJ0bHJiZTJ3YlEyQ05wQ1dKLUxFOHNSenYzRGxwZmtVNHFvXzM4aFdGck9NRmhrMWRYVQ?oc=5",
+          "source": "Público",
+          "published": "2026-11-07T19:05:47.000Z"
+        },
+        {
+          "title": "Isabel Díaz Ayuso, aclamada en Valencia: \"España necesita a Feijóo, va a cumplir, es el único que une tantas sensibilidades\"",
+          "link": "https://www.20minutos.es/nacional/isabel-diaz-ayuso-aclamada-valencia-espana-necesita-feijoo-cumplir-unico-sensibilidades_7058571_0.html",
+          "source": "20minutos",
+          "published": "2026-11-07T18:19:41.000Z"
+        },
+        {
+          "title": "¿Ha empezado ya el estallido de la burbuja de la IA? Esto es lo que nos dice el desplome de las bolsas",
+          "link": "https://www.eldiario.es/tecnologia/empezado-estallido-burbuja-ia-dice-desplome-bolsas_1_13646581.html",
           "source": "elDiario.es",
-          "published": "2026-11-07T10:33:06.000Z"
+          "published": "2026-11-07T17:48:24.000Z"
         },
         {
-          "title": "El PP critica que Sánchez no vaya al funeral religioso por las víctimas pero use al Papa cuando le conviene",
-          "link": "https://www.europapress.es/nacional/noticia-pp-critica-sanchez-no-vaya-funeral-religioso-victimas-use-papa-cuando-le-conviene-20261107110315.html",
+          "title": "Sánchez se compromete con Clavijo a convocar de urgencia este martes una Comisión Interministerial de Inmigración",
+          "link": "https://www.europapress.es/islas-canarias/noticia-sanchez-compromete-clavijo-convocar-urgencia-martes-comision-interministerial-inmigracion-20261107183234.html",
           "source": "Europa Press",
-          "published": "2026-11-07T10:03:15.000Z"
+          "published": "2026-11-07T17:32:34.000Z"
         },
         {
-          "title": "El ascenso de Stephen Miller: de escritor de discursos de Trump a artífice de su plan de deportaciones masivas",
-          "link": "https://elpais.com/us/2026-11-07/el-ascenso-de-stephen-miller-de-escritor-de-discursos-de-trump-a-artifice-de-su-plan-de-deportaciones-masivas.html",
+          "title": "Frente Amplio promete \"expropiar a los fondos buitre\" de vivienda y avanza una \"motosierra\" fiscal \"para los de arriba\"",
+          "link": "https://www.20minutos.es/nacional/frente-amplio-promete-expropiar-los-fondos-buitre-vivienda-avanza-una-motosierra-fiscal-para-los-arriba_7058554_0.html",
+          "source": "20minutos",
+          "published": "2026-11-07T16:51:41.000Z"
+        },
+        {
+          "title": "'La Revuelta' cambia el público para la entrevista a Abascal y Bolaños acusa al líder de Vox de querer \"llenar la sala de ultras\"",
+          "link": "https://www.20minutos.es/television/revuelta-cambia-publico-para-entrevista-abascal-bolanos-acusa-lider-vox-querer-llenar-sala-ultras_7058541_0.html",
+          "source": "20minutos",
+          "published": "2026-11-07T16:09:52.000Z"
+        },
+        {
+          "title": "El Hierro pide más ayuda al Estado ante la llegada de más cayucos a Canarias",
+          "link": "https://elpais.com/espana/2026-11-07/el-hierro-pide-mas-ayuda-al-estado-ante-la-llegada-de-mas-cayucos-a-canarias.html",
           "source": "El País",
-          "published": "2026-11-07T09:30:00.000Z"
-        },
-        {
-          "title": "Illa recurrirá el archivo de la causa contra Alvise por haber difundido una prueba de Covid falsa",
-          "link": "https://www.eldiario.es/catalunya/illa-recurrira-archivo-causa-alvise-haber-difundido-prueba-covid-falsa_1_13646046.html",
-          "source": "elDiario.es",
-          "published": "2026-11-07T09:19:12.000Z"
-        },
-        {
-          "title": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas",
-          "link": "https://www.eldiario.es/economia/consumo-abre-expediente-empresa-autobuses-practicas-enganosas-precio-clausulas-abusivas_1_13646041.html",
-          "source": "elDiario.es",
-          "published": "2026-11-07T09:08:08.000Z"
-        },
-        {
-          "title": "Illa acusa al gobierno de Ayuso de tener \"mucha cara\" por beneficiarse de las regiones periféricas",
-          "link": "https://www.europapress.es/catalunya/noticia-illa-acusa-gobierno-ayuso-tener-mucha-cara-beneficiarse-regiones-perifericas-20261107094249.html",
-          "source": "Europa Press",
-          "published": "2026-11-07T08:42:49.000Z"
+          "published": "2026-11-07T16:00:33.000Z"
         }
       ]
     },
@@ -77,6 +101,18 @@
           "firstSeen": "2026-11-07T12:05:28.544Z"
         },
         {
+          "title": "Trump ofrece el cargo de secretario de Prensa de la Casa Blanca al presidente de la UFC, Dana White",
+          "link": "https://www.20minutos.es/internacional/trump-ofrece-cargo-secretario-prensa-casa-blanca-presidente-ufc-dana-white_7058588_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El presidente de EEUU le ha pedido que se traiga con él a algunos de los luchadores de esta competición, como los rusos Islam Majachev y Jabib Nurmagomedov.",
+          "sources": [
+            "20minutos Internacional",
+            "elDiario.es Internacional",
+            "El País Internacional"
+          ],
+          "firstSeen": "2026-11-07T21:13:05.557Z"
+        },
+        {
           "title": "Stephen Miller promete \"lealtad absoluta\" a Trump tras ser nombrado jefe de gabinete de la Casa Blanca",
           "link": "https://www.20minutos.es/internacional/stephen-miller-promete-lealtad-absoluta-trump-tras-ser-nombrado-jefe-gabinete-casa-blanca_7058468_0.html",
           "source": "20minutos Internacional",
@@ -97,56 +133,67 @@
             "France 24"
           ],
           "firstSeen": "2026-11-07T12:05:28.544Z"
+        },
+        {
+          "title": "Al menos seis muertos y 15 heridos tras un tiroteo indiscriminado en el centro histórico de Cracovia",
+          "link": "https://www.france24.com/es/europa/20261107-al-menos-seis-muertos-y-15-heridos-tras-un-tiroteo-indiscriminado-en-el-centro-hist%C3%B3rico-de-cracovia",
+          "source": "France 24",
+          "summary": "Según las investigaciones preliminares, un ciudadano polaco de 24 años abrió fuego desde un vehículo contra personas que se encontraban en la Plaza Mayor de la segunda ciudad más grande de Polonia. La Policía abatió al sospechoso durante un enfrentamiento y lo trasladó a un hospital, mientras las autoridades investigan las circunstancias y los posibles motivos del ataque.",
+          "sources": [
+            "France 24",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-07T21:13:05.557Z"
         }
       ],
       "items": [
         {
-          "title": "Irán ejecuta a un hombre por un ataque armado contra una comisaría",
-          "link": "https://www.dw.com/es/irán-ejecuta-a-un-hombre-por-un-ataque-armado-contra-una-comisaría/a-79884496?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-07T11:25:00.000Z"
+          "title": "Informe desde Asunción: lo que se sabe de las cuentas de Ueno Bank tras la crisis en Paraguay",
+          "link": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-lo-que-se-sabe-de-las-cuentas-de-ueno-bank-tras-la-crisis-en-paraguay",
+          "source": "France 24",
+          "published": "2026-11-07T20:44:38.000Z"
         },
         {
-          "title": "El Servicio Secreto de EEUU frustra un intento de asesinato contra Trump: un venezolano, detenido armado frente a la Casa Blanca",
-          "link": "https://www.20minutos.es/internacional/servicio-secreto-eeuu-frustra-intento-asesinato-trump-venezolano-detenido-armado-frente-casa-blanca_7058477_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-07T11:09:27.000Z"
+          "title": "Informe desde París: Mélenchon presenta su programa de gobierno en Francia",
+          "link": "https://www.france24.com/es/video/20261107-informe-desde-par%C3%ADs-m%C3%A9lenchon-presenta-su-programa-de-gobierno-en-francia",
+          "source": "France 24",
+          "published": "2026-11-07T20:42:19.000Z"
         },
         {
-          "title": "Macron tiene un búnker secreto en París por si toman el Elíseo, según un libro: lo habilitó en 2018 por los 'chalecos amarillos'",
-          "link": "https://www.20minutos.es/internacional/macron-tiene-bunker-secreto-paris-por-si-toman-eliseo-libro-chalecos-amarillos_7058454_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-07T09:58:36.000Z"
+          "title": "¿Cuáles son los puntos clave del discurso de Mélenchon en Francia?",
+          "link": "https://www.france24.com/es/video/20261107-cu%C3%A1les-son-los-puntos-clave-del-discurso-de-m%C3%A9lenchon-en-francia",
+          "source": "France 24",
+          "published": "2026-11-07T20:41:56.000Z"
         },
         {
-          "title": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
-          "link": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
-          "source": "El País Internacional",
-          "published": "2026-11-07T09:56:40.000Z"
+          "title": "¿Ola de investigaciones a la familia Trump? Lo que plantean los demócratas",
+          "link": "https://www.france24.com/es/video/20261107-ola-de-investigaciones-a-la-familia-trump-lo-que-plantean-los-dem%C3%B3cratas",
+          "source": "France 24",
+          "published": "2026-11-07T20:10:20.000Z"
         },
         {
-          "title": "La marea demócrata abre la carrera por la Casa Blanca, con centristas y progresistas reforzados de cara a 2028",
-          "link": "https://elpais.com/us/2026-11-07/la-marea-democrata-abre-la-carrera-por-la-casa-blanca-con-centristas-y-progresistas-reforzados-de-cara-a-2028.html",
-          "source": "El País Internacional",
-          "published": "2026-11-07T09:30:00.000Z"
+          "title": "Cronología de una caída: ¿cómo llegó Peña a ser destituido por el Senado de Paraguay?",
+          "link": "https://www.france24.com/es/video/20261107-cronolog%C3%ADa-de-una-ca%C3%ADda-c%C3%B3mo-lleg%C3%B3-pe%C3%B1a-a-ser-destituido-por-el-senado-de-paraguay",
+          "source": "France 24",
+          "published": "2026-11-07T20:09:31.000Z"
         },
         {
-          "title": "Más allá de Washington: los demócratas cimentan su reconquista con los parlamentos estatales",
-          "link": "https://elpais.com/us/2026-11-07/mas-alla-de-washington-los-democratas-cimentan-su-reconquista-con-los-parlamentos-estatales.html",
-          "source": "El País Internacional",
-          "published": "2026-11-07T09:30:00.000Z"
+          "title": "La Francia Insumisa de Jean-Luc Mélenchon presenta plan de gobierno para presidenciales de 2027",
+          "link": "https://www.france24.com/es/video/20261107-la-francia-insumisa-de-jean-luc-m%C3%A9lenchon-presenta-plan-de-gobierno-para-presidenciales-de-2027",
+          "source": "France 24",
+          "published": "2026-11-07T20:06:30.000Z"
         },
         {
-          "title": "Trump afronta los dos últimos años de mandato como un octogenario desafiante obsesionado con las obras",
-          "link": "https://elpais.com/us/2026-11-07/trump-afronta-los-dos-ultimos-anos-de-mandato-como-un-octogenario-desafiante-obsesionado-con-las-obras.html",
-          "source": "El País Internacional",
-          "published": "2026-11-07T09:30:00.000Z"
+          "title": "El presidente de Israel encarga formar gobierno al opositor Eisenkot tras recibir el apoyo de los partidos árabes",
+          "link": "https://www.eldiario.es/internacional/presidente-israel-pide-eisenkot-formar-gobierno-recibir-apoyo-partidos-arabes_1_13647220.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-07T19:49:15.000Z"
         },
         {
-          "title": "Ataque masivo de Rusia a Kiev contra instalaciones energéticas: misiles balísticos dañan un puente y centrales eléctricas",
-          "link": "https://www.20minutos.es/internacional/ataque-masivo-rusia-kiev-contra-instalaciones-energeticas-misiles-balisticos-danan-un-puente-centrales-electricas_7058448_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-07T09:27:46.000Z"
+          "title": "El presidente de Israel elige a Gadi Eisenkot, rival de Netanyahu, para formar gobierno",
+          "link": "https://www.france24.com/es/medio-oriente/20261107-el-presidente-de-israel-elige-a-gadi-eisenkot-rival-de-netanyahu-para-formar-gobierno",
+          "source": "France 24",
+          "published": "2026-11-07T19:45:51.000Z"
         }
       ]
     }
