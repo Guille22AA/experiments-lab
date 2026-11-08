@@ -1,84 +1,83 @@
 {
-  "date": "2026-11-07",
-  "updatedAt": "2026-11-07T21:13:05.557Z",
-  "edition": "tarde",
+  "date": "2026-11-08",
+  "updatedAt": "2026-11-08T12:26:22.413Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "La Fiscalía paraguaya pide prisión preventiva para el expresidente destituido Santiago Peña",
-          "link": "https://elpais.com/america/2026-11-07/la-fiscalia-paraguaya-pide-prision-preventiva-para-el-expresidente-destituido-santiago-pena.html",
+          "title": "Muere un soldado durante unos ejercicios en el campo de maniobras de San Gregorio (Zaragoza)",
+          "link": "https://elpais.com/espana/2026-11-08/muere-un-soldado-durante-unos-ejercicios-en-el-campo-de-maniobras-de-san-gregorio.html",
           "source": "El País",
-          "summary": "Pedro Alliana asume como nuevo jefe de Estado con cambios en el Gabinete y un mensaje de tranquilidad para los ahorristas afectados por el escándalo de Ueno Bank en un clima de tensión",
+          "summary": "El fallecimiento del militar, que se produjo el sábado por la noche, no fue por arma de fuego, según fuentes del Ejército",
           "sources": [
             "El País",
-            "Europa Press",
-            "elDiario.es"
+            "20minutos"
           ],
-          "firstSeen": "2026-11-07T21:13:05.557Z"
+          "firstSeen": "2026-11-08T12:26:22.413Z"
         },
         {
-          "title": "Montero y Rufián animan a votar con \"memoria\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
-          "link": "https://www.20minutos.es/nacional/irene-montero-rufian-animan-votar-con-memoria-obviando-voto-util-psoe-si-puede-te-come_7058511_0.html",
-          "source": "20minutos",
-          "summary": "Los candidatos de Podemos y ERC han celebrado su primer acto conjunto en Madrid, donde han criticado la estrategia electoral del PSOE y han defendido que los ciudadanos voten según sus convicciones.",
+          "title": "Feijóo aspira a una mayoría \"cómoda\": \"Hacer una coalición de Gobierno con Vox no depende de mí\"",
+          "link": "https://www.europapress.es/nacional/noticia-feijoo-aspira-mayoria-comoda-hacer-coalicion-gobierno-vox-no-depende-20261108102937.html",
+          "source": "Europa Press",
+          "summary": "El presidente del PP, Alberto Núñez Feijóo, ha asegurado que la posibilidad de formar un Gobierno de coalición con Vox si llega a La Moncloa tras las próximas elecciones generales no depende de él, aunque ha defendido que su objetivo es gobernar en solitario con una mayoría suficiente en el Congreso y el Senado.",
           "sources": [
-            "20minutos",
-            "Europa Press"
+            "Europa Press",
+            "El País"
           ],
-          "firstSeen": "2026-11-07T21:13:05.557Z"
+          "firstSeen": "2026-11-08T12:26:22.413Z"
         }
       ],
       "items": [
         {
-          "title": "Salvamento rescata a 582 personas en seis embarcaciones precarias próximas a Canarias este sábado",
-          "link": "https://www.eldiario.es/canariasahora/migraciones/salvamento-rescata-582-personas-seis-embarcaciones-precarias-proximas-canarias-sabado_1_13647214.html",
-          "source": "elDiario.es",
-          "published": "2026-11-07T19:53:23.000Z"
-        },
-        {
-          "title": "El presidente israelí encomienda al líder opositor Eisenkot formar un nuevo gobierno - Diario Público",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnFGOFJGUk1KMlVQbDhuSGtoUnpYQXZTc1BRcFJoUU80NUJfeHdxRG9HeXk1eHVUMVFoblpqLW1XbUhRdHNfUnZZcDJPOEEwSzM2WllrcE5BdWJzM1NEdWtjTWRYQW1HMk1hdFdzTXBmQmpvVzlpTFE1Q0M3dFVJemllZFZ5aWM0VkNXRmJnNkJuRWw4eTd2ZjhpSWgzTFpXR3JYeVdkMGIwTzZKeDRUbE1BRW1peHhWOVpv0gHAAUFVX3lxTFBNamVaMW1rNlp3eVpQZzhubnQ0R0pHbElhTDNqcWRpNnpiWDM4djNjQXB4UWdSbzNuMUw1M2NiWW1YeEZPZWpOQk9CQmZveDdQR0hTTmlFRUxWSUVnUUlKdHdLak9BMERoM0dmUDlobVM2aXU0RWFMU0VPVVEtSlhDQjM2aGd2YlpaTTg2NWJ0bHJiZTJ3YlEyQ05wQ1dKLUxFOHNSenYzRGxwZmtVNHFvXzM4aFdGck9NRmhrMWRYVQ?oc=5",
-          "source": "Público",
-          "published": "2026-11-07T19:05:47.000Z"
-        },
-        {
-          "title": "Isabel Díaz Ayuso, aclamada en Valencia: \"España necesita a Feijóo, va a cumplir, es el único que une tantas sensibilidades\"",
-          "link": "https://www.20minutos.es/nacional/isabel-diaz-ayuso-aclamada-valencia-espana-necesita-feijoo-cumplir-unico-sensibilidades_7058571_0.html",
-          "source": "20minutos",
-          "published": "2026-11-07T18:19:41.000Z"
-        },
-        {
-          "title": "¿Ha empezado ya el estallido de la burbuja de la IA? Esto es lo que nos dice el desplome de las bolsas",
-          "link": "https://www.eldiario.es/tecnologia/empezado-estallido-burbuja-ia-dice-desplome-bolsas_1_13646581.html",
-          "source": "elDiario.es",
-          "published": "2026-11-07T17:48:24.000Z"
-        },
-        {
-          "title": "Sánchez se compromete con Clavijo a convocar de urgencia este martes una Comisión Interministerial de Inmigración",
-          "link": "https://www.europapress.es/islas-canarias/noticia-sanchez-compromete-clavijo-convocar-urgencia-martes-comision-interministerial-inmigracion-20261107183234.html",
-          "source": "Europa Press",
-          "published": "2026-11-07T17:32:34.000Z"
-        },
-        {
-          "title": "Frente Amplio promete \"expropiar a los fondos buitre\" de vivienda y avanza una \"motosierra\" fiscal \"para los de arriba\"",
-          "link": "https://www.20minutos.es/nacional/frente-amplio-promete-expropiar-los-fondos-buitre-vivienda-avanza-una-motosierra-fiscal-para-los-arriba_7058554_0.html",
-          "source": "20minutos",
-          "published": "2026-11-07T16:51:41.000Z"
-        },
-        {
-          "title": "'La Revuelta' cambia el público para la entrevista a Abascal y Bolaños acusa al líder de Vox de querer \"llenar la sala de ultras\"",
-          "link": "https://www.20minutos.es/television/revuelta-cambia-publico-para-entrevista-abascal-bolanos-acusa-lider-vox-querer-llenar-sala-ultras_7058541_0.html",
-          "source": "20minutos",
-          "published": "2026-11-07T16:09:52.000Z"
-        },
-        {
-          "title": "El Hierro pide más ayuda al Estado ante la llegada de más cayucos a Canarias",
-          "link": "https://elpais.com/espana/2026-11-07/el-hierro-pide-mas-ayuda-al-estado-ante-la-llegada-de-mas-cayucos-a-canarias.html",
+          "title": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
+          "link": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-11-07T16:00:33.000Z"
+          "published": "2026-11-08T12:20:42.000Z"
+        },
+        {
+          "title": "Miriam González, presidenta de Democracia 21: \"La IA debe ser un factor de productividad en sectores donde España sea puntera\"",
+          "link": "https://www.20minutos.es/nacional/miriam-gonzalez-presidenta-democracia-21-ia-debe-ser-un-factor-productividad-sectores-donde-espana-sea-puntera_7058652_0.html",
+          "source": "20minutos",
+          "published": "2026-11-08T11:11:46.000Z"
+        },
+        {
+          "title": "Frente Amplio quiere subir más el SMI y Emilio Delgado carga contra la derecha: Sus políticas \"fomentan la delincuencia\"",
+          "link": "https://www.europapress.es/nacional/noticia-frente-amplio-quiere-subir-mas-smi-emilio-delgado-carga-contra-derecha-politicas-fomentan-delincuencia-20261108115958.html",
+          "source": "Europa Press",
+          "published": "2026-11-08T10:59:58.000Z"
+        },
+        {
+          "title": "El mapa de las viviendas de Casa 47: dónde están los pisos de alquiler asequible y precios a los que se ofrecen",
+          "link": "https://www.20minutos.es/vivienda/mapa-viviendas-casa-47-donde-esta-pisos-alquiler-asequible-precios-ofertados_7034088_0.html",
+          "source": "20minutos",
+          "published": "2026-11-08T10:38:18.000Z"
+        },
+        {
+          "title": "Democracia 21 propone aplicar la IA como \"factor de productividad\" y tomar medidas ante la destrucción de empleo",
+          "link": "https://www.europapress.es/nacional/noticia-democracia-21-propone-aplicar-ia-factor-productividad-tomar-medidas-destruccion-empleo-20261108111950.html",
+          "source": "Europa Press",
+          "published": "2026-11-08T10:19:50.000Z"
+        },
+        {
+          "title": "Estos son los servicios mínimos de Renfe para la huelga de maquinistas del 10 y 12 de noviembre",
+          "link": "https://www.eldiario.es/economia/son-servicios-minimos-renfe-huelga-maquinistas-10-12-noviembre_1_13647598.html",
+          "source": "elDiario.es",
+          "published": "2026-11-08T09:59:57.000Z"
+        },
+        {
+          "title": "Un profesor buscado por la Audiencia Nacional recluta españoles como soldados y espías para Rusia",
+          "link": "https://www.20minutos.es/nacional/un-profesor-buscado-por-audiencia-nacional-recluta-espanoles-como-soldados-espias-para-rusia_7058624_0.html",
+          "source": "20minutos",
+          "published": "2026-11-08T09:56:56.000Z"
+        },
+        {
+          "title": "Olga Rodríguez: \"En España ha habido varias generaciones que han sabido mucho más del nazismo que del franquismo\"",
+          "link": "https://www.eldiario.es/extremadura/caceres/olga-rodriguez-espana-habido-generaciones-han-sabido-nazismo-franquismo_1_13646896.html",
+          "source": "elDiario.es",
+          "published": "2026-11-08T09:49:24.000Z"
         }
       ]
     },
@@ -87,113 +86,101 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Crisis en Paraguay: Santiago Peña, en arresto domiciliario tras ser destituido por el Congreso en juicio político",
-          "link": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
+          "title": "Designan al líder opositor de Israel para formar nuevo gobierno",
+          "link": "https://www.dw.com/es/designan-al-líder-opositor-de-israel-para-formar-nuevo-gobierno/a-79888564?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Gadi Eisenkot llamó a crear un \"gobierno nacional de emergencia\" tras recibir el mandato del presidente Isaac Herzog.",
+          "sources": [
+            "DW",
+            "El País Internacional",
+            "20minutos Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-11-08T12:26:22.413Z"
+        },
+        {
+          "title": "Trump ofrece la portavocía de la Casa Blanca al presidente de la competición de lucha UFC",
+          "link": "https://elpais.com/internacional/2026-11-07/trump-ofrece-su-portavocia-a-un-exluchador-profesional.html",
+          "source": "El País Internacional",
+          "summary": "Según la CNN, Dana White rehúsa la oferta, pero el medio TMZ, especializado en farándula, apunta que las dos personalidades se reunirán la semana que viene para estudiar la oferta",
+          "sources": [
+            "El País Internacional",
+            "20minutos Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-11-08T12:26:22.413Z"
+        },
+        {
+          "title": "Un ataque contra Riad provoca daños en las oficinas de la mayor petrolera del mundo, Saudi Aramco",
+          "link": "https://elpais.com/internacional/2026-11-08/un-ataque-a-riad-provoca-danos-en-las-oficinas-de-la-mayor-petrolera-del-mundo-saudi-aramco.html",
+          "source": "El País Internacional",
+          "summary": "Los rebeldes hutíes denuncian la muerte de al menos 33 civiles en una ofensiva el sábado contra la capital de Yemen",
+          "sources": [
+            "El País Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-11-08T12:26:22.413Z"
+        },
+        {
+          "title": "Un juez de Paraguay ordena la prisión preventiva para el expresidente Peña por el caso Ueno Bank",
+          "link": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "summary": "Pedro Alliana juró como presidente de Paraguay minutos después de que los legisladores aprobaran la destitución de Peña por el escándalo desatado por la caída de Ueno Bank.",
+          "summary": "La decisión llega después de que la Fiscalía lo imputara por los presuntos delitos de abuso de confianza y administración para beneficio personal",
           "sources": [
             "BBC Mundo",
-            "20minutos Internacional",
-            "elDiario.es Internacional",
-            "France 24",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-11-07T12:05:28.544Z"
-        },
-        {
-          "title": "Trump ofrece el cargo de secretario de Prensa de la Casa Blanca al presidente de la UFC, Dana White",
-          "link": "https://www.20minutos.es/internacional/trump-ofrece-cargo-secretario-prensa-casa-blanca-presidente-ufc-dana-white_7058588_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El presidente de EEUU le ha pedido que se traiga con él a algunos de los luchadores de esta competición, como los rusos Islam Majachev y Jabib Nurmagomedov.",
-          "sources": [
-            "20minutos Internacional",
-            "elDiario.es Internacional",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-11-07T21:13:05.557Z"
-        },
-        {
-          "title": "Stephen Miller promete \"lealtad absoluta\" a Trump tras ser nombrado jefe de gabinete de la Casa Blanca",
-          "link": "https://www.20minutos.es/internacional/stephen-miller-promete-lealtad-absoluta-trump-tras-ser-nombrado-jefe-gabinete-casa-blanca_7058468_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El nuevo jefe de Gabinete, uno de los principales ideólogos del movimiento MAGA, ha defendido el liderazgo del presidente estadounidense en su primera intervención tras sustituir a Susie Wiles.",
-          "sources": [
-            "20minutos Internacional",
-            "BBC Mundo"
-          ],
-          "firstSeen": "2026-11-07T12:05:28.544Z"
-        },
-        {
-          "title": "\"Patriotas al mando\": Stephen Miller, el ideólogo ultra que se ha convertido en el hombre fuerte de Trump",
-          "link": "https://www.eldiario.es/internacional/patriotas-mando-stephen-miller-ideologo-ultra-convertido-hombre-fuerte-trump_1_13645759.html",
-          "source": "elDiario.es Internacional",
-          "summary": "Miller, impulsor de la represión migratoria de la Administración y de la línea más dura de la Casa Blanca, reemplaza a Susie Wiles como jefe de Gabinete del presidente de EEUU Trump fulmina a su jefa de Gabinete, Susie Wiles, tras la debacle de las 'midterms' y asciende al ultra Stephen Miller Si Donald Trump quería tener un gesto que evidenciara su escaso apetito en ceder nada de su agenda ultra tras la debacle de las midterms, no podría haber elegido un personaje más apropiado para eso que Stephen Miller para el puesto de jefe de Gabinete. El presidente de EEUU ha anunciado este viernes que…",
-          "sources": [
-            "elDiario.es Internacional",
             "France 24"
           ],
-          "firstSeen": "2026-11-07T12:05:28.544Z"
-        },
-        {
-          "title": "Al menos seis muertos y 15 heridos tras un tiroteo indiscriminado en el centro histórico de Cracovia",
-          "link": "https://www.france24.com/es/europa/20261107-al-menos-seis-muertos-y-15-heridos-tras-un-tiroteo-indiscriminado-en-el-centro-hist%C3%B3rico-de-cracovia",
-          "source": "France 24",
-          "summary": "Según las investigaciones preliminares, un ciudadano polaco de 24 años abrió fuego desde un vehículo contra personas que se encontraban en la Plaza Mayor de la segunda ciudad más grande de Polonia. La Policía abatió al sospechoso durante un enfrentamiento y lo trasladó a un hospital, mientras las autoridades investigan las circunstancias y los posibles motivos del ataque.",
-          "sources": [
-            "France 24",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-11-07T21:13:05.557Z"
+          "firstSeen": "2026-11-08T12:26:22.413Z"
         }
       ],
       "items": [
         {
-          "title": "Informe desde Asunción: lo que se sabe de las cuentas de Ueno Bank tras la crisis en Paraguay",
-          "link": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-lo-que-se-sabe-de-las-cuentas-de-ueno-bank-tras-la-crisis-en-paraguay",
-          "source": "France 24",
-          "published": "2026-11-07T20:44:38.000Z"
+          "title": "Crisis en Paraguay: Santiago Peña, en arresto domiciliario tras ser destituido por el Congreso en juicio político",
+          "link": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-11-08T12:26:20.183Z"
         },
         {
-          "title": "Informe desde París: Mélenchon presenta su programa de gobierno en Francia",
-          "link": "https://www.france24.com/es/video/20261107-informe-desde-par%C3%ADs-m%C3%A9lenchon-presenta-su-programa-de-gobierno-en-francia",
-          "source": "France 24",
-          "published": "2026-11-07T20:42:19.000Z"
+          "title": "Irán ejecuta a otros tres hombres en relación con las protestas antigubernamentales",
+          "link": "https://www.dw.com/es/irán-ejecuta-a-otros-tres-hombres-en-relación-con-las-protestas-antigubernamentales/a-79890033?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-08T11:08:00.000Z"
         },
         {
-          "title": "¿Cuáles son los puntos clave del discurso de Mélenchon en Francia?",
-          "link": "https://www.france24.com/es/video/20261107-cu%C3%A1les-son-los-puntos-clave-del-discurso-de-m%C3%A9lenchon-en-francia",
-          "source": "France 24",
-          "published": "2026-11-07T20:41:56.000Z"
-        },
-        {
-          "title": "¿Ola de investigaciones a la familia Trump? Lo que plantean los demócratas",
-          "link": "https://www.france24.com/es/video/20261107-ola-de-investigaciones-a-la-familia-trump-lo-que-plantean-los-dem%C3%B3cratas",
-          "source": "France 24",
-          "published": "2026-11-07T20:10:20.000Z"
-        },
-        {
-          "title": "Cronología de una caída: ¿cómo llegó Peña a ser destituido por el Senado de Paraguay?",
-          "link": "https://www.france24.com/es/video/20261107-cronolog%C3%ADa-de-una-ca%C3%ADda-c%C3%B3mo-lleg%C3%B3-pe%C3%B1a-a-ser-destituido-por-el-senado-de-paraguay",
-          "source": "France 24",
-          "published": "2026-11-07T20:09:31.000Z"
-        },
-        {
-          "title": "La Francia Insumisa de Jean-Luc Mélenchon presenta plan de gobierno para presidenciales de 2027",
-          "link": "https://www.france24.com/es/video/20261107-la-francia-insumisa-de-jean-luc-m%C3%A9lenchon-presenta-plan-de-gobierno-para-presidenciales-de-2027",
-          "source": "France 24",
-          "published": "2026-11-07T20:06:30.000Z"
-        },
-        {
-          "title": "El presidente de Israel encarga formar gobierno al opositor Eisenkot tras recibir el apoyo de los partidos árabes",
-          "link": "https://www.eldiario.es/internacional/presidente-israel-pide-eisenkot-formar-gobierno-recibir-apoyo-partidos-arabes_1_13647220.html",
+          "title": "James Talarico rinde homenaje al mexicano asesinado por ICE con su pegatina de \"he votado\"",
+          "link": "https://www.eldiario.es/internacional/james-talarico-rinde-homenaje-mexicano-asesinado-ice-pegatina-he-votado_1_13647590.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-11-07T19:49:15.000Z"
+          "published": "2026-11-08T09:56:34.000Z"
         },
         {
-          "title": "El presidente de Israel elige a Gadi Eisenkot, rival de Netanyahu, para formar gobierno",
-          "link": "https://www.france24.com/es/medio-oriente/20261107-el-presidente-de-israel-elige-a-gadi-eisenkot-rival-de-netanyahu-para-formar-gobierno",
-          "source": "France 24",
-          "published": "2026-11-07T19:45:51.000Z"
+          "title": "Un misil lanzado por los hutíes impacta sobre un edificio del distrito financiero de Riad",
+          "link": "https://www.20minutos.es/internacional/un-misil-lanzado-por-los-huties-impacta-sobre-un-edificio-distrito-financiero-riad_7058618_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-08T09:15:48.000Z"
+        },
+        {
+          "title": "Qué se sabe del ataque de Cracovia: seis muertos en el tiroteo y otros tres en casa del autor, de 24 años y con ideas de ultraderecha",
+          "link": "https://www.20minutos.es/internacional/que-se-sabe-ataque-cracovia-seis-muertos-tiroteo-otros-tres-casa-autor-24-anos-con-ideas-ultraderecha_7058599_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-08T06:59:56.000Z"
+        },
+        {
+          "title": "Trump cae derrotado en las urnas, pero aún es poderoso (e impredecible) en política exterior",
+          "link": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html",
+          "source": "El País Internacional",
+          "published": "2026-11-08T04:30:01.000Z"
+        },
+        {
+          "title": "‘Nóvaya Gazeta’, símbolo del gran periodismo ruso, cierra por el acoso del Kremlin: “Poca gente sabe qué está pasando en Rusia”",
+          "link": "https://elpais.com/internacional/2026-11-08/novaya-gazeta-simbolo-del-gran-periodismo-ruso-cierra-por-el-acoso-del-kremlin-poca-gente-sabe-que-esta-pasando-en-rusia.html",
+          "source": "El País Internacional",
+          "published": "2026-11-08T04:30:01.000Z"
+        },
+        {
+          "title": "Detenidos por las pintas: decenas de menores en comisaría en Italia con el nuevo arresto preventivo en manifestaciones",
+          "link": "https://elpais.com/internacional/2026-11-08/detenidos-por-las-pintas-decenas-de-menores-en-comisaria-en-italia-con-el-nuevo-arresto-preventivo-en-manifestaciones.html",
+          "source": "El País Internacional",
+          "published": "2026-11-08T04:30:01.000Z"
         }
       ]
     }
