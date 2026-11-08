@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T12:26:22.413Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-11-08T21:28:14.459Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -28,56 +28,78 @@
             "El País"
           ],
           "firstSeen": "2026-11-08T12:26:22.413Z"
+        },
+        {
+          "title": "Sánchez reenfoca la campaña del PSOE en la gestión y asegura que blindará las pensiones en la Constitución",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-08/sanchez-reenfoca-la-campana-del-psoe-en-la-gestion-y-asegura-que-blindara-las-pensiones-en-la-constitucion.html",
+          "source": "El País",
+          "summary": "El presidente considera “un insulto a la inteligencia” que Feijóo sostenga que no depende de él que gobierne con Abascal",
+          "sources": [
+            "El País",
+            "20minutos"
+          ],
+          "firstSeen": "2026-11-08T21:28:14.459Z"
+        },
+        {
+          "title": "Feijóo pide a Sánchez \"menos mirar a Trump y más a los trenes\" y a los directivos de Adif devolver los bonus que han cobrado",
+          "link": "https://www.20minutos.es/nacional/feijoo-pide-sanchez-menos-mirar-trump-mas-trenes-directivos-adif-devolver-gratificaciones-han-cobrado_7058678_0.html",
+          "source": "20minutos",
+          "summary": "El líder del PP promete, si llega a la Moncloa, revisar el transporte ferroviario \"palmo a palmo\" para que \"vuelva la seguridad\" y la gente pierda el miedo al tren.",
+          "sources": [
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-08T21:28:14.459Z"
         }
       ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
-          "link": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "title": "Nvidia abre una investigación sobre la relación de su CEO, Jensen Huang, con una espía china",
+          "link": "https://www.eldiario.es/tecnologia/nvidia-abre-investigacion-relacion-ceo-jensen-huang-espia-china_1_13648276.html",
+          "source": "elDiario.es",
+          "published": "2026-11-08T20:30:37.000Z"
+        },
+        {
+          "title": "El atentado en Cracovia deja a Polonia en estado de ‘shock’: “Es lo más aterrador que he vivido. Esto se nos va a quedar”",
+          "link": "https://elpais.com/internacional/2026-11-08/el-atentado-en-cracovia-deja-a-polonia-en-estado-de-shock-es-lo-mas-aterrador-que-he-vivido-esto-se-nos-va-a-quedar.html",
           "source": "El País",
-          "published": "2026-11-08T12:20:42.000Z"
+          "published": "2026-11-08T19:46:42.000Z"
         },
         {
-          "title": "Miriam González, presidenta de Democracia 21: \"La IA debe ser un factor de productividad en sectores donde España sea puntera\"",
-          "link": "https://www.20minutos.es/nacional/miriam-gonzalez-presidenta-democracia-21-ia-debe-ser-un-factor-productividad-sectores-donde-espana-sea-puntera_7058652_0.html",
+          "title": "Alertan de que Zaporiyia solo tiene energía para mantener refrigerado su reactor dos semanas más",
+          "link": "https://www.20minutos.es/internacional/alertan-central-nuclear-zaporiyia-solo-tiene-energia-mantener-refrigerado-reactor-semanas-mas_7058732_0.html",
           "source": "20minutos",
-          "published": "2026-11-08T11:11:46.000Z"
+          "published": "2026-11-08T18:47:06.000Z"
         },
         {
-          "title": "Frente Amplio quiere subir más el SMI y Emilio Delgado carga contra la derecha: Sus políticas \"fomentan la delincuencia\"",
-          "link": "https://www.europapress.es/nacional/noticia-frente-amplio-quiere-subir-mas-smi-emilio-delgado-carga-contra-derecha-politicas-fomentan-delincuencia-20261108115958.html",
+          "title": "Irán reitera su propuesta de plan de alto el fuego a EEUU una vez superadas las 'midterm'",
+          "link": "https://www.europapress.es/internacional/noticia-iran-reitera-propuesta-plan-alto-fuego-eeuu-vez-superadas-midterm-20261108182149.html",
           "source": "Europa Press",
-          "published": "2026-11-08T10:59:58.000Z"
+          "published": "2026-11-08T17:21:49.000Z"
         },
         {
-          "title": "El mapa de las viviendas de Casa 47: dónde están los pisos de alquiler asequible y precios a los que se ofrecen",
-          "link": "https://www.20minutos.es/vivienda/mapa-viviendas-casa-47-donde-esta-pisos-alquiler-asequible-precios-ofertados_7034088_0.html",
-          "source": "20minutos",
-          "published": "2026-11-08T10:38:18.000Z"
-        },
-        {
-          "title": "Democracia 21 propone aplicar la IA como \"factor de productividad\" y tomar medidas ante la destrucción de empleo",
-          "link": "https://www.europapress.es/nacional/noticia-democracia-21-propone-aplicar-ia-factor-productividad-tomar-medidas-destruccion-empleo-20261108111950.html",
-          "source": "Europa Press",
-          "published": "2026-11-08T10:19:50.000Z"
-        },
-        {
-          "title": "Estos son los servicios mínimos de Renfe para la huelga de maquinistas del 10 y 12 de noviembre",
-          "link": "https://www.eldiario.es/economia/son-servicios-minimos-renfe-huelga-maquinistas-10-12-noviembre_1_13647598.html",
+          "title": "Gadi Eisenkot, el exgeneral que puede quitarle el gobierno a Netanyahu con más belicismo y una cara amable",
+          "link": "https://www.eldiario.es/internacional/gadi-eisenkot-exgeneral-quitarle-gobierno-netanyahu-belicismo-cara-amable_1_13648079.html",
           "source": "elDiario.es",
-          "published": "2026-11-08T09:59:57.000Z"
+          "published": "2026-11-08T16:53:40.000Z"
         },
         {
-          "title": "Un profesor buscado por la Audiencia Nacional recluta españoles como soldados y espías para Rusia",
-          "link": "https://www.20minutos.es/nacional/un-profesor-buscado-por-audiencia-nacional-recluta-espanoles-como-soldados-espias-para-rusia_7058624_0.html",
+          "title": "Évole, sobre la entrevista de Broncano a Abascal: \"No entiendo a los que piden boicot; lo puede pasar mal\"",
+          "link": "https://www.20minutos.es/television/evole-reacciona-entrevista-broncano-abascal-revuelta-no-entiendo-los-que-piden-boicot-puede-pasar-mal_7058699_0.html",
           "source": "20minutos",
-          "published": "2026-11-08T09:56:56.000Z"
+          "published": "2026-11-08T16:06:14.000Z"
         },
         {
-          "title": "Olga Rodríguez: \"En España ha habido varias generaciones que han sabido mucho más del nazismo que del franquismo\"",
-          "link": "https://www.eldiario.es/extremadura/caceres/olga-rodriguez-espana-habido-generaciones-han-sabido-nazismo-franquismo_1_13646896.html",
+          "title": "Las fuertes lluvias inundan miles de precarias tiendas de campaña en Gaza y agravan la crisis humanitaria",
+          "link": "https://elpais.com/internacional/2026-11-08/las-fuertes-lluvias-inundan-miles-de-precarias-tiendas-de-campana-en-gaza-y-agravan-la-crisis-humanitaria.html",
+          "source": "El País",
+          "published": "2026-11-08T13:43:31.000Z"
+        },
+        {
+          "title": "Rufián apuesta por el catalanismo en su primer mitin en solitario: \"Quiero un PSOE sometido a fuerzas soberanistas\"",
+          "link": "https://www.eldiario.es/catalunya/rufian-apuesta-catalanismo-primer-mitin-solitario-quiero-psoe-sometido-fuerzas-sobreranistas_1_13647784.html",
           "source": "elDiario.es",
-          "published": "2026-11-08T09:49:24.000Z"
+          "published": "2026-11-08T13:17:07.000Z"
         }
       ]
     },
@@ -111,6 +133,18 @@
           "firstSeen": "2026-11-08T12:26:22.413Z"
         },
         {
+          "title": "Gadi Eisenkot invita a Netanyahu a sumarse a su gobierno de \"emergencia nacional\" en Israel",
+          "link": "https://www.20minutos.es/internacional/gadi-eisenkot-invita-netanyahu-sumarse-su-gobierno-emergencia-nacional-israel_7058747_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El primer ministro saliente niega esta posibilidad si no continúa él en el cargo.",
+          "sources": [
+            "20minutos Internacional",
+            "El País Internacional",
+            "elDiario.es Internacional"
+          ],
+          "firstSeen": "2026-11-08T21:28:14.459Z"
+        },
+        {
           "title": "Un ataque contra Riad provoca daños en las oficinas de la mayor petrolera del mundo, Saudi Aramco",
           "link": "https://elpais.com/internacional/2026-11-08/un-ataque-a-riad-provoca-danos-en-las-oficinas-de-la-mayor-petrolera-del-mundo-saudi-aramco.html",
           "source": "El País Internacional",
@@ -138,49 +172,49 @@
           "title": "Crisis en Paraguay: Santiago Peña, en arresto domiciliario tras ser destituido por el Congreso en juicio político",
           "link": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-11-08T12:26:20.183Z"
+          "published": "2026-11-08T21:28:10.078Z"
         },
         {
-          "title": "Irán ejecuta a otros tres hombres en relación con las protestas antigubernamentales",
-          "link": "https://www.dw.com/es/irán-ejecuta-a-otros-tres-hombres-en-relación-con-las-protestas-antigubernamentales/a-79890033?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-08T11:08:00.000Z"
+          "title": "\"Estoy destrozada\": la conmoción de Polonia tras el tiroteo mortal en Cracovia",
+          "link": "https://www.france24.com/es/europa/20261108-estoy-destrozada-la-conmoci%C3%B3n-en-polonia-tras-el-tiroteo-mortal-en-cracovia",
+          "source": "France 24",
+          "published": "2026-11-08T21:06:45.000Z"
         },
         {
-          "title": "James Talarico rinde homenaje al mexicano asesinado por ICE con su pegatina de \"he votado\"",
-          "link": "https://www.eldiario.es/internacional/james-talarico-rinde-homenaje-mexicano-asesinado-ice-pegatina-he-votado_1_13647590.html",
+          "title": "El adiós de Novaya Gazeta deja tocado de muerte al periodismo independiente en Rusia",
+          "link": "https://www.eldiario.es/internacional/adios-novaya-gazeta-deja-tocado-muerte-periodismo-independiente-rusia_1_13644243.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-11-08T09:56:34.000Z"
+          "published": "2026-11-08T20:36:43.000Z"
         },
         {
-          "title": "Un misil lanzado por los hutíes impacta sobre un edificio del distrito financiero de Riad",
-          "link": "https://www.20minutos.es/internacional/un-misil-lanzado-por-los-huties-impacta-sobre-un-edificio-distrito-financiero-riad_7058618_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-08T09:15:48.000Z"
+          "title": "El renacimiento de Lula da Silva, el sindicalista guerrero 'encantador de serpientes'",
+          "link": "https://www.eldiario.es/internacional/renacimiento-lula-da-silva-sindicalista-guerrero-encantador-serpientes_1_13644770.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-08T20:36:38.000Z"
         },
         {
-          "title": "Qué se sabe del ataque de Cracovia: seis muertos en el tiroteo y otros tres en casa del autor, de 24 años y con ideas de ultraderecha",
-          "link": "https://www.20minutos.es/internacional/que-se-sabe-ataque-cracovia-seis-muertos-tiroteo-otros-tres-casa-autor-24-anos-con-ideas-ultraderecha_7058599_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-08T06:59:56.000Z"
+          "title": "El Gobierno de Kast hace aguas por un escándalo de rebajas de condenas a agresores sexuales de menores",
+          "link": "https://www.eldiario.es/internacional/gobierno-kast-aguas-escandalo-rebajas-condenas-agresores-sexuales-menores_1_13642936.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-08T20:36:37.000Z"
         },
         {
-          "title": "Trump cae derrotado en las urnas, pero aún es poderoso (e impredecible) en política exterior",
-          "link": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html",
-          "source": "El País Internacional",
-          "published": "2026-11-08T04:30:01.000Z"
+          "title": "El partido de Mandela sufre un revés en las elecciones municipales: ¿qué viene ahora en Sudáfrica?",
+          "link": "https://www.france24.com/es/%C3%A1frica/20261108-el-partido-de-mandela-sufre-un-rev%C3%A9s-en-las-elecciones-municipales-qu%C3%A9-viene-ahora-en-sud%C3%A1frica",
+          "source": "France 24",
+          "published": "2026-11-08T20:30:12.000Z"
         },
         {
-          "title": "‘Nóvaya Gazeta’, símbolo del gran periodismo ruso, cierra por el acoso del Kremlin: “Poca gente sabe qué está pasando en Rusia”",
-          "link": "https://elpais.com/internacional/2026-11-08/novaya-gazeta-simbolo-del-gran-periodismo-ruso-cierra-por-el-acoso-del-kremlin-poca-gente-sabe-que-esta-pasando-en-rusia.html",
-          "source": "El País Internacional",
-          "published": "2026-11-08T04:30:01.000Z"
+          "title": "Colombia: ataques con drones y amenaza de atentados a tres meses del Gobierno De la Espriella",
+          "link": "https://www.france24.com/es/video/20261108-colombia-ataques-con-drones-y-amenaza-de-atentados-a-tres-meses-del-gobierno-de-la-espriella",
+          "source": "France 24",
+          "published": "2026-11-08T20:05:48.000Z"
         },
         {
-          "title": "Detenidos por las pintas: decenas de menores en comisaría en Italia con el nuevo arresto preventivo en manifestaciones",
-          "link": "https://elpais.com/internacional/2026-11-08/detenidos-por-las-pintas-decenas-de-menores-en-comisaria-en-italia-con-el-nuevo-arresto-preventivo-en-manifestaciones.html",
-          "source": "El País Internacional",
-          "published": "2026-11-08T04:30:01.000Z"
+          "title": "Rebeldes hutíes reivindican ataque a rascacielos de Aramco en Arabia Saudita",
+          "link": "https://www.dw.com/es/rebeldes-hutíes-reivindican-ataque-a-rascacielos-de-aramco-en-arabia-saudita/a-79894137?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-08T19:54:00.000Z"
         }
       ]
     }
