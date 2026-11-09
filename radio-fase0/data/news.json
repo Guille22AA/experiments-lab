@@ -1,105 +1,85 @@
 {
-  "date": "2026-11-08",
-  "updatedAt": "2026-11-08T21:28:14.459Z",
-  "edition": "tarde",
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09T14:41:04.691Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Muere un soldado durante unos ejercicios en el campo de maniobras de San Gregorio (Zaragoza)",
-          "link": "https://elpais.com/espana/2026-11-08/muere-un-soldado-durante-unos-ejercicios-en-el-campo-de-maniobras-de-san-gregorio.html",
+          "title": "El Supremo rechaza suspender también el voto de los 189.000 hijos de los nacionalizados por la ‘ley de nietos’",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
           "source": "El País",
-          "summary": "El fallecimiento del militar, que se produjo el sábado por la noche, no fue por arma de fuego, según fuentes del Ejército",
+          "summary": "Los magistrados desestiman la petición de Vox y de Iustitia Europa por el “breve lapso temporal” que queda hasta las elecciones del 29-N",
           "sources": [
             "El País",
-            "20minutos"
-          ],
-          "firstSeen": "2026-11-08T12:26:22.413Z"
-        },
-        {
-          "title": "Feijóo aspira a una mayoría \"cómoda\": \"Hacer una coalición de Gobierno con Vox no depende de mí\"",
-          "link": "https://www.europapress.es/nacional/noticia-feijoo-aspira-mayoria-comoda-hacer-coalicion-gobierno-vox-no-depende-20261108102937.html",
-          "source": "Europa Press",
-          "summary": "El presidente del PP, Alberto Núñez Feijóo, ha asegurado que la posibilidad de formar un Gobierno de coalición con Vox si llega a La Moncloa tras las próximas elecciones generales no depende de él, aunque ha defendido que su objetivo es gobernar en solitario con una mayoría suficiente en el Congreso y el Senado.",
-          "sources": [
-            "Europa Press",
-            "El País"
-          ],
-          "firstSeen": "2026-11-08T12:26:22.413Z"
-        },
-        {
-          "title": "Sánchez reenfoca la campaña del PSOE en la gestión y asegura que blindará las pensiones en la Constitución",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-08/sanchez-reenfoca-la-campana-del-psoe-en-la-gestion-y-asegura-que-blindara-las-pensiones-en-la-constitucion.html",
-          "source": "El País",
-          "summary": "El presidente considera “un insulto a la inteligencia” que Feijóo sostenga que no depende de él que gobierne con Abascal",
-          "sources": [
-            "El País",
-            "20minutos"
-          ],
-          "firstSeen": "2026-11-08T21:28:14.459Z"
-        },
-        {
-          "title": "Feijóo pide a Sánchez \"menos mirar a Trump y más a los trenes\" y a los directivos de Adif devolver los bonus que han cobrado",
-          "link": "https://www.20minutos.es/nacional/feijoo-pide-sanchez-menos-mirar-trump-mas-trenes-directivos-adif-devolver-gratificaciones-han-cobrado_7058678_0.html",
-          "source": "20minutos",
-          "summary": "El líder del PP promete, si llega a la Moncloa, revisar el transporte ferroviario \"palmo a palmo\" para que \"vuelva la seguridad\" y la gente pierda el miedo al tren.",
-          "sources": [
+            "elDiario.es",
             "20minutos",
-            "elDiario.es"
+            "Europa Press"
           ],
-          "firstSeen": "2026-11-08T21:28:14.459Z"
+          "firstSeen": "2026-11-09T14:41:04.691Z"
+        },
+        {
+          "title": "Feijóo niega haber ofrecido pagos a Koldo García para difamar a Sánchez: “Es absolutamente falso”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/feijoo-niega-haber-ofrecido-pagos-a-koldo-garcia-para-difamar-a-sanchez-es-absolutamente-falso.html",
+          "source": "El País",
+          "summary": "Gamarra asegura que se han dado todas las explicaciones sobre “la reunión que existió” a pesar de que la portavoz parlamentaria del PP negó la semana pasada cualquier contacto",
+          "sources": [
+            "El País",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-09T14:41:04.691Z"
         }
       ],
       "items": [
         {
-          "title": "Nvidia abre una investigación sobre la relación de su CEO, Jensen Huang, con una espía china",
-          "link": "https://www.eldiario.es/tecnologia/nvidia-abre-investigacion-relacion-ceo-jensen-huang-espia-china_1_13648276.html",
-          "source": "elDiario.es",
-          "published": "2026-11-08T20:30:37.000Z"
-        },
-        {
-          "title": "El atentado en Cracovia deja a Polonia en estado de ‘shock’: “Es lo más aterrador que he vivido. Esto se nos va a quedar”",
-          "link": "https://elpais.com/internacional/2026-11-08/el-atentado-en-cracovia-deja-a-polonia-en-estado-de-shock-es-lo-mas-aterrador-que-he-vivido-esto-se-nos-va-a-quedar.html",
+          "title": "Canarias reclama al Estado un paquete extraordinario para El Hierro y reuniones semanales para tratar la migración",
+          "link": "https://elpais.com/espana/2026-11-09/canarias-reclama-al-estado-un-paquete-extraordinario-para-el-hierro-y-reuniones-semanales-para-tratar-la-migracion.html",
           "source": "El País",
-          "published": "2026-11-08T19:46:42.000Z"
+          "published": "2026-11-09T13:57:18.000Z"
         },
         {
-          "title": "Alertan de que Zaporiyia solo tiene energía para mantener refrigerado su reactor dos semanas más",
-          "link": "https://www.20minutos.es/internacional/alertan-central-nuclear-zaporiyia-solo-tiene-energia-mantener-refrigerado-reactor-semanas-mas_7058732_0.html",
-          "source": "20minutos",
-          "published": "2026-11-08T18:47:06.000Z"
-        },
-        {
-          "title": "Irán reitera su propuesta de plan de alto el fuego a EEUU una vez superadas las 'midterm'",
-          "link": "https://www.europapress.es/internacional/noticia-iran-reitera-propuesta-plan-alto-fuego-eeuu-vez-superadas-midterm-20261108182149.html",
-          "source": "Europa Press",
-          "published": "2026-11-08T17:21:49.000Z"
-        },
-        {
-          "title": "Gadi Eisenkot, el exgeneral que puede quitarle el gobierno a Netanyahu con más belicismo y una cara amable",
-          "link": "https://www.eldiario.es/internacional/gadi-eisenkot-exgeneral-quitarle-gobierno-netanyahu-belicismo-cara-amable_1_13648079.html",
+          "title": "Feijóo afirma que la huelga general \"es un disparate\" que \"no existe\" en otros países de la Unión Europea",
+          "link": "https://www.eldiario.es/politica/feijoo-afirma-huelga-general-disparate-no-existe-paises-union-europea_1_13649826.html",
           "source": "elDiario.es",
-          "published": "2026-11-08T16:53:40.000Z"
+          "published": "2026-11-09T13:28:33.000Z"
         },
         {
-          "title": "Évole, sobre la entrevista de Broncano a Abascal: \"No entiendo a los que piden boicot; lo puede pasar mal\"",
-          "link": "https://www.20minutos.es/television/evole-reacciona-entrevista-broncano-abascal-revuelta-no-entiendo-los-que-piden-boicot-puede-pasar-mal_7058699_0.html",
-          "source": "20minutos",
-          "published": "2026-11-08T16:06:14.000Z"
+          "title": "Gamarra reconoce la reunión del abogado del PP con Koldo García pero dice que es \"mentira\" que le ofrecieran dinero",
+          "link": "https://www.eldiario.es/politica/gamarra-reconoce-reunion-abogado-pp-koldo-garcia-dice-mentira-le-ofrecieran-dinero_1_13649435.html",
+          "source": "elDiario.es",
+          "published": "2026-11-09T12:34:05.000Z"
         },
         {
-          "title": "Las fuertes lluvias inundan miles de precarias tiendas de campaña en Gaza y agravan la crisis humanitaria",
-          "link": "https://elpais.com/internacional/2026-11-08/las-fuertes-lluvias-inundan-miles-de-precarias-tiendas-de-campana-en-gaza-y-agravan-la-crisis-humanitaria.html",
+          "title": "'Un voto como una casa' será el lema de campaña del Frente Amplio",
+          "link": "https://www.eldiario.es/politica/voto-casa-sera-lema-campana-frente-amplio_1_13649510.html",
+          "source": "elDiario.es",
+          "published": "2026-11-09T12:26:17.000Z"
+        },
+        {
+          "title": "Al menos 35 muertos y decenas de desaparecidos tras el naufragio de un cayuco en Senegal",
+          "link": "https://elpais.com/espana/2026-11-09/al-menos-35-muertos-y-decenas-de-desaparecidos-tras-el-naufragio-de-un-cayuco-en-senegal.html",
           "source": "El País",
-          "published": "2026-11-08T13:43:31.000Z"
+          "published": "2026-11-09T12:06:25.000Z"
         },
         {
-          "title": "Rufián apuesta por el catalanismo en su primer mitin en solitario: \"Quiero un PSOE sometido a fuerzas soberanistas\"",
-          "link": "https://www.eldiario.es/catalunya/rufian-apuesta-catalanismo-primer-mitin-solitario-quiero-psoe-sometido-fuerzas-sobreranistas_1_13647784.html",
+          "title": "Las primeras promesas de Feijóo: ampliar a los 50 años el aval público para la entrada de un piso e inversión \"con el sector privado\" en infraestructuras",
+          "link": "https://www.eldiario.es/politica/primeras-promesas-feijoo-ampliar-50-anos-aval-publico-entrada-piso-e-inversion-sector-privado-infraestrucutras_1_13649013.html",
           "source": "elDiario.es",
-          "published": "2026-11-08T13:17:07.000Z"
+          "published": "2026-11-09T11:54:56.000Z"
+        },
+        {
+          "title": "El Hierro, al \"límite\": la isla admite la \"incapacidad\" de derivar a todos los inmigrantes que llegan y los policías piden refuerzos",
+          "link": "https://www.20minutos.es/canarias/hierro-admite-un-problema-real-incapacidad-derivar-todos-los-migrantes-que-llegan-cayucos-isla_7058867_0.html",
+          "source": "20minutos",
+          "published": "2026-11-09T11:54:11.000Z"
+        },
+        {
+          "title": "Sánchez alienta la huelga general porque \"los derechos se pueden perder en un instante\" y el PP prevé que será \"un auténtico fracaso\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-alienta-huela-general-porque-los-derechos-se-pueden-perder-un-instante-pp-preve-que-sera-un-autentico-fracaso_7058866_0.html",
+          "source": "20minutos",
+          "published": "2026-11-09T11:40:06.000Z"
         }
       ]
     },
@@ -108,63 +88,16 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Designan al líder opositor de Israel para formar nuevo gobierno",
-          "link": "https://www.dw.com/es/designan-al-líder-opositor-de-israel-para-formar-nuevo-gobierno/a-79888564?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Gadi Eisenkot llamó a crear un \"gobierno nacional de emergencia\" tras recibir el mandato del presidente Isaac Herzog.",
+          "title": "León XIV llega a Argentina y marca diferencias con Milei: \"La economía debe estar al servicio de la persona\"",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261109-le%C3%B3n-xiv-llega-a-argentina-y-marca-diferencias-con-milei-la-econom%C3%ADa-debe-estar-al-servicio-de-la-persona",
+          "source": "France 24",
+          "summary": "En el inicio de su histórica visita a Argentina, la primera de un papa en casi 40 años, León XIV exigió justicia social, protección para los jubilados y las personas con discapacidad, al tiempo que reclamó mayor apoyo a la educación y la investigación. En presencia de Javier Milei, el pontífice defendió una economía centrada en el bienestar de las personas, en un mensaje que contrasta con las políticas de ajuste y reducción del Estado que lleva adelante el presidente argentino.",
           "sources": [
-            "DW",
+            "France 24",
             "El País Internacional",
-            "20minutos Internacional",
-            "elDiario.es Internacional"
+            "BBC Mundo"
           ],
-          "firstSeen": "2026-11-08T12:26:22.413Z"
-        },
-        {
-          "title": "Trump ofrece la portavocía de la Casa Blanca al presidente de la competición de lucha UFC",
-          "link": "https://elpais.com/internacional/2026-11-07/trump-ofrece-su-portavocia-a-un-exluchador-profesional.html",
-          "source": "El País Internacional",
-          "summary": "Según la CNN, Dana White rehúsa la oferta, pero el medio TMZ, especializado en farándula, apunta que las dos personalidades se reunirán la semana que viene para estudiar la oferta",
-          "sources": [
-            "El País Internacional",
-            "20minutos Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-11-08T12:26:22.413Z"
-        },
-        {
-          "title": "Gadi Eisenkot invita a Netanyahu a sumarse a su gobierno de \"emergencia nacional\" en Israel",
-          "link": "https://www.20minutos.es/internacional/gadi-eisenkot-invita-netanyahu-sumarse-su-gobierno-emergencia-nacional-israel_7058747_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El primer ministro saliente niega esta posibilidad si no continúa él en el cargo.",
-          "sources": [
-            "20minutos Internacional",
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-11-08T21:28:14.459Z"
-        },
-        {
-          "title": "Un ataque contra Riad provoca daños en las oficinas de la mayor petrolera del mundo, Saudi Aramco",
-          "link": "https://elpais.com/internacional/2026-11-08/un-ataque-a-riad-provoca-danos-en-las-oficinas-de-la-mayor-petrolera-del-mundo-saudi-aramco.html",
-          "source": "El País Internacional",
-          "summary": "Los rebeldes hutíes denuncian la muerte de al menos 33 civiles en una ofensiva el sábado contra la capital de Yemen",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-11-08T12:26:22.413Z"
-        },
-        {
-          "title": "Un juez de Paraguay ordena la prisión preventiva para el expresidente Peña por el caso Ueno Bank",
-          "link": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "La decisión llega después de que la Fiscalía lo imputara por los presuntos delitos de abuso de confianza y administración para beneficio personal",
-          "sources": [
-            "BBC Mundo",
-            "France 24"
-          ],
-          "firstSeen": "2026-11-08T12:26:22.413Z"
+          "firstSeen": "2026-11-09T14:41:04.691Z"
         }
       ],
       "items": [
@@ -172,49 +105,49 @@
           "title": "Crisis en Paraguay: Santiago Peña, en arresto domiciliario tras ser destituido por el Congreso en juicio político",
           "link": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-11-08T21:28:10.078Z"
+          "published": "2026-11-09T14:41:02.749Z"
         },
         {
-          "title": "\"Estoy destrozada\": la conmoción de Polonia tras el tiroteo mortal en Cracovia",
-          "link": "https://www.france24.com/es/europa/20261108-estoy-destrozada-la-conmoci%C3%B3n-en-polonia-tras-el-tiroteo-mortal-en-cracovia",
+          "title": "El Papa León XIV junto a Javier Milei pidió tener \"el cuidado de la palabra\": 'La Nación'",
+          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261109-el-papa-le%C3%B3n-xiv-junto-a-javier-milei-pidi%C3%B3-tener-el-cuidado-de-la-palabra-la-naci%C3%B3n",
           "source": "France 24",
-          "published": "2026-11-08T21:06:45.000Z"
+          "published": "2026-11-09T14:33:33.000Z"
         },
         {
-          "title": "El adiós de Novaya Gazeta deja tocado de muerte al periodismo independiente en Rusia",
-          "link": "https://www.eldiario.es/internacional/adios-novaya-gazeta-deja-tocado-muerte-periodismo-independiente-rusia_1_13644243.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-08T20:36:43.000Z"
-        },
-        {
-          "title": "El renacimiento de Lula da Silva, el sindicalista guerrero 'encantador de serpientes'",
-          "link": "https://www.eldiario.es/internacional/renacimiento-lula-da-silva-sindicalista-guerrero-encantador-serpientes_1_13644770.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-08T20:36:38.000Z"
-        },
-        {
-          "title": "El Gobierno de Kast hace aguas por un escándalo de rebajas de condenas a agresores sexuales de menores",
-          "link": "https://www.eldiario.es/internacional/gobierno-kast-aguas-escandalo-rebajas-condenas-agresores-sexuales-menores_1_13642936.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-08T20:36:37.000Z"
-        },
-        {
-          "title": "El partido de Mandela sufre un revés en las elecciones municipales: ¿qué viene ahora en Sudáfrica?",
-          "link": "https://www.france24.com/es/%C3%A1frica/20261108-el-partido-de-mandela-sufre-un-rev%C3%A9s-en-las-elecciones-municipales-qu%C3%A9-viene-ahora-en-sud%C3%A1frica",
+          "title": "Gaza busca a sus muertos bajo los escombros un año después de la \"tregua\"",
+          "link": "https://www.france24.com/es/programas/los-observadores/20261109-gaza-busca-a-sus-muertos-bajo-los-escombros-un-a%C3%B1o-despu%C3%A9s-de-la-tregua",
           "source": "France 24",
-          "published": "2026-11-08T20:30:12.000Z"
+          "published": "2026-11-09T14:33:09.000Z"
         },
         {
-          "title": "Colombia: ataques con drones y amenaza de atentados a tres meses del Gobierno De la Espriella",
-          "link": "https://www.france24.com/es/video/20261108-colombia-ataques-con-drones-y-amenaza-de-atentados-a-tres-meses-del-gobierno-de-la-espriella",
+          "title": "Nvidia investiga presunto espionaje chino a su CEO tras un amorío con una empresaria de Shanghái",
+          "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261109-nvidia-investiga-presunto-espionaje-chino-a-su-ceo-tras-un-amor%C3%ADo-con-una-empresaria-de-shangh%C3%A1i",
           "source": "France 24",
-          "published": "2026-11-08T20:05:48.000Z"
+          "published": "2026-11-09T14:13:36.000Z"
         },
         {
-          "title": "Rebeldes hutíes reivindican ataque a rascacielos de Aramco en Arabia Saudita",
-          "link": "https://www.dw.com/es/rebeldes-hutíes-reivindican-ataque-a-rascacielos-de-aramco-en-arabia-saudita/a-79894137?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-08T19:54:00.000Z"
+          "title": "El diario ruso ‘Nóvaya Gazeta’ se despide con la promesa de seguir haciendo periodismo: “Encontraremos una nueva oportunidad”",
+          "link": "https://elpais.com/internacional/2026-11-09/el-diario-ruso-novaya-gazeta-se-despide-con-la-promesa-de-seguir-haciendo-periodismo-encontraremos-una-nueva-oportunidad.html",
+          "source": "El País Internacional",
+          "published": "2026-11-09T14:11:30.000Z"
+        },
+        {
+          "title": "Alice Huang, la espía china de pasado misterioso que llegó hasta el consejero delegado de Nvidia",
+          "link": "https://elpais.com/internacional/2026-11-09/alice-huang-la-espia-china-de-pasado-misterioso-que-llego-hasta-el-consejero-delegado-de-nvidia.html",
+          "source": "El País Internacional",
+          "published": "2026-11-09T13:38:13.000Z"
+        },
+        {
+          "title": "Jensen Huang, el migrante taiwanés que pasó de lavar platos a fundar Nvidia y hoy enfrenta una investigación por su relación con una presunta espía china",
+          "link": "https://www.bbc.com/mundo/articles/c03r1red14yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-11-09T13:07:35.000Z"
+        },
+        {
+          "title": "Muere el autor del tiroteo que dejó seis víctimas en Polonia mientras crece la polémica por sus motivaciones",
+          "link": "https://www.france24.com/es/europa/20261109-muere-el-autor-del-tiroteo-que-dej%C3%B3-seis-v%C3%ADctimas-en-polonia-mientras-crece-la-pol%C3%A9mica-por-sus-motivaciones",
+          "source": "France 24",
+          "published": "2026-11-09T13:06:59.000Z"
         }
       ]
     }
