@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-09",
-  "updatedAt": "2026-11-09T14:41:04.691Z",
-  "edition": "mediodía",
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-10T00:58:17.960Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El Supremo rechaza suspender también el voto de los 189.000 hijos de los nacionalizados por la ‘ley de nietos’",
+          "title": "El Supremo rechaza suspender también el voto de los hijos de los nacionalizados por la ‘ley de nietos’",
           "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
           "source": "El País",
           "summary": "Los magistrados desestiman la petición de Vox y de Iustitia Europa por el “breve lapso temporal” que queda hasta las elecciones del 29-N",
@@ -18,68 +18,101 @@
             "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-11-09T14:41:04.691Z"
+          "firstSeen": "2026-11-10T00:58:17.960Z"
         },
         {
-          "title": "Feijóo niega haber ofrecido pagos a Koldo García para difamar a Sánchez: “Es absolutamente falso”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/feijoo-niega-haber-ofrecido-pagos-a-koldo-garcia-para-difamar-a-sanchez-es-absolutamente-falso.html",
+          "title": "Sánchez avanza que habrá Consejos de Ministros extraordinarios para aprobar medidas sociales antes de las generales",
+          "link": "https://www.europapress.es/nacional/noticia-sanchez-avanza-habra-consejos-ministros-extraordinarios-aprobar-medidas-sociales-antes-generales-20261110001609.html",
+          "source": "Europa Press",
+          "summary": "El presidente del Gobierno, Pedro Sánchez, ha adelantado que antes de que se celebren las elecciones del 29 de noviembre habrá algún Consejo de Ministros con carácter extrordinario para aprobar medidas sociales.",
+          "sources": [
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-11-10T00:58:17.960Z"
+        },
+        {
+          "title": "Sánchez ve evidencias para investigar la presunta reunión del abogado del PP con Koldo García",
+          "link": "https://www.europapress.es/nacional/noticia-sanchez-ve-evidencias-investigar-presunta-reunion-abogado-pp-koldo-garcia-20261109233326.html",
+          "source": "Europa Press",
+          "summary": "El presidente del Gobierno, Pedro Sánchez, considera que existen evidencias para que la Justicia investigue la presunta reunión entre un abogado del PP y el exasesor ministerial Koldo García y ha vuelto a exigir explicaciones al líder del PP, Alberto Núñez Feijóo.",
+          "sources": [
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-10T00:58:17.960Z"
+        },
+        {
+          "title": "Feijóo niega haber ofrecido dinero a Koldo García para derrocar a Sánchez: \"En nombre del PP no se ha ofrecido un euro a nadie\"",
+          "link": "https://www.20minutos.es/nacional/feijoo-niega-haber-ofrecido-dinero-koldo-para-derrocar-sanchez-nombre-pp-no-se-ha-ofrecido-un-euro-nadie_7059009_0.html",
+          "source": "20minutos",
+          "summary": "El líder del PP también ha afirmado que, si gobierna tras las elecciones del 29N, derogará la ley de vivienda y la sustituirá por un plan para construir un millón de inmuebles.",
+          "sources": [
+            "20minutos",
+            "El País"
+          ],
+          "firstSeen": "2026-11-10T00:58:17.960Z"
+        },
+        {
+          "title": "El actor Russell Brand, condenado a diez años y seis meses por la violación de una mujer y agresiones sexuales a otras tres",
+          "link": "https://elpais.com/sociedad/2026-11-09/el-actor-russell-brand-condenado-a-diez-anos-y-seis-meses-por-la-violacion-de-una-mujer-y-agresiones-sexuales-a-otras-tres.html",
           "source": "El País",
-          "summary": "Gamarra asegura que se han dado todas las explicaciones sobre “la reunión que existió” a pesar de que la portavoz parlamentaria del PP negó la semana pasada cualquier contacto",
+          "summary": "El juez, que ha definido al actor como un “depredador sexual”, ha tenido en cuenta las circunstancias agravantes de humillación a las víctimas",
           "sources": [
             "El País",
-            "Europa Press"
+            "elDiario.es"
           ],
-          "firstSeen": "2026-11-09T14:41:04.691Z"
+          "firstSeen": "2026-11-10T00:58:17.960Z"
         }
       ],
       "items": [
         {
-          "title": "Canarias reclama al Estado un paquete extraordinario para El Hierro y reuniones semanales para tratar la migración",
-          "link": "https://elpais.com/espana/2026-11-09/canarias-reclama-al-estado-un-paquete-extraordinario-para-el-hierro-y-reuniones-semanales-para-tratar-la-migracion.html",
-          "source": "El País",
-          "published": "2026-11-09T13:57:18.000Z"
-        },
-        {
-          "title": "Feijóo afirma que la huelga general \"es un disparate\" que \"no existe\" en otros países de la Unión Europea",
-          "link": "https://www.eldiario.es/politica/feijoo-afirma-huelga-general-disparate-no-existe-paises-union-europea_1_13649826.html",
-          "source": "elDiario.es",
-          "published": "2026-11-09T13:28:33.000Z"
-        },
-        {
-          "title": "Gamarra reconoce la reunión del abogado del PP con Koldo García pero dice que es \"mentira\" que le ofrecieran dinero",
-          "link": "https://www.eldiario.es/politica/gamarra-reconoce-reunion-abogado-pp-koldo-garcia-dice-mentira-le-ofrecieran-dinero_1_13649435.html",
-          "source": "elDiario.es",
-          "published": "2026-11-09T12:34:05.000Z"
-        },
-        {
-          "title": "'Un voto como una casa' será el lema de campaña del Frente Amplio",
-          "link": "https://www.eldiario.es/politica/voto-casa-sera-lema-campana-frente-amplio_1_13649510.html",
-          "source": "elDiario.es",
-          "published": "2026-11-09T12:26:17.000Z"
-        },
-        {
-          "title": "Al menos 35 muertos y decenas de desaparecidos tras el naufragio de un cayuco en Senegal",
-          "link": "https://elpais.com/espana/2026-11-09/al-menos-35-muertos-y-decenas-de-desaparecidos-tras-el-naufragio-de-un-cayuco-en-senegal.html",
-          "source": "El País",
-          "published": "2026-11-09T12:06:25.000Z"
-        },
-        {
-          "title": "Las primeras promesas de Feijóo: ampliar a los 50 años el aval público para la entrada de un piso e inversión \"con el sector privado\" en infraestructuras",
-          "link": "https://www.eldiario.es/politica/primeras-promesas-feijoo-ampliar-50-anos-aval-publico-entrada-piso-e-inversion-sector-privado-infraestrucutras_1_13649013.html",
-          "source": "elDiario.es",
-          "published": "2026-11-09T11:54:56.000Z"
-        },
-        {
-          "title": "El Hierro, al \"límite\": la isla admite la \"incapacidad\" de derivar a todos los inmigrantes que llegan y los policías piden refuerzos",
-          "link": "https://www.20minutos.es/canarias/hierro-admite-un-problema-real-incapacidad-derivar-todos-los-migrantes-que-llegan-cayucos-isla_7058867_0.html",
+          "title": "Abascal y Broncano protagonizan un intenso debate sobre vivienda, clima e inmigración en una 'Revuelta' sin preguntas clásicas",
+          "link": "https://www.20minutos.es/nacional/abascal-broncano-protagonizan-un-intenso-debate-sobre-vivienda-clima-inmigracion-una-revuelta-sin-las-preguntas-clasicas_7059062_0.html",
           "source": "20minutos",
-          "published": "2026-11-09T11:54:11.000Z"
+          "published": "2026-11-09T23:46:20.000Z"
         },
         {
-          "title": "Sánchez alienta la huelga general porque \"los derechos se pueden perder en un instante\" y el PP prevé que será \"un auténtico fracaso\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-alienta-huela-general-porque-los-derechos-se-pueden-perder-un-instante-pp-preve-que-sera-un-autentico-fracaso_7058866_0.html",
+          "title": "El regalo de Abascal a Broncano en 'La Revuelta' y la respuesta del presentador: \"Ya van 100 días de invasión\"",
+          "link": "https://www.20minutos.es/television/regalo-abascal-broncano-revuelta-respuesta-presentador-ya-van-100-dias-invasion_7059063_0.html",
           "source": "20minutos",
-          "published": "2026-11-09T11:40:06.000Z"
+          "published": "2026-11-09T23:35:37.000Z"
+        },
+        {
+          "title": "Broncano y Abascal, deconstrucción sin éxito",
+          "link": "https://elpais.com/espana/2026-11-09/broncano-y-abascal-deconstruccion-sin-exito.html",
+          "source": "El País",
+          "published": "2026-11-09T23:21:03.000Z"
+        },
+        {
+          "title": "Sánchez dice que la llegada de más de 6.600 migrantes a las islas \"es habitual en este momento del año\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-dice-que-llegada-mas-6-600-migrantes-canarias-es-bastante-habitual-este-momento-ano_7059057_0.html",
+          "source": "20minutos",
+          "published": "2026-11-09T23:13:56.000Z"
+        },
+        {
+          "title": "Abascal aboga por \"regular\" los fondos buitre para evitar la especulación con la vivienda",
+          "link": "https://www.europapress.es/nacional/noticia-abascal-aboga-regular-fondos-buitre-evitar-especulacion-vivienda-20261110000544.html",
+          "source": "Europa Press",
+          "published": "2026-11-09T23:05:44.000Z"
+        },
+        {
+          "title": "Un escándalo de espías y seducción en el gigante tecnológico Nvidia compromete a Donald Trump",
+          "link": "https://elpais.com/us/2026-11-09/un-escandalo-de-espias-y-seduccion-en-el-gigante-tecnologico-nvidia-compromete-a-donald-trump.html",
+          "source": "El País",
+          "published": "2026-11-09T20:27:14.000Z"
+        },
+        {
+          "title": "Feijóo agita el fantasma de la \"inseguridad\" y el \"desorden\" y promete blindar Balears frente a la inmigración",
+          "link": "https://www.eldiario.es/illes-balears/politica/feijoo-agita-fantasma-inseguridad-desorden-promete-blindar-balears-frente-inmigracion_1_13650684.html",
+          "source": "elDiario.es",
+          "published": "2026-11-09T19:59:30.000Z"
+        },
+        {
+          "title": "Canarias presentará al Gobierno un pacto que exige ayudas, más personal y la acción de Frontex ante la crisis migratoria",
+          "link": "https://www.20minutos.es/canarias/canarias-presentara-este-martes-gobierno-un-pacto-que-exige-ayudas-mas-personal-accion-frontex-ante-crisis-migratoria_7059025_0.html",
+          "source": "20minutos",
+          "published": "2026-11-09T19:58:18.000Z"
         }
       ]
     },
@@ -88,66 +121,78 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "León XIV llega a Argentina y marca diferencias con Milei: \"La economía debe estar al servicio de la persona\"",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261109-le%C3%B3n-xiv-llega-a-argentina-y-marca-diferencias-con-milei-la-econom%C3%ADa-debe-estar-al-servicio-de-la-persona",
-          "source": "France 24",
-          "summary": "En el inicio de su histórica visita a Argentina, la primera de un papa en casi 40 años, León XIV exigió justicia social, protección para los jubilados y las personas con discapacidad, al tiempo que reclamó mayor apoyo a la educación y la investigación. En presencia de Javier Milei, el pontífice defendió una economía centrada en el bienestar de las personas, en un mensaje que contrasta con las políticas de ajuste y reducción del Estado que lleva adelante el presidente argentino.",
+          "title": "Un congresista republicano inicia el proceso para el \"impeachment\" del secretario de Defensa de EE.UU. por la guerra en Irán",
+          "link": "https://www.bbc.com/mundo/articles/cm62y2l3eng1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "summary": "Es probable que el intento fracase, pero el representante Thomas Massie quiere presionar a Trump para que despida a Hegseth antes de que los demócratas puedan iniciar su propio proceso de destitución.",
           "sources": [
-            "France 24",
+            "BBC Mundo",
             "El País Internacional",
-            "BBC Mundo"
+            "20minutos Internacional"
           ],
-          "firstSeen": "2026-11-09T14:41:04.691Z"
+          "firstSeen": "2026-11-10T00:58:17.960Z"
+        },
+        {
+          "title": "Francia investiga a Irán como responsable de ataques a refrigeradores de supermercados",
+          "link": "https://www.dw.com/es/francia-investiga-a-irán-como-responsable-de-ataques-a-refrigeradores-de-supermercados/a-79905642?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "summary": "Numerosos supermercados franceses se vieron afectados por los ciberataques, que provocaron un aumento de la temperatura en sus cámaras frigoríficas y obligaron a desechar alimentos.",
+          "sources": [
+            "DW",
+            "France 24",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-10T00:58:17.960Z"
         }
       ],
       "items": [
         {
-          "title": "Crisis en Paraguay: Santiago Peña, en arresto domiciliario tras ser destituido por el Congreso en juicio político",
-          "link": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-09T14:41:02.749Z"
-        },
-        {
-          "title": "El Papa León XIV junto a Javier Milei pidió tener \"el cuidado de la palabra\": 'La Nación'",
-          "link": "https://www.france24.com/es/programas/revista-de-prensa/20261109-el-papa-le%C3%B3n-xiv-junto-a-javier-milei-pidi%C3%B3-tener-el-cuidado-de-la-palabra-la-naci%C3%B3n",
+          "title": "Frenar a la extrema derecha en Francia: la estrella del judo Teddy Riner lanza su candidatura a la Presidencia",
+          "link": "https://www.france24.com/es/europa/20261110-frenar-a-la-extrema-derecha-en-francia-la-estrella-del-judo-teddy-riner-lanza-su-candidatura-a-la-presidencia",
           "source": "France 24",
-          "published": "2026-11-09T14:33:33.000Z"
+          "published": "2026-11-10T00:49:53.000Z"
         },
         {
-          "title": "Gaza busca a sus muertos bajo los escombros un año después de la \"tregua\"",
-          "link": "https://www.france24.com/es/programas/los-observadores/20261109-gaza-busca-a-sus-muertos-bajo-los-escombros-un-a%C3%B1o-despu%C3%A9s-de-la-tregua",
+          "title": "Corea del Norte prueba un torpedo de alta velocidad en el mar de Japón",
+          "link": "https://www.dw.com/es/corea-del-norte-prueba-un-torpedo-de-alta-velocidad-en-el-mar-de-japón/a-79905831?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-10T00:35:00.000Z"
+        },
+        {
+          "title": "Hegseth en la cuerda floja: ¿saldrá el jefe del Pentágono del Gobierno de Trump?",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-hegseth-en-la-cuerda-floja-saldr%C3%A1-el-jefe-del-pent%C3%A1gono-del-gobierno-de-trump",
           "source": "France 24",
-          "published": "2026-11-09T14:33:09.000Z"
+          "published": "2026-11-09T23:37:37.000Z"
         },
         {
-          "title": "Nvidia investiga presunto espionaje chino a su CEO tras un amorío con una empresaria de Shanghái",
-          "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261109-nvidia-investiga-presunto-espionaje-chino-a-su-ceo-tras-un-amor%C3%ADo-con-una-empresaria-de-shangh%C3%A1i",
+          "title": "Cierra 'Novaya Gazeta', uno de los pocos medios en Rusia que hablaba contra la guerra en Ucrania",
+          "link": "https://www.france24.com/es/video/20261109-cierra-novaya-gazeta-uno-de-los-pocos-medios-en-rusia-que-hablaba-contra-la-guerra-en-ucrania",
           "source": "France 24",
-          "published": "2026-11-09T14:13:36.000Z"
+          "published": "2026-11-09T22:46:01.000Z"
         },
         {
-          "title": "El diario ruso ‘Nóvaya Gazeta’ se despide con la promesa de seguir haciendo periodismo: “Encontraremos una nueva oportunidad”",
-          "link": "https://elpais.com/internacional/2026-11-09/el-diario-ruso-novaya-gazeta-se-despide-con-la-promesa-de-seguir-haciendo-periodismo-encontraremos-una-nueva-oportunidad.html",
-          "source": "El País Internacional",
-          "published": "2026-11-09T14:11:30.000Z"
-        },
-        {
-          "title": "Alice Huang, la espía china de pasado misterioso que llegó hasta el consejero delegado de Nvidia",
-          "link": "https://elpais.com/internacional/2026-11-09/alice-huang-la-espia-china-de-pasado-misterioso-que-llego-hasta-el-consejero-delegado-de-nvidia.html",
-          "source": "El País Internacional",
-          "published": "2026-11-09T13:38:13.000Z"
-        },
-        {
-          "title": "Jensen Huang, el migrante taiwanés que pasó de lavar platos a fundar Nvidia y hoy enfrenta una investigación por su relación con una presunta espía china",
-          "link": "https://www.bbc.com/mundo/articles/c03r1red14yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-09T13:07:35.000Z"
-        },
-        {
-          "title": "Muere el autor del tiroteo que dejó seis víctimas en Polonia mientras crece la polémica por sus motivaciones",
-          "link": "https://www.france24.com/es/europa/20261109-muere-el-autor-del-tiroteo-que-dej%C3%B3-seis-v%C3%ADctimas-en-polonia-mientras-crece-la-pol%C3%A9mica-por-sus-motivaciones",
+          "title": "Empieza la COP31 en Turquía con un complejo panorama climático en el mundo y crisis de combustible",
+          "link": "https://www.france24.com/es/video/20261109-empieza-la-cop31-en-turqu%C3%ADa-con-un-complejo-panorama-clim%C3%A1tico-en-el-mundo-y-crisis-de-combustible",
           "source": "France 24",
-          "published": "2026-11-09T13:06:59.000Z"
+          "published": "2026-11-09T22:44:33.000Z"
+        },
+        {
+          "title": "\"¿Quieres ser el secretario de Prensa, Dana?\": el circo de Trump en la Casa Blanca",
+          "link": "https://www.eldiario.es/internacional/quieres-secretario-prensa-dana-circo-trump-casa-blanca_1_13650936.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-09T22:32:57.000Z"
+        },
+        {
+          "title": "Trump ve \"un impulso positivo hacia el fin del conflicto\" con Irán y descarta una acción militar por ahora",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-trump-ve-un-impulso-positivo-hacia-el-fin-del-conflicto-con-ir%C3%A1n-y-descarta-una-acci%C3%B3n-militar-por-ahora",
+          "source": "France 24",
+          "published": "2026-11-09T22:26:36.000Z"
+        },
+        {
+          "title": "Francia adelanta la subida del salario mínimo ante las protestas y la presión sindical",
+          "link": "https://www.france24.com/es/francia/20261109-francia-adelanta-la-subida-del-salario-m%C3%ADnimo-ante-las-protestas-y-la-presi%C3%B3n-sindical",
+          "source": "France 24",
+          "published": "2026-11-09T21:53:43.000Z"
         }
       ]
     }
