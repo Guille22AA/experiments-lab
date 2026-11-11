@@ -1,233 +1,149 @@
 {
-  "date": "2026-11-10",
-  "updatedAt": "2026-11-10T22:39:04.373Z",
-  "edition": "tarde",
+  "date": "2026-11-11",
+  "updatedAt": "2026-11-11T13:11:28.223Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El Supremo rechaza suspender también el voto de los hijos de los nacionalizados por la ‘ley de nietos’",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
-          "source": "El País",
-          "summary": "Los magistrados desestiman la petición de Vox y de Iustitia Europa por el “breve lapso temporal” que queda hasta las elecciones del 29-N",
+          "title": "Huelga general del 11 de noviembre: qué revela el consumo eléctrico en tiempo real sobre su seguimiento",
+          "link": "https://www.europapress.es/economia/energia-00341/noticia-huelga-general-11-noviembre-revela-consumo-electrico-tiempo-real-seguimiento-20261111131526.html",
+          "source": "Europa Press",
+          "summary": "La evolución del consumo eléctrico es uno de los indicadores que permiten aproximarse al impacto de una huelga general en la actividad económica. Red Eléctrica (REE) publica los datos de demanda en tiempo real, que permiten observar cuánto está consumiendo el país durante la jornada y compararlo con las previsiones.",
           "sources": [
-            "El País",
+            "Europa Press",
+            "El País"
+          ],
+          "firstSeen": "2026-11-11T13:11:28.223Z"
+        },
+        {
+          "title": "El diputado de Por Andalucía Ernesto Alba denuncia una agresión policial en un piquete en Mercamálaga",
+          "link": "https://www.eldiario.es/andalucia/malaga/diputado-andalucia-ernesto-alba-denuncia-agresion-policial-piquete-mercamalaga_1_13655029.html",
+          "source": "elDiario.es",
+          "summary": "\"La derecha lleva días cuestionando el derecho a la huelga. Y parece que la Policía, también\", ha informado Ernesto Alba exhibiendo redes sociales un parte médico DIRECTO - Sigue el minuto a minuto de la huelga general El diputado de Por Andalucía Ernesto Alba ha denunciado este miércoles que ha sufrido “junto con otros compañeros” una “agresión policial” en un piquete informativo en Mercamálaga con motivo de la huelga general del 11N convocada por los sindicatos para reclamar salarios dignos, acceso a la vivienda y servicios públicos. En un mensaje publicado en su perfil de la red social X…",
+          "sources": [
             "elDiario.es",
-            "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-11-10T00:58:17.960Z"
+          "firstSeen": "2026-11-11T13:11:28.223Z"
         },
         {
-          "title": "Sánchez avanza que habrá Consejos de Ministros extraordinarios para aprobar medidas sociales antes de las generales",
-          "link": "https://www.europapress.es/nacional/noticia-sanchez-avanza-habra-consejos-ministros-extraordinarios-aprobar-medidas-sociales-antes-generales-20261110001609.html",
-          "source": "Europa Press",
-          "summary": "El presidente del Gobierno, Pedro Sánchez, ha adelantado que antes de que se celebren las elecciones del 29 de noviembre habrá algún Consejo de Ministros con carácter extrordinario para aprobar medidas sociales.",
+          "title": "Los sindicatos planean acciones judiciales por las cargas policiales contra piquetes",
+          "link": "https://www.eldiario.es/politica/sindicatos-planean-acciones-judiciales-cargas-policiales-piquetes_1_13654290.html",
+          "source": "elDiario.es",
+          "summary": "CCOO Madrid presentará una demanda penal por el uso de gas pimienta contra manifestantes \"pacíficos\" en Madrid Directo - Piquetes, cargas y un seguimiento de entre el 75% y el 41, según los sindicatos, marcan la jornada de huelga primera huelga general en los últimos 14 años en España, impulsada inicialmente por el sindicato de Inquilinas y convocada por los sindicatos mayoritarios UGT y Comisiones Obreras para reivindicar mejores salarios y medidas para facilitar el acceso a una vivienda digna, ha causado en diversos lugares de España cortes de carreteras, funcionamiento mínimo de los…",
           "sources": [
-            "Europa Press",
-            "El País"
+            "elDiario.es",
+            "20minutos"
           ],
-          "firstSeen": "2026-11-10T00:58:17.960Z"
-        },
-        {
-          "title": "Sánchez ve evidencias para investigar la presunta reunión del abogado del PP con Koldo García",
-          "link": "https://www.europapress.es/nacional/noticia-sanchez-ve-evidencias-investigar-presunta-reunion-abogado-pp-koldo-garcia-20261109233326.html",
-          "source": "Europa Press",
-          "summary": "El presidente del Gobierno, Pedro Sánchez, considera que existen evidencias para que la Justicia investigue la presunta reunión entre un abogado del PP y el exasesor ministerial Koldo García y ha vuelto a exigir explicaciones al líder del PP, Alberto Núñez Feijóo.",
-          "sources": [
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-10T00:58:17.960Z"
-        },
-        {
-          "title": "Feijóo niega haber ofrecido dinero a Koldo García para derrocar a Sánchez: \"En nombre del PP no se ha ofrecido un euro a nadie\"",
-          "link": "https://www.20minutos.es/nacional/feijoo-niega-haber-ofrecido-dinero-koldo-para-derrocar-sanchez-nombre-pp-no-se-ha-ofrecido-un-euro-nadie_7059009_0.html",
-          "source": "20minutos",
-          "summary": "El líder del PP también ha afirmado que, si gobierna tras las elecciones del 29N, derogará la ley de vivienda y la sustituirá por un plan para construir un millón de inmuebles.",
-          "sources": [
-            "20minutos",
-            "El País"
-          ],
-          "firstSeen": "2026-11-10T00:58:17.960Z"
-        },
-        {
-          "title": "El actor Russell Brand, condenado a diez años y seis meses por la violación de una mujer y agresiones sexuales a otras tres",
-          "link": "https://elpais.com/sociedad/2026-11-09/el-actor-russell-brand-condenado-a-diez-anos-y-seis-meses-por-la-violacion-de-una-mujer-y-agresiones-sexuales-a-otras-tres.html",
-          "source": "El País",
-          "summary": "El juez, que ha definido al actor como un “depredador sexual”, ha tenido en cuenta las circunstancias agravantes de humillación a las víctimas",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-10T00:58:17.960Z"
+          "firstSeen": "2026-11-11T13:11:28.223Z"
         }
       ],
       "items": [
         {
-          "title": "Última hora de la actualidad política, en directo | CC OO y UGT llaman a una “huelga masiva” y denuncian que la vivienda es “la gran fractura de este país”",
-          "link": "https://elpais.com/espana/2026-11-10/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "title": "Huelga general 11N y actualidad política, en directo | “Los sindicatos hablan “éxito” y de un seguimiento “muy relevante” de la huelga, mientras que las patronales lo ven “bajo”",
+          "link": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-11-10T22:32:29.000Z"
+          "published": "2026-11-11T13:06:15.000Z"
         },
         {
-          "title": "Arranca la primera gran huelga general en 14 años con la vivienda como eje de las protestas",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/arranca-primera-gran-huelga-general-14-anos-con-vivienda-como-eje-las-protestas_7059446_0.html",
+          "title": "El PP descalifica la huelga como “preventiva” contra Feijóo y Vox como “circo general”",
+          "link": "https://elpais.com/espana/2026-11-11/el-pp-descalifica-la-huelga-como-preventiva-contra-feijoo-y-vox-como-circo-general.html",
+          "source": "El País",
+          "published": "2026-11-11T12:49:34.000Z"
+        },
+        {
+          "title": "Garriga (Vox) tilda la huelga de \"circo general\" y dice que los sindicatos son \"altavoces\" y \"milicias de Sánchez\"",
+          "link": "https://www.europapress.es/comunitat-valenciana/noticia-garriga-vox-tilda-huelga-circo-general-dice-sindicatos-son-altavoces-milicias-sanchez-20261111133128.html",
+          "source": "Europa Press",
+          "published": "2026-11-11T12:31:28.000Z"
+        },
+        {
+          "title": "Podemos denuncia \"violencia policial\" durante la huelga y carga contra PP y Vox por \"defender a los que se están forrando\"",
+          "link": "https://www.20minutos.es/nacional/podemos-denuncia-violencia-policial-durante-huelga-carga-contra-pp-vox-por-defender-los-que-se-estan-forrando_7059769_0.html",
           "source": "20minutos",
-          "published": "2026-11-10T22:28:23.000Z"
+          "published": "2026-11-11T12:18:30.000Z"
         },
         {
-          "title": "El Gobierno aprueba nuevos contratos con la industria militar por 11.860 millones",
-          "link": "https://elpais.com/economia/2026-11-10/el-gobierno-aprueba-nuevos-contratos-con-la-industria-militar-por-11860-millones.html",
-          "source": "El País",
-          "published": "2026-11-10T21:44:53.000Z"
-        },
-        {
-          "title": "Piden encarcelar al padre de Meghan Markle por quitarse la pulsera telemática en su arresto domiciliario",
-          "link": "https://www.20minutos.es/gente/fiscalia-ee-uu-pide-encarcelar-padre-meghan-markle-por-quitarse-pulsera-telematica-durante-su-arresto-domiciliario_7059537_0.html",
+          "title": "Los sindicatos tildan de \"éxito\" el 11N y avanzan medidas legales por la actitud de la Policía",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sordo-alvarez-califican-exito-huelga-general-avanzan-medidas-legales-por-actitud-policia_7059748_0.html",
           "source": "20minutos",
-          "published": "2026-11-10T21:22:54.000Z"
+          "published": "2026-11-11T12:09:33.000Z"
         },
         {
-          "title": "Thomas Markle se corta la pulsera electrónica de vigilancia y la jueza decide meterlo en prisión sin fianza",
-          "link": "https://elpais.com/us/entretenimiento/2026-11-10/thomas-markle-se-corta-la-pulsera-electronica-de-vigilancia-y-el-fiscal-exige-que-ingrese-en-prision.html",
+          "title": "Colau afirma que Ayuso \"insulta\" a los sindicatos porque está \"nerviosa\" por el apoyo a la huelga general",
+          "link": "https://www.europapress.es/nacional/noticia-colau-afirma-ayuso-insulta-sindicatos-porque-nerviosa-apoyo-huelga-general-20261111130843.html",
+          "source": "Europa Press",
+          "published": "2026-11-11T12:08:43.000Z"
+        },
+        {
+          "title": "Guterres reclama decisiones urgentes ante una crisis climática desbocada: “Luchamos por nuestras vidas y por el futuro de nuestros hijos”",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-11/guterres-reclama-decisiones-urgentes-ante-una-crisis-climatica-desbocada-luchamos-por-nuestras-vidas-y-por-el-futuro-de-nuestros-hijos.html",
           "source": "El País",
-          "published": "2026-11-10T21:04:28.000Z"
+          "published": "2026-11-11T11:48:52.000Z"
         },
         {
-          "title": "UGT da comienzo a la huelga general del 11N con la vivienda y los salarios dignos como principales reivindicaciones",
-          "link": "https://www.ugt.es/ugt-da-comienzo-la-huelga-general-del-11n-con-la-vivienda-y-los-salarios-dignos-como-principales",
-          "source": "UGT",
-          "published": "2026-11-10T21:01:51.000Z"
-        },
-        {
-          "title": "Los primeros piquetes animan a unirse a la huelga general del 11N: \"Esto tiene que ser una riada de gente\"",
-          "link": "https://www.eldiario.es/economia/primeros-piquetes-animan-unirse-huelga-general-11n-riada-gente_1_13653998.html",
-          "source": "elDiario.es",
-          "published": "2026-11-10T21:00:18.000Z"
-        },
-        {
-          "title": "Fotogalería | Ocupan la sede de Alquiler Seguro en Madrid",
-          "link": "https://www.elsaltodiario.com/madrid/fotogaleria-or-ocupan-sede-alquiler-seguro-madrid?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-11-10T20:46:00.000Z"
+          "title": "Frente Amplio admite que sabía que el 11N \"no iba a parar el país\" pero apunta al \"espectacular\" seguimiento",
+          "link": "https://www.20minutos.es/nacional/frente-amplio-admite-que-sabia-que-11n-no-iba-parar-pais-pero-apunta-espectacular-seguimiento-algunas-zonas_7059728_0.html",
+          "source": "20minutos",
+          "published": "2026-11-11T11:35:20.000Z"
         }
       ]
     },
     {
       "id": "mundo",
       "title": "Mundo · Geopolítica",
-      "highlights": [
-        {
-          "title": "Un congresista republicano inicia el proceso para el \"impeachment\" del secretario de Defensa de EE.UU. por la guerra en Irán",
-          "link": "https://www.bbc.com/mundo/articles/cm62y2l3eng1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "summary": "Es probable que el intento fracase, pero el representante Thomas Massie quiere presionar a Trump para que despida a Hegseth antes de que los demócratas puedan iniciar su propio proceso de destitución.",
-          "sources": [
-            "BBC Mundo",
-            "El País Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-11-10T00:58:17.960Z"
-        },
-        {
-          "title": "Francia investiga a Irán como responsable de ataques a refrigeradores de supermercados",
-          "link": "https://www.dw.com/es/francia-investiga-a-irán-como-responsable-de-ataques-a-refrigeradores-de-supermercados/a-79905642?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "Numerosos supermercados franceses se vieron afectados por los ciberataques, que provocaron un aumento de la temperatura en sus cámaras frigoríficas y obligaron a desechar alimentos.",
-          "sources": [
-            "DW",
-            "France 24",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-11-10T00:58:17.960Z"
-        },
-        {
-          "title": "Arrancan en Abu Dabi las negociaciones entre Rusia, Ucrania y EE UU, las primeras en nueve meses",
-          "link": "https://elpais.com/internacional/2026-11-10/arrancan-en-abu-dabi-las-negociaciones-entre-rusia-ucrania-y-ee-uu-las-primeras-en-nueve-meses.html",
-          "source": "El País Internacional",
-          "summary": "Los enviados de la Unión Europea quedan excluidos de las conversaciones trilaterales, mientras Moscú trata de centrar la discusión en el repliegue de las tropas de la OTAN lejos de su territorio",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-11-10T13:56:49.497Z"
-        },
-        {
-          "title": "La importancia de la relación sentimental del director ejecutivo de Nvidia con una presunta espía china para el desarrollo de la IA",
-          "link": "https://www.dw.com/es/la-importancia-de-la-relación-sentimental-del-director-ejecutivo-de-nvidia-con-una-presunta-espía-china-para-el-desarrollo-de-la-ia/a-79911754?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "El director ejecutivo de Nvidia, Jensen Huang, se disculpó por haber mantenido una relación con una mujer que, según Estados Unidos, espiaba para China. La noticia podría tener profundas repercusiones.",
-          "sources": [
-            "DW",
-            "El País Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-11-10T22:39:04.373Z"
-        },
-        {
-          "title": "Detenido en Hungría el hermano del ex primer ministro Viktor Orbán en una investigación por tráfico de personas",
-          "link": "https://elpais.com/internacional/2026-11-10/detenido-en-hungria-el-hermano-del-ex-primer-ministro-viktor-orban-en-una-investigacion-por-trafico-de-personas.html",
-          "source": "El País Internacional",
-          "summary": "La oficina anticorrupción creada por el nuevo Gobierno sospecha que Áron Orbán y otras personas cobraron comisiones a ciudadanos vietnamitas a cambio de visados para entrar en Europa",
-          "sources": [
-            "El País Internacional",
-            "elDiario.es Internacional"
-          ],
-          "firstSeen": "2026-11-10T13:56:49.497Z"
-        }
-      ],
+      "highlights": [],
       "items": [
         {
-          "title": "El Congreso de EEUU vota el 'impeachment' contra Pete Hegseth por las ilegalidades cometidas en los ataques a Irán y Venezuela",
-          "link": "https://www.eldiario.es/internacional/congreso-eeuu-vota-impeachment-pete-hegseth-ilegalidades-cometidas-ataques-iran-venezuela_1_13653792.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-10T21:31:08.000Z"
+          "title": "Las negociaciones de Abu Dabi sobre Ucrania concluyen con un canje de prisioneros y sin progresos para la paz",
+          "link": "https://elpais.com/internacional/2026-11-11/las-negociaciones-de-abu-dabi-sobre-ucrania-concluyen-con-un-canje-de-prisioneros-y-sin-progresos-para-la-paz.html",
+          "source": "El País Internacional",
+          "published": "2026-11-11T12:27:48.000Z"
         },
         {
-          "title": "Detienen en Reino Unido a un militar de alto rango de EE.UU. bajo sospecha de espiar para Rusia",
-          "link": "https://www.bbc.com/mundo/articles/cqlyj888nnj9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-10T21:23:12.000Z"
+          "title": "Rusia y Ucrania fracasan en Abu Dabi: no logran un alto el fuego y se limitan a pactar otro intercambio de prisioneros",
+          "link": "https://www.20minutos.es/internacional/rusia-ucrania-fracasan-abu-dabi-no-logran-un-alto-fuego-se-limitan-pactar-otro-intercambio-prisioneros_7059766_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-11T12:19:16.000Z"
         },
         {
-          "title": "Conversaciones entre Rusia y Ucrania en Abu Dabi: ¿se producirá un avance decisivo?",
-          "link": "https://www.dw.com/es/conversaciones-entre-rusia-y-ucrania-en-abu-dabi-¿se-producirá-un-avance-decisivo/a-79910461?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Bruselas lanza su plan frente a las 'trampas' en internet: quiere prohibir las suscripciones engañosas y las técnicas adictivas",
+          "link": "https://www.20minutos.es/internacional/bruselas-lanza-su-plan-frente-las-trampas-internet-quiere-prohibir-las-suscripciones-enganosas-las-tecnicas-adictivas_7059618_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-11T10:25:32.000Z"
+        },
+        {
+          "title": "España se paraliza: huelga general por vivienda y salarios",
+          "link": "https://www.dw.com/es/españa-se-paraliza-huelga-general-por-vivienda-y-salarios/a-79916308?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-10T21:02:00.000Z"
+          "published": "2026-11-11T09:52:00.000Z"
         },
         {
-          "title": "¿Remará Australia en contra de los combustibles fósiles en la COP31?",
-          "link": "https://www.dw.com/es/¿remará-australia-en-contra-de-los-combustibles-fósiles-en-la-cop31/a-79912484?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Nueva tensión: Rusia dice haber capturado a dos espías polacos",
+          "link": "https://www.dw.com/es/nueva-tensión-rusia-dice-haber-capturado-a-dos-espías-polacos/a-79916062?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-10T20:58:00.000Z"
+          "published": "2026-11-11T09:31:00.000Z"
         },
         {
-          "title": "El secretario de Defensa de EE.UU. lucha por su supervivencia política, aunque su destino está en manos de Trump",
-          "link": "https://www.bbc.com/mundo/articles/ck8dzdvn6d0mo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-10T20:47:41.000Z"
+          "title": "Los 27 y la Eurocámara pactan el presupuesto de la UE para el año que viene con prioridad para Ucrania, la política digital y la cohesión",
+          "link": "https://www.20minutos.es/internacional/los-27-eurocamara-pactan-presupuesto-ue-para-ano-que-viene-con-prioridad-para-ucrania-politica-digital-cohesion_7059598_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-11T08:48:41.000Z"
         },
         {
-          "title": "Zelenski califica de “constructiva” primera ronda de conversaciones con Rusia",
-          "link": "https://www.dw.com/es/zelenski-califica-de-constructiva-primera-ronda-de-conversaciones-con-rusia/a-79913519?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-10T20:44:00.000Z"
+          "title": "Finlandia cierra una parte de su espacio aéreo y los países bálticos activan alertas ante la ofensiva ucraniana sobre Rusia",
+          "link": "https://www.20minutos.es/internacional/finlandia-cierra-una-parte-su-espacio-aereo-por-un-ataque-ucraniano-sobre-un-puerto-ruso_7059606_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-11T08:34:18.000Z"
         },
         {
-          "title": "Los escritores que llevan libros a pueblos del frente de Ucrania: \"La gente no entiende que Putin es una fuerza de lo viejo\"",
-          "link": "https://www.eldiario.es/internacional/escritores-llevan-libros-pueblos-frente-ucrania-gente-no-entiende-putin-fuerza-viejo_128_13651645.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-10T20:28:13.000Z"
-        },
-        {
-          "title": "Emisiones de combustibles fósiles disminuyen en 2026 por cierre de Ormuz",
-          "link": "https://www.france24.com/es/video/20261110-emisiones-de-combustibles-f%C3%B3siles-disminuyen-en-2026-por-cierre-de-ormuz",
-          "source": "France 24",
-          "published": "2026-11-10T20:15:27.000Z"
+          "title": "El bloqueo republicano salva al secretario de Defensa de EEUU de un 'impeachment' por la guerra de Irán y la captura de Maduro",
+          "link": "https://www.20minutos.es/internacional/bloqueo-republicano-salva-secretario-defensa-eeuu-un-impeachment-por-guerra-iran-captura-maduro_7059584_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-11T08:19:23.000Z"
         }
       ]
     }
