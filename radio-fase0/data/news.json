@@ -1,12 +1,51 @@
 {
   "date": "2026-11-12",
-  "updatedAt": "2026-11-11T23:50:43.626Z",
-  "edition": "mañana",
+  "updatedAt": "2026-11-12T14:14:37.888Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
+        {
+          "title": "La jueza imputa al exdelegado del Gobierno en Ceuta por la entrada masiva",
+          "link": "https://elpais.com/espana/2026-11-12/la-jueza-imputa-al-exdelegado-del-gobierno-en-ceuta-por-la-entrada-masiva.html",
+          "source": "El País",
+          "summary": "La magistrada María Tardón cita a declarar a Miguel Ángel Pérez Triano en plena campaña",
+          "sources": [
+            "El País",
+            "20minutos",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-12T14:14:37.888Z"
+        },
+        {
+          "title": "La UCO acude al Tribunal de Cuentas por la investigación sobre los pagos en efectivo en el PSOE",
+          "link": "https://elpais.com/espana/2026-11-12/la-uco-acude-al-tribunal-de-cuentas-por-la-investigacion-sobre-los-pagos-en-efectivo-en-el-psoe.html",
+          "source": "El País",
+          "summary": "Los agentes han acudido al órgano fiscalizador por orden del juez de la Audiencia Nacional Ismael Moreno",
+          "sources": [
+            "El País",
+            "elDiario.es",
+            "Europa Press",
+            "20minutos"
+          ],
+          "firstSeen": "2026-11-12T14:14:37.888Z"
+        },
+        {
+          "title": "La Fiscalía Europea investiga un posible fraude en las pulseras antimaltrato con fondos comunitarios",
+          "link": "https://elpais.com/sociedad/2026-11-12/la-fiscalia-europea-investiga-en-espana-un-posible-fraude-en-las-pulseras-antimaltrato-con-fondos-comunitarios.html",
+          "source": "El País",
+          "summary": "Agentes de la UCO de la Guardia Civil acuden al Ministerio de Igualdad y al Tribunal de Cuentas para pedir información",
+          "sources": [
+            "El País",
+            "20minutos",
+            "elDiario.es",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-12T14:14:37.888Z"
+        },
         {
           "title": "Las imágenes de la huelga general del 11 de noviembre",
           "link": "https://www.eldiario.es/economia/imagenes-huelga-general-11-noviembre_3_13656120.html",
@@ -20,87 +59,66 @@
           "firstSeen": "2026-11-11T23:50:43.626Z"
         },
         {
-          "title": "Decenas de miles de personas claman por la vivienda bajo la lluvia en toda España",
-          "link": "https://elpais.com/espana/2026-11-11/decenas-de-miles-de-personas-claman-por-la-vivienda-bajo-la-lluvia-en-toda-espana.html",
-          "source": "El País",
-          "summary": "Una masiva manifestación bajo el agua recorre el centro de Madrid",
-          "sources": [
-            "El País",
-            "20minutos"
-          ],
-          "firstSeen": "2026-11-11T23:50:43.626Z"
-        },
-        {
-          "title": "La huelga deja al menos 75 detenidos y un millar de incidencias en toda España",
-          "link": "https://www.europapress.es/nacional/noticia-act3-huelga-deja-ya-mas-50-detenidos-919-incidencias-toda-espana-20261111190915.html",
-          "source": "Europa Press",
-          "summary": "La huelga general del 11 de noviembre (11N) por el acceso a la vivienda y la mejora salarial ha dejado un balance de al menos 75 detenidos y 1.044 incidencias en toda España. La jornada ha terminado con disturbios tras las manifestaciones de la tarde en Barcelona y Madrid, así como críticas de sindicatos y partidos de izquierda por las cargas policiales contra los piquetes.",
-          "sources": [
-            "Europa Press",
-            "20minutos"
-          ],
-          "firstSeen": "2026-11-11T23:50:43.626Z"
-        },
-        {
-          "title": "Muere de forma \"repentina\" el embajador de Rusia en EEUU, Alexander Darchiev",
-          "link": "https://www.20minutos.es/internacional/muere-forma-repentina-embajador-rusia-eeuu-alexander-darchiev_7059916_0.html",
+          "title": "Estas son las principales medidas del decreto de vivienda que ha convalidado el Congreso",
+          "link": "https://www.20minutos.es/nacional/estas-son-las-principales-medidas-decreto-vivienda-que-ha-convalidado-congreso_7060271_0.html",
           "source": "20minutos",
-          "summary": "El diplomático ocupaba el cargo desde 2025. Moscú ha lamentado su repentina muerte y ha destacado su trayectoria y experiencia en las relaciones.",
+          "summary": "Apoyado por PSOE, Sumar, ERC, Bildu, PNV y Podemos, permite prorrogar dos años los contratos de alquiler que venzan antes de 2029 y pone topes a la actualización anual de las rentas hasta el final de 2027.",
           "sources": [
             "20minutos",
+            "Europa Press",
             "El País"
           ],
-          "firstSeen": "2026-11-11T23:50:43.626Z"
+          "firstSeen": "2026-11-12T14:14:37.888Z"
         }
       ],
       "items": [
         {
-          "title": "El discurso de Pablo Motos y “¿cuál es mi cámara?”: los momentos destacados de Feijóo en ‘El hormiguero’",
-          "link": "https://elpais.com/television/2026-11-11/el-discurso-de-pablo-motos-y-cual-es-mi-camara-los-momentos-destacados-de-feijoo-en-el-hormiguero.html",
+          "title": "Jensen Huang, destituido como consejero delegado de Nvidia tras destaparse el escándalo sobre sus infidelidades y el caso de espionaje",
+          "link": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
           "source": "El País",
-          "published": "2026-11-11T22:32:22.000Z"
+          "published": "2026-11-12T13:59:47.000Z"
         },
         {
-          "title": "Feijóo acusa a Sánchez de gastar \"un billón de euros\" sin PGE y estudiará la responsabilidad penal si hay falsedad en las cuentas",
-          "link": "https://www.20minutos.es/nacional/feijoo-acusa-sanchez-gastar-un-billon-euros-sin-pge-estudiara-responsabilidad-penal-si-hay-falsedad-las-cuentas_7059993_0.html",
-          "source": "20minutos",
-          "published": "2026-11-11T22:11:48.000Z"
+          "title": "\"Los miembros de Núcleo Nacional se sienten impunes\", relata una testigo de la agresión fascista de Avilés",
+          "link": "https://www.eldiario.es/asturias/miembros-nucleo-nacional-sienten-impunes-relata-testigo-agresion-fascista-aviles_1_13658191.html",
+          "source": "elDiario.es",
+          "published": "2026-11-12T13:46:29.000Z"
         },
         {
-          "title": "Feijóo ve un \"fracaso\" la huelga general y pide que se condene la agresión a dos militantes del PP en Barakaldo",
-          "link": "https://www.europapress.es/nacional/noticia-feijoo-ve-fracaso-huelga-general-acto-camuflado-campana-electoral-parte-sindicatos-20261111223111.html",
-          "source": "Europa Press",
-          "published": "2026-11-11T21:31:11.000Z"
-        },
-        {
-          "title": "Así ha sido el duro arranque de Motos contra Sánchez por no acudir al programa... y sus diez 'preguntas sin respuesta' al presidente",
-          "link": "https://www.20minutos.es/television/asi-ha-sido-duro-arranque-pablo-motos-contra-sanchez-por-no-ir-programa-sus-diez-preguntas-sin-respuesta-presidente_7059984_0.html",
-          "source": "20minutos",
-          "published": "2026-11-11T21:30:07.000Z"
-        },
-        {
-          "title": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
-          "link": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
+          "title": "España ya es el segundo país de la UE con más trabajadores nacidos en el extranjero",
+          "link": "https://elpais.com/economia/2026-11-12/espana-ya-es-el-segundo-pais-de-la-ue-con-mas-trabajadores-nacidos-en-el-extranjero.html",
           "source": "El País",
-          "published": "2026-11-11T21:00:51.000Z"
+          "published": "2026-11-12T13:21:21.000Z"
         },
         {
-          "title": "Mensaje enviado",
-          "link": "https://elpais.com/opinion/2026-11-11/mensaje-enviado.html",
+          "title": "El Congreso se divide sobre dos decretos de vivienda en la resaca de la huelga y el arranque de la campaña electoral",
+          "link": "https://elpais.com/espana/2026-11-12/el-congreso-se-divide-sobre-dos-decretos-de-vivienda-en-la-resaca-de-la-huelga-y-el-arranque-de-la-campana-electoral.html",
           "source": "El País",
-          "published": "2026-11-11T20:45:48.000Z"
+          "published": "2026-11-12T13:18:14.000Z"
         },
         {
-          "title": "El PP condena la agresión a Miguel y Daniel, de Nuevas Generaciones el 11N: \"Ni un paso atrás ante los violentos\"",
-          "link": "https://www.20minutos.es/nacional/pp-condena-agresion-miguel-daniel-dos-miembros-nuevas-generaciones-29-n-ni-un-paso-atras-ante-los-violentos_7059970_0.html",
+          "title": "Vivas recoge el Premio a Ciudad Destacada: \"En Ceuta tenemos coraje y entereza, un caballa nunca se rinde\"",
+          "link": "https://www.20minutos.es/nacional/juan-jesus-vivas-recoge-premio-20minutos-ciudad-destacada-ceuta-tenemos-coraje-valor-entereza-un-caballa-nunca-se-rinde_7060255_0.html",
           "source": "20minutos",
-          "published": "2026-11-11T20:39:29.000Z"
+          "published": "2026-11-12T13:03:02.000Z"
         },
         {
-          "title": "El Gobierno expresa máximo respeto por quienes han secundado el paro y condena la actitud del PP durante la jornada",
-          "link": "https://www.europapress.es/nacional/noticia-gobierno-expresa-maximo-respeto-quienes-secundado-paro-condena-actitud-pp-jornada-20261111211130.html",
-          "source": "Europa Press",
-          "published": "2026-11-11T20:11:30.000Z"
+          "title": "Última hora tras la huelga general, en directo | Frente Amplio exige a Sánchez el cese de Marlaska por las cargas policiales - Diario Público",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wZk9ReE1pcmZOenc1dVc4TVhHb1Nhc3gxMjdudnpSS3hMT0dPZndqSlF5WjdodGZKUzZmMlRnMTdBM0k5TDJ2OGFmQzVLeWtxczJqMVJOWmdoMWFnVm81aW1mZXI4Rmt4WWxxaFpxckd3WmlYRVBfLWIxc9IBgAFBVV95cUxPbzBSWlpJcm5WNjNrS3JqbGtfTkxFSlJuaTgtUUxlSlBLbjZjV0pWZ2xFX3RMd01ib2w5azJfUHBfWEtGRkN1bUJMTU1XVWgtMGRKWElOT2FyZHBBLXVBUkcyU0J4bW9RZ01IOVZITFIxME9PY002NWRabVBaakxQWA?oc=5",
+          "source": "Público",
+          "published": "2026-11-12T12:57:21.000Z"
+        },
+        {
+          "title": "Ayuso asegura que el alcalde de Móstoles, imputado por acoso sexual, será “una persona importante” en el PP de Madrid",
+          "link": "https://elpais.com/espana/madrid/2026-11-12/ayuso-asegura-que-el-alcalde-de-mostoles-imputado-por-acoso-sexual-sera-una-persona-importante-en-el-pp-de-madrid.html",
+          "source": "El País",
+          "published": "2026-11-12T12:56:09.000Z"
+        },
+        {
+          "title": "Ferraz dice que Zapatero no participará en la campaña de Sánchez: \"Dijo que haría lo mejor para el partido\"",
+          "link": "https://www.20minutos.es/nacional/ferraz-ya-confirma-que-zapatero-no-participara-campana-sanchez-dijo-que-haria-mejor-para-partido_7060205_0.html",
+          "source": "20minutos",
+          "published": "2026-11-12T12:49:34.000Z"
         }
       ]
     },
@@ -108,6 +126,18 @@
       "id": "mundo",
       "title": "Mundo · Geopolítica",
       "highlights": [
+        {
+          "title": "Israel bombardea dos veces un hospital en el sur de la Franja de Gaza y mata a al menos seis personas",
+          "link": "https://www.eldiario.es/internacional/israel-bombardea-veces-hospital-sur-franja-gaza-mata-seis-personas_1_13657307.html",
+          "source": "elDiario.es Internacional",
+          "summary": "El Ejército israelí alega sin pruebas que el centro médico era un centro de operaciones militares de Hamás y la organización armada lo tacha de \"mentiras\" Hamawy, de médico en Gaza a congresista de EEUU: “El genocidio ocurre sólo porque lo pagamos nosotros” Fuentes del personal hospitalario, que incluyen a profesionales gazatíes y británicos, denunciaron que el Ejército israelí realizó dos bombardeos con drones militares contra el ala quirúrgica del hospital poco después de la medianoche. Los proyectiles provocaron daños graves en el complejo de quirófanos, que quedó fuera de servicio. Según…",
+          "sources": [
+            "elDiario.es Internacional",
+            "El País Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-11-12T14:14:37.888Z"
+        },
         {
           "title": "España vive huelga general y protestas por la vivienda antes de elecciones",
           "link": "https://www.dw.com/es/españa-vive-huelga-general-y-protestas-por-la-vivienda-antes-de-elecciones/a-79924314?maca=spa-rss-sp-all-1122-xml-mrss",
@@ -129,56 +159,78 @@
             "El País Internacional"
           ],
           "firstSeen": "2026-11-11T23:50:43.626Z"
+        },
+        {
+          "title": "Multitudinarias manifestaciones y algunos disturbios: así transcurrió la primera huelga general en España en 14 años",
+          "link": "https://www.france24.com/es/europa/20261112-multitudinarias-manifestaciones-y-algunos-disturbios-as%C3%AD-transcurri%C3%B3-la-primera-huelga-general-en-espa%C3%B1a-en-14-a%C3%B1os",
+          "source": "France 24",
+          "summary": "Millones de trabajadores secundaron una jornada de huelga general para exigir salarios dignos y medidas urgentes frente a la crisis de vivienda, en una movilización que paralizó parcialmente sectores estratégicos y reunió a miles de personas en las principales ciudades. La protesta transcurrió mayoritariamente de forma pacífica, aunque terminó con enfrentamientos entre manifestantes y fuerzas policiales en Madrid y Barcelona, donde se registraron destrozos, incendios y detenciones, en plena campaña para las elecciones generales anticipadas del próximo 29 de noviembre.",
+          "sources": [
+            "France 24",
+            "BBC Mundo"
+          ],
+          "firstSeen": "2026-11-12T14:14:37.888Z"
+        },
+        {
+          "title": "Los demócratas ganan en Misisipi y Scott Colom será el primer senador afroamericano del estado desde el siglo XIX",
+          "link": "https://www.eldiario.es/internacional/democratas-ganan-misisipi-scott-colom-sera-primer-senador-afroamericano-siglo-xix_1_13656860.html",
+          "source": "elDiario.es Internacional",
+          "summary": "Scott Colom ha derrotado a la senadora republicana Cindy Hyde-Smith y se convertirá en el primer senador demócrata por Misisipi desde 1982 La ajustada victoria de Colom supone un cambio total en Misisipi, que ha estado controlado en su mayor parte por conservadores blancos durante generaciones a pesar de tener la mayor proporción de residentes negros de todos los estados de EEUU. El resultado se suma al tsunami azul contra el presidente de EEUU, Donald Trump, cuyo partido sufrió derrotas en varios estados controlados por los republicanos. “Aunque este no es el resultado por el que hemos…",
+          "sources": [
+            "elDiario.es Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-12T14:14:37.888Z"
         }
       ],
       "items": [
         {
-          "title": "En imágenes: graves disturbios en Barcelona y decenas de detenidos en la primera huelga general en España en 14 años",
-          "link": "https://www.bbc.com/mundo/articles/ckx28e5lj300o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-11T23:30:52.000Z"
-        },
-        {
-          "title": "¿Misión de rescate o apuesta política de Bukele?: dudas por el despliegue militar de El Salvador en Haití",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-misi%C3%B3n-de-rescate-o-apuesta-pol%C3%ADtica-de-bukele-dudas-por-el-despliegue-militar-de-el-salvador-en-hait%C3%AD",
-          "source": "France 24",
-          "published": "2026-11-11T23:22:24.000Z"
-        },
-        {
-          "title": "OTAN asegura que Estados Unidos, Europa y Ucrania están \"completamente alineados y unidos\"",
-          "link": "https://www.dw.com/es/otan-asegura-que-estados-unidos-europa-y-ucrania-están-completamente-alineados-y-unidos/a-79924342?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Trump amenaza con duplicar aranceles a México si no frena a migrantes",
+          "link": "https://www.dw.com/es/trump-amenaza-con-duplicar-aranceles-a-méxico-si-no-frena-a-migrantes/a-79931643?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-11T21:18:00.000Z"
+          "published": "2026-11-12T14:00:00.000Z"
         },
         {
-          "title": "COP31: ¿habrá esta vez más hechos que palabras en materia de clima?",
-          "link": "https://www.dw.com/es/cop31-¿habrá-esta-vez-más-hechos-que-palabras-en-materia-de-clima/a-79924239?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-11T20:43:00.000Z"
+          "title": "Zelenski denuncia nuevas \"restricciones sustanciales\" en los satélites de Elon Musk que usa Ucrania",
+          "link": "https://www.eldiario.es/internacional/zelenski-denuncia-nuevas-restricciones-sustanciales-satelites-elon-musk-ucrania_1_13658362.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-12T13:25:44.000Z"
         },
         {
-          "title": "Feijóo, sobre la huelga general: \"Es un acto camuflado de campaña electoral por parte de los sindicatos\"",
-          "link": "https://www.20minutos.es/internacional/feijoo-hormiguero-directo-lider-pp-acude-programa-pablo-motos-dia-huelga-general_7059914_6.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-11T20:34:36.000Z"
-        },
-        {
-          "title": "Amenazas de bomba en Europa: ¿quién está detrás?",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261111-amenazas-de-bomba-en-europa-qui%C3%A9n-est%C3%A1-detr%C3%A1s",
+          "title": "Jensen Huang: de líder de Nvidia a protagonista de un escándalo por infidelidad con presunta espía",
+          "link": "https://www.france24.com/es/video/20261112-jensen-huang-de-l%C3%ADder-de-nvidia-a-protagonista-de-un-esc%C3%A1ndalo-por-infidelidad-con-presunta-esp%C3%ADa",
           "source": "France 24",
-          "published": "2026-11-11T20:07:15.000Z"
+          "published": "2026-11-12T13:24:47.000Z"
         },
         {
-          "title": "Bruselas advierte de que los ciberataques a supermercados deben servir de \"llamada de atención\" para Europa",
-          "link": "https://www.20minutos.es/internacional/bruselas-advierte-que-los-ciberataques-supermercados-deben-servir-llamada-atencion-para-europa_7059959_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-11T19:52:23.000Z"
+          "title": "El presidente chino invoca al líder revolucionario Sun Yat-sen para reclamar la soberanía sobre Taiwán",
+          "link": "https://elpais.com/internacional/2026-11-12/el-presidente-chino-invoca-al-lider-revolucionario-sun-yat-sen-para-reclamar-la-soberania-sobre-taiwan.html",
+          "source": "El País Internacional",
+          "published": "2026-11-12T12:52:44.000Z"
         },
         {
-          "title": "\"Un juez me ordenó por Zoom someterme a una cesárea mientras estaba pariendo en el hospital\"",
-          "link": "https://www.bbc.com/mundo/articles/cv36ld8n4rpwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-11T19:36:00.000Z"
+          "title": "De las finanzas a las sospechas de espionaje: ¿quién es Alice Huang, la mujer en el centro del escándalo de Nvidia?",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261112-de-las-finanzas-a-las-sospechas-de-espionaje-qui%C3%A9n-es-alice-huang-la-mujer-en-el-centro-del-esc%C3%A1ndalo-de-nvidia",
+          "source": "France 24",
+          "published": "2026-11-12T12:05:51.000Z"
+        },
+        {
+          "title": "Bélgica también señala a Irán por los ciberataques contra supermercados europeos",
+          "link": "https://www.eldiario.es/internacional/belgica-senala-iran-ciberataques-supermercados-europeos_1_13657822.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-12T11:39:41.000Z"
+        },
+        {
+          "title": "Paraguay: Santiago Peña se expone a 15 años de cárcel por el caso Ueno Bank; avanza la devolución de los ahorros",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261112-paraguay-santiago-pe%C3%B1a-se-expone-a-15-a%C3%B1os-de-c%C3%A1rcel-por-el-caso-ueno-bank-avanza-la-devoluci%C3%B3n-de-los-ahorros",
+          "source": "France 24",
+          "published": "2026-11-12T11:22:23.000Z"
+        },
+        {
+          "title": "Un exterrorista italiano se fuga en Buenos Aires descolgándose de un quinto piso para evitar ser extraditado",
+          "link": "https://elpais.com/internacional/2026-11-12/un-exterrorista-italiano-se-fuga-en-buenos-aires-descolgandose-de-un-quinto-piso-para-evitar-ser-extraditado.html",
+          "source": "El País Internacional",
+          "published": "2026-11-12T10:32:43.000Z"
         }
       ]
     }
