@@ -1,150 +1,161 @@
 {
-  "date": "2026-11-13",
-  "updatedAt": "2026-11-13T13:37:29.595Z",
-  "edition": "mediodía",
+  "date": "2026-11-14",
+  "updatedAt": "2026-11-13T23:00:28.770Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "El Gobierno da el \"primer paso\" para subir las pensiones de 2027 en Consejo extraordinario y a dos semanas de las elecciones",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-da-primer-paso-para-subida-las-pensiones-2027-plena-campana-electoral_7060774_0.html",
+          "title": "Primer debate electoral en campaña: PSOE y Frente Amplio prometen inversión en el tren, frente a PP y Vox que piden auditar la red",
+          "link": "https://www.20minutos.es/nacional/primer-debate-electoral-campana-psoe-frente-amplio-prometen-inversion-tren-pp-vox-piden-auditar-red_7061028_0.html",
           "source": "20minutos",
-          "summary": "El Ejecutivo acuerda tramitar por la vía de urgencia el decreto que recogerá el incremento, una vez se conozca el dato de inflación de noviembre. Elma Saiz sitúa la subida entre el 3 y el 4%.",
+          "summary": "Los populares prometen invertir 300.000 millones si consigue gobernar y Frente Amplio pide dejar de ampliar aeropuertos e invertir en Cercanías",
           "sources": [
             "20minutos",
-            "elDiario.es",
             "Europa Press"
           ],
-          "firstSeen": "2026-11-13T13:37:29.595Z"
+          "firstSeen": "2026-11-13T23:00:28.770Z"
         },
         {
-          "title": "Campaña elecciones 29-N y actualidad política, en directo | El PSOE presenta una denuncia contra ‘Okdiario’ y el PP por los pagos de la defensa de Koldo García",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
+          "title": "El PSOE presenta una denuncia contra ‘OkDiario’ y el PP por los pagos de la defensa de Koldo García",
+          "link": "https://elpais.com/espana/2026-11-13/el-psoe-presenta-una-denuncia-contra-okdiario-y-el-pp-por-los-pagos-de-la-defensa-de-koldo-garcia.html",
           "source": "El País",
-          "summary": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones | Sánchez afirma que detrás de los insultos hay una “carencia” de “argumentos y proyecto político”",
+          "summary": "Los socialistas piden que se investigue si los populares están detrás de los abonos a la abogada del exasesor y si hicieron ofrecimientos a cambio de información contra Pedro Sánchez",
           "sources": [
             "El País",
             "elDiario.es"
           ],
-          "firstSeen": "2026-11-13T13:37:29.595Z"
+          "firstSeen": "2026-11-13T23:00:28.770Z"
         },
         {
-          "title": "Cuerpo nombra presidentes de perfil técnico para Renfe y Adif: Inmaculada Gutiérrez en la operadora y Joaquim Hortalà en el gestor de la infraestructura",
-          "link": "https://elpais.com/espana/2026-11-13/cuerpo-nombra-presidentes-de-perfil-tecnico-para-renfe-y-adif-inmaculada-gutierrez-en-la-operadora-y-joaquim-hortala-en-el-gestor-de-la-infraestructura.html",
-          "source": "El País",
-          "summary": "Cesa el hasta ahora responsable de Renfe, Álvaro Fernández Heredia, tras el fuerte impacto de la huelga de maquinistas del pasado martes",
+          "title": "El Gobierno da el primer paso para revalorizar las pensiones \"entre el 3 y el 4%\" a partir del 1 de enero de 2027",
+          "link": "https://www.eldiario.es/economia/gobierno-da-primer-paso-revalorizar-pensiones-1-enero-2027_1_13661647.html",
+          "source": "elDiario.es",
+          "summary": "El Consejo de Ministros aprueba la tramitación urgente del reglamento que garantizará el poder adquisitivo de las jubilaciones, a la espera de conocerse la cifra definitiva el próximo día 27 de noviembre Por qué el sistema público de pensiones ni “está quebrado” ni “va a petar” como dicen PP y Vox El Gobierno ha dado este viernes el primer paso para actualizar las pensiones desde el 1 de enero de 2027, en el primer día de la campaña electoral oficial de cara a los comicios del 29 de noviembre, con la aprobación en el Consejo de Ministros de la tramitación urgente del real decreto que…",
           "sources": [
-            "El País",
+            "elDiario.es",
             "Europa Press"
           ],
-          "firstSeen": "2026-11-13T13:37:29.595Z"
+          "firstSeen": "2026-11-13T23:00:28.770Z"
         }
       ],
       "items": [
         {
-          "title": "'Fergie' Chambers niega haber financiado organizaciones terroristas palestinas y denuncia una persecución política de EEUU",
-          "link": "https://www.eldiario.es/politica/fergie-chambers-niega-haber-financiado-organizaciones-terroristas-palestinas-denuncia-persecucion-politica-eeuu_1_13661102.html",
+          "title": "La economía abre la batalla electoral: pensiones, vivienda y un libro blanco sobre el ferrocarril",
+          "link": "https://www.eldiario.es/economia/economia-abre-batalla-electoral-pensiones-vivienda-libro-blanco-ferrocarril_1_13663225.html",
           "source": "elDiario.es",
-          "published": "2026-11-13T13:21:59.000Z"
+          "published": "2026-11-13T22:42:19.000Z"
         },
         {
-          "title": "Los mossos de la unidad de Montaña admiten que no pueden concluir que la caída de Andic fuera un homicidio",
-          "link": "https://www.eldiario.es/catalunya/mossos-unidad-montana-admiten-no-concluir-caida-andic-fuera-homicidio_1_13661916.html",
-          "source": "elDiario.es",
-          "published": "2026-11-13T13:19:57.000Z"
-        },
-        {
-          "title": "El duro vaticinio de los expertos: \"La razón más probable por la que morirá la gente será por la IA\"",
-          "link": "https://www.20minutos.es/internacional/duro-vaticinio-los-expertos-razon-mas-probable-por-que-morira-gente-sera-un-accidente-inteligencia-artificial_7060733_0.html",
-          "source": "20minutos",
-          "published": "2026-11-13T13:14:46.000Z"
-        },
-        {
-          "title": "Cargas en el mitin de Abascal en Toledo que avisa a Feijóo: “Es un error empezar a vestirse de presidente”",
-          "link": "https://www.eldiario.es/castilla-la-mancha/politica/abascal-rodea-simbologia-franquista-avisa-feijoo-error-empezar-vestirse-presidente_1_13661883.html",
-          "source": "elDiario.es",
-          "published": "2026-11-13T13:06:18.000Z"
-        },
-        {
-          "title": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
-          "link": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html",
-          "source": "El País",
-          "published": "2026-11-13T12:55:30.000Z"
-        },
-        {
-          "title": "Los directores de instituto se niegan a cumplir la orden de Ayuso de vigilar el \"adoctrinamiento\" en las aulas: \"Negamos que exista\"",
-          "link": "https://www.eldiario.es/sociedad/directores-instituto-niegan-cumplir-orden-ayuso-vigilar-adoctrinamiento-aulas-negamos-exista_1_13661531.html",
-          "source": "elDiario.es",
-          "published": "2026-11-13T12:49:37.000Z"
-        },
-        {
-          "title": "Sánchez aún no tiene información de que Marruecos esté detrás de lo ocurrido en Ceuta y niega que se fuera de vacaciones",
-          "link": "https://www.europapress.es/nacional/noticia-sanchez-aun-no-tiene-informacion-marruecos-detras-ocurrido-ceuta-niega-fuera-vacaciones-20261113133441.html",
+          "title": "PP y Vox prometen bajar impuestos, pero PSOE y Frente Amplio cuestionan cómo lo harán sin recortar servicios",
+          "link": "https://www.europapress.es/economia/fiscal-00347/noticia-pp-vox-prometen-bajar-impuestos-psoe-frente-amplio-cuestionan-haran-recortar-servicios-20261113234025.html",
           "source": "Europa Press",
-          "published": "2026-11-13T12:34:41.000Z"
+          "published": "2026-11-13T22:40:25.000Z"
         },
         {
-          "title": "El Gobierno da luz verde a la creación de 500 nuevas plazas de jueces y 200 de fiscales",
-          "link": "https://elpais.com/espana/2026-11-13/el-gobierno-da-luz-verde-a-la-creacion-de-500-nuevas-plazas-de-jueces-y-200-de-fiscales.html",
+          "title": "El PSOE admite que el gasto en pensiones necesita de revisiones: \"Hay que ver si hacemos bien los deberes\"",
+          "link": "https://www.europapress.es/economia/laboral-00346/noticia-psoe-admite-gasto-pensiones-necesita-revisiones-hay-ver-si-hacemos-bien-deberes-20261113231131.html",
+          "source": "Europa Press",
+          "published": "2026-11-13T22:11:31.000Z"
+        },
+        {
+          "title": "El Gobierno creará un comité de expertos para analizar en un 'Libro Blanco' la situación del ferrocarril en España",
+          "link": "https://www.20minutos.es/nacional/gobierno-creara-comite-expertos-analizar-libro-blanco-situacion-ferrocarril-espana_7061026_0.html",
+          "source": "20minutos",
+          "published": "2026-11-13T22:06:47.000Z"
+        },
+        {
+          "title": "PSOE y Frente Amplio defienden prórrogas de alquiler, PP apuesta por construir y Vox por la \"reinmigración\"",
+          "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-psoe-frente-amplio-defienden-prorrogas-alquiler-pp-apuesta-construir-vox-reinmigracion-20261113225830.html",
+          "source": "Europa Press",
+          "published": "2026-11-13T21:58:30.000Z"
+        },
+        {
+          "title": "Jesús Owono, sancionado con 12 partidos por la trágica acción que acabó con la vida de Jesús de Miguel",
+          "link": "https://www.20minutos.es/deportes/futbol/jesus-owono-sancionado-con-12-partidos-por-tragica-accion-que-acabo-con-vida-jesus-miguel_7060591_0.html",
+          "source": "20minutos",
+          "published": "2026-11-13T21:27:08.000Z"
+        },
+        {
+          "title": "Competición sanciona con 12 partidos a Jesús Owono tras su expulsión ante el Tenerife",
+          "link": "https://elpais.com/deportes/futbol/2026-11-13/competicion-sanciona-con-12-partidos-a-jesus-owono-tras-su-expulsion-ante-el-tenerife.html",
           "source": "El País",
-          "published": "2026-11-13T12:24:45.000Z"
+          "published": "2026-11-13T20:57:09.000Z"
+        },
+        {
+          "title": "Sánchez insta a una participación del 75% el 29-N para reeditar un Gobierno progresista que llegue “más lejos y antes en las conquistas sociales”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/sanchez-insta-a-una-participacion-del-75-el-29-n-para-reeditar-un-gobierno-progresista-que-llegue-mas-lejos-y-antes-en-las-conquistas-sociales.html",
+          "source": "El País",
+          "published": "2026-11-13T20:46:11.000Z"
         }
       ]
     },
     {
       "id": "mundo",
       "title": "Mundo · Geopolítica",
-      "highlights": [],
+      "highlights": [
+        {
+          "title": "UE advierte sobre las \"trampas\" de Rusia ante las negociaciones de paz en Ucrania",
+          "link": "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
+          "source": "France 24",
+          "summary": "La jefa de la diplomacia europea, Kaja Kallas, alertó sobre posibles \"trampas\" de Moscú en las conversaciones para poner fin a la guerra en Ucrania. Mientras Bruselas y Kiev prevén la participación de la Unión Europea en la próxima ronda de negociaciones, Rusia asegura que evaluará su presencia en función de las \"verdaderas intenciones\" del bloque. Entretanto, Ucrania lanzó cerca de 1.200 drones y alcanzó una refinería rusa, mientras que ataques de Moscú provocaron cortes de electricidad en 12 regiones ucranianas.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-11-13T23:00:28.770Z"
+        }
+      ],
       "items": [
         {
-          "title": "El enviado de Trump asegura que Putin acepta que Europa se sume a las negociaciones de paz sobre Ucrania",
+          "title": "El doble golpe a JD Vance: el castigo de Trump y las dudas sobre sus ambiciones presidenciales",
+          "link": "https://www.eldiario.es/internacional/doble-golpe-jd-vance-castigo-trump-dudas-ambiciones-presidenciales_1_13662418.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-13T21:53:32.000Z"
+        },
+        {
+          "title": "Ira estudiantil en Italia: 15.000 profesores menos, \"récord histórico\" de gasto en defensa e institutos ocupados",
+          "link": "https://www.eldiario.es/internacional/ira-estudiantil-italia-15-000-profesores-record-historico-gasto-defensa-e-institutos-ocupados_1_13662002.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-13T21:53:31.000Z"
+        },
+        {
+          "title": "El reportero del Wall Street Journal encarcelado e intercambiado por Rusia: “Putin no negocia, impone exigencias”",
+          "link": "https://www.eldiario.es/internacional/reportero-wall-street-journal-encarcelado-e-intercambiado-rusia-putin-no-negocia-impone-exigencias_128_13663021.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-13T21:53:30.000Z"
+        },
+        {
+          "title": "EEUU suspende todos los vuelos nacionales por \"circunstancias extraordinarias y motivos de seguridad\"",
+          "link": "https://www.eldiario.es/internacional/eeuu-ordena-suspension-vuelos-escala-nacional-circunstancias-extraordinarias-motivos-seguridad_1_13663423.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-13T21:28:42.000Z"
+        },
+        {
+          "title": "Europa nombra a su equipo para conversaciones de paz sobre Ucrania",
+          "link": "https://www.dw.com/es/europa-nombra-a-su-equipo-para-conversaciones-de-paz-sobre-ucrania/a-79944989?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-13T20:58:00.000Z"
+        },
+        {
+          "title": "EE. UU. vs Corea del Norte: ciberataques a Binance reeditan los enfrentamientos entre viejos rivales",
+          "link": "https://www.france24.com/es/programas/en-contexto/20261113-ee-uu-vs-corea-del-norte-ciberataques-a-binance-reeditan-los-enfrentamientos-entre-viejos-rivales",
+          "source": "France 24",
+          "published": "2026-11-13T20:46:15.000Z"
+        },
+        {
+          "title": "Líderes de la UE debaten en Dublín a quién enviar para las conversaciones de paz entre Ucrania y Rusia",
+          "link": "https://www.dw.com/es/líderes-de-la-ue-debaten-en-dublín-a-quién-enviar-para-las-conversaciones-de-paz-entre-ucrania-y-rusia/a-79942235?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-13T20:36:00.000Z"
+        },
+        {
+          "title": "Europa descarta nombrar un solo representante y designa un grupo negociador para las conversaciones de paz sobre Ucrania",
           "link": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
           "source": "El País Internacional",
-          "published": "2026-11-13T12:36:03.000Z"
-        },
-        {
-          "title": "Milagroso rescate de una mujer embarazada de seis meses en el edificio derrumbado en Nueva York",
-          "link": "https://www.20minutos.es/internacional/milagroso-rescate-una-mujer-embarazada-seis-meses-edificio-derrumbado-ny_7060729_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-13T12:27:56.000Z"
-        },
-        {
-          "title": "En directo: Europa alerta de las \"trampas\" de Rusia de cara a posibles negociaciones de paz en Ucrania",
-          "link": "https://www.france24.com/es/europa/20261113-en-directo-europa-alerta-de-las-trampas-de-rusia-de-cara-a-posibles-negociaciones-de-paz-en-ucrania",
-          "source": "France 24",
-          "published": "2026-11-13T12:27:48.000Z"
-        },
-        {
-          "title": "La Unión Europea celebra su primera cumbre sobre inteligencia artificial",
-          "link": "https://www.dw.com/es/la-unión-europea-celebra-su-primera-cumbre-sobre-inteligencia-artificial/a-79939634?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-13T12:13:00.000Z"
-        },
-        {
-          "title": "De los espías del DAS a los de la DNI: Colombia recicla sus escándalos de inteligencia",
-          "link": "https://elpais.com/america-colombia/2026-11-13/de-los-espias-del-das-a-los-de-la-dni-colombia-recicla-sus-escandalos-de-inteligencia.html",
-          "source": "El País Internacional",
-          "published": "2026-11-13T09:30:00.000Z"
-        },
-        {
-          "title": "La caravana migrante que cruza México y agita la amenaza de aranceles de Trump: “Nuestro terror es que la presidenta nos regrese”",
-          "link": "https://elpais.com/mexico/2026-11-13/la-caravana-migrante-que-cruza-mexico-nuestro-terror-es-que-la-presidenta-diga-no-me-conviene-que-suban-los-aranceles-y-nos-regrese.html",
-          "source": "El País Internacional",
-          "published": "2026-11-13T09:30:00.000Z"
-        },
-        {
-          "title": "Ciberataque contra el fabricante alemán de drones Quantum Systems",
-          "link": "https://www.dw.com/es/ciberataque-contra-el-fabricante-alemán-de-drones-quantum-systems/a-79937108?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-13T09:22:00.000Z"
-        },
-        {
-          "title": "Greta Thunberg estalla en carcajadas al saber que siguen las manifestaciones de Fridays for Future, que ella lideraba: \"¿Aún hacen eso?\"",
-          "link": "https://www.20minutos.es/internacional/greta-thunberg-estalla-carcajadas-saber-que-siguen-las-manifestaciones-fridays-for-future-que-ella-lideraba-aun-hacen-eso_7060572_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-13T08:08:54.000Z"
+          "published": "2026-11-13T20:18:52.000Z"
         }
       ]
     }
