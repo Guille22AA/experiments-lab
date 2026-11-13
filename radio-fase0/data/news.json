@@ -1,237 +1,150 @@
 {
-  "date": "2026-11-12",
-  "updatedAt": "2026-11-12T22:57:50.183Z",
-  "edition": "tarde",
+  "date": "2026-11-13",
+  "updatedAt": "2026-11-13T13:37:29.595Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "La jueza imputa al exdelegado del Gobierno en Ceuta por la entrada masiva",
-          "link": "https://elpais.com/espana/2026-11-12/la-jueza-imputa-al-exdelegado-del-gobierno-en-ceuta-por-la-entrada-masiva.html",
-          "source": "El País",
-          "summary": "La magistrada María Tardón cita a declarar a Miguel Ángel Pérez Triano en plena campaña",
+          "title": "El Gobierno da el \"primer paso\" para subir las pensiones de 2027 en Consejo extraordinario y a dos semanas de las elecciones",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-da-primer-paso-para-subida-las-pensiones-2027-plena-campana-electoral_7060774_0.html",
+          "source": "20minutos",
+          "summary": "El Ejecutivo acuerda tramitar por la vía de urgencia el decreto que recogerá el incremento, una vez se conozca el dato de inflación de noviembre. Elma Saiz sitúa la subida entre el 3 y el 4%.",
           "sources": [
-            "El País",
-            "20minutos",
-            "Europa Press",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-12T14:14:37.888Z"
-        },
-        {
-          "title": "La UCO acude al Tribunal de Cuentas por la investigación sobre los pagos en efectivo en el PSOE",
-          "link": "https://elpais.com/espana/2026-11-12/la-uco-acude-al-tribunal-de-cuentas-por-la-investigacion-sobre-los-pagos-en-efectivo-en-el-psoe.html",
-          "source": "El País",
-          "summary": "Los agentes han acudido al órgano fiscalizador por orden del juez de la Audiencia Nacional Ismael Moreno",
-          "sources": [
-            "El País",
-            "elDiario.es",
-            "Europa Press",
-            "20minutos"
-          ],
-          "firstSeen": "2026-11-12T14:14:37.888Z"
-        },
-        {
-          "title": "La Fiscalía Europea investiga un posible fraude en las pulseras antimaltrato con fondos comunitarios",
-          "link": "https://elpais.com/sociedad/2026-11-12/la-fiscalia-europea-investiga-en-espana-un-posible-fraude-en-las-pulseras-antimaltrato-con-fondos-comunitarios.html",
-          "source": "El País",
-          "summary": "Agentes de la UCO de la Guardia Civil acuden al Ministerio de Igualdad y al Tribunal de Cuentas para pedir información",
-          "sources": [
-            "El País",
             "20minutos",
             "elDiario.es",
             "Europa Press"
           ],
-          "firstSeen": "2026-11-12T14:14:37.888Z"
+          "firstSeen": "2026-11-13T13:37:29.595Z"
         },
         {
-          "title": "Las imágenes de la huelga general del 11 de noviembre",
-          "link": "https://www.eldiario.es/economia/imagenes-huelga-general-11-noviembre_3_13656120.html",
-          "source": "elDiario.es",
-          "summary": "La huelga general del 11 de noviembre por la vivienda y salarios dignos ha sido calificada de “éxito” de seguimiento por los sindicatos. La jornada ha quedado sin embargo marcada por las escenas de cargas policiales contra piquetes y manifestantes en varias ciudades de España.",
+          "title": "Campaña elecciones 29-N y actualidad política, en directo | El PSOE presenta una denuncia contra ‘Okdiario’ y el PP por los pagos de la defensa de Koldo García",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
+          "source": "El País",
+          "summary": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones | Sánchez afirma que detrás de los insultos hay una “carencia” de “argumentos y proyecto político”",
           "sources": [
-            "elDiario.es",
-            "Europa Press",
-            "El País"
+            "El País",
+            "elDiario.es"
           ],
-          "firstSeen": "2026-11-11T23:50:43.626Z"
+          "firstSeen": "2026-11-13T13:37:29.595Z"
         },
         {
-          "title": "Estas son las principales medidas del decreto de vivienda que ha convalidado el Congreso",
-          "link": "https://www.20minutos.es/nacional/estas-son-las-principales-medidas-decreto-vivienda-que-ha-convalidado-congreso_7060271_0.html",
-          "source": "20minutos",
-          "summary": "Apoyado por PSOE, Sumar, ERC, Bildu, PNV y Podemos, permite prorrogar dos años los contratos de alquiler que venzan antes de 2029 y pone topes a la actualización anual de las rentas hasta el final de 2027.",
+          "title": "Cuerpo nombra presidentes de perfil técnico para Renfe y Adif: Inmaculada Gutiérrez en la operadora y Joaquim Hortalà en el gestor de la infraestructura",
+          "link": "https://elpais.com/espana/2026-11-13/cuerpo-nombra-presidentes-de-perfil-tecnico-para-renfe-y-adif-inmaculada-gutierrez-en-la-operadora-y-joaquim-hortala-en-el-gestor-de-la-infraestructura.html",
+          "source": "El País",
+          "summary": "Cesa el hasta ahora responsable de Renfe, Álvaro Fernández Heredia, tras el fuerte impacto de la huelga de maquinistas del pasado martes",
           "sources": [
-            "20minutos",
-            "Europa Press",
-            "El País"
+            "El País",
+            "Europa Press"
           ],
-          "firstSeen": "2026-11-12T14:14:37.888Z"
+          "firstSeen": "2026-11-13T13:37:29.595Z"
         }
       ],
       "items": [
         {
-          "title": "Feijóo se presenta como “gestor” para “resolver los problemas” frente al “saqueo” de Sánchez",
-          "link": "https://elpais.com/espana/2026-11-12/feijoo-se-presenta-como-gestor-para-resolver-los-problemas-frente-al-saqueo-de-sanchez.html",
-          "source": "El País",
-          "published": "2026-11-12T21:26:10.000Z"
-        },
-        {
-          "title": "Videoanálisis | Cuando se trata de Trump solo hay que hacerle caso a lo que hace, no a lo que dice",
-          "link": "https://elpais.com/us/2026-11-12/videoanalisis-cuando-se-trata-de-trump-solo-hay-que-hacerle-caso-a-lo-que-hace-no-a-lo-que-dice.html",
-          "source": "El País",
-          "published": "2026-11-12T21:09:53.000Z"
-        },
-        {
-          "title": "Las cargas policiales contra los manifestantes de la huelga abren una crisis en Interior",
-          "link": "https://elpais.com/espana/2026-11-12/las-cargas-policiales-contra-los-manifestantes-de-la-huelga-abren-una-crisis-en-interior.html",
-          "source": "El País",
-          "published": "2026-11-12T20:55:04.000Z"
-        },
-        {
-          "title": "Podemos termina su precampaña con cargas contra el PSOE y el Frente Amplio: “Tienen como proyecto que las cosas sigan como están”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/podemos-termina-su-precampana-con-cargas-contra-el-psoe-y-el-frente-amplio-tienen-como-proyecto-que-las-cosas-sigan-como-estan.html",
-          "source": "El País",
-          "published": "2026-11-12T20:50:10.000Z"
-        },
-        {
-          "title": "Begoña Gómez se estrena en un mitin del PSOE para captar el voto de las mujeres",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/begona-gomez-se-estrena-en-un-mitin-del-psoe-para-captar-el-voto-de-las-mujeres.html",
-          "source": "El País",
-          "published": "2026-11-12T20:44:45.000Z"
-        },
-        {
-          "title": "Abascal arranca la campaña con ataques a Pedro Sánchez y Begoña Gómez: \"Debería sentarse en el banquillo y está paseando a la señora\"",
-          "link": "https://www.eldiario.es/aragon/politica/abascal-arranca-campana-ataques-pedro-sanchez-begona-gomez-deberia-sentarse-banquillo-paseando-senora_1_13660090.html",
+          "title": "'Fergie' Chambers niega haber financiado organizaciones terroristas palestinas y denuncia una persecución política de EEUU",
+          "link": "https://www.eldiario.es/politica/fergie-chambers-niega-haber-financiado-organizaciones-terroristas-palestinas-denuncia-persecucion-politica-eeuu_1_13661102.html",
           "source": "elDiario.es",
-          "published": "2026-11-12T20:33:53.000Z"
+          "published": "2026-11-13T13:21:59.000Z"
         },
         {
-          "title": "Rufián ironiza sobre un posible gobierno de PP y Vox: \"Viene Figo de ministro de deportes e Iker Jiménez en el telediario\"",
-          "link": "https://www.eldiario.es/catalunya/rufian-ironiza-posible-gobierno-pp-vox-viene-figo-ministro-deportes-e-iker-jimenez-telediario_1_13659975.html",
+          "title": "Los mossos de la unidad de Montaña admiten que no pueden concluir que la caída de Andic fuera un homicidio",
+          "link": "https://www.eldiario.es/catalunya/mossos-unidad-montana-admiten-no-concluir-caida-andic-fuera-homicidio_1_13661916.html",
           "source": "elDiario.es",
-          "published": "2026-11-12T20:33:39.000Z"
+          "published": "2026-11-13T13:19:57.000Z"
         },
         {
-          "title": "Abascal culmina la precampaña con 22 provincias visitadas y 25 actos en dos semanas",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/abascal-culmina-la-precampana-con-22-provincias-visitadas-y-25-actos-en-dos-semanas.html",
+          "title": "El duro vaticinio de los expertos: \"La razón más probable por la que morirá la gente será por la IA\"",
+          "link": "https://www.20minutos.es/internacional/duro-vaticinio-los-expertos-razon-mas-probable-por-que-morira-gente-sera-un-accidente-inteligencia-artificial_7060733_0.html",
+          "source": "20minutos",
+          "published": "2026-11-13T13:14:46.000Z"
+        },
+        {
+          "title": "Cargas en el mitin de Abascal en Toledo que avisa a Feijóo: “Es un error empezar a vestirse de presidente”",
+          "link": "https://www.eldiario.es/castilla-la-mancha/politica/abascal-rodea-simbologia-franquista-avisa-feijoo-error-empezar-vestirse-presidente_1_13661883.html",
+          "source": "elDiario.es",
+          "published": "2026-11-13T13:06:18.000Z"
+        },
+        {
+          "title": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
+          "link": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html",
           "source": "El País",
-          "published": "2026-11-12T20:24:58.000Z"
+          "published": "2026-11-13T12:55:30.000Z"
+        },
+        {
+          "title": "Los directores de instituto se niegan a cumplir la orden de Ayuso de vigilar el \"adoctrinamiento\" en las aulas: \"Negamos que exista\"",
+          "link": "https://www.eldiario.es/sociedad/directores-instituto-niegan-cumplir-orden-ayuso-vigilar-adoctrinamiento-aulas-negamos-exista_1_13661531.html",
+          "source": "elDiario.es",
+          "published": "2026-11-13T12:49:37.000Z"
+        },
+        {
+          "title": "Sánchez aún no tiene información de que Marruecos esté detrás de lo ocurrido en Ceuta y niega que se fuera de vacaciones",
+          "link": "https://www.europapress.es/nacional/noticia-sanchez-aun-no-tiene-informacion-marruecos-detras-ocurrido-ceuta-niega-fuera-vacaciones-20261113133441.html",
+          "source": "Europa Press",
+          "published": "2026-11-13T12:34:41.000Z"
+        },
+        {
+          "title": "El Gobierno da luz verde a la creación de 500 nuevas plazas de jueces y 200 de fiscales",
+          "link": "https://elpais.com/espana/2026-11-13/el-gobierno-da-luz-verde-a-la-creacion-de-500-nuevas-plazas-de-jueces-y-200-de-fiscales.html",
+          "source": "El País",
+          "published": "2026-11-13T12:24:45.000Z"
         }
       ]
     },
     {
       "id": "mundo",
       "title": "Mundo · Geopolítica",
-      "highlights": [
-        {
-          "title": "Israel bombardea dos veces un hospital en el sur de la Franja de Gaza y mata a al menos seis personas",
-          "link": "https://www.eldiario.es/internacional/israel-bombardea-veces-hospital-sur-franja-gaza-mata-seis-personas_1_13657307.html",
-          "source": "elDiario.es Internacional",
-          "summary": "El Ejército israelí alega sin pruebas que el centro médico era un centro de operaciones militares de Hamás y la organización armada lo tacha de \"mentiras\" Hamawy, de médico en Gaza a congresista de EEUU: “El genocidio ocurre sólo porque lo pagamos nosotros” Fuentes del personal hospitalario, que incluyen a profesionales gazatíes y británicos, denunciaron que el Ejército israelí realizó dos bombardeos con drones militares contra el ala quirúrgica del hospital poco después de la medianoche. Los proyectiles provocaron daños graves en el complejo de quirófanos, que quedó fuera de servicio. Según…",
-          "sources": [
-            "elDiario.es Internacional",
-            "El País Internacional",
-            "DW",
-            "France 24"
-          ],
-          "firstSeen": "2026-11-12T14:14:37.888Z"
-        },
-        {
-          "title": "España vive huelga general y protestas por la vivienda antes de elecciones",
-          "link": "https://www.dw.com/es/españa-vive-huelga-general-y-protestas-por-la-vivienda-antes-de-elecciones/a-79924314?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "summary": "En Madrid, unas 120.000 personas marcharon y otras miles también salieron a las calles en numerosas ciudades del país.",
-          "sources": [
-            "DW",
-            "France 24"
-          ],
-          "firstSeen": "2026-11-11T23:50:43.626Z"
-        },
-        {
-          "title": "La Casa Blanca amenaza con abrir investigaciones penales a demócratas que fiscalicen al Gobierno",
-          "link": "https://www.20minutos.es/internacional/casa-blanca-amenaza-con-abrir-investigaciones-penales-democratas-que-fiscalicen-gobierno_7059924_0.html",
-          "source": "20minutos Internacional",
-          "summary": "La misiva fue enviada al congresista Robert García, quién afirmó que el Congreso no se dejará \"intimidar por amenazas infundadas de un Departamento de Justicia instrumentalizado.",
-          "sources": [
-            "20minutos Internacional",
-            "El País Internacional"
-          ],
-          "firstSeen": "2026-11-11T23:50:43.626Z"
-        },
-        {
-          "title": "Multitudinarias manifestaciones y algunos disturbios: así transcurrió la primera huelga general en España en 14 años",
-          "link": "https://www.france24.com/es/europa/20261112-multitudinarias-manifestaciones-y-algunos-disturbios-as%C3%AD-transcurri%C3%B3-la-primera-huelga-general-en-espa%C3%B1a-en-14-a%C3%B1os",
-          "source": "France 24",
-          "summary": "Millones de trabajadores secundaron una jornada de huelga general para exigir salarios dignos y medidas urgentes frente a la crisis de vivienda, en una movilización que paralizó parcialmente sectores estratégicos y reunió a miles de personas en las principales ciudades. La protesta transcurrió mayoritariamente de forma pacífica, aunque terminó con enfrentamientos entre manifestantes y fuerzas policiales en Madrid y Barcelona, donde se registraron destrozos, incendios y detenciones, en plena campaña para las elecciones generales anticipadas del próximo 29 de noviembre.",
-          "sources": [
-            "France 24",
-            "BBC Mundo"
-          ],
-          "firstSeen": "2026-11-12T14:14:37.888Z"
-        },
-        {
-          "title": "Los demócratas ganan en Misisipi y Scott Colom será el primer senador afroamericano del estado desde el siglo XIX",
-          "link": "https://www.eldiario.es/internacional/democratas-ganan-misisipi-scott-colom-sera-primer-senador-afroamericano-siglo-xix_1_13656860.html",
-          "source": "elDiario.es Internacional",
-          "summary": "Scott Colom ha derrotado a la senadora republicana Cindy Hyde-Smith y se convertirá en el primer senador demócrata por Misisipi desde 1982 La ajustada victoria de Colom supone un cambio total en Misisipi, que ha estado controlado en su mayor parte por conservadores blancos durante generaciones a pesar de tener la mayor proporción de residentes negros de todos los estados de EEUU. El resultado se suma al tsunami azul contra el presidente de EEUU, Donald Trump, cuyo partido sufrió derrotas en varios estados controlados por los republicanos. “Aunque este no es el resultado por el que hemos…",
-          "sources": [
-            "elDiario.es Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-11-12T14:14:37.888Z"
-        }
-      ],
+      "highlights": [],
       "items": [
         {
-          "title": "Putin recupera sus aspiraciones en Europa del Este con la bendición de EEUU en la nueva ronda de negociaciones",
-          "link": "https://www.eldiario.es/internacional/putin-recupera-aspiraciones-europa-bendicion-eeuu-nueva-ronda-negociaciones_1_13659559.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-12T21:57:47.000Z"
+          "title": "El enviado de Trump asegura que Putin acepta que Europa se sume a las negociaciones de paz sobre Ucrania",
+          "link": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
+          "source": "El País Internacional",
+          "published": "2026-11-13T12:36:03.000Z"
         },
         {
-          "title": "El presidente en la sombra: qué supone el ascenso del ultraderechista Stephen Miller a jefe de Gabinete de Trump",
-          "link": "https://www.eldiario.es/internacional/presidente-sombra-supone-ascenso-ultraderechista-stephen-miller-jefe-gabinete-trump_129_13657576.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-12T21:57:45.000Z"
-        },
-        {
-          "title": "Al menos cuatro militares muertos y tres heridos por un ataque de \"narcoterroristas\" a un batallón en Colombia",
-          "link": "https://www.20minutos.es/internacional/menos-cuatro-militares-muertos-tres-heridos-por-un-ataque-narcoterroristas-un-batallon-colombia_7060519_0.html",
+          "title": "Milagroso rescate de una mujer embarazada de seis meses en el edificio derrumbado en Nueva York",
+          "link": "https://www.20minutos.es/internacional/milagroso-rescate-una-mujer-embarazada-seis-meses-edificio-derrumbado-ny_7060729_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-12T21:52:04.000Z"
+          "published": "2026-11-13T12:27:56.000Z"
         },
         {
-          "title": "Putin no hará concesiones para poner fin a la guerra rusa en Ucrania",
-          "link": "https://www.dw.com/es/putin-no-hará-concesiones-para-poner-fin-a-la-guerra-rusa-en-ucrania/a-79935618?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "En directo: Europa alerta de las \"trampas\" de Rusia de cara a posibles negociaciones de paz en Ucrania",
+          "link": "https://www.france24.com/es/europa/20261113-en-directo-europa-alerta-de-las-trampas-de-rusia-de-cara-a-posibles-negociaciones-de-paz-en-ucrania",
+          "source": "France 24",
+          "published": "2026-11-13T12:27:48.000Z"
+        },
+        {
+          "title": "La Unión Europea celebra su primera cumbre sobre inteligencia artificial",
+          "link": "https://www.dw.com/es/la-unión-europea-celebra-su-primera-cumbre-sobre-inteligencia-artificial/a-79939634?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-12T21:02:00.000Z"
+          "published": "2026-11-13T12:13:00.000Z"
         },
         {
-          "title": "La situación humanitaria en Gaza empeora con las inundaciones y el frío, en medio del estancamiento político",
-          "link": "https://www.dw.com/es/la-situación-humanitaria-en-gaza-empeora-con-las-inundaciones-y-el-frío-en-medio-del-estancamiento-político/a-79935270?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "De los espías del DAS a los de la DNI: Colombia recicla sus escándalos de inteligencia",
+          "link": "https://elpais.com/america-colombia/2026-11-13/de-los-espias-del-das-a-los-de-la-dni-colombia-recicla-sus-escandalos-de-inteligencia.html",
+          "source": "El País Internacional",
+          "published": "2026-11-13T09:30:00.000Z"
+        },
+        {
+          "title": "La caravana migrante que cruza México y agita la amenaza de aranceles de Trump: “Nuestro terror es que la presidenta nos regrese”",
+          "link": "https://elpais.com/mexico/2026-11-13/la-caravana-migrante-que-cruza-mexico-nuestro-terror-es-que-la-presidenta-diga-no-me-conviene-que-suban-los-aranceles-y-nos-regrese.html",
+          "source": "El País Internacional",
+          "published": "2026-11-13T09:30:00.000Z"
+        },
+        {
+          "title": "Ciberataque contra el fabricante alemán de drones Quantum Systems",
+          "link": "https://www.dw.com/es/ciberataque-contra-el-fabricante-alemán-de-drones-quantum-systems/a-79937108?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-12T20:48:00.000Z"
+          "published": "2026-11-13T09:22:00.000Z"
         },
         {
-          "title": "Jensen Huang declarará ante el Congreso de EEUU por el supuesto caso de espionaje chino tras dimitir de Nvidia",
-          "link": "https://www.20minutos.es/internacional/jensen-huang-declarara-ante-congreso-eeuu-por-supuesto-caso-espionaje-chino-tras-dimitir-nvidia_7060513_0.html",
+          "title": "Greta Thunberg estalla en carcajadas al saber que siguen las manifestaciones de Fridays for Future, que ella lideraba: \"¿Aún hacen eso?\"",
+          "link": "https://www.20minutos.es/internacional/greta-thunberg-estalla-carcajadas-saber-que-siguen-las-manifestaciones-fridays-for-future-que-ella-lideraba-aun-hacen-eso_7060572_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-12T20:47:54.000Z"
-        },
-        {
-          "title": "Miriam González: \"La población inmigrante en España es un activo\"",
-          "link": "https://www.dw.com/es/miriam-gonzález-la-población-inmigrante-en-españa-es-un-activo/a-79927366?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-12T20:47:00.000Z"
-        },
-        {
-          "title": "Conversaciones a tres bandas entre Ucrania, Estados Unidos y Rusia en Abu Dabi: ¿han aportado realmente algo a Kiev?",
-          "link": "https://www.dw.com/es/conversaciones-a-tres-bandas-entre-ucrania-estados-unidos-y-rusia-en-abu-dabi-¿han-aportado-realmente-algo-a-kiev/a-79933391?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-12T20:44:00.000Z"
+          "published": "2026-11-13T08:08:54.000Z"
         }
       ]
     }
