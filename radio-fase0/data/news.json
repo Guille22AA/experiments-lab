@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-13T23:00:28.770Z",
-  "edition": "mañana",
+  "updatedAt": "2026-11-14T12:42:28.093Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
@@ -39,56 +39,78 @@
             "Europa Press"
           ],
           "firstSeen": "2026-11-13T23:00:28.770Z"
+        },
+        {
+          "title": "Margarita Robles, sobre El Ruso: \"No es militar ni legionario, es simplemente un asesino sin matices\"",
+          "link": "https://www.20minutos.es/nacional/margarita-robles-sobre-ruso-no-es-militar-ni-legionario-es-simplemente-un-asesino-sin-matices_7061088_0.html",
+          "source": "20minutos",
+          "summary": "La ministra de Defensa ha elogiado la labor del subsinspector de policía fallecido y el Tedax herido en la explosión de Oviedo.",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-14T12:42:28.093Z"
+        },
+        {
+          "title": "Sánchez protagoniza un vídeo en el que relata la historia de Teresa para poner en valor el 'decreto Maricarmen': \"No da igual\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-protagoniza-un-video-que-relata-historia-teresa-para-poner-valor-decreto-maricarmen-no-da-igual_7061081_0.html",
+          "source": "20minutos",
+          "summary": "El PSOE utiliza la historia de una inquilina amenazada con una subida del alquiler para defender sus políticas de vivienda y reivindicar la importancia del voto el 29N.",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-14T12:42:28.093Z"
         }
       ],
       "items": [
         {
-          "title": "La economía abre la batalla electoral: pensiones, vivienda y un libro blanco sobre el ferrocarril",
-          "link": "https://www.eldiario.es/economia/economia-abre-batalla-electoral-pensiones-vivienda-libro-blanco-ferrocarril_1_13663225.html",
-          "source": "elDiario.es",
-          "published": "2026-11-13T22:42:19.000Z"
+          "title": "Campaña elecciones 29N y actualidad política, en directo | Sánchez pide “el voto de todos los que quieren más Europa” para frenar a Abascal",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
+          "source": "El País",
+          "published": "2026-11-14T12:30:31.000Z"
         },
         {
-          "title": "PP y Vox prometen bajar impuestos, pero PSOE y Frente Amplio cuestionan cómo lo harán sin recortar servicios",
-          "link": "https://www.europapress.es/economia/fiscal-00347/noticia-pp-vox-prometen-bajar-impuestos-psoe-frente-amplio-cuestionan-haran-recortar-servicios-20261113234025.html",
+          "title": "Patxi López confía en el triunfo del PSOE porque \"hay ganas de frenar la involución que proponen PP y Vox\"",
+          "link": "https://www.europapress.es/castilla-y-leon/noticia-patxi-lopez-confia-triunfo-psoe-porque-hay-ganas-frenar-involucion-proponen-pp-vox-20261114132616.html",
           "source": "Europa Press",
-          "published": "2026-11-13T22:40:25.000Z"
+          "published": "2026-11-14T12:26:16.000Z"
+        },
+        {
+          "title": "Fiscalía pide el ingreso en prisión de el hombre detenido por el asesinato de Covadonga Patricia",
+          "link": "https://www.europapress.es/asturias/noticia-fiscalia-pide-ingreso-prision-hombre-detenido-asesinato-covadonga-patricia-20261114120830.html",
+          "source": "Europa Press",
+          "published": "2026-11-14T11:08:30.000Z"
+        },
+        {
+          "title": "Aldama acusa al director de Okdiario de chantajear al exministro Ábalos a cambio de publicidad",
+          "link": "https://www.eldiario.es/politica/aldama-acusa-director-okdiario-chantajear-exministro-abalos-cambio-publicidad_1_13663635.html",
+          "source": "elDiario.es",
+          "published": "2026-11-14T09:48:20.000Z"
+        },
+        {
+          "title": "Figaredo admite que pedir \"cazar\" inmigrantes no fue \"la mejor palabra\"",
+          "link": "https://www.20minutos.es/nacional/figaredo-admite-que-pedir-cazar-inmigrantes-no-fue-mejor-palabra_7061049_0.html",
+          "source": "20minutos",
+          "published": "2026-11-14T09:34:52.000Z"
+        },
+        {
+          "title": "El PP pide a Bruselas que verifique si Sánchez ejecuta las inversiones ferroviarias financiadas con fondos europeos",
+          "link": "https://www.europapress.es/nacional/noticia-pp-pide-bruselas-verifique-si-sanchez-ejecuta-inversiones-ferroviarias-financiadas-fondos-europeos-20261114102349.html",
+          "source": "Europa Press",
+          "published": "2026-11-14T09:23:49.000Z"
         },
         {
           "title": "El PSOE admite que el gasto en pensiones necesita de revisiones: \"Hay que ver si hacemos bien los deberes\"",
-          "link": "https://www.europapress.es/economia/laboral-00346/noticia-psoe-admite-gasto-pensiones-necesita-revisiones-hay-ver-si-hacemos-bien-deberes-20261113231131.html",
-          "source": "Europa Press",
-          "published": "2026-11-13T22:11:31.000Z"
-        },
-        {
-          "title": "El Gobierno creará un comité de expertos para analizar en un 'Libro Blanco' la situación del ferrocarril en España",
-          "link": "https://www.20minutos.es/nacional/gobierno-creara-comite-expertos-analizar-libro-blanco-situacion-ferrocarril-espana_7061026_0.html",
+          "link": "https://www.20minutos.es/nacional/psoe-admite-que-gasto-pensiones-necesita-revisiones-hay-que-ver-si-hacemos-bien-los-deberes_7061044_0.html",
           "source": "20minutos",
-          "published": "2026-11-13T22:06:47.000Z"
+          "published": "2026-11-14T08:53:43.000Z"
         },
         {
-          "title": "PSOE y Frente Amplio defienden prórrogas de alquiler, PP apuesta por construir y Vox por la \"reinmigración\"",
-          "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-psoe-frente-amplio-defienden-prorrogas-alquiler-pp-apuesta-construir-vox-reinmigracion-20261113225830.html",
+          "title": "El Polisario cree que el próximo Gobierno puede liderar la solución del conflicto en el Sáhara y \"reparar el daño\"",
+          "link": "https://www.europapress.es/nacional/noticia-polisario-cree-proximo-gobierno-puede-liderar-solucion-conflicto-sahara-reparar-dano-20261114093947.html",
           "source": "Europa Press",
-          "published": "2026-11-13T21:58:30.000Z"
-        },
-        {
-          "title": "Jesús Owono, sancionado con 12 partidos por la trágica acción que acabó con la vida de Jesús de Miguel",
-          "link": "https://www.20minutos.es/deportes/futbol/jesus-owono-sancionado-con-12-partidos-por-tragica-accion-que-acabo-con-vida-jesus-miguel_7060591_0.html",
-          "source": "20minutos",
-          "published": "2026-11-13T21:27:08.000Z"
-        },
-        {
-          "title": "Competición sanciona con 12 partidos a Jesús Owono tras su expulsión ante el Tenerife",
-          "link": "https://elpais.com/deportes/futbol/2026-11-13/competicion-sanciona-con-12-partidos-a-jesus-owono-tras-su-expulsion-ante-el-tenerife.html",
-          "source": "El País",
-          "published": "2026-11-13T20:57:09.000Z"
-        },
-        {
-          "title": "Sánchez insta a una participación del 75% el 29-N para reeditar un Gobierno progresista que llegue “más lejos y antes en las conquistas sociales”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/sanchez-insta-a-una-participacion-del-75-el-29-n-para-reeditar-un-gobierno-progresista-que-llegue-mas-lejos-y-antes-en-las-conquistas-sociales.html",
-          "source": "El País",
-          "published": "2026-11-13T20:46:11.000Z"
+          "published": "2026-11-14T08:39:47.000Z"
         }
       ]
     },
@@ -106,56 +128,67 @@
             "DW"
           ],
           "firstSeen": "2026-11-13T23:00:28.770Z"
+        },
+        {
+          "title": "EEUU descarta la amenaza terrorista e insiste en que un fallo de telecomunicaciones ha provocado la suspensión de vuelos",
+          "link": "https://www.20minutos.es/internacional/eeuu-descarta-amenaza-terrorista-insiste-fallo-telecomunicaciones-suspension-vuelos_7061036_0.html",
+          "source": "20minutos Internacional",
+          "summary": "El secretario de Seguridad Nacional de Estados Unidos, Markwayne Mullin, rechaza la comparación con el 11-S: \"No tiene nada que ver\".",
+          "sources": [
+            "20minutos Internacional",
+            "DW"
+          ],
+          "firstSeen": "2026-11-14T12:42:28.093Z"
         }
       ],
       "items": [
         {
-          "title": "El doble golpe a JD Vance: el castigo de Trump y las dudas sobre sus ambiciones presidenciales",
-          "link": "https://www.eldiario.es/internacional/doble-golpe-jd-vance-castigo-trump-dudas-ambiciones-presidenciales_1_13662418.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-13T21:53:32.000Z"
-        },
-        {
-          "title": "Ira estudiantil en Italia: 15.000 profesores menos, \"récord histórico\" de gasto en defensa e institutos ocupados",
-          "link": "https://www.eldiario.es/internacional/ira-estudiantil-italia-15-000-profesores-record-historico-gasto-defensa-e-institutos-ocupados_1_13662002.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-13T21:53:31.000Z"
-        },
-        {
-          "title": "El reportero del Wall Street Journal encarcelado e intercambiado por Rusia: “Putin no negocia, impone exigencias”",
-          "link": "https://www.eldiario.es/internacional/reportero-wall-street-journal-encarcelado-e-intercambiado-rusia-putin-no-negocia-impone-exigencias_128_13663021.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-13T21:53:30.000Z"
-        },
-        {
-          "title": "EEUU suspende todos los vuelos nacionales por \"circunstancias extraordinarias y motivos de seguridad\"",
-          "link": "https://www.eldiario.es/internacional/eeuu-ordena-suspension-vuelos-escala-nacional-circunstancias-extraordinarias-motivos-seguridad_1_13663423.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-13T21:28:42.000Z"
-        },
-        {
-          "title": "Europa nombra a su equipo para conversaciones de paz sobre Ucrania",
-          "link": "https://www.dw.com/es/europa-nombra-a-su-equipo-para-conversaciones-de-paz-sobre-ucrania/a-79944989?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Estados Unidos propuso en Abu Dabi que Ucrania ceda territorio a Rusia a cambio de su adhesión a la OTAN",
+          "link": "https://www.dw.com/es/estados-unidos-propuso-en-abu-dabi-que-ucrania-ceda-territorio-a-rusia-a-cambio-de-su-adhesión-a-la-otan/a-79947817?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-13T20:58:00.000Z"
+          "published": "2026-11-14T11:06:00.000Z"
         },
         {
-          "title": "EE. UU. vs Corea del Norte: ciberataques a Binance reeditan los enfrentamientos entre viejos rivales",
-          "link": "https://www.france24.com/es/programas/en-contexto/20261113-ee-uu-vs-corea-del-norte-ciberataques-a-binance-reeditan-los-enfrentamientos-entre-viejos-rivales",
-          "source": "France 24",
-          "published": "2026-11-13T20:46:15.000Z"
+          "title": "La desgarradora imagen de un hombre llorando ante el cuerpo de un ser querido tras un bombardeo ruso en Ucrania",
+          "link": "https://www.20minutos.es/internacional/desgarradora-imagen-hombre-llorando-cuerpo-ser-querido-bombardeo-ruso-ucrania_7061069_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-14T10:51:04.000Z"
         },
         {
-          "title": "Líderes de la UE debaten en Dublín a quién enviar para las conversaciones de paz entre Ucrania y Rusia",
-          "link": "https://www.dw.com/es/líderes-de-la-ue-debaten-en-dublín-a-quién-enviar-para-las-conversaciones-de-paz-entre-ucrania-y-rusia/a-79942235?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Irán informa de tres petroleros incendiados por la explosión de minas marinas en el estrecho de Ormuz y renueva sus advertencias",
+          "link": "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-13T20:36:00.000Z"
+          "published": "2026-11-14T08:32:00.000Z"
         },
         {
-          "title": "Europa descarta nombrar un solo representante y designa un grupo negociador para las conversaciones de paz sobre Ucrania",
-          "link": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
+          "title": "Qué se sabe del caos aéreo en EEUU: vuelos y aeropuertos paralizados horas, un sistema obsoleto y \"no parece\" un ciberataque",
+          "link": "https://www.20minutos.es/internacional/que-se-sabe-caos-aereo-eeuu-vuelos-aeropuertos-paralizados-horas-un-sistema-obsoleto-no-parece-un-ciberataque_7061038_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-14T08:16:39.000Z"
+        },
+        {
+          "title": "Cómo Europa ha decidido negociar con Putin con un grupo de cinco países, sin España y despreciando a Kaja Kallas",
+          "link": "https://www.20minutos.es/internacional/como-europa-ha-decidido-negociar-con-putin-con-un-grupo-cinco-paises-sin-espana-despreciando-kaja-kallas_7060329_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-14T07:59:24.000Z"
+        },
+        {
+          "title": "El Ejército de EEUU detecta actividad \"sospechosa\" de drones sobre la base militar británica de Lakenheath",
+          "link": "https://www.20minutos.es/internacional/ejercito-eeuu-detecta-actividad-sospechosa-drones-sobre-base-militar-britanica-lakenheath_7061037_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-14T07:56:24.000Z"
+        },
+        {
+          "title": "La Casa Blanca confirma la celebración de una cumbre inédita entre Donald Trump, Xi Jinping y Vladimir Putin la semana que viene",
+          "link": "https://www.dw.com/es/la-casa-blanca-confirma-la-celebración-de-una-cumbre-inédita-entre-donald-trump-xi-jinping-y-vladimir-putin-la-semana-que-viene/a-79946919?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-14T07:50:00.000Z"
+        },
+        {
+          "title": "Rusia lucha por imponer su sueño de vetar la presencia militar de la OTAN en Europa del este",
+          "link": "https://elpais.com/internacional/2026-11-14/rusia-lucha-por-imponer-su-sueno-de-vetar-la-presencia-militar-de-la-otan-en-europa-del-este.html",
           "source": "El País Internacional",
-          "published": "2026-11-13T20:18:52.000Z"
+          "published": "2026-11-14T04:40:00.000Z"
         }
       ]
     }
