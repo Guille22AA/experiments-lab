@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T12:42:28.093Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-11-14T21:48:23.678Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -65,52 +65,52 @@
       ],
       "items": [
         {
-          "title": "Campaña elecciones 29N y actualidad política, en directo | Sánchez pide “el voto de todos los que quieren más Europa” para frenar a Abascal",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
-          "source": "El País",
-          "published": "2026-11-14T12:30:31.000Z"
-        },
-        {
-          "title": "Patxi López confía en el triunfo del PSOE porque \"hay ganas de frenar la involución que proponen PP y Vox\"",
-          "link": "https://www.europapress.es/castilla-y-leon/noticia-patxi-lopez-confia-triunfo-psoe-porque-hay-ganas-frenar-involucion-proponen-pp-vox-20261114132616.html",
-          "source": "Europa Press",
-          "published": "2026-11-14T12:26:16.000Z"
-        },
-        {
-          "title": "Fiscalía pide el ingreso en prisión de el hombre detenido por el asesinato de Covadonga Patricia",
-          "link": "https://www.europapress.es/asturias/noticia-fiscalia-pide-ingreso-prision-hombre-detenido-asesinato-covadonga-patricia-20261114120830.html",
-          "source": "Europa Press",
-          "published": "2026-11-14T11:08:30.000Z"
-        },
-        {
-          "title": "Aldama acusa al director de Okdiario de chantajear al exministro Ábalos a cambio de publicidad",
-          "link": "https://www.eldiario.es/politica/aldama-acusa-director-okdiario-chantajear-exministro-abalos-cambio-publicidad_1_13663635.html",
+          "title": "Hieren a un policía local de Palma de un disparo cuando intervenía en un conflicto vecinal en el barrio de Corea",
+          "link": "https://www.eldiario.es/illes-balears/hieren-policia-local-palma-disparo-intervenia-conflicto-vecinal-barrio-corea_1_13664848.html",
           "source": "elDiario.es",
-          "published": "2026-11-14T09:48:20.000Z"
+          "published": "2026-11-14T20:35:33.000Z"
         },
         {
-          "title": "Figaredo admite que pedir \"cazar\" inmigrantes no fue \"la mejor palabra\"",
-          "link": "https://www.20minutos.es/nacional/figaredo-admite-que-pedir-cazar-inmigrantes-no-fue-mejor-palabra_7061049_0.html",
-          "source": "20minutos",
-          "published": "2026-11-14T09:34:52.000Z"
+          "title": "Podemos pide en Pamplona el voto para para la alianza con Rufián, pero ERC va en coalición con EH Bildu en Navarra",
+          "link": "https://www.eldiario.es/navarra/pide-pamplona-voto-alianza-rufian-erc-coalicion-eh-bildu-navarra_1_13664638.html",
+          "source": "elDiario.es",
+          "published": "2026-11-14T20:01:06.000Z"
         },
         {
-          "title": "El PP pide a Bruselas que verifique si Sánchez ejecuta las inversiones ferroviarias financiadas con fondos europeos",
-          "link": "https://www.europapress.es/nacional/noticia-pp-pide-bruselas-verifique-si-sanchez-ejecuta-inversiones-ferroviarias-financiadas-fondos-europeos-20261114102349.html",
+          "title": "El PP cancela actos de campaña en Gipuzkoa por falta de seguridad tras sufrir incidentes en Hernani",
+          "link": "https://www.eldiario.es/euskadi/pp-cancela-actos-campana-gipuzkoa-falta-seguridad-sufrir-incidentes-hernani_1_13664677.html",
+          "source": "elDiario.es",
+          "published": "2026-11-14T19:15:22.000Z"
+        },
+        {
+          "title": "El PSOE cancela el acto de Sánchez y Lula da Silva en Madrid por una afonía del presidente brasileño",
+          "link": "https://www.europapress.es/nacional/noticia-psoe-cancela-acto-sanchez-lula-da-silva-madrid-afonia-presidente-brasileno-20261114194841.html",
           "source": "Europa Press",
-          "published": "2026-11-14T09:23:49.000Z"
+          "published": "2026-11-14T18:48:41.000Z"
         },
         {
-          "title": "El PSOE admite que el gasto en pensiones necesita de revisiones: \"Hay que ver si hacemos bien los deberes\"",
-          "link": "https://www.20minutos.es/nacional/psoe-admite-que-gasto-pensiones-necesita-revisiones-hay-que-ver-si-hacemos-bien-los-deberes_7061044_0.html",
-          "source": "20minutos",
-          "published": "2026-11-14T08:53:43.000Z"
+          "title": "Cuca Gamarra rechaza dar \"pábulo\" a Koldo García tras reconocer Feijóo que ella conocía las reuniones con el abogado del PP",
+          "link": "https://www.eldiario.es/la-rioja/cuca-rechaza-dar-pabulo-koldo-garcia-reconocer-feijoo-conocia-reuniones-abogado-pp_1_13664641.html",
+          "source": "elDiario.es",
+          "published": "2026-11-14T18:42:03.000Z"
         },
         {
-          "title": "El Polisario cree que el próximo Gobierno puede liderar la solución del conflicto en el Sáhara y \"reparar el daño\"",
-          "link": "https://www.europapress.es/nacional/noticia-polisario-cree-proximo-gobierno-puede-liderar-solucion-conflicto-sahara-reparar-dano-20261114093947.html",
-          "source": "Europa Press",
-          "published": "2026-11-14T08:39:47.000Z"
+          "title": "El PSOE denuncia a la editora de Okdiario ante la Agencia Tributaria",
+          "link": "https://www.eldiario.es/politica/psoe-denuncia-editora-okdiario-agencia-tributaria_1_13664622.html",
+          "source": "elDiario.es",
+          "published": "2026-11-14T18:37:35.000Z"
+        },
+        {
+          "title": "Aumenta la presión sobre la consejera de Educación de Ayuso para que se siente a negociar con los profesores tras un mes de huelga",
+          "link": "https://www.eldiario.es/madrid/aumenta-presion-consejera-educacion-ayuso-siente-negociar-profesores-mes-huelga_1_13664365.html",
+          "source": "elDiario.es",
+          "published": "2026-11-14T17:40:27.000Z"
+        },
+        {
+          "title": "Sánchez pide “el voto europeísta” para frenar a Abascal",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
+          "source": "El País",
+          "published": "2026-11-14T17:23:22.000Z"
         }
       ]
     },
@@ -118,6 +118,21 @@
       "id": "mundo",
       "title": "Mundo · Geopolítica",
       "highlights": [
+        {
+          "title": "Zelenski asegura que EEUU ha ofrecido a Ucrania entrar en la OTAN a cambio de renunciar al Donbás",
+          "link": "https://www.20minutos.es/internacional/zelenski-asegura-que-eeuu-ha-ofrecido-ucrania-entrar-otan-cambio-renunciar-donbas_7061157_0.html",
+          "source": "20minutos Internacional",
+          "summary": "Hasta ahora Washington había descartado el ingreso de Ucrania en la OTAN, mientras que Moscú exige neutralidad y límites a las fuerzas militares ucranianas.",
+          "sources": [
+            "20minutos Internacional",
+            "France 24",
+            "elDiario.es Internacional",
+            "El País Internacional",
+            "BBC Mundo",
+            "DW"
+          ],
+          "firstSeen": "2026-11-14T21:48:23.678Z"
+        },
         {
           "title": "UE advierte sobre las \"trampas\" de Rusia ante las negociaciones de paz en Ucrania",
           "link": "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
@@ -143,52 +158,52 @@
       ],
       "items": [
         {
-          "title": "Estados Unidos propuso en Abu Dabi que Ucrania ceda territorio a Rusia a cambio de su adhesión a la OTAN",
-          "link": "https://www.dw.com/es/estados-unidos-propuso-en-abu-dabi-que-ucrania-ceda-territorio-a-rusia-a-cambio-de-su-adhesión-a-la-otan/a-79947817?maca=spa-rss-sp-all-1122-xml-mrss",
+          "title": "Eisenkot: llamado de Netanyahu a negociar “sin condiciones” es “fanfarronada”",
+          "link": "https://www.dw.com/es/eisenkot-llamado-de-netanyahu-a-negociar-sin-condiciones-es-fanfarronada/a-79950135?maca=spa-rss-sp-all-1122-xml-mrss",
           "source": "DW",
-          "published": "2026-11-14T11:06:00.000Z"
+          "published": "2026-11-14T20:59:00.000Z"
         },
         {
-          "title": "La desgarradora imagen de un hombre llorando ante el cuerpo de un ser querido tras un bombardeo ruso en Ucrania",
-          "link": "https://www.20minutos.es/internacional/desgarradora-imagen-hombre-llorando-cuerpo-ser-querido-bombardeo-ruso-ucrania_7061069_0.html",
+          "title": "Las lluvias y el bloqueo israelí arrasan Gaza: “No nos queda ningún colchón seco para dormir\"",
+          "link": "https://www.eldiario.es/internacional/lluvias-bloqueo-israeli-arrasan-gaza-no-queda-colchon-seco-dormir_1_13662001.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-14T20:41:52.000Z"
+        },
+        {
+          "title": "La historia secreta de las explosiones en el Nord Stream, desde dentro: \"Los autores sienten que Ucrania los ha abandonado\"",
+          "link": "https://www.eldiario.es/internacional/historia-secreta-explosiones-nord-stream-autores-sienten-ucrania-abandonado_1_13658285.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-14T20:41:51.000Z"
+        },
+        {
+          "title": "Informe desde Washington: vuelos vuelven a la normalidad tras horas de retrasos y cancelaciones",
+          "link": "https://www.france24.com/es/video/20261114-informe-desde-washington-vuelos-vuelven-a-la-normalidad-tras-horas-de-retrasos-y-cancelaciones",
+          "source": "France 24",
+          "published": "2026-11-14T19:17:44.000Z"
+        },
+        {
+          "title": "EE. UU. excluye a Nvidia de la agenda de Trump y Xi, mientras empleados presionan por el regreso de Jensen Huang",
+          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261114-ee-uu-excluye-a-nvidia-de-la-agenda-de-trump-y-xi-mientras-empleados-presionan-por-el-regreso-de-jensen-huang",
+          "source": "France 24",
+          "published": "2026-11-14T18:51:24.000Z"
+        },
+        {
+          "title": "Eisenkot tacha de \"farol\" la oferta de Netanyahu y lo reta a apoyar su relevo en el Parlamento",
+          "link": "https://www.eldiario.es/internacional/eisenkot-tacha-farol-oferta-netanyahu-reta-apoyar-relevo-parlamento_1_13664649.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-14T18:47:21.000Z"
+        },
+        {
+          "title": "EEUU descarta un ciberataque o la IA en el caos en todos sus aeropuertos: apunta a una empresa de fibra o un router defectuoso",
+          "link": "https://www.20minutos.es/internacional/eeuu-descarta-un-ciberataque-ia-caos-todos-sus-aeropuertos-apunta-una-empresa-fibra-un-router-defectuoso_7061174_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-14T10:51:04.000Z"
+          "published": "2026-11-14T18:14:00.000Z"
         },
         {
-          "title": "Irán informa de tres petroleros incendiados por la explosión de minas marinas en el estrecho de Ormuz y renueva sus advertencias",
-          "link": "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-14T08:32:00.000Z"
-        },
-        {
-          "title": "Qué se sabe del caos aéreo en EEUU: vuelos y aeropuertos paralizados horas, un sistema obsoleto y \"no parece\" un ciberataque",
-          "link": "https://www.20minutos.es/internacional/que-se-sabe-caos-aereo-eeuu-vuelos-aeropuertos-paralizados-horas-un-sistema-obsoleto-no-parece-un-ciberataque_7061038_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-14T08:16:39.000Z"
-        },
-        {
-          "title": "Cómo Europa ha decidido negociar con Putin con un grupo de cinco países, sin España y despreciando a Kaja Kallas",
-          "link": "https://www.20minutos.es/internacional/como-europa-ha-decidido-negociar-con-putin-con-un-grupo-cinco-paises-sin-espana-despreciando-kaja-kallas_7060329_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-14T07:59:24.000Z"
-        },
-        {
-          "title": "El Ejército de EEUU detecta actividad \"sospechosa\" de drones sobre la base militar británica de Lakenheath",
-          "link": "https://www.20minutos.es/internacional/ejercito-eeuu-detecta-actividad-sospechosa-drones-sobre-base-militar-britanica-lakenheath_7061037_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-14T07:56:24.000Z"
-        },
-        {
-          "title": "La Casa Blanca confirma la celebración de una cumbre inédita entre Donald Trump, Xi Jinping y Vladimir Putin la semana que viene",
-          "link": "https://www.dw.com/es/la-casa-blanca-confirma-la-celebración-de-una-cumbre-inédita-entre-donald-trump-xi-jinping-y-vladimir-putin-la-semana-que-viene/a-79946919?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-14T07:50:00.000Z"
-        },
-        {
-          "title": "Rusia lucha por imponer su sueño de vetar la presencia militar de la OTAN en Europa del este",
-          "link": "https://elpais.com/internacional/2026-11-14/rusia-lucha-por-imponer-su-sueno-de-vetar-la-presencia-militar-de-la-otan-en-europa-del-este.html",
-          "source": "El País Internacional",
-          "published": "2026-11-14T04:40:00.000Z"
+          "title": "Trump, Xi y Putin: ¿por qué es una cumbre que pone a prueba el orden mundial?",
+          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261114-trump-xi-y-putin-una-cumbre-que-pone-a-prueba-el-orden-mundial-y-reabre-el-temor-a-un-nuevo-reparto-de-poder",
+          "source": "France 24",
+          "published": "2026-11-14T17:35:55.000Z"
         }
       ]
     }
