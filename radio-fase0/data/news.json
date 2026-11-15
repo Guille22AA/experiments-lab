@@ -1,209 +1,127 @@
 {
-  "date": "2026-11-14",
-  "updatedAt": "2026-11-14T21:48:23.678Z",
-  "edition": "tarde",
+  "date": "2026-11-15",
+  "updatedAt": "2026-11-15T13:09:15.878Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "Primer debate electoral en campaña: PSOE y Frente Amplio prometen inversión en el tren, frente a PP y Vox que piden auditar la red",
-          "link": "https://www.20minutos.es/nacional/primer-debate-electoral-campana-psoe-frente-amplio-prometen-inversion-tren-pp-vox-piden-auditar-red_7061028_0.html",
-          "source": "20minutos",
-          "summary": "Los populares prometen invertir 300.000 millones si consigue gobernar y Frente Amplio pide dejar de ampliar aeropuertos e invertir en Cercanías",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-13T23:00:28.770Z"
-        },
-        {
-          "title": "El PSOE presenta una denuncia contra ‘OkDiario’ y el PP por los pagos de la defensa de Koldo García",
-          "link": "https://elpais.com/espana/2026-11-13/el-psoe-presenta-una-denuncia-contra-okdiario-y-el-pp-por-los-pagos-de-la-defensa-de-koldo-garcia.html",
-          "source": "El País",
-          "summary": "Los socialistas piden que se investigue si los populares están detrás de los abonos a la abogada del exasesor y si hicieron ofrecimientos a cambio de información contra Pedro Sánchez",
-          "sources": [
-            "El País",
-            "elDiario.es"
-          ],
-          "firstSeen": "2026-11-13T23:00:28.770Z"
-        },
-        {
-          "title": "El Gobierno da el primer paso para revalorizar las pensiones \"entre el 3 y el 4%\" a partir del 1 de enero de 2027",
-          "link": "https://www.eldiario.es/economia/gobierno-da-primer-paso-revalorizar-pensiones-1-enero-2027_1_13661647.html",
+          "title": "CCOO convoca una huelga en el transporte de mercancías por carretera para Navidad: el 23 y el 24 de diciembre",
+          "link": "https://www.eldiario.es/economia/ccoo-convoca-huelga-transporte-mercancias-carretera-navidad-23-24-diciembre_1_13665338.html",
           "source": "elDiario.es",
-          "summary": "El Consejo de Ministros aprueba la tramitación urgente del reglamento que garantizará el poder adquisitivo de las jubilaciones, a la espera de conocerse la cifra definitiva el próximo día 27 de noviembre Por qué el sistema público de pensiones ni “está quebrado” ni “va a petar” como dicen PP y Vox El Gobierno ha dado este viernes el primer paso para actualizar las pensiones desde el 1 de enero de 2027, en el primer día de la campaña electoral oficial de cara a los comicios del 29 de noviembre, con la aprobación en el Consejo de Ministros de la tramitación urgente del real decreto que…",
+          "summary": "Esta movilización se produce en protesta por el retraso del Gobierno en la aprobación de los coeficientes reductores que permitirán a los trabajadores del sector jubilarse anticipadamente sin penalización Las patronales del transporte por carretera, la mayoritaria Confederación de Española de Transporte de Mercancías (CETM) y Fenadismer, han confirmado a EFE que han recibido la preceptiva notificación del Servicio Interconfederal de Mediación y Arbitraje (SIMA) previa a esa convocatoria para ambas jornadas. CCOO ha anunciado una rueda de prensa para este lunes para informar sobre estas…",
           "sources": [
             "elDiario.es",
-            "Europa Press"
+            "20minutos"
           ],
-          "firstSeen": "2026-11-13T23:00:28.770Z"
-        },
-        {
-          "title": "Margarita Robles, sobre El Ruso: \"No es militar ni legionario, es simplemente un asesino sin matices\"",
-          "link": "https://www.20minutos.es/nacional/margarita-robles-sobre-ruso-no-es-militar-ni-legionario-es-simplemente-un-asesino-sin-matices_7061088_0.html",
-          "source": "20minutos",
-          "summary": "La ministra de Defensa ha elogiado la labor del subsinspector de policía fallecido y el Tedax herido en la explosión de Oviedo.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-14T12:42:28.093Z"
-        },
-        {
-          "title": "Sánchez protagoniza un vídeo en el que relata la historia de Teresa para poner en valor el 'decreto Maricarmen': \"No da igual\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-protagoniza-un-video-que-relata-historia-teresa-para-poner-valor-decreto-maricarmen-no-da-igual_7061081_0.html",
-          "source": "20minutos",
-          "summary": "El PSOE utiliza la historia de una inquilina amenazada con una subida del alquiler para defender sus políticas de vivienda y reivindicar la importancia del voto el 29N.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-14T12:42:28.093Z"
+          "firstSeen": "2026-11-15T13:09:15.878Z"
         }
       ],
       "items": [
         {
-          "title": "Hieren a un policía local de Palma de un disparo cuando intervenía en un conflicto vecinal en el barrio de Corea",
-          "link": "https://www.eldiario.es/illes-balears/hieren-policia-local-palma-disparo-intervenia-conflicto-vecinal-barrio-corea_1_13664848.html",
-          "source": "elDiario.es",
-          "published": "2026-11-14T20:35:33.000Z"
-        },
-        {
-          "title": "Podemos pide en Pamplona el voto para para la alianza con Rufián, pero ERC va en coalición con EH Bildu en Navarra",
-          "link": "https://www.eldiario.es/navarra/pide-pamplona-voto-alianza-rufian-erc-coalicion-eh-bildu-navarra_1_13664638.html",
-          "source": "elDiario.es",
-          "published": "2026-11-14T20:01:06.000Z"
-        },
-        {
-          "title": "El PP cancela actos de campaña en Gipuzkoa por falta de seguridad tras sufrir incidentes en Hernani",
-          "link": "https://www.eldiario.es/euskadi/pp-cancela-actos-campana-gipuzkoa-falta-seguridad-sufrir-incidentes-hernani_1_13664677.html",
-          "source": "elDiario.es",
-          "published": "2026-11-14T19:15:22.000Z"
-        },
-        {
-          "title": "El PSOE cancela el acto de Sánchez y Lula da Silva en Madrid por una afonía del presidente brasileño",
-          "link": "https://www.europapress.es/nacional/noticia-psoe-cancela-acto-sanchez-lula-da-silva-madrid-afonia-presidente-brasileno-20261114194841.html",
+          "title": "Sánchez anuncia más impuestos a fondos propietarios de viviendas y permisos para cuidado de hijos menores de 8 años",
+          "link": "https://www.europapress.es/nacional/noticia-sanchez-anuncia-mas-impuestos-fondos-propietarios-viviendas-permisos-cuidado-hijos-menores-anos-20261115135836.html",
           "source": "Europa Press",
-          "published": "2026-11-14T18:48:41.000Z"
+          "published": "2026-11-15T12:58:36.000Z"
         },
         {
-          "title": "Cuca Gamarra rechaza dar \"pábulo\" a Koldo García tras reconocer Feijóo que ella conocía las reuniones con el abogado del PP",
-          "link": "https://www.eldiario.es/la-rioja/cuca-rechaza-dar-pabulo-koldo-garcia-reconocer-feijoo-conocia-reuniones-abogado-pp_1_13664641.html",
+          "title": "Nogueras apela al votante de ERC que veta pactar con Podemos, contrario a delegar inmigración",
+          "link": "https://www.europapress.es/catalunya/noticia-nogueras-apela-votante-erc-veta-pactar-podemos-contrario-delegar-inmigracion-20261115135701.html",
+          "source": "Europa Press",
+          "published": "2026-11-15T12:57:01.000Z"
+        },
+        {
+          "title": "Sánchez promete subir los impuestos a los grandes propietarios que tengan viviendas vacías o pisos turísticos",
+          "link": "https://www.eldiario.es/politica/sanchez-promete-subir-impuestos-grandes-propietarios-tengan-viviendas-vacias-pisos-turisticos_1_13665461.html",
           "source": "elDiario.es",
-          "published": "2026-11-14T18:42:03.000Z"
+          "published": "2026-11-15T12:50:28.000Z"
         },
         {
-          "title": "El PSOE denuncia a la editora de Okdiario ante la Agencia Tributaria",
-          "link": "https://www.eldiario.es/politica/psoe-denuncia-editora-okdiario-agencia-tributaria_1_13664622.html",
-          "source": "elDiario.es",
-          "published": "2026-11-14T18:37:35.000Z"
-        },
-        {
-          "title": "Aumenta la presión sobre la consejera de Educación de Ayuso para que se siente a negociar con los profesores tras un mes de huelga",
-          "link": "https://www.eldiario.es/madrid/aumenta-presion-consejera-educacion-ayuso-siente-negociar-profesores-mes-huelga_1_13664365.html",
-          "source": "elDiario.es",
-          "published": "2026-11-14T17:40:27.000Z"
-        },
-        {
-          "title": "Sánchez pide “el voto europeísta” para frenar a Abascal",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
+          "title": "Campaña electoral 29N y actualidad política, en directo | Feijóo, a Sánchez: “Dígale a sus socios que no violenten la campaña, que no peguen patadas y puñetazos”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
           "source": "El País",
-          "published": "2026-11-14T17:23:22.000Z"
+          "published": "2026-11-15T12:48:16.000Z"
+        },
+        {
+          "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+          "source": "El País",
+          "published": "2026-11-15T12:26:49.000Z"
+        },
+        {
+          "title": "Vox exige proteger a propietarios frente a ocupación y critica el \"estrangulamiento\" del mercado de la vivienda",
+          "link": "https://www.europapress.es/asturias/noticia-vox-exige-proteger-propietarios-frente-ocupacion-critica-estrangulamiento-mercado-vivienda-20261115132543.html",
+          "source": "Europa Press",
+          "published": "2026-11-15T12:25:43.000Z"
+        },
+        {
+          "title": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
+          "link": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
+          "source": "El País",
+          "published": "2026-11-15T12:15:17.000Z"
+        },
+        {
+          "title": "Feijóo está \"valorando\" reformar la ley para que amenazados por ETA que tuvieron que irse puedan votar en Euskadi",
+          "link": "https://www.europapress.es/euskadi/noticia-feijoo-valorando-reformar-ley-amenazados-eta-tuvieron-irse-puedan-votar-euskadi-20261115114838.html",
+          "source": "Europa Press",
+          "published": "2026-11-15T10:48:38.000Z"
         }
       ]
     },
     {
       "id": "mundo",
       "title": "Mundo · Geopolítica",
-      "highlights": [
-        {
-          "title": "Zelenski asegura que EEUU ha ofrecido a Ucrania entrar en la OTAN a cambio de renunciar al Donbás",
-          "link": "https://www.20minutos.es/internacional/zelenski-asegura-que-eeuu-ha-ofrecido-ucrania-entrar-otan-cambio-renunciar-donbas_7061157_0.html",
-          "source": "20minutos Internacional",
-          "summary": "Hasta ahora Washington había descartado el ingreso de Ucrania en la OTAN, mientras que Moscú exige neutralidad y límites a las fuerzas militares ucranianas.",
-          "sources": [
-            "20minutos Internacional",
-            "France 24",
-            "elDiario.es Internacional",
-            "El País Internacional",
-            "BBC Mundo",
-            "DW"
-          ],
-          "firstSeen": "2026-11-14T21:48:23.678Z"
-        },
-        {
-          "title": "UE advierte sobre las \"trampas\" de Rusia ante las negociaciones de paz en Ucrania",
-          "link": "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
-          "source": "France 24",
-          "summary": "La jefa de la diplomacia europea, Kaja Kallas, alertó sobre posibles \"trampas\" de Moscú en las conversaciones para poner fin a la guerra en Ucrania. Mientras Bruselas y Kiev prevén la participación de la Unión Europea en la próxima ronda de negociaciones, Rusia asegura que evaluará su presencia en función de las \"verdaderas intenciones\" del bloque. Entretanto, Ucrania lanzó cerca de 1.200 drones y alcanzó una refinería rusa, mientras que ataques de Moscú provocaron cortes de electricidad en 12 regiones ucranianas.",
-          "sources": [
-            "France 24",
-            "DW"
-          ],
-          "firstSeen": "2026-11-13T23:00:28.770Z"
-        },
-        {
-          "title": "EEUU descarta la amenaza terrorista e insiste en que un fallo de telecomunicaciones ha provocado la suspensión de vuelos",
-          "link": "https://www.20minutos.es/internacional/eeuu-descarta-amenaza-terrorista-insiste-fallo-telecomunicaciones-suspension-vuelos_7061036_0.html",
-          "source": "20minutos Internacional",
-          "summary": "El secretario de Seguridad Nacional de Estados Unidos, Markwayne Mullin, rechaza la comparación con el 11-S: \"No tiene nada que ver\".",
-          "sources": [
-            "20minutos Internacional",
-            "DW"
-          ],
-          "firstSeen": "2026-11-14T12:42:28.093Z"
-        }
-      ],
+      "highlights": [],
       "items": [
         {
-          "title": "Eisenkot: llamado de Netanyahu a negociar “sin condiciones” es “fanfarronada”",
-          "link": "https://www.dw.com/es/eisenkot-llamado-de-netanyahu-a-negociar-sin-condiciones-es-fanfarronada/a-79950135?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-14T20:59:00.000Z"
-        },
-        {
-          "title": "Las lluvias y el bloqueo israelí arrasan Gaza: “No nos queda ningún colchón seco para dormir\"",
-          "link": "https://www.eldiario.es/internacional/lluvias-bloqueo-israeli-arrasan-gaza-no-queda-colchon-seco-dormir_1_13662001.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-14T20:41:52.000Z"
-        },
-        {
-          "title": "La historia secreta de las explosiones en el Nord Stream, desde dentro: \"Los autores sienten que Ucrania los ha abandonado\"",
-          "link": "https://www.eldiario.es/internacional/historia-secreta-explosiones-nord-stream-autores-sienten-ucrania-abandonado_1_13658285.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-14T20:41:51.000Z"
-        },
-        {
-          "title": "Informe desde Washington: vuelos vuelven a la normalidad tras horas de retrasos y cancelaciones",
-          "link": "https://www.france24.com/es/video/20261114-informe-desde-washington-vuelos-vuelven-a-la-normalidad-tras-horas-de-retrasos-y-cancelaciones",
-          "source": "France 24",
-          "published": "2026-11-14T19:17:44.000Z"
-        },
-        {
-          "title": "EE. UU. excluye a Nvidia de la agenda de Trump y Xi, mientras empleados presionan por el regreso de Jensen Huang",
-          "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261114-ee-uu-excluye-a-nvidia-de-la-agenda-de-trump-y-xi-mientras-empleados-presionan-por-el-regreso-de-jensen-huang",
-          "source": "France 24",
-          "published": "2026-11-14T18:51:24.000Z"
-        },
-        {
-          "title": "Eisenkot tacha de \"farol\" la oferta de Netanyahu y lo reta a apoyar su relevo en el Parlamento",
-          "link": "https://www.eldiario.es/internacional/eisenkot-tacha-farol-oferta-netanyahu-reta-apoyar-relevo-parlamento_1_13664649.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-14T18:47:21.000Z"
-        },
-        {
-          "title": "EEUU descarta un ciberataque o la IA en el caos en todos sus aeropuertos: apunta a una empresa de fibra o un router defectuoso",
-          "link": "https://www.20minutos.es/internacional/eeuu-descarta-un-ciberataque-ia-caos-todos-sus-aeropuertos-apunta-una-empresa-fibra-un-router-defectuoso_7061174_0.html",
+          "title": "Un juez en EEUU ordena la castración de un hombre condenado por violar a tres niños",
+          "link": "https://www.20minutos.es/internacional/juez-eeuu-ordena-castracion-quimica-hombre-codnenado-violar-ninos_7061270_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-14T18:14:00.000Z"
+          "published": "2026-11-15T11:39:33.000Z"
         },
         {
-          "title": "Trump, Xi y Putin: ¿por qué es una cumbre que pone a prueba el orden mundial?",
-          "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261114-trump-xi-y-putin-una-cumbre-que-pone-a-prueba-el-orden-mundial-y-reabre-el-temor-a-un-nuevo-reparto-de-poder",
-          "source": "France 24",
-          "published": "2026-11-14T17:35:55.000Z"
+          "title": "Expertos alertan del riesgo del \"corredor\" entre España y Marruecos que está forjando el Estado Islámico desde el Sahel",
+          "link": "https://www.20minutos.es/internacional/expertos-alertan-riesgo-corredor-entre-espana-marruecos-que-esta-forjando-estado-islamico-desde-sahel_7061267_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-15T11:18:14.000Z"
+        },
+        {
+          "title": "El Ejército yemení se retira de Bab al Mandeb para reforzar Adén ante el avance de la ofensiva hutí",
+          "link": "https://www.dw.com/es/el-ejército-yemení-se-retira-de-bab-al-mandeb-para-reforzar-adén-ante-el-avance-de-la-ofensiva-hutí/a-79951870?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-15T11:15:00.000Z"
+        },
+        {
+          "title": "Pillan a un asesor del primer ministro británico usando ChatGPT para escribirle un discurso",
+          "link": "https://www.20minutos.es/internacional/pillan-asesor-primer-inistro-britanico-usando-chatgpt-escribirle-discurso_7061259_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-15T11:05:16.000Z"
+        },
+        {
+          "title": "Milei anuncia que irá a por la reelección como presidente de Argentina en las elecciones de 2027",
+          "link": "https://www.20minutos.es/internacional/milei-anuncia-que-ira-por-reeleccion-como-presidente-argentina-las-elecciones-2027_7061262_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-15T10:49:18.000Z"
+        },
+        {
+          "title": "La conmoción en Panamá tras el ataque con explosivos contra la casa de un periodista",
+          "link": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-11-15T10:40:24.000Z"
+        },
+        {
+          "title": "El auge de los drones en la guerra de Ucrania lleva la batalla al subsuelo: \"Existe toda una red subterránea\"",
+          "link": "https://www.20minutos.es/internacional/auge-drones-guerra-ucrania-lleva-batalla-subsuelo-existe-toda-red-subterranea_7061240_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-15T10:06:51.000Z"
+        },
+        {
+          "title": "Hungría localiza más de 17 millones de euros escondidos en bosques y almacenes por un exministro de Orbán detenido",
+          "link": "https://www.eldiario.es/internacional/hungria-localiza-17-millones-escondidos-bosques-almacenes-exministro-orban-detenido_1_13665219.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-15T10:05:31.000Z"
         }
       ]
     }
