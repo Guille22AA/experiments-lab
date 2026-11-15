@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T13:09:15.878Z",
-  "edition": "mediodía",
+  "updatedAt": "2026-11-15T22:16:25.509Z",
+  "edition": "tarde",
   "sections": [
     {
       "id": "espana",
@@ -17,111 +17,170 @@
             "20minutos"
           ],
           "firstSeen": "2026-11-15T13:09:15.878Z"
+        },
+        {
+          "title": "El PSOE propone \"blindar\" el mantenimiento de vías de tren con 19.000 millones y un Pacto de Estado en seguridad ferroviaria",
+          "link": "https://www.20minutos.es/nacional/psoe-promete-blindar-mantenimiento-vias-tren-con-19-000-millones-un-pacto-estado-por-seguridad-ferroviaria_7061321_0.html",
+          "source": "20minutos",
+          "summary": "La mayoría de medidas del programa PSOE ya habían sido planteadas desde el seno del Gobierno a raíz del accidente de Urda. Se compromete a que haya \"una dirección de perfil técnico en Adif y Renfe\" así como a reforzar las plantillas de circulación, mantenimiento y seguridad.",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-15T22:16:25.509Z"
+        },
+        {
+          "title": "Feijóo visitará Guipúzcoa tras la agresión a su candidato y pide a Sánchez que diga a Bildu que \"no violenten la campaña\"",
+          "link": "https://www.20minutos.es/nacional/feijoo-visitara-guipuzcoa-tras-agresion-candidato-pide-sanchez-diga-socios-bildu-no-violenten-campana_7061296_0.html",
+          "source": "20minutos",
+          "summary": "El líder del PP dice que España necesita \"decencia, ambición y gestión\" ante el modelo de Sánchez, y su \"régimen de corrupción, de incompetencia y de jetas\".",
+          "sources": [
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-15T22:16:25.509Z"
+        },
+        {
+          "title": "Sánchez vuelve a prometer una prestación por crianza y propone subir los impuestos a los grandes propietarios con viviendas vacías",
+          "link": "https://www.20minutos.es/nacional/sanchez-vuelve-prometer-una-prestacion-por-crianza-propone-subir-los-impuestos-los-grandes-propietarios-con-viviendas-vacias_7061297_0.html",
+          "source": "20minutos",
+          "summary": "Reivindica la bandera española para la izquierda desde Alcorcón, donde el PSOE presenta su programa electoral. Promete retribuir un permiso pendiente desde 2023 tras resistirse a la prestación universal que reclamaban sus socios.",
+          "sources": [
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-15T22:16:25.509Z"
         }
       ],
       "items": [
         {
-          "title": "Sánchez anuncia más impuestos a fondos propietarios de viviendas y permisos para cuidado de hijos menores de 8 años",
-          "link": "https://www.europapress.es/nacional/noticia-sanchez-anuncia-mas-impuestos-fondos-propietarios-viviendas-permisos-cuidado-hijos-menores-anos-20261115135836.html",
-          "source": "Europa Press",
-          "published": "2026-11-15T12:58:36.000Z"
-        },
-        {
-          "title": "Nogueras apela al votante de ERC que veta pactar con Podemos, contrario a delegar inmigración",
-          "link": "https://www.europapress.es/catalunya/noticia-nogueras-apela-votante-erc-veta-pactar-podemos-contrario-delegar-inmigracion-20261115135701.html",
-          "source": "Europa Press",
-          "published": "2026-11-15T12:57:01.000Z"
-        },
-        {
-          "title": "Sánchez promete subir los impuestos a los grandes propietarios que tengan viviendas vacías o pisos turísticos",
-          "link": "https://www.eldiario.es/politica/sanchez-promete-subir-impuestos-grandes-propietarios-tengan-viviendas-vacias-pisos-turisticos_1_13665461.html",
+          "title": "El Sindicato de Inquilinas convierte la rabia en fiesta en Vistalegre: \"Los fondos son unas perras, pero nosotras más\"",
+          "link": "https://www.eldiario.es/madrid/somos/sindicato-inquilinas-convierte-rabia-fiesta-vistalegre-fondos-son-perras_1_13665994.html",
           "source": "elDiario.es",
-          "published": "2026-11-15T12:50:28.000Z"
+          "published": "2026-11-15T20:58:29.000Z"
         },
         {
-          "title": "Campaña electoral 29N y actualidad política, en directo | Feijóo, a Sánchez: “Dígale a sus socios que no violenten la campaña, que no peguen patadas y puñetazos”",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
+          "title": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html",
           "source": "El País",
-          "published": "2026-11-15T12:48:16.000Z"
+          "published": "2026-11-15T19:56:07.000Z"
         },
         {
           "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
           "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
           "source": "El País",
-          "published": "2026-11-15T12:26:49.000Z"
+          "published": "2026-11-15T19:30:47.000Z"
         },
         {
-          "title": "Vox exige proteger a propietarios frente a ocupación y critica el \"estrangulamiento\" del mercado de la vivienda",
-          "link": "https://www.europapress.es/asturias/noticia-vox-exige-proteger-propietarios-frente-ocupacion-critica-estrangulamiento-mercado-vivienda-20261115132543.html",
-          "source": "Europa Press",
-          "published": "2026-11-15T12:25:43.000Z"
+          "title": "El presidente desvela por qué no ha querido ser entrevistado por Pablo Motos en 'El Hormiguero'",
+          "link": "https://www.20minutos.es/television/pedro-sanchez-desvela-por-que-no-ha-querido-ser-entrevistado-por-pablo-motos-hormiguero_7061370_0.html",
+          "source": "20minutos",
+          "published": "2026-11-15T19:28:04.000Z"
         },
         {
-          "title": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
-          "link": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
+          "title": "Más de mil personas llegan a El Hierro este domingo por la ruta más mortífera y el Gobierno estatal anuncia más medidas",
+          "link": "https://www.eldiario.es/canariasahora/migraciones/mil-personas-llegan-hierro-domingo-ruta-mortifera-gobierno-estatal-anuncia-medidas_1_13666141.html",
+          "source": "elDiario.es",
+          "published": "2026-11-15T19:13:58.000Z"
+        },
+        {
+          "title": "El Sindicato de Inquilinas de Madrid celebra las movilizaciones por la vivienda en un gran encuentro colectivo",
+          "link": "https://www.elsaltodiario.com/vivienda/sindicato-inquilinas-madrid-celebra-movilizaciones-vivienda-un-gran-encuentro-colectivo?utm_source=feed",
+          "source": "El Salto",
+          "published": "2026-11-15T19:13:00.000Z"
+        },
+        {
+          "title": "El Sindicato de Inquilinas exhibe músculo en Vistalegre tras la huelga general por la vivienda",
+          "link": "https://elpais.com/economia/2026-11-15/el-sindicato-de-inquilinas-exhibe-musculo-en-vistalegre-tras-la-huelga-general-por-la-vivienda.html",
           "source": "El País",
-          "published": "2026-11-15T12:15:17.000Z"
+          "published": "2026-11-15T18:54:53.000Z"
         },
         {
-          "title": "Feijóo está \"valorando\" reformar la ley para que amenazados por ETA que tuvieron que irse puedan votar en Euskadi",
-          "link": "https://www.europapress.es/euskadi/noticia-feijoo-valorando-reformar-ley-amenazados-eta-tuvieron-irse-puedan-votar-euskadi-20261115114838.html",
-          "source": "Europa Press",
-          "published": "2026-11-15T10:48:38.000Z"
+          "title": "Feijóo hará campaña en Gipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
+          "source": "El País",
+          "published": "2026-11-15T18:48:56.000Z"
         }
       ]
     },
     {
       "id": "mundo",
       "title": "Mundo · Geopolítica",
-      "highlights": [],
+      "highlights": [
+        {
+          "title": "Estonia cerrará en diciembre su frontera con Rusia tras acusar al Kremlin de un intento de sabotaje",
+          "link": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+          "source": "El País Internacional",
+          "summary": "La Fiscalía del país báltico anuncia la detención de ocho personas en relación con una supuesta acción contra una fábrica de material militar",
+          "sources": [
+            "El País Internacional",
+            "France 24",
+            "DW",
+            "elDiario.es Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-15T22:16:25.509Z"
+        },
+        {
+          "title": "Jordania condena a muerte a tres hombres acusados del letal ataque contra una iglesia",
+          "link": "https://www.france24.com/es/medio-oriente/20261115-jordania-condena-a-muerte-a-tres-hombres-acusados-del-letal-ataque-contra-una-iglesia",
+          "source": "France 24",
+          "summary": "Este domingo 15 de noviembre, el Tribunal de Seguridad de Jordania condenó a muerte a tres hombres tras hallarlos culpables de perpetrar el letal atentado ocurrido contra una iglesia greco-ortodoxa el pasado octubre. El ataque, registrado en la gobernación de Karak, en el sur del país, dejó nueve personas muertas y decenas de heridos.",
+          "sources": [
+            "France 24",
+            "DW"
+          ],
+          "firstSeen": "2026-11-15T22:16:25.509Z"
+        }
+      ],
       "items": [
         {
-          "title": "Un juez en EEUU ordena la castración de un hombre condenado por violar a tres niños",
-          "link": "https://www.20minutos.es/internacional/juez-eeuu-ordena-castracion-quimica-hombre-codnenado-violar-ninos_7061270_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-15T11:39:33.000Z"
-        },
-        {
-          "title": "Expertos alertan del riesgo del \"corredor\" entre España y Marruecos que está forjando el Estado Islámico desde el Sahel",
-          "link": "https://www.20minutos.es/internacional/expertos-alertan-riesgo-corredor-entre-espana-marruecos-que-esta-forjando-estado-islamico-desde-sahel_7061267_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-15T11:18:14.000Z"
-        },
-        {
-          "title": "El Ejército yemení se retira de Bab al Mandeb para reforzar Adén ante el avance de la ofensiva hutí",
-          "link": "https://www.dw.com/es/el-ejército-yemení-se-retira-de-bab-al-mandeb-para-reforzar-adén-ante-el-avance-de-la-ofensiva-hutí/a-79951870?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-15T11:15:00.000Z"
-        },
-        {
-          "title": "Pillan a un asesor del primer ministro británico usando ChatGPT para escribirle un discurso",
-          "link": "https://www.20minutos.es/internacional/pillan-asesor-primer-inistro-britanico-usando-chatgpt-escribirle-discurso_7061259_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-15T11:05:16.000Z"
-        },
-        {
-          "title": "Milei anuncia que irá a por la reelección como presidente de Argentina en las elecciones de 2027",
-          "link": "https://www.20minutos.es/internacional/milei-anuncia-que-ira-por-reeleccion-como-presidente-argentina-las-elecciones-2027_7061262_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-15T10:49:18.000Z"
-        },
-        {
-          "title": "La conmoción en Panamá tras el ataque con explosivos contra la casa de un periodista",
-          "link": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-15T10:40:24.000Z"
-        },
-        {
-          "title": "El auge de los drones en la guerra de Ucrania lleva la batalla al subsuelo: \"Existe toda una red subterránea\"",
-          "link": "https://www.20minutos.es/internacional/auge-drones-guerra-ucrania-lleva-batalla-subsuelo-existe-toda-red-subterranea_7061240_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-15T10:06:51.000Z"
-        },
-        {
-          "title": "Hungría localiza más de 17 millones de euros escondidos en bosques y almacenes por un exministro de Orbán detenido",
-          "link": "https://www.eldiario.es/internacional/hungria-localiza-17-millones-escondidos-bosques-almacenes-exministro-orban-detenido_1_13665219.html",
+          "title": "Los progresistas desafían al 'establishment' demócrata en la batalla por el liderazgo del Congreso",
+          "link": "https://www.eldiario.es/internacional/progresistas-desafian-establishment-democrata-batalla-liderazgo-congreso_1_13662933.html",
           "source": "elDiario.es Internacional",
-          "published": "2026-11-15T10:05:31.000Z"
+          "published": "2026-11-15T20:56:47.000Z"
+        },
+        {
+          "title": "Cómo Israel convirtió su sistema de prisiones en un arma \"contra la existencia de los palestinos\"",
+          "link": "https://www.eldiario.es/internacional/israel-convirtio-sistema-prisiones-arma-existencia-palestinos_128_13640705.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-15T20:56:46.000Z"
+        },
+        {
+          "title": "Rebeldes hutíes se encuentran a solo 60 kilómetros de la capital provisional de Yemen",
+          "link": "https://www.dw.com/es/rebeldes-hutíes-se-encuentran-a-solo-60-kilómetros-de-la-capital-provisional-de-yemen/a-79953488?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-15T20:31:00.000Z"
+        },
+        {
+          "title": "Zelensky pide a EE.UU. y Elon Musk reestablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
+          "link": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-11-15T19:16:49.000Z"
+        },
+        {
+          "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
+          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella",
+          "source": "France 24",
+          "published": "2026-11-15T19:11:02.000Z"
+        },
+        {
+          "title": "Un supuesto nieto de Putin adopta el apellido de su madre para evitar el del padre porque es 'Zelensky'",
+          "link": "https://www.20minutos.es/internacional/supuesto-nieto-putin-adopta-apellido-madre-para-evitar-padre-es-zelensky_7061358_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-15T18:20:01.000Z"
+        },
+        {
+          "title": "Rusia advierte a EEUU contra la reanudación de pruebas nucleares: \"Responderemos de forma adecuada\"",
+          "link": "https://www.20minutos.es/internacional/rusia-advierte-eeuu-contra-reanudacion-pruebas-nucleares-responderemos-forma-adecuada_7061360_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-15T18:04:00.000Z"
+        },
+        {
+          "title": "Trump reduce sus apariciones públicas tras el aviso del Mossad y la CIA de que Irán prevé asesinarlo con drones",
+          "link": "https://www.20minutos.es/internacional/trump-reduce-apariciones-publicas-aviso-mossad-cia-iran-preve-asesinarlo-drones_7061356_0.html",
+          "source": "20minutos Internacional",
+          "published": "2026-11-15T17:50:30.000Z"
         }
       ]
     }
