@@ -1,105 +1,117 @@
 {
-  "date": "2026-11-15",
-  "updatedAt": "2026-11-15T22:16:25.509Z",
-  "edition": "tarde",
+  "date": "2026-11-16",
+  "updatedAt": "2026-11-16T14:17:07.735Z",
+  "edition": "mediodía",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
-          "title": "CCOO convoca una huelga en el transporte de mercancías por carretera para Navidad: el 23 y el 24 de diciembre",
-          "link": "https://www.eldiario.es/economia/ccoo-convoca-huelga-transporte-mercancias-carretera-navidad-23-24-diciembre_1_13665338.html",
-          "source": "elDiario.es",
-          "summary": "Esta movilización se produce en protesta por el retraso del Gobierno en la aprobación de los coeficientes reductores que permitirán a los trabajadores del sector jubilarse anticipadamente sin penalización Las patronales del transporte por carretera, la mayoritaria Confederación de Española de Transporte de Mercancías (CETM) y Fenadismer, han confirmado a EFE que han recibido la preceptiva notificación del Servicio Interconfederal de Mediación y Arbitraje (SIMA) previa a esa convocatoria para ambas jornadas. CCOO ha anunciado una rueda de prensa para este lunes para informar sobre estas…",
+          "title": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+          "source": "El País",
+          "summary": "El líder de los populares, Alberto Núñez Feijóo, tiene previsto desgranar la medida en un acto de campaña esta tarde en Pamplona",
           "sources": [
-            "elDiario.es",
-            "20minutos"
+            "El País",
+            "20minutos",
+            "Europa Press"
           ],
-          "firstSeen": "2026-11-15T13:09:15.878Z"
+          "firstSeen": "2026-11-16T14:17:07.735Z"
         },
         {
-          "title": "El PSOE propone \"blindar\" el mantenimiento de vías de tren con 19.000 millones y un Pacto de Estado en seguridad ferroviaria",
-          "link": "https://www.20minutos.es/nacional/psoe-promete-blindar-mantenimiento-vias-tren-con-19-000-millones-un-pacto-estado-por-seguridad-ferroviaria_7061321_0.html",
+          "title": "El Gobierno aprobará mañana la subida del salario mínimo hasta 1.286 euros al mes a 12 días de las elecciones",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprobara-martes-subida-salario-minimo-hasta-1-286-euros-mes-12-dias-las-elecciones_7061669_0.html",
           "source": "20minutos",
-          "summary": "La mayoría de medidas del programa PSOE ya habían sido planteadas desde el seno del Gobierno a raíz del accidente de Urda. Se compromete a que haya \"una dirección de perfil técnico en Adif y Renfe\" así como a reforzar las plantillas de circulación, mantenimiento y seguridad.",
+          "summary": "El suelo retributivo de España se incrementará un 5,3%, lo que se traduce en 910 euros más al año (65 al mes). El aumento quedará libre de pagar IRPF.",
           "sources": [
             "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-11-15T22:16:25.509Z"
+          "firstSeen": "2026-11-16T14:17:07.735Z"
         },
         {
-          "title": "Feijóo visitará Guipúzcoa tras la agresión a su candidato y pide a Sánchez que diga a Bildu que \"no violenten la campaña\"",
-          "link": "https://www.20minutos.es/nacional/feijoo-visitara-guipuzcoa-tras-agresion-candidato-pide-sanchez-diga-socios-bildu-no-violenten-campana_7061296_0.html",
-          "source": "20minutos",
-          "summary": "El líder del PP dice que España necesita \"decencia, ambición y gestión\" ante el modelo de Sánchez, y su \"régimen de corrupción, de incompetencia y de jetas\".",
+          "title": "Un juez ordena a Google no eliminar contenido del ‘software’ investigado en el ‘caso Begoña Gómez’",
+          "link": "https://elpais.com/espana/2026-11-16/un-juez-ordena-google-no-eliminar-contenido-del-software-investigado-en-el-caso-begona-gomez.html",
+          "source": "El País",
+          "summary": "El instructor que sustituye al juez Peinado quiere evitar que se pierdan los contenidos del proyecto",
           "sources": [
-            "20minutos",
-            "elDiario.es"
+            "El País",
+            "Europa Press"
           ],
-          "firstSeen": "2026-11-15T22:16:25.509Z"
+          "firstSeen": "2026-11-16T14:17:07.735Z"
         },
         {
-          "title": "Sánchez vuelve a prometer una prestación por crianza y propone subir los impuestos a los grandes propietarios con viviendas vacías",
-          "link": "https://www.20minutos.es/nacional/sanchez-vuelve-prometer-una-prestacion-por-crianza-propone-subir-los-impuestos-los-grandes-propietarios-con-viviendas-vacias_7061297_0.html",
-          "source": "20minutos",
-          "summary": "Reivindica la bandera española para la izquierda desde Alcorcón, donde el PSOE presenta su programa electoral. Promete retribuir un permiso pendiente desde 2023 tras resistirse a la prestación universal que reclamaban sus socios.",
+          "title": "Gilbert F. Houngbo, reelegido director de la OIT tras la retirada de Yolanda Díaz",
+          "link": "https://www.eldiario.es/economia/gilbert-f-houngbo-reelegido-director-oit-retirada-yolanda-diaz_1_13666864.html",
+          "source": "elDiario.es",
+          "summary": "La Organización Internacional del Trabajo ha anunciado ya la reelección del togolés para que lidere la entidad otros cinco años Yolanda Díaz retira su candidatura a presidir la OIT a unas horas de las elecciones la retirada de su única rival, la vicepresidenta segunda y ministra de Trabajo de España, Yolanda Díaz. La OIT ya ha comunicado la victoria de Houngbo, que ha dirigido unas primeras palabras como director reelegido en un discurso público desde Ginebra. El togolés accedió por primera vez al cargo de director general de la OIT en 2022, convirtiéndose así en el primer africano en el…",
           "sources": [
-            "20minutos",
-            "elDiario.es"
+            "elDiario.es",
+            "Europa Press"
           ],
-          "firstSeen": "2026-11-15T22:16:25.509Z"
+          "firstSeen": "2026-11-16T14:17:07.735Z"
+        },
+        {
+          "title": "Yolanda Díaz retira su candidatura a presidir la OIT a unas horas de las elecciones",
+          "link": "https://www.eldiario.es/economia/yolanda-diaz-retira-candidatura-presidir-oit-horas-elecciones_1_13666457.html",
+          "source": "elDiario.es",
+          "summary": "La vicepresidenta explica en una carta que no quiere \"dividir al movimiento sindical\", ante la decisión de la CSI de apoyar a Houngbo y la negativa a dar \"libertad de voto\" al grupo de trabajadores Gilbert F. Houngbo, reelegido director de la OIT tras la retirada de Yolanda Díaz La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, ha retirado su candidatura para presidir la Organización Internacional del Trabajo (OIT) a unas horas de que se celebraran las elecciones en Ginebra, este lunes, 16 de noviembre. Díaz se iba a enfrentar este lunes al actual director de la OIT, el togolés…",
+          "sources": [
+            "elDiario.es",
+            "El País"
+          ],
+          "firstSeen": "2026-11-16T14:17:07.735Z"
         }
       ],
       "items": [
         {
-          "title": "El Sindicato de Inquilinas convierte la rabia en fiesta en Vistalegre: \"Los fondos son unas perras, pero nosotras más\"",
-          "link": "https://www.eldiario.es/madrid/somos/sindicato-inquilinas-convierte-rabia-fiesta-vistalegre-fondos-son-perras_1_13665994.html",
+          "title": "El Polisario reclama ante el Ministerio de Transportes que suspenda el vuelo de Ryanair al Sáhara Occidental",
+          "link": "https://www.eldiario.es/desalambre/polisario-reclama-ministerio-transportes-suspenda-vuelo-ryanair-sahara-occidental_1_13667504.html",
           "source": "elDiario.es",
-          "published": "2026-11-15T20:58:29.000Z"
+          "published": "2026-11-16T13:36:39.000Z"
         },
         {
-          "title": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html",
+          "title": "El secuestrador de la concejala de Maracena, condenado a dos años de prisión por acuerdo de las partes, no irá a la cárcel",
+          "link": "https://elpais.com/espana/2026-11-16/el-secuestrador-de-la-concejala-de-maracena-condenado-a-dos-anos-de-prision-por-acuerdo-de-las-partes-no-ira-a-la-carcel.html",
           "source": "El País",
-          "published": "2026-11-15T19:56:07.000Z"
+          "published": "2026-11-16T13:29:58.000Z"
         },
         {
-          "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
-          "source": "El País",
-          "published": "2026-11-15T19:30:47.000Z"
-        },
-        {
-          "title": "El presidente desvela por qué no ha querido ser entrevistado por Pablo Motos en 'El Hormiguero'",
-          "link": "https://www.20minutos.es/television/pedro-sanchez-desvela-por-que-no-ha-querido-ser-entrevistado-por-pablo-motos-hormiguero_7061370_0.html",
+          "title": "Feijóo promete al campo una fiscalidad específica, controlar productos extranjeros y reducir la burocracia",
+          "link": "https://www.20minutos.es/nacional/feijoo-promete-campo-una-fiscalidad-especifica-controlar-productos-extranjeros-reducir-burocracia_7061645_0.html",
           "source": "20minutos",
-          "published": "2026-11-15T19:28:04.000Z"
+          "published": "2026-11-16T13:22:42.000Z"
         },
         {
-          "title": "Más de mil personas llegan a El Hierro este domingo por la ruta más mortífera y el Gobierno estatal anuncia más medidas",
-          "link": "https://www.eldiario.es/canariasahora/migraciones/mil-personas-llegan-hierro-domingo-ruta-mortifera-gobierno-estatal-anuncia-medidas_1_13666141.html",
+          "title": "La consejera de Educación de Ayuso denunciará el \"acoso\" de los docentes en huelga y los tacha de \"activistas violentos\"",
+          "link": "https://www.eldiario.es/madrid/consejera-educacion-ayuso-denunciara-acoso-docentes-huelga-tacha-activistas-violentos_1_13667809.html",
           "source": "elDiario.es",
-          "published": "2026-11-15T19:13:58.000Z"
+          "published": "2026-11-16T13:20:43.000Z"
         },
         {
-          "title": "El Sindicato de Inquilinas de Madrid celebra las movilizaciones por la vivienda en un gran encuentro colectivo",
-          "link": "https://www.elsaltodiario.com/vivienda/sindicato-inquilinas-madrid-celebra-movilizaciones-vivienda-un-gran-encuentro-colectivo?utm_source=feed",
-          "source": "El Salto",
-          "published": "2026-11-15T19:13:00.000Z"
+          "title": "Sánchez y Lula defienden las instituciones democráticas ante la \"amenaza ultraderechista\"",
+          "link": "https://www.20minutos.es/nacional/sanchez-lula-defienden-las-instituciones-democraticas-ante-amenaza-ultraderechista_7061668_0.html",
+          "source": "20minutos",
+          "published": "2026-11-16T13:15:52.000Z"
         },
         {
-          "title": "El Sindicato de Inquilinas exhibe músculo en Vistalegre tras la huelga general por la vivienda",
-          "link": "https://elpais.com/economia/2026-11-15/el-sindicato-de-inquilinas-exhibe-musculo-en-vistalegre-tras-la-huelga-general-por-la-vivienda.html",
+          "title": "Feijóo critica las políticas \"ambientalistas\" de Europa y pide más control de fronteras para los alimentos",
+          "link": "https://www.eldiario.es/catalunya/feijoo-critica-politicas-ambientalistas-europa-pide-control-fronteras-alimentos_1_13667385.html",
+          "source": "elDiario.es",
+          "published": "2026-11-16T13:11:30.000Z"
+        },
+        {
+          "title": "El CNI concluye que “no se han obtenido evidencias” que vinculen la entrada masiva de Ceuta con una acción del Estado marroquí",
+          "link": "https://elpais.com/espana/2026-11-16/el-cni-concluye-que-no-se-han-obtenido-evidencias-que-vinculen-la-entrada-masiva-de-ceuta-con-una-accion-del-estado-marroqui.html",
           "source": "El País",
-          "published": "2026-11-15T18:54:53.000Z"
+          "published": "2026-11-16T13:02:21.000Z"
         },
         {
-          "title": "Feijóo hará campaña en Gipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
+          "title": "Lula da en Madrid un respaldo político a Sánchez, que trata de usar la remontada brasileña como ejemplo",
+          "link": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
           "source": "El País",
-          "published": "2026-11-15T18:48:56.000Z"
+          "published": "2026-11-16T13:00:28.000Z"
         }
       ]
     },
@@ -108,79 +120,65 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "Estonia cerrará en diciembre su frontera con Rusia tras acusar al Kremlin de un intento de sabotaje",
-          "link": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
-          "source": "El País Internacional",
-          "summary": "La Fiscalía del país báltico anuncia la detención de ocho personas en relación con una supuesta acción contra una fábrica de material militar",
+          "title": "China confirma la reunión entre Xi, Trump y Putin este jueves en Shenzhen",
+          "link": "https://www.20minutos.es/internacional/china-confirma-reunion-entre-xi-trump-putin-este-jueves-shenzhen_7061404_0.html",
+          "source": "20minutos Internacional",
+          "summary": "La Cancillería china ratificó la reunión después de que el Kremlin confirmara la semana pasada que las tres potencias habían acordado celebrar el encuentro.",
           "sources": [
-            "El País Internacional",
-            "France 24",
-            "DW",
-            "elDiario.es Internacional",
-            "20minutos Internacional"
-          ],
-          "firstSeen": "2026-11-15T22:16:25.509Z"
-        },
-        {
-          "title": "Jordania condena a muerte a tres hombres acusados del letal ataque contra una iglesia",
-          "link": "https://www.france24.com/es/medio-oriente/20261115-jordania-condena-a-muerte-a-tres-hombres-acusados-del-letal-ataque-contra-una-iglesia",
-          "source": "France 24",
-          "summary": "Este domingo 15 de noviembre, el Tribunal de Seguridad de Jordania condenó a muerte a tres hombres tras hallarlos culpables de perpetrar el letal atentado ocurrido contra una iglesia greco-ortodoxa el pasado octubre. El ataque, registrado en la gobernación de Karak, en el sur del país, dejó nueve personas muertas y decenas de heridos.",
-          "sources": [
-            "France 24",
+            "20minutos Internacional",
             "DW"
           ],
-          "firstSeen": "2026-11-15T22:16:25.509Z"
+          "firstSeen": "2026-11-16T14:17:07.735Z"
         }
       ],
       "items": [
         {
-          "title": "Los progresistas desafían al 'establishment' demócrata en la batalla por el liderazgo del Congreso",
-          "link": "https://www.eldiario.es/internacional/progresistas-desafian-establishment-democrata-batalla-liderazgo-congreso_1_13662933.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-15T20:56:47.000Z"
-        },
-        {
-          "title": "Cómo Israel convirtió su sistema de prisiones en un arma \"contra la existencia de los palestinos\"",
-          "link": "https://www.eldiario.es/internacional/israel-convirtio-sistema-prisiones-arma-existencia-palestinos_128_13640705.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-15T20:56:46.000Z"
-        },
-        {
-          "title": "Rebeldes hutíes se encuentran a solo 60 kilómetros de la capital provisional de Yemen",
-          "link": "https://www.dw.com/es/rebeldes-hutíes-se-encuentran-a-solo-60-kilómetros-de-la-capital-provisional-de-yemen/a-79953488?maca=spa-rss-sp-all-1122-xml-mrss",
-          "source": "DW",
-          "published": "2026-11-15T20:31:00.000Z"
-        },
-        {
-          "title": "Zelensky pide a EE.UU. y Elon Musk reestablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
-          "link": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Mundo",
-          "published": "2026-11-15T19:16:49.000Z"
-        },
-        {
-          "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
-          "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella",
+          "title": "En directo: 600 drones ucranianos apuntan a Moscú; Kiev ataca el puente de Crimea interrumpe el tráfico",
+          "link": "https://www.france24.com/es/europa/20261116-en-directo-600-drones-ucranianos-apuntan-a-mosc%C3%BA-kiev-ataca-el-puente-de-crimea-interrumpe-el-tr%C3%A1fico-1",
           "source": "France 24",
-          "published": "2026-11-15T19:11:02.000Z"
+          "published": "2026-11-16T13:22:24.000Z"
         },
         {
-          "title": "Un supuesto nieto de Putin adopta el apellido de su madre para evitar el del padre porque es 'Zelensky'",
-          "link": "https://www.20minutos.es/internacional/supuesto-nieto-putin-adopta-apellido-madre-para-evitar-padre-es-zelensky_7061358_0.html",
+          "title": "Cinco países de la UE ultiman con Ruanda la creación de un centro de retención de migrantes y Bruselas celebra la decisión",
+          "link": "https://www.20minutos.es/internacional/cinco-paises-ue-ultiman-con-ruanda-creacion-un-centro-retencion-migrantes-bruselas-celebra-decision_7061657_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-15T18:20:01.000Z"
+          "published": "2026-11-16T13:01:09.000Z"
         },
         {
-          "title": "Rusia advierte a EEUU contra la reanudación de pruebas nucleares: \"Responderemos de forma adecuada\"",
-          "link": "https://www.20minutos.es/internacional/rusia-advierte-eeuu-contra-reanudacion-pruebas-nucleares-responderemos-forma-adecuada_7061360_0.html",
+          "title": "La UE aprueba nuevas sanciones contra Rusia dirigidas a bancos, redes de desinformación y empresas energéticas",
+          "link": "https://www.20minutos.es/internacional/ue-aprueba-nuevas-sanciones-contra-rusia-dirigidas-bancos-redes-desinformacion-empresas-energeticas_7061646_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-15T18:04:00.000Z"
+          "published": "2026-11-16T12:45:21.000Z"
         },
         {
-          "title": "Trump reduce sus apariciones públicas tras el aviso del Mossad y la CIA de que Irán prevé asesinarlo con drones",
-          "link": "https://www.20minutos.es/internacional/trump-reduce-apariciones-publicas-aviso-mossad-cia-iran-preve-asesinarlo-drones_7061356_0.html",
+          "title": "Los bálticos introducen nuevos controles en la frontera y limitan las importaciones rusas ante el riesgo de espionaje y ataques híbridos",
+          "link": "https://www.20minutos.es/internacional/los-balticos-introducen-nuevos-controles-frontera-limitan-las-importaciones-rusas-ante-riesgo-espionaje-ataques-hibridos_7061618_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-15T17:50:30.000Z"
+          "published": "2026-11-16T12:10:02.000Z"
+        },
+        {
+          "title": "3 poco conocidas disputas limítrofes dentro de países de América Latina (y por qué algunas se han recrudecido)",
+          "link": "https://www.bbc.com/mundo/articles/cx7vpv49en34o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Mundo",
+          "published": "2026-11-16T12:04:57.000Z"
+        },
+        {
+          "title": "Las fuerzas del Gobierno de Yemen frenan su ofensiva contra los hutíes y se retiran de un estrecho clave en el mar Rojo",
+          "link": "https://elpais.com/internacional/2026-11-16/las-fuerzas-del-gobierno-de-yemen-frenan-su-ofensiva-contra-los-huties-y-se-repliegan-de-un-estrecho-clave-en-el-mar-rojo.html",
+          "source": "El País Internacional",
+          "published": "2026-11-16T10:51:57.000Z"
+        },
+        {
+          "title": "Lula y el general de sus brigadas digitales entran en la campaña electoral de España con su visita a Pedro Sánchez",
+          "link": "https://www.eldiario.es/internacional/lula-general-brigadas-digitales-entran-campana-electoral-espana-visita-pedro-sanchez_1_13662847.html",
+          "source": "elDiario.es Internacional",
+          "published": "2026-11-16T10:50:47.000Z"
+        },
+        {
+          "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
+          "link": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
+          "source": "El País Internacional",
+          "published": "2026-11-16T09:10:00.000Z"
         }
       ]
     }
