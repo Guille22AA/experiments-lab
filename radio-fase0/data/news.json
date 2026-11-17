@@ -1,117 +1,118 @@
 {
-  "date": "2026-11-16",
-  "updatedAt": "2026-11-16T14:17:07.735Z",
-  "edition": "mediodía",
+  "date": "2026-11-17",
+  "updatedAt": "2026-11-17T01:16:22.278Z",
+  "edition": "mañana",
   "sections": [
     {
       "id": "espana",
       "title": "España",
       "highlights": [
         {
+          "title": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
+          "link": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-45-de-los-salarios-de-los-funcionarios-para-2027.html",
+          "source": "El País",
+          "summary": "Pedro Sánchez ha anunciado el incremento retributivo de los trabajadores públicos, parte de un pacto plurianual alcanzado el año pasado",
+          "sources": [
+            "El País",
+            "Europa Press",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-17T01:16:22.278Z"
+        },
+        {
           "title": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
           "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
           "source": "El País",
-          "summary": "El líder de los populares, Alberto Núñez Feijóo, tiene previsto desgranar la medida en un acto de campaña esta tarde en Pamplona",
+          "summary": "Feijóo alerta en Lleida contra el “fundamentalismo islámico” y pide mano de obra de inmigrantes con compromiso de “integración”",
           "sources": [
             "El País",
             "20minutos",
             "Europa Press"
           ],
-          "firstSeen": "2026-11-16T14:17:07.735Z"
+          "firstSeen": "2026-11-17T01:16:22.278Z"
         },
         {
-          "title": "El Gobierno aprobará mañana la subida del salario mínimo hasta 1.286 euros al mes a 12 días de las elecciones",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprobara-martes-subida-salario-minimo-hasta-1-286-euros-mes-12-dias-las-elecciones_7061669_0.html",
-          "source": "20minutos",
-          "summary": "El suelo retributivo de España se incrementará un 5,3%, lo que se traduce en 910 euros más al año (65 al mes). El aumento quedará libre de pagar IRPF.",
-          "sources": [
-            "20minutos",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-16T14:17:07.735Z"
-        },
-        {
-          "title": "Un juez ordena a Google no eliminar contenido del ‘software’ investigado en el ‘caso Begoña Gómez’",
-          "link": "https://elpais.com/espana/2026-11-16/un-juez-ordena-google-no-eliminar-contenido-del-software-investigado-en-el-caso-begona-gomez.html",
-          "source": "El País",
-          "summary": "El instructor que sustituye al juez Peinado quiere evitar que se pierdan los contenidos del proyecto",
-          "sources": [
-            "El País",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-16T14:17:07.735Z"
-        },
-        {
-          "title": "Gilbert F. Houngbo, reelegido director de la OIT tras la retirada de Yolanda Díaz",
-          "link": "https://www.eldiario.es/economia/gilbert-f-houngbo-reelegido-director-oit-retirada-yolanda-diaz_1_13666864.html",
+          "title": "Lula respalda a Sánchez en Madrid: “Es muy importante que ganes las elecciones para frenar a la extrema derecha”",
+          "link": "https://www.eldiario.es/politica/lula-respalda-sanchez-madrid-importante-ganes-elecciones-frenar-extrema-derecha_1_13669134.html",
           "source": "elDiario.es",
-          "summary": "La Organización Internacional del Trabajo ha anunciado ya la reelección del togolés para que lidere la entidad otros cinco años Yolanda Díaz retira su candidatura a presidir la OIT a unas horas de las elecciones la retirada de su única rival, la vicepresidenta segunda y ministra de Trabajo de España, Yolanda Díaz. La OIT ya ha comunicado la victoria de Houngbo, que ha dirigido unas primeras palabras como director reelegido en un discurso público desde Ginebra. El togolés accedió por primera vez al cargo de director general de la OIT en 2022, convirtiéndose así en el primer africano en el…",
-          "sources": [
-            "elDiario.es",
-            "Europa Press"
-          ],
-          "firstSeen": "2026-11-16T14:17:07.735Z"
-        },
-        {
-          "title": "Yolanda Díaz retira su candidatura a presidir la OIT a unas horas de las elecciones",
-          "link": "https://www.eldiario.es/economia/yolanda-diaz-retira-candidatura-presidir-oit-horas-elecciones_1_13666457.html",
-          "source": "elDiario.es",
-          "summary": "La vicepresidenta explica en una carta que no quiere \"dividir al movimiento sindical\", ante la decisión de la CSI de apoyar a Houngbo y la negativa a dar \"libertad de voto\" al grupo de trabajadores Gilbert F. Houngbo, reelegido director de la OIT tras la retirada de Yolanda Díaz La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, ha retirado su candidatura para presidir la Organización Internacional del Trabajo (OIT) a unas horas de que se celebraran las elecciones en Ginebra, este lunes, 16 de noviembre. Díaz se iba a enfrentar este lunes al actual director de la OIT, el togolés…",
+          "summary": "El recién elegido presidente brasileño muestra su apoyo en campaña al líder socialista durante un encuentro celebrado este lunes El Frente Amplio propone un límite de 10 millones de euros a las herencias Pedro Sánchez tiene la foto y el mensaje que buscaba. El recién reelegido presidente de Brasil, Lula da Silva, manda un respaldo explícito al líder del PSOE en plena campaña durante su visita a Madrid. “Cuando la gente en Brasil se dio cuenta de que podía ganar la extrema derecha, el pueblo se responsabilizó y tuvimos diez millones de votos más. Fue una cosa extraordinaria y es muy importante…",
           "sources": [
             "elDiario.es",
             "El País"
           ],
-          "firstSeen": "2026-11-16T14:17:07.735Z"
+          "firstSeen": "2026-11-17T01:16:22.278Z"
+        },
+        {
+          "title": "Trump asegura que Putin \"está dando marcha atrás\" en Ucrania y cree que quiere poner fin a la guerra",
+          "link": "https://www.20minutos.es/internacional/trump-asegura-que-putin-esta-dando-marcha-atras-ucrania-cree-que-quiere-poner-fin-guerra_7061801_0.html",
+          "source": "20minutos",
+          "summary": "El presidente estadounidense considera que Rusia está cediendo terreno y anuncia que abordará el conflicto durante su encuentro con Xi Jinping y Putin en China.",
+          "sources": [
+            "20minutos",
+            "Europa Press"
+          ],
+          "firstSeen": "2026-11-17T01:16:22.278Z"
+        },
+        {
+          "title": "Frente Amplio propone limitar las herencias de los \"ultrarricos\", jornada de 32 horas y comedores gratuitos",
+          "link": "https://www.20minutos.es/nacional/frente-propone-limitar-las-herencias-los-ultrarricos-una-prestacion-universal-por-crianza-200-euros-comedores-gratuitos_7061498_0.html",
+          "source": "20minutos",
+          "summary": "La alianza plurinacional también planea implantar la prestación universal por crianza o crear un Fondo Generacional de Energía \"al estilo noruego\" cuyos beneficios sirvan para construir vivienda pública o pagar las pensiones.",
+          "sources": [
+            "20minutos",
+            "elDiario.es"
+          ],
+          "firstSeen": "2026-11-17T01:16:22.278Z"
         }
       ],
       "items": [
         {
-          "title": "El Polisario reclama ante el Ministerio de Transportes que suspenda el vuelo de Ryanair al Sáhara Occidental",
-          "link": "https://www.eldiario.es/desalambre/polisario-reclama-ministerio-transportes-suspenda-vuelo-ryanair-sahara-occidental_1_13667504.html",
-          "source": "elDiario.es",
-          "published": "2026-11-16T13:36:39.000Z"
-        },
-        {
-          "title": "El secuestrador de la concejala de Maracena, condenado a dos años de prisión por acuerdo de las partes, no irá a la cárcel",
-          "link": "https://elpais.com/espana/2026-11-16/el-secuestrador-de-la-concejala-de-maracena-condenado-a-dos-anos-de-prision-por-acuerdo-de-las-partes-no-ira-a-la-carcel.html",
+          "title": "Los promotores de la candidatura conjunta de la izquierda para el Senado llaman a “la remontada”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/los-promotores-de-la-candidatura-conjunta-de-la-izquierda-para-el-senado-llaman-a-la-remontada.html",
           "source": "El País",
-          "published": "2026-11-16T13:29:58.000Z"
+          "published": "2026-11-16T22:16:19.000Z"
         },
         {
-          "title": "Feijóo promete al campo una fiscalidad específica, controlar productos extranjeros y reducir la burocracia",
-          "link": "https://www.20minutos.es/nacional/feijoo-promete-campo-una-fiscalidad-especifica-controlar-productos-extranjeros-reducir-burocracia_7061645_0.html",
+          "title": "UPN se mete de lleno en la campaña de Feijóo, al que agasaja en Pamplona, pero avisan de que van a \"ser exigentes\"",
+          "link": "https://www.eldiario.es/navarra/upn-mete-lleno-campana-feijoo-agasaja-pamplona-le-advierten-exigentes_1_13668682.html",
+          "source": "elDiario.es",
+          "published": "2026-11-16T20:58:28.000Z"
+        },
+        {
+          "title": "Abascal califica en Canarias de “invasión planificada” la llegada de cayucos",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-16/abascal-califica-en-canarias-de-invasion-planificada-la-llega-de-cayucos.html",
+          "source": "El País",
+          "published": "2026-11-16T20:50:53.000Z"
+        },
+        {
+          "title": "Abascal rechaza las acusaciones de Sánchez de racismo: \"Me da igual que el fundamentalista sea pelirrojo\"",
+          "link": "https://www.europapress.es/nacional/noticia-abascal-rechaza-acusaciones-sanchez-racismo-me-da-igual-fundamentalista-sea-pelirrojo-20261116214339.html",
+          "source": "Europa Press",
+          "published": "2026-11-16T20:43:39.000Z"
+        },
+        {
+          "title": "Sánchez anuncia que el Gobierno subirá este martes el sueldo de los funcionarios",
+          "link": "https://www.eldiario.es/politica/sanchez-anuncia-gobierno-subira-martes-sueldo-funcionarios_1_13669226.html",
+          "source": "elDiario.es",
+          "published": "2026-11-16T20:24:58.000Z"
+        },
+        {
+          "title": "Rusia rechaza la presencia de negociadores europeos en las conversaciones sobre la seguridad de Europa",
+          "link": "https://elpais.com/internacional/2026-11-16/rusia-rechaza-la-presencia-de-negociadores-europeos-en-las-conversaciones-sobre-la-seguridad-de-europa.html",
+          "source": "El País",
+          "published": "2026-11-16T19:30:38.000Z"
+        },
+        {
+          "title": "Nvidia descarta restituir a Jensen Huang como CEO pese al respaldo demostrado por Trump y Musk",
+          "link": "https://www.20minutos.es/internacional/nvidia-descarta-restituir-jensen-huang-como-ceo-pese-respaldo-publico-trump-elon-musk_7061861_0.html",
           "source": "20minutos",
-          "published": "2026-11-16T13:22:42.000Z"
+          "published": "2026-11-16T19:30:18.000Z"
         },
         {
-          "title": "La consejera de Educación de Ayuso denunciará el \"acoso\" de los docentes en huelga y los tacha de \"activistas violentos\"",
-          "link": "https://www.eldiario.es/madrid/consejera-educacion-ayuso-denunciara-acoso-docentes-huelga-tacha-activistas-violentos_1_13667809.html",
+          "title": "\"Rojo de mierda muerto, español contento\": el discurso fascista del abogado que lució el emblema de Núcleo Nacional en un acto",
+          "link": "https://www.eldiario.es/illes-balears/sociedad/rojo-mierda-muerto-espanol-contento-discurso-fascista-abogado-lucio-emblema-nucleo-nacional-acto_1_13668924.html",
           "source": "elDiario.es",
-          "published": "2026-11-16T13:20:43.000Z"
-        },
-        {
-          "title": "Sánchez y Lula defienden las instituciones democráticas ante la \"amenaza ultraderechista\"",
-          "link": "https://www.20minutos.es/nacional/sanchez-lula-defienden-las-instituciones-democraticas-ante-amenaza-ultraderechista_7061668_0.html",
-          "source": "20minutos",
-          "published": "2026-11-16T13:15:52.000Z"
-        },
-        {
-          "title": "Feijóo critica las políticas \"ambientalistas\" de Europa y pide más control de fronteras para los alimentos",
-          "link": "https://www.eldiario.es/catalunya/feijoo-critica-politicas-ambientalistas-europa-pide-control-fronteras-alimentos_1_13667385.html",
-          "source": "elDiario.es",
-          "published": "2026-11-16T13:11:30.000Z"
-        },
-        {
-          "title": "El CNI concluye que “no se han obtenido evidencias” que vinculen la entrada masiva de Ceuta con una acción del Estado marroquí",
-          "link": "https://elpais.com/espana/2026-11-16/el-cni-concluye-que-no-se-han-obtenido-evidencias-que-vinculen-la-entrada-masiva-de-ceuta-con-una-accion-del-estado-marroqui.html",
-          "source": "El País",
-          "published": "2026-11-16T13:02:21.000Z"
-        },
-        {
-          "title": "Lula da en Madrid un respaldo político a Sánchez, que trata de usar la remontada brasileña como ejemplo",
-          "link": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
-          "source": "El País",
-          "published": "2026-11-16T13:00:28.000Z"
+          "published": "2026-11-16T19:27:32.000Z"
         }
       ]
     },
@@ -120,65 +121,100 @@
       "title": "Mundo · Geopolítica",
       "highlights": [
         {
-          "title": "China confirma la reunión entre Xi, Trump y Putin este jueves en Shenzhen",
-          "link": "https://www.20minutos.es/internacional/china-confirma-reunion-entre-xi-trump-putin-este-jueves-shenzhen_7061404_0.html",
+          "title": "Informe desde Bruselas: cinco países europeos planean crear centro de deportación en Ruanda",
+          "link": "https://www.france24.com/es/video/20261116-informe-desde-bruselas-cinco-pa%C3%ADses-europeos-planean-crear-centro-de-deportaci%C3%B3n-en-ruanda",
+          "source": "France 24",
+          "summary": "Cinco países de la Unión Europea, Alemania, Austria, Dinamarca, Grecia y Países Bajos, anunciaron un acuerdo con Ruanda para crear un centro de retorno destinado a migrantes cuyas solicitudes de asilo hayan sido rechazadas. La iniciativa, que podría entrar en funcionamiento en 2027, busca trasladar temporalmente a estas personas mientras se completan los procesos de expulsión o se buscan soluciones permanentes. Desde Bruselas, nuestra corresponsal Esther Herrera nos da más detalles.",
+          "sources": [
+            "France 24",
+            "DW",
+            "El País Internacional",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-17T01:16:22.278Z"
+        },
+        {
+          "title": "Paraguay: ordenan el traslado de Santiago Peña a una cárcel militar tras crisis de Ueno Bank",
+          "link": "https://www.france24.com/es/video/20261116-paraguay-ordenan-el-traslado-de-santiago-pe%C3%B1a-a-una-c%C3%A1rcel-militar-tras-crisis-de-ueno-bank",
+          "source": "France 24",
+          "summary": "El expresidente de Paraguay, Santiago Peña, será trasladado a la prisión militar de Viñas Cué, en Asunción, por orden judicial, en medio de la crisis por el caso Ueno Bank y en la celebración de su cumpleaños 48. Mientras avanzan las investigaciones sobre la crisis, el ahora presidente Pedro Alliana aseguró que se pondrán a disposición todos los recursos legales e institucionales necesarios para esclarecer lo ocurrido y determinar las responsabilidades correspondientes.",
+          "sources": [
+            "France 24",
+            "20minutos Internacional"
+          ],
+          "firstSeen": "2026-11-17T01:16:22.278Z"
+        },
+        {
+          "title": "Tropas de Bukele llegan a Haití: ya son cinco fuerzas contra las pandillas",
+          "link": "https://www.france24.com/es/programas/en-contexto/20261116-tropas-de-bukele-llegan-a-hait%C3%AD-ya-son-cinco-fuerzas-contra-las-pandillas",
+          "source": "France 24",
+          "summary": "Cerca de 2.000 soldados de El Salvador llegaron a Haití. Primero, según Nayib Bukele, para una operación de rescate de cuatro de sus militares, pero luego con la instalación de una base operativa. Con ellos, suman cinco fuerzas -entre nacionales y extranjeras- activas luchando contra las pandillas. El Gobierno haitiano asegura que trabajan de manera coordinada, pero expertos creen lo contrario. Residentes acorralados por la violencia respaldan a Bukele, incluso en estadios coreando su nombre.",
+          "sources": [
+            "France 24",
+            "BBC Mundo"
+          ],
+          "firstSeen": "2026-11-17T01:16:22.278Z"
+        },
+        {
+          "title": "Lindsay Clancy, la mujer acusada de matar a sus tres hijos, volverá a ser juzgada en marzo",
+          "link": "https://www.20minutos.es/internacional/lindsay-clancy-mujer-acusada-matar-sus-tres-hijos-volvera-ser-juzgada-marzo_7061763_0.html",
           "source": "20minutos Internacional",
-          "summary": "La Cancillería china ratificó la reunión después de que el Kremlin confirmara la semana pasada que las tres potencias habían acordado celebrar el encuentro.",
+          "summary": "La audiencia de Clancy se pospuso debido a que el primer juicio por el asesinato de sus hijos terminó sin acuerdo.",
           "sources": [
             "20minutos Internacional",
-            "DW"
+            "BBC Mundo"
           ],
-          "firstSeen": "2026-11-16T14:17:07.735Z"
+          "firstSeen": "2026-11-17T01:16:22.278Z"
         }
       ],
       "items": [
         {
-          "title": "En directo: 600 drones ucranianos apuntan a Moscú; Kiev ataca el puente de Crimea interrumpe el tráfico",
-          "link": "https://www.france24.com/es/europa/20261116-en-directo-600-drones-ucranianos-apuntan-a-mosc%C3%BA-kiev-ataca-el-puente-de-crimea-interrumpe-el-tr%C3%A1fico-1",
+          "title": "Informe desde Estambul: los temas que marcan el borrador del documento final de la COP31",
+          "link": "https://www.france24.com/es/video/20261116-informe-desde-estambul-los-temas-que-marcan-el-borrador-del-documento-final-de-la-cop31",
           "source": "France 24",
-          "published": "2026-11-16T13:22:24.000Z"
+          "published": "2026-11-16T23:49:55.000Z"
         },
         {
-          "title": "Cinco países de la UE ultiman con Ruanda la creación de un centro de retención de migrantes y Bruselas celebra la decisión",
-          "link": "https://www.20minutos.es/internacional/cinco-paises-ue-ultiman-con-ruanda-creacion-un-centro-retencion-migrantes-bruselas-celebra-decision_7061657_0.html",
+          "title": "¿Cuál es el balance de la gira del Papa León XIV por Perú, Uruguay y Argentina?",
+          "link": "https://www.france24.com/es/video/20261116-cu%C3%A1l-es-el-balance-de-la-gira-del-papa-le%C3%B3n-xiv-por-per%C3%BA-uruguay-y-argentina",
+          "source": "France 24",
+          "published": "2026-11-16T23:48:23.000Z"
+        },
+        {
+          "title": "Un terremoto de magnitud 6,6 sacude el este de Indonesia",
+          "link": "https://www.20minutos.es/internacional/un-terremoto-magnitud-6-6-sacude-este-indonesia_7061899_0.html",
           "source": "20minutos Internacional",
-          "published": "2026-11-16T13:01:09.000Z"
+          "published": "2026-11-16T23:00:08.000Z"
         },
         {
-          "title": "La UE aprueba nuevas sanciones contra Rusia dirigidas a bancos, redes de desinformación y empresas energéticas",
-          "link": "https://www.20minutos.es/internacional/ue-aprueba-nuevas-sanciones-contra-rusia-dirigidas-bancos-redes-desinformacion-empresas-energeticas_7061646_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-16T12:45:21.000Z"
+          "title": "Burnham denuncia que el Brexit no ha funcionado: “El emperador está desnudo”",
+          "link": "https://elpais.com/internacional/2026-11-16/burnham-denuncia-que-el-brexit-no-ha-funcionado-el-emperador-esta-desnudo.html",
+          "source": "El País Internacional",
+          "published": "2026-11-16T22:04:49.000Z"
         },
         {
-          "title": "Los bálticos introducen nuevos controles en la frontera y limitan las importaciones rusas ante el riesgo de espionaje y ataques híbridos",
-          "link": "https://www.20minutos.es/internacional/los-balticos-introducen-nuevos-controles-frontera-limitan-las-importaciones-rusas-ante-riesgo-espionaje-ataques-hibridos_7061618_0.html",
-          "source": "20minutos Internacional",
-          "published": "2026-11-16T12:10:02.000Z"
-        },
-        {
-          "title": "3 poco conocidas disputas limítrofes dentro de países de América Latina (y por qué algunas se han recrudecido)",
-          "link": "https://www.bbc.com/mundo/articles/cx7vpv49en34o?at_medium=RSS&at_campaign=rss",
+          "title": "5 países de la Unión Europea anuncian la creación de un centro de deportación de migrantes en Ruanda",
+          "link": "https://www.bbc.com/mundo/articles/cmlywv925gzlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Mundo",
-          "published": "2026-11-16T12:04:57.000Z"
+          "published": "2026-11-16T21:35:10.000Z"
         },
         {
-          "title": "Las fuerzas del Gobierno de Yemen frenan su ofensiva contra los hutíes y se retiran de un estrecho clave en el mar Rojo",
-          "link": "https://elpais.com/internacional/2026-11-16/las-fuerzas-del-gobierno-de-yemen-frenan-su-ofensiva-contra-los-huties-y-se-repliegan-de-un-estrecho-clave-en-el-mar-rojo.html",
-          "source": "El País Internacional",
-          "published": "2026-11-16T10:51:57.000Z"
+          "title": "Corea del Sur toma medidas para evitar fraudes en examen de ingreso a la universidad",
+          "link": "https://www.france24.com/es/video/20261116-corea-del-sur-toma-medidas-para-evitar-fraudes-en-examen-de-ingreso-a-la-universidad",
+          "source": "France 24",
+          "published": "2026-11-16T21:09:59.000Z"
         },
         {
-          "title": "Lula y el general de sus brigadas digitales entran en la campaña electoral de España con su visita a Pedro Sánchez",
-          "link": "https://www.eldiario.es/internacional/lula-general-brigadas-digitales-entran-campana-electoral-espana-visita-pedro-sanchez_1_13662847.html",
-          "source": "elDiario.es Internacional",
-          "published": "2026-11-16T10:50:47.000Z"
+          "title": "Encuentro Trump-Xi-Putin: la errónea comparación con la conferencia de Yalta",
+          "link": "https://www.france24.com/es/video/20261116-encuentro-trump-xi-putin-la-err%C3%B3nea-comparaci%C3%B3n-con-la-conferencia-de-yalta",
+          "source": "France 24",
+          "published": "2026-11-16T20:56:23.000Z"
         },
         {
-          "title": "El Reino Unido, Australia, Canadá e Italia exigen al Gobierno de Israel que permita la entrada de ayuda humanitaria en Gaza",
-          "link": "https://elpais.com/internacional/2026-11-16/el-reino-unido-australia-canada-e-italia-exigen-al-gobierno-de-israel-que-permita-la-entrada-de-ayuda-humanitaria-en-gaza.html",
-          "source": "El País Internacional",
-          "published": "2026-11-16T09:10:00.000Z"
+          "title": "Putin reclama una OTAN como la de 1997: estas son sus exigencias a Europa",
+          "link": "https://www.dw.com/es/putin-reclama-una-otan-como-la-de-1997-estas-son-sus-exigencias-a-europa/a-79963685?maca=spa-rss-sp-all-1122-xml-mrss",
+          "source": "DW",
+          "published": "2026-11-16T20:49:00.000Z"
         }
       ]
     }
