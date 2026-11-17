@@ -13,19 +13,30 @@ instalado ni abrir una terminal para usarlo. Tarda 1-2 minutos.
 El resultado queda en `dist\BotTrading.exe`. `build/` y `dist/` no se suben a
 git (ver `.gitignore`) — lo único versionado es `BotTrading.spec`, la receta.
 
-## Antes de entregarlo a un comprador
+## Paso obligatorio: que arranque en inglés
 
-1. **Que arranque en inglés**: copia `dist\BotTrading.exe` a una carpeta
-   limpia, créale `data\idioma.txt` con el contenido `en` (sin comillas), y
-   compruébalo abriéndolo — el panel tiene que salir en inglés.
-2. **Que no lleve tus datos**: la carpeta `dist/` nunca incluye `data/`
-   (PyInstaller solo empaqueta código, no esa carpeta), así que un comprador
-   siempre arranca con una wallet a cero. No hace falta hacer nada para
-   esto, pero compruébalo una vez: en una carpeta limpia, sin `data/` previo,
-   el bot debe arrancar con las wallets vacías.
-3. **Un solo archivo, nada más**: lo que le mandas al comprador es
-   únicamente `BotTrading.exe`. Al arrancarlo por primera vez, él mismo crea
-   su carpeta `data/` al lado del `.exe`.
+El `.exe` solo no sabe en qué idioma arrancar — sin nada más, arranca en
+**español** (el valor por defecto de `config.idioma()`, pensado para que tu
+copia personal nunca cambie). Para que la copia que vendes arranque en
+inglés sin que el comprador toque nada, el paquete que le das tiene que
+incluir, YA CREADO, `data\idioma.txt` con el contenido `en` (sin comillas,
+sin BOM — usa el bloc de notas y guarda como "UTF-8", no "UTF-8 con BOM", o
+hazlo desde una terminal).
+
+El paquete final para vender es, en una carpeta:
+```
+BotTrading.exe
+data\idioma.txt      (contiene: en)
+```
+Comprímelo en un .zip y eso es lo que subes a Gumroad/LemonSqueezy. Al
+arrancarlo, el propio `.exe` rellena el resto de `data/` solo (estado,
+historial, backups) — nunca hace falta crear nada más a mano.
+
+**Compruébalo siempre antes de subir una versión nueva**: descomprime el zip
+en una carpeta limpia, ábrelo, y verifica que el panel sale en inglés y que
+las wallets arrancan a cero (sin tus datos). Se comprobó así el
+2026-10-03 y funcionó de principio a fin, incluyendo añadir un activo y ver
+los candidatos del escáner.
 
 ## Si algo falla al construir
 
